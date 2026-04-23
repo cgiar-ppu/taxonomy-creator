@@ -1,0 +1,45 @@
+# Model configuration
+model:
+  provider: "anthropic"  # or "openai"
+  name: "claude-sonnet-4-20250514"
+  max_tokens: 4096
+  temperature: 0.1
+
+# Input configuration
+input:
+  file: "data/input.xlsx"
+  columns:
+    title: "Title"
+    description: "Description"
+  batch_size: 25  # rows per LLM call
+
+# Output configuration
+output:
+  dir: "output"
+  formats: ["json", "graphml", "markdown", "html"]
+
+# Extraction configuration
+extraction:
+  # What to extract from each batch
+  extract_concepts: true      # Abstract ideas, theories, approaches
+  extract_entities: true      # Concrete things: organisms, tools, places, organizations
+  extract_relationships: true # How concepts/entities relate
+  extract_tags: true          # Domain tags for categorization
+
+  # Relationship types to discover
+  relationship_types:
+    - "is_a"           # Taxonomic: "wheat is a cereal crop"
+    - "part_of"        # Composition: "gene is part of genome"
+    - "uses"           # Methodology: "breeding program uses marker-assisted selection"
+    - "produces"       # Output: "project produces variety"
+    - "targets"        # Beneficiary: "innovation targets smallholder farmers"
+    - "located_in"     # Geography: "trial conducted in Kenya"
+    - "collaborates_with"  # Partnership: "CIMMYT collaborates with NARS"
+    - "addresses"      # Problem: "intervention addresses food insecurity"
+    - "related_to"     # General association
+
+# Taxonomy configuration
+taxonomy:
+  min_frequency: 2        # Minimum times a concept must appear to be included
+  merge_threshold: 0.85   # Similarity threshold for merging near-duplicate concepts
+  max_depth: 4            # Maximum taxonomy depth
