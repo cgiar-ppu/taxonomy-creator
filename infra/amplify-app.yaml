@@ -1,0 +1,70 @@
+AWSTemplateFormatVersion: "2010-09-09"
+Description: >
+  PRMS Taxonomy Explorer — AWS Amplify static site hosting
+  Deployed via GitHub Actions CI/CD (OIDC authentication)
+
+Parameters:
+  AppName:
+    Type: String
+    Default: prms-taxonomy
+  RepoUrl:
+    Type: String
+    Default: https://github.com/cgiar-ppu/taxonomy-creator
+  BranchName:
+    Type: String
+    Default: master
+  DomainName:
+    Type: String
+    Default: synapsis-analytics.com
+  SubDomainPrefix:
+    Type: String
+    Default: prms-taxonomy
+
+Resources:
+  AmplifyApp:
+    Type: AWS::Amplify::App
+    Properties:
+      Name: !Ref AppName
+      Description: "PRMS Taxonomy Explorer - CGIAR Research Results Knowledge Graph"
+      Platform: WEB
+      CustomRules:
+        - Source: "/<*>"
+          Target: "/index.html"
+          Status: "404-200"
+      Tags:
+        - Key: Project
+          Value: !Ref AppName
+        - Key: ManagedBy
+          Value: github-actions
+
+  AmplifyBranch:
+    Type: AWS::Amplify::Branch
+    Properties:
+      AppId: !GetAtt AmplifyApp.AppId
+      BranchName: !Ref BranchName
+      Stage: PRODUCTION
+      EnableAutoBuild: false
+      Tags:
+        - Key: Project
+          Value: !Ref AppName
+
+  AmplifyDomain:
+    Type: AWS::Amplify::Domain
+    DependsOn: AmplifyBranch
+    Properties:
+      AppId: !GetAtt AmplifyApp.AppId
+      DomainName: !Ref DomainName
+      SubDomainSettings:
+        - BranchName: !Ref BranchName
+          Prefix: !Ref SubDomainPrefix
+
+Outputs:
+  AppId:
+    Description: Amplify App ID
+    Value: !GetAtt AmplifyApp.AppId
+  DefaultDomain:
+    Description: Default Amplify domain
+    Value: !Sub "https://${BranchName}.${AmplifyApp.DefaultDomain}"
+  CustomDomain:
+    Description: Custom domain URL
+    Value: !Sub "https://${SubDomainPrefix}.${DomainName}"
