@@ -2,9 +2,11 @@ __pycache__/
 *.pyc
 .env
 data/
+!dist/data/
 output/
 *.xlsx
 *.csv
+!dist/downloads/*.csv
 venv/
 .vscode/
 .idea/

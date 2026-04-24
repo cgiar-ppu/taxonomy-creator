@@ -1,0 +1,341 @@
+{
+  "has_results": true,
+  "extraction": {
+    "concepts": 2707,
+    "entities": 4327,
+    "relationships": 3424,
+    "tags": 3425,
+    "metadata": {
+      "dry_run": false,
+      "total_batches": 298,
+      "total_api_calls": 298,
+      "total_input_tokens": 2053465,
+      "total_output_tokens": 1157729
+    }
+  },
+  "deduplicated": {
+    "concepts": 1616,
+    "entities": 1593,
+    "merges": 49
+  },
+  "graph": {
+    "nodes": 3904,
+    "edges": 8740
+  },
+  "crosslinks": {
+    "new_relationships": 50
+  },
+  "top_concepts": [
+    {
+      "name": "capacity building",
+      "category": "approach",
+      "description": "systematic development of skills and knowledge among target beneficiaries",
+      "frequency": 262,
+      "aliases": []
+    },
+    {
+      "name": "climate-smart agriculture",
+      "category": "approach",
+      "description": "farming practices that address climate change while improving productivity",
+      "frequency": 230,
+      "aliases": [
+        "climate-smart aquaculture"
+      ]
+    },
+    {
+      "name": "food security",
+      "category": "outcome",
+      "description": "reliable access to sufficient nutritious food",
+      "frequency": 91,
+      "aliases": []
+    },
+    {
+      "name": "climate adaptation",
+      "category": "approach",
+      "description": "adjustments in systems to reduce vulnerability to climate change impacts",
+      "frequency": 87,
+      "aliases": []
+    },
+    {
+      "name": "climate information services",
+      "category": "system",
+      "description": "delivery of weather and climate data to support decision-making",
+      "frequency": 82,
+      "aliases": []
+    },
+    {
+      "name": "climate resilience",
+      "category": "outcome",
+      "description": "ability to withstand and adapt to climate change impacts",
+      "frequency": 65,
+      "aliases": []
+    },
+    {
+      "name": "variety registration",
+      "category": "outcome",
+      "description": "official approval of new varieties for commercial release",
+      "frequency": 52,
+      "aliases": []
+    },
+    {
+      "name": "biofortification",
+      "category": "approach",
+      "description": "enhancing nutritional content of crops through breeding",
+      "frequency": 41,
+      "aliases": []
+    },
+    {
+      "name": "value chain development",
+      "category": "approach",
+      "description": "systematic improvement of market linkages and business relationships",
+      "frequency": 38,
+      "aliases": []
+    },
+    {
+      "name": "early warning systems",
+      "category": "system",
+      "description": "monitoring and forecasting systems to predict and prepare for emergencies",
+      "frequency": 35,
+      "aliases": [
+        "early warning system"
+      ]
+    },
+    {
+      "name": "drought tolerance",
+      "category": "phenomenon",
+      "description": "plant ability to maintain productivity under water stress",
+      "frequency": 33,
+      "aliases": []
+    },
+    {
+      "name": "multi-stakeholder platforms",
+      "category": "approach",
+      "description": "collaborative spaces bringing together diverse actors for innovation and change",
+      "frequency": 33,
+      "aliases": [
+        "multi-stakeholder platform"
+      ]
+    },
+    {
+      "name": "participatory research",
+      "category": "methodology",
+      "description": "research approach involving stakeholders as active participants in knowledge generation",
+      "frequency": 32,
+      "aliases": []
+    },
+    {
+      "name": "marker-assisted selection",
+      "category": "methodology",
+      "description": "breeding technique using molecular markers to select for desired traits",
+      "frequency": 30,
+      "aliases": []
+    },
+    {
+      "name": "one health approach",
+      "category": "approach",
+      "description": "collaborative framework integrating human, animal, and environmental health",
+      "frequency": 30,
+      "aliases": []
+    },
+    {
+      "name": "agroecological transition",
+      "category": "phenomenon",
+      "description": "shift from conventional to sustainable farming practices that work with natural ecosystems",
+      "frequency": 29,
+      "aliases": [
+        "agroecological transitions"
+      ]
+    },
+    {
+      "name": "multifunctional landscapes",
+      "category": "approach",
+      "description": "land management strategy that integrates multiple functions and services across landscapes",
+      "frequency": 29,
+      "aliases": []
+    },
+    {
+      "name": "gender transformative approaches",
+      "category": "approach",
+      "description": "interventions that address root causes of gender inequality and transform power relations",
+      "frequency": 29,
+      "aliases": [
+        "gender-transformative approach",
+        "gender-transformative approaches",
+        "gender-transformative approach"
+      ]
+    },
+    {
+      "name": "direct-seeded rice",
+      "category": "methodology",
+      "description": "rice cultivation technique where seeds are sown directly in fields without transplanting",
+      "frequency": 28,
+      "aliases": [
+        "direct seeded rice"
+      ]
+    },
+    {
+      "name": "germplasm utilization",
+      "category": "approach",
+      "description": "use of genetic resources from gene banks or research collections for crop improvement",
+      "frequency": 28,
+      "aliases": []
+    }
+  ],
+  "entities_by_type": {
+    "organization": 371,
+    "organism": 302,
+    "place": 360,
+    "role": 140,
+    "tool": 416,
+    "system": 3,
+    "approach": 1
+  },
+  "top_entities": [
+    {
+      "name": "IITA",
+      "type": "organization",
+      "description": "International Institute of Tropical Agriculture"
+    },
+    {
+      "name": "CIMMYT",
+      "type": "organization",
+      "description": "International Maize and Wheat Improvement Center"
+    },
+    {
+      "name": "ICARDA",
+      "type": "organization",
+      "description": "International Center for Agricultural Research in the Dry Areas"
+    },
+    {
+      "name": "IRRI",
+      "type": "organization",
+      "description": "International Rice Research Institute"
+    },
+    {
+      "name": "AfricaRice",
+      "type": "organization",
+      "description": "Africa Rice Center"
+    },
+    {
+      "name": "Alliance of Bioversity and CIAT",
+      "type": "organization",
+      "description": "merged organization focusing on agricultural biodiversity and tropical agriculture"
+    },
+    {
+      "name": "CIP",
+      "type": "organization",
+      "description": "International Potato Center"
+    },
+    {
+      "name": "IWMI",
+      "type": "organization",
+      "description": "International Water Management Institute"
+    },
+    {
+      "name": "wheat",
+      "type": "organism",
+      "description": "cereal crop Triticum species"
+    },
+    {
+      "name": "maize",
+      "type": "organism",
+      "description": "cereal crop Zea mays"
+    },
+    {
+      "name": "rice",
+      "type": "organism",
+      "description": "cereal crop Oryza species"
+    },
+    {
+      "name": "yam",
+      "type": "organism",
+      "description": "root crop Dioscorea species"
+    },
+    {
+      "name": "cassava",
+      "type": "organism",
+      "description": "root crop Manihot esculenta"
+    },
+    {
+      "name": "potato",
+      "type": "organism",
+      "description": "tuber crop Solanum tuberosum"
+    },
+    {
+      "name": "sweetpotato",
+      "type": "organism",
+      "description": "root crop Ipomoea batatas"
+    },
+    {
+      "name": "common bean",
+      "type": "organism",
+      "description": "legume crop Phaseolus vulgaris"
+    },
+    {
+      "name": "banana",
+      "type": "organism",
+      "description": "fruit crop Musa species"
+    },
+    {
+      "name": "plantain",
+      "type": "organism",
+      "description": "cooking banana Musa species"
+    },
+    {
+      "name": "West Africa",
+      "type": "place",
+      "description": "western region of Africa including Nigeria, Ghana, Benin, Cote d'Ivoire"
+    },
+    {
+      "name": "East Africa",
+      "type": "place",
+      "description": "eastern region of Africa including Kenya, Tanzania, Uganda, Ethiopia"
+    }
+  ],
+  "available_exports": [
+    {
+      "name": "knowledge_graph.json",
+      "label": "JSON (Knowledge Graph)"
+    },
+    {
+      "name": "knowledge_graph.graphml",
+      "label": "GraphML (Gephi/Cytoscape)"
+    },
+    {
+      "name": "relationships.csv",
+      "label": "CSV (Relationships)"
+    },
+    {
+      "name": "taxonomy_tree.md",
+      "label": "Markdown (Taxonomy Tree)"
+    },
+    {
+      "name": "knowledge_graph.html",
+      "label": "HTML (Interactive vis.js Graph)"
+    },
+    {
+      "name": "summary_report.html",
+      "label": "HTML (Summary Report)"
+    },
+    {
+      "name": "knowledge_graph.md",
+      "label": "Markdown (Graph Summary)"
+    },
+    {
+      "name": "taxonomy.json",
+      "label": "JSON (Taxonomy Hierarchy)"
+    },
+    {
+      "name": "extractions.json",
+      "label": "JSON (Raw Extractions -- Backup)"
+    },
+    {
+      "name": "crosslinks.json",
+      "label": "JSON (Cross-domain Links)"
+    },
+    {
+      "name": "obsidian_vault.zip",
+      "label": "Obsidian Vault (Zip)"
+    }
+  ]
+}

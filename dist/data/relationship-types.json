@@ -1,0 +1,30 @@
+{
+  "types": {
+    "collaborates_with": 226,
+    "uses": 963,
+    "targets": 618,
+    "produces": 281,
+    "addresses": 411,
+    "part_of": 122,
+    "provides": 8,
+    "located_in": 730,
+    "accelerates": 1,
+    "related_to": 56,
+    "involves": 2,
+    "is_a": 31,
+    "supports": 7,
+    "develops": 2,
+    "implements": 2,
+    "influences": 1,
+    "enables": 1,
+    "strengthens": 1,
+    "analyzes": 1,
+    "adopts": 1,
+    "promotes": 3,
+    "affects": 1,
+    "includes": 3,
+    "reduces": 1,
+    "measures": 1
+  },
+  "total": 3474
+}
