@@ -786,6 +786,418 @@
                 grid-template-columns: 1fr;
             }
         }
+
+        /* ---- Node Slider ---- */
+        .node-slider-wrapper {
+            background: linear-gradient(135deg, rgba(0,166,81,0.10), rgba(0,119,182,0.10));
+            border: 2px solid rgba(0,166,81,0.3);
+            border-radius: 12px;
+            padding: 20px 24px 16px;
+            margin-bottom: 16px;
+            position: relative;
+        }
+        .node-slider-wrapper.glow {
+            animation: sliderGlow 2s ease-in-out 3;
+        }
+        @keyframes sliderGlow {
+            0%,100% { box-shadow: 0 0 8px rgba(0,166,81,0.2); }
+            50% { box-shadow: 0 0 24px rgba(252,191,73,0.5), 0 0 48px rgba(0,166,81,0.3); }
+        }
+        .node-slider-value {
+            text-align: center;
+            font-size: 20px;
+            font-weight: 700;
+            color: var(--text-bright);
+            margin-bottom: 12px;
+        }
+        .node-slider-value em {
+            font-style: normal;
+            color: var(--primary);
+        }
+        .node-slider-track {
+            position: relative;
+            width: 100%;
+            height: 36px;
+        }
+        .node-slider-track input[type=range] {
+            -webkit-appearance: none;
+            appearance: none;
+            width: 100%;
+            height: 10px;
+            border-radius: 5px;
+            background: linear-gradient(90deg, #00843D, #FCBF49, #00B4D8);
+            outline: none;
+            cursor: pointer;
+        }
+        .node-slider-track input[type=range]::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            appearance: none;
+            width: 26px;
+            height: 26px;
+            border-radius: 50%;
+            background: #fff;
+            border: 3px solid var(--primary);
+            box-shadow: 0 2px 8px rgba(0,0,0,0.4);
+            cursor: grab;
+        }
+        .node-slider-track input[type=range]::-moz-range-thumb {
+            width: 26px;
+            height: 26px;
+            border-radius: 50%;
+            background: #fff;
+            border: 3px solid var(--primary);
+            box-shadow: 0 2px 8px rgba(0,0,0,0.4);
+            cursor: grab;
+        }
+        .node-slider-labels {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 6px;
+            font-size: 12px;
+            font-weight: 600;
+        }
+        .node-slider-labels span {
+            color: var(--text-dim);
+            cursor: pointer;
+            padding: 2px 6px;
+            border-radius: 4px;
+            transition: all 0.15s;
+        }
+        .node-slider-labels span:hover {
+            color: var(--primary);
+        }
+        .node-slider-labels span.active {
+            color: var(--primary);
+            background: rgba(0,166,81,0.15);
+        }
+        .node-slider-notice {
+            text-align: center;
+            font-size: 11px;
+            color: var(--text-dim);
+            margin-top: 8px;
+            font-style: italic;
+        }
+        .node-slider-spinner {
+            display: none;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+            padding: 8px;
+            color: var(--text-dim);
+            font-size: 13px;
+        }
+        .node-slider-spinner.visible { display: flex; }
+
+        /* ---- Modal Overlay ---- */
+        .modal-overlay {
+            position: fixed;
+            inset: 0;
+            background: rgba(0,0,0,0.7);
+            z-index: 9000;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            opacity: 0;
+            pointer-events: none;
+            transition: opacity 0.2s;
+        }
+        .modal-overlay.open {
+            opacity: 1;
+            pointer-events: all;
+        }
+        .modal-box {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            width: 90%;
+            max-width: 800px;
+            max-height: 80vh;
+            display: flex;
+            flex-direction: column;
+            box-shadow: 0 8px 32px rgba(0,0,0,0.5);
+        }
+        .modal-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 16px 20px;
+            border-bottom: 1px solid var(--border);
+        }
+        .modal-header h3 {
+            font-size: 16px;
+            font-weight: 700;
+            color: var(--text-bright);
+        }
+        .modal-close {
+            background: none;
+            border: none;
+            color: var(--text-dim);
+            font-size: 22px;
+            cursor: pointer;
+            padding: 4px 8px;
+            border-radius: 4px;
+        }
+        .modal-close:hover { color: var(--text-bright); background: rgba(255,255,255,0.05); }
+        .modal-body {
+            padding: 16px 20px;
+            overflow-y: auto;
+            flex: 1;
+        }
+        .modal-search {
+            width: 100%;
+            padding: 8px 12px;
+            background: var(--bg-input);
+            border: 1px solid var(--border);
+            border-radius: 6px;
+            color: var(--text);
+            font-size: 13px;
+            margin-bottom: 12px;
+            outline: none;
+        }
+        .modal-search:focus { border-color: var(--primary); }
+
+        /* ---- Concept Detail Panel ---- */
+        .concept-panel {
+            position: fixed;
+            top: 0;
+            right: -420px;
+            width: 400px;
+            height: 100vh;
+            background: var(--bg-card);
+            border-left: 2px solid var(--primary);
+            z-index: 9500;
+            display: flex;
+            flex-direction: column;
+            transition: right 0.3s ease;
+            box-shadow: -4px 0 24px rgba(0,0,0,0.4);
+        }
+        .concept-panel.open { right: 0; }
+        .concept-panel-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 16px 20px;
+            border-bottom: 1px solid var(--border);
+            flex-shrink: 0;
+        }
+        .concept-panel-header h3 {
+            font-size: 16px;
+            font-weight: 700;
+            color: var(--primary);
+        }
+        .concept-panel-body {
+            padding: 20px;
+            overflow-y: auto;
+            flex: 1;
+        }
+        .concept-panel-path {
+            font-size: 12px;
+            color: var(--text-dim);
+            margin-bottom: 12px;
+            line-height: 1.6;
+        }
+        .concept-panel-path span { color: var(--primary); }
+        .concept-panel-section {
+            margin-bottom: 16px;
+        }
+        .concept-panel-section h4 {
+            font-size: 13px;
+            font-weight: 600;
+            color: var(--text-bright);
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin-bottom: 8px;
+            padding-bottom: 4px;
+            border-bottom: 1px solid var(--border);
+        }
+        .concept-panel-section p, .concept-panel-section li {
+            font-size: 13px;
+            color: var(--text);
+            line-height: 1.5;
+        }
+        .concept-panel-section ul {
+            list-style: none;
+            padding: 0;
+        }
+        .concept-panel-section li {
+            padding: 4px 0;
+            border-bottom: 1px solid rgba(42,58,92,0.3);
+        }
+        .concept-panel-badge {
+            display: inline-block;
+            padding: 2px 10px;
+            border-radius: 10px;
+            font-size: 12px;
+            font-weight: 600;
+            background: rgba(0,166,81,0.15);
+            color: var(--primary);
+            margin-left: 6px;
+        }
+
+        /* ---- Stat Card Clickable ---- */
+        .stat-card {
+            position: relative;
+            cursor: pointer;
+            transition: all 0.15s;
+        }
+        .stat-card:hover {
+            border-color: var(--primary);
+            background: rgba(0,166,81,0.06);
+        }
+        .stat-card .stat-eye {
+            position: absolute;
+            top: 8px;
+            right: 10px;
+            font-size: 14px;
+            opacity: 0.3;
+            transition: opacity 0.15s;
+        }
+        .stat-card:hover .stat-eye { opacity: 0.8; }
+
+        /* ---- Chart Settings Gear ---- */
+        .viz-card-title {
+            position: relative;
+        }
+        .chart-gear {
+            margin-left: auto;
+            background: none;
+            border: none;
+            color: var(--text-dim);
+            font-size: 16px;
+            cursor: pointer;
+            padding: 4px 8px;
+            border-radius: 4px;
+            position: relative;
+        }
+        .chart-gear:hover { color: var(--text-bright); background: rgba(255,255,255,0.05); }
+        .chart-gear-menu {
+            position: absolute;
+            top: 100%;
+            right: 0;
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            padding: 4px 0;
+            min-width: 180px;
+            z-index: 200;
+            box-shadow: 0 4px 16px rgba(0,0,0,0.4);
+            display: none;
+        }
+        .chart-gear-menu.open { display: block; }
+        .chart-gear-menu button {
+            display: block;
+            width: 100%;
+            text-align: left;
+            background: none;
+            border: none;
+            color: var(--text);
+            padding: 8px 14px;
+            font-size: 13px;
+            cursor: pointer;
+        }
+        .chart-gear-menu button:hover { background: rgba(255,255,255,0.05); }
+
+        /* ---- Fullscreen Chart ---- */
+        .chart-fullscreen-overlay {
+            position: fixed;
+            inset: 0;
+            background: var(--bg);
+            z-index: 8000;
+            display: flex;
+            flex-direction: column;
+            padding: 20px;
+        }
+        .chart-fullscreen-overlay .fs-close {
+            align-self: flex-end;
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            color: var(--text);
+            padding: 8px 16px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 14px;
+            margin-bottom: 12px;
+        }
+        .chart-fullscreen-overlay .fs-body {
+            flex: 1;
+            overflow: auto;
+        }
+
+        /* ---- Source Data Tab ---- */
+        .source-table-wrapper {
+            max-height: 500px;
+            overflow-y: auto;
+            border: 1px solid var(--border);
+            border-radius: 6px;
+        }
+        .source-table-wrapper table {
+            width: 100%;
+        }
+        .source-row-clickable:hover td {
+            background: rgba(0,166,81,0.06);
+            cursor: pointer;
+        }
+
+        /* ---- Treemap ---- */
+        .treemap-breadcrumb {
+            font-size: 13px;
+            color: var(--text-dim);
+            margin-bottom: 8px;
+            min-height: 20px;
+        }
+        .treemap-breadcrumb span {
+            cursor: pointer;
+            color: var(--primary);
+        }
+        .treemap-breadcrumb span:hover { text-decoration: underline; }
+
+        /* ---- Sunburst instruction ---- */
+        .viz-instruction {
+            text-align: center;
+            font-size: 12px;
+            color: var(--text-dim);
+            margin-top: 8px;
+            font-style: italic;
+        }
+
+        /* ---- Tree freq tooltip ---- */
+        .tree-freq {
+            font-size: 12px;
+            font-weight: 600;
+            padding: 2px 10px;
+            position: relative;
+            cursor: help;
+        }
+        .tree-freq-tip {
+            position: absolute;
+            bottom: calc(100% + 6px);
+            left: 50%;
+            transform: translateX(-50%);
+            background: rgba(15,24,41,0.95);
+            border: 1px solid var(--border);
+            border-radius: 6px;
+            padding: 6px 10px;
+            font-size: 11px;
+            color: var(--text);
+            white-space: nowrap;
+            pointer-events: none;
+            opacity: 0;
+            transition: opacity 0.15s;
+            z-index: 100;
+        }
+        .tree-freq:hover .tree-freq-tip {
+            opacity: 1;
+        }
+
+        /* ---- Concept clickable ---- */
+        .concept-clickable {
+            cursor: pointer;
+            transition: color 0.1s;
+        }
+        .concept-clickable:hover {
+            color: var(--primary) !important;
+            text-decoration: underline;
+        }
     </style>
 </head>
 <body>
@@ -817,6 +1229,10 @@
             <div class="nav-item" data-tab="visualizations" onclick="switchTab('visualizations')">
                 <span class="nav-icon">&#x1F4C8;</span>
                 Visualizations
+            </div>
+            <div class="nav-item" data-tab="sourcedata" onclick="switchTab('sourcedata')">
+                <span class="nav-icon">&#x1F5C4;</span>
+                Source Data
             </div>
         </div>
     </nav>
@@ -888,11 +1304,28 @@
                         <div class="viz-container" id="sunburstContainer">
                             <div class="viz-loading"><div class="spinner"></div> Loading taxonomy...</div>
                         </div>
+                        <div class="viz-instruction">Click any segment to zoom in. Click the center to zoom back out.</div>
                     </div>
 
                     <!-- 2. Force-Directed Network (full width) -->
                     <div class="viz-card viz-full">
                         <div class="viz-card-title"><span class="viz-icon">&#x1F578;</span> Knowledge Graph Network</div>
+                        <!-- Node Slider -->
+                        <div class="node-slider-wrapper glow" id="nodeSliderWrapper">
+                            <div class="node-slider-value" id="nodeSliderValue">Showing <em>1,000</em> of 3,904 nodes</div>
+                            <div class="node-slider-track">
+                                <input type="range" id="nodeSlider" min="0" max="4" step="1" value="2">
+                            </div>
+                            <div class="node-slider-labels" id="nodeSliderLabels">
+                                <span data-val="0">250</span>
+                                <span data-val="1">500</span>
+                                <span data-val="2" class="active">1000</span>
+                                <span data-val="3">2000</span>
+                                <span data-val="4">ALL</span>
+                            </div>
+                            <div class="node-slider-notice">Drag to explore more of the knowledge graph. Higher values may take a moment to render.</div>
+                            <div class="node-slider-spinner" id="nodeSliderSpinner"><div class="spinner"></div> Loading graph...</div>
+                        </div>
                         <input type="text" class="viz-search" id="graphSearch" placeholder="Search nodes... (type a concept or entity name)">
                         <div class="viz-container" id="networkContainer" style="min-height:500px;">
                             <div class="viz-loading"><div class="spinner"></div> Loading graph data...</div>
@@ -931,11 +1364,66 @@
                         </div>
                     </div>
 
+                    <!-- 7. Zoomable Treemap (full width) -->
+                    <div class="viz-card viz-full">
+                        <div class="viz-card-title"><span class="viz-icon">&#x1F5FA;</span> Zoomable Treemap</div>
+                        <div class="treemap-breadcrumb" id="treemapBreadcrumb"><span onclick="treemapZoomToRoot()">CGIAR Taxonomy</span></div>
+                        <div class="viz-container" id="treemapContainer" style="min-height:500px;">
+                            <div class="viz-loading"><div class="spinner"></div> Loading treemap...</div>
+                        </div>
+                        <div class="viz-instruction">Click any tile to zoom in. Click the breadcrumb to zoom out.</div>
+                    </div>
+
+                    <!-- 8. Collapsible Radial Dendrogram (full width) -->
+                    <div class="viz-card viz-full">
+                        <div class="viz-card-title"><span class="viz-icon">&#x1F333;</span> Radial Dendrogram</div>
+                        <input type="text" class="viz-search" id="dendrogramSearch" placeholder="Search for a concept...">
+                        <div class="viz-container" id="dendrogramContainer" style="min-height:600px;">
+                            <div class="viz-loading"><div class="spinner"></div> Loading dendrogram...</div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+        <!-- Tab: Source Data -->
+        <div id="tab-sourcedata" class="tab-content" style="max-width:1400px;">
+            <div class="tab-title">Source Data</div>
+            <div class="tab-subtitle">Browse the original research results and their extracted concepts, entities, and relationships.</div>
+            <div class="card">
+                <div class="card-title"><span class="icon">&#x1F5C4;</span> Research Results</div>
+                <input type="text" class="viz-search" id="sourceSearch" placeholder="Search by result ID or tags...">
+                <div class="source-table-wrapper">
+                    <table class="data-table" id="sourceDataTable">
+                        <thead><tr><th>Result ID</th><th>Tags</th><th># Concepts</th><th># Entities</th><th># Relationships</th></tr></thead>
+                        <tbody id="sourceDataBody"></tbody>
+                    </table>
                 </div>
             </div>
         </div>
 
     </main>
+</div>
+
+<!-- Modal Overlay -->
+<div class="modal-overlay" id="modalOverlay" onclick="if(event.target===this)closeModal()">
+    <div class="modal-box">
+        <div class="modal-header">
+            <h3 id="modalTitle">Details</h3>
+            <button class="modal-close" onclick="closeModal()">&times;</button>
+        </div>
+        <div class="modal-body" id="modalBody"></div>
+    </div>
+</div>
+
+<!-- Concept Detail Panel -->
+<div class="concept-panel" id="conceptPanel">
+    <div class="concept-panel-header">
+        <h3 id="conceptPanelName">Concept</h3>
+        <button class="modal-close" onclick="closeConceptPanel()">&times;</button>
+    </div>
+    <div class="concept-panel-body" id="conceptPanelBody"></div>
 </div>
 
 <!-- Toast Container -->
@@ -956,6 +1444,7 @@ function switchTab(tab) {
 
     if (tab === 'results') loadResults();
     if (tab === 'visualizations') loadVisualizations();
+    if (tab === 'sourcedata') loadSourceData();
 }
 
 // ======================================================================
@@ -1021,31 +1510,38 @@ function loadResults() {
     .catch(function() {});
 }
 
+var _statsData = null;
 function renderResultsStats(data) {
+    _statsData = data;
     var grid = document.getElementById('resultsStatsGrid');
     grid.innerHTML = '';
 
     var items = [];
     if (data.extraction) {
-        items.push(['Concepts', data.extraction.concepts]);
-        items.push(['Entities', data.extraction.entities]);
-        items.push(['Relationships', data.extraction.relationships]);
+        items.push(['Concepts', data.extraction.concepts, 'concepts']);
+        items.push(['Entities', data.extraction.entities, 'entities']);
+        items.push(['Relationships', data.extraction.relationships, 'relationships']);
     }
     if (data.deduplicated) {
-        items.push(['Unique Concepts', data.deduplicated.concepts]);
-        items.push(['Unique Entities', data.deduplicated.entities]);
-        items.push(['Merges', data.deduplicated.merges]);
+        items.push(['Unique Concepts', data.deduplicated.concepts, 'unique_concepts']);
+        items.push(['Unique Entities', data.deduplicated.entities, 'unique_entities']);
+        items.push(['Merges', data.deduplicated.merges, 'merges']);
     }
     if (data.graph) {
-        items.push(['Graph Nodes', data.graph.nodes]);
-        items.push(['Graph Edges', data.graph.edges]);
+        items.push(['Graph Nodes', data.graph.nodes, 'graph_nodes']);
+        items.push(['Graph Edges', data.graph.edges, 'graph_edges']);
     }
     if (data.crosslinks) {
-        items.push(['New Links', data.crosslinks.new_relationships]);
+        items.push(['New Links', data.crosslinks.new_relationships, 'new_links']);
     }
 
     items.forEach(function(item) {
-        grid.innerHTML += '<div class="stat-card"><div class="stat-value">' + (item[1] != null ? item[1].toLocaleString() : '-') + '</div><div class="stat-label">' + item[0] + '</div></div>';
+        var card = document.createElement('div');
+        card.className = 'stat-card';
+        card.setAttribute('data-stat-type', item[2]);
+        card.innerHTML = '<span class="stat-eye">&#x1F441;</span><div class="stat-value">' + (item[1] != null ? item[1].toLocaleString() : '-') + '</div><div class="stat-label">' + item[0] + '</div>';
+        card.addEventListener('click', function() { openStatModal(item[2], item[0]); });
+        grid.appendChild(card);
     });
 }
 
@@ -1125,34 +1621,48 @@ function renderTaxonomyTree(taxonomy) {
     }
 
     taxonomy.forEach(function(domain) {
-        var node = createTreeNode(domain, true);
+        var node = createTreeNode(domain, true, '');
         container.appendChild(node);
     });
 }
 
-function createTreeNode(item, isDomain) {
+function createTreeNode(item, isDomain, parentPath) {
     var li = document.createElement('div');
     li.className = 'tree-node' + (isDomain ? ' tree-domain' : '');
+    var currentPath = parentPath ? parentPath + ' > ' + item.name : item.name;
 
     var hasChildren = item.children && item.children.length > 0;
+    var isLeaf = !hasChildren;
 
     var content = document.createElement('div');
     content.className = 'tree-node-content';
 
     var toggle = document.createElement('span');
-    toggle.className = 'tree-toggle' + (hasChildren ? ' expanded' : ' leaf');
+    // Start collapsed (no expanded class), except leaves
+    toggle.className = 'tree-toggle' + (hasChildren ? '' : ' leaf');
     toggle.innerHTML = '&#x25B6;';
     content.appendChild(toggle);
 
     var name = document.createElement('span');
-    name.className = 'tree-name';
+    name.className = 'tree-name' + (isLeaf ? ' concept-clickable' : '');
     name.textContent = item.name || 'Unknown';
+    if (isLeaf) {
+        name.setAttribute('data-concept', item.name);
+        name.addEventListener('click', function(e) {
+            e.stopPropagation();
+            openConceptPanel(item.name);
+        });
+    }
     content.appendChild(name);
 
     if (item.frequency) {
         var freq = document.createElement('span');
         freq.className = 'tree-freq';
         freq.textContent = item.frequency;
+        var tip = document.createElement('span');
+        tip.className = 'tree-freq-tip';
+        tip.textContent = 'Appeared in ' + item.frequency + ' research results';
+        freq.appendChild(tip);
         content.appendChild(freq);
     }
 
@@ -1167,15 +1677,17 @@ function createTreeNode(item, isDomain) {
 
     if (hasChildren) {
         var childContainer = document.createElement('div');
-        childContainer.className = 'tree-children';
+        // Start collapsed
+        childContainer.className = 'tree-children collapsed';
 
         item.children.forEach(function(child) {
-            childContainer.appendChild(createTreeNode(child, false));
+            childContainer.appendChild(createTreeNode(child, false, currentPath));
         });
 
         li.appendChild(childContainer);
 
-        content.addEventListener('click', function() {
+        content.addEventListener('click', function(e) {
+            if (e.target.classList.contains('concept-clickable')) return;
             toggle.classList.toggle('expanded');
             childContainer.classList.toggle('collapsed');
         });
@@ -1194,7 +1706,12 @@ var CGIAR_COLORS = [
 ];
 
 function loadVisualizations() {
-    if (vizLoaded) return;
+    if (vizLoaded) {
+        setTimeout(function() {
+            document.querySelectorAll('.viz-card').forEach(addChartGear);
+        }, 500);
+        return;
+    }
 
     fetch('data/stats.json')
     .then(function(r) { return r.json(); })
@@ -1214,6 +1731,12 @@ function loadVisualizations() {
         buildEntityDonut(data);
         buildRelTypesBar();
         buildDomainBar();
+        buildTreemap();
+        buildDendrogram();
+
+        setTimeout(function() {
+            document.querySelectorAll('.viz-card').forEach(addChartGear);
+        }, 2000);
     })
     .catch(function() {
         document.getElementById('vizNoData').classList.remove('hidden');
@@ -1290,6 +1813,13 @@ function buildSunburst() {
         var tip = createTooltip();
         var currentRoot = hierarchy;
 
+        // Store original opacity for each node to fix mouseout bug after zoom
+        function computeOpacity(d) {
+            var relDepth = d.depth - currentRoot.depth;
+            if (relDepth >= 0 && relDepth <= 3) return 1 - relDepth * 0.12;
+            return 0.4;
+        }
+
         var paths = svg.selectAll('path')
             .data(hierarchy.descendants().filter(function(d) { return d.depth > 0; }))
             .join('path')
@@ -1311,12 +1841,40 @@ function buildSunburst() {
                 tip.style('left', (event.pageX + 14) + 'px').style('top', (event.pageY - 14) + 'px');
             })
             .on('mouseout', function(event, d) {
-                d3.select(this).attr('fill-opacity', d.depth <= 3 ? (1 - d.depth * 0.12) : 0.4)
+                // Fix: use currentRoot-relative depth so opacity is correct after zoom
+                d3.select(this).attr('fill-opacity', computeOpacity(d))
                     .attr('stroke', 'rgba(26,26,46,0.6)').attr('stroke-width', 0.5);
                 tip.style('display', 'none');
             })
             .on('click', function(event, d) {
                 if (d.children) zoomTo(d);
+            });
+
+        // Arc labels for large-enough segments
+        var sunburstLabels = svg.selectAll('.arc-label')
+            .data(hierarchy.descendants().filter(function(d) {
+                return d.depth > 0 && d.depth <= 3 && (d.x1 - d.x0) > 0.1;
+            }))
+            .join('text')
+            .attr('class', 'arc-label')
+            .attr('dy', '0.35em')
+            .attr('font-size', '10px')
+            .attr('fill', '#fff')
+            .attr('text-anchor', 'middle')
+            .style('pointer-events', 'none')
+            .style('text-shadow', '0 1px 3px rgba(0,0,0,0.7)')
+            .each(function(d) {
+                var centroid = arc.centroid(d);
+                var angle = (d.x0 + d.x1) / 2;
+                var rotate = (angle * 180 / Math.PI - 90);
+                if (rotate > 90) rotate -= 180;
+                d3.select(this)
+                    .attr('transform', 'translate(' + centroid[0] + ',' + centroid[1] + ') rotate(' + rotate + ')')
+                    .text(function() {
+                        var name = d.data.name || '';
+                        var maxLen = Math.max(4, Math.floor((d.x1 - d.x0) * 12));
+                        return name.length > maxLen ? name.substring(0, maxLen - 1) + '..' : name;
+                    });
             });
 
         var centerText = svg.append('text')
@@ -1383,6 +1941,30 @@ function buildSunburst() {
                     return relDepth >= 0 && relDepth <= 3 ? (1 - relDepth * 0.12) : 0.4;
                 });
 
+            // Update arc labels positions after zoom
+            sunburstLabels.transition().duration(750)
+                .attr('opacity', function(d) {
+                    var sx0 = xScale(d.x0), sx1 = xScale(d.x1);
+                    if (d.x0 < targetX0 || d.x1 > targetX1) return 0;
+                    return (sx1 - sx0) > 0.1 ? 1 : 0;
+                })
+                .attrTween('transform', function(d) {
+                    var interpX0 = d3.interpolate(d._x0 || d.x0, xScale(d.x0));
+                    var interpX1 = d3.interpolate(d._x1 || d.x1, xScale(d.x1));
+                    var interpY0 = d3.interpolate(d._y0 || d.y0, yScale(d.y0));
+                    var interpY1 = d3.interpolate(d._y1 || d.y1, yScale(d.y1));
+                    return function(t) {
+                        var x0 = interpX0(t), x1 = interpX1(t);
+                        var y0 = interpY0(t), y1 = interpY1(t);
+                        var a = d3.arc().startAngle(x0).endAngle(x1).innerRadius(y0).outerRadius(y1 - 1)
+                            .padAngle(Math.min((x1-x0)/2,0.005)).padRadius(radius/2);
+                        var c = a.centroid({x0:x0,x1:x1,y0:y0,y1:y1-1});
+                        var angle = (x0+x1)/2*180/Math.PI - 90;
+                        if(angle>90) angle -= 180;
+                        return 'translate('+c[0]+','+c[1]+') rotate('+angle+')';
+                    };
+                });
+
             centerText.text(target.data.name || 'CGIAR Taxonomy');
         }
 
@@ -1401,210 +1983,269 @@ function buildSunburst() {
 }
 
 // ---- 2. Force-Directed Network Graph ----
+var GRAPH_SLIDER_FILES = ['data/graph-data-250.json','data/graph-data-500.json','data/graph-data.json','data/graph-data-2000.json','data/graph-data-full.json'];
+var GRAPH_SLIDER_LABELS = [250, 500, 1000, 2000, 3904];
+var _graphSimulation = null;
+var _graphTip = null;
+
 function buildNetworkGraph() {
-    fetch('data/graph-data.json')
-    .then(function(r) { if (!r.ok) throw new Error('No graph data'); return r.json(); })
+    // Setup slider events
+    var slider = document.getElementById('nodeSlider');
+    slider.addEventListener('input', function() {
+        var idx = parseInt(this.value);
+        updateSliderUI(idx);
+    });
+    slider.addEventListener('change', function() {
+        var idx = parseInt(this.value);
+        loadGraphForSlider(idx);
+    });
+    // Label clicks
+    document.querySelectorAll('#nodeSliderLabels span').forEach(function(sp) {
+        sp.addEventListener('click', function() {
+            var v = parseInt(this.getAttribute('data-val'));
+            slider.value = v;
+            updateSliderUI(v);
+            loadGraphForSlider(v);
+        });
+    });
+    // Remove glow after animation
+    setTimeout(function() {
+        var w = document.getElementById('nodeSliderWrapper');
+        if (w) w.classList.remove('glow');
+    }, 6500);
+    // Load default (index 2 = 1000 nodes)
+    loadGraphForSlider(2);
+}
+
+function updateSliderUI(idx) {
+    var count = GRAPH_SLIDER_LABELS[idx];
+    var label = count === 3904 ? 'ALL (3,904)' : count.toLocaleString();
+    document.getElementById('nodeSliderValue').innerHTML = 'Showing <em>' + label + '</em> of 3,904 nodes';
+    document.querySelectorAll('#nodeSliderLabels span').forEach(function(sp) {
+        sp.classList.toggle('active', parseInt(sp.getAttribute('data-val')) === idx);
+    });
+}
+
+function loadGraphForSlider(idx) {
+    var spinner = document.getElementById('nodeSliderSpinner');
+    spinner.classList.add('visible');
+    var file = GRAPH_SLIDER_FILES[idx];
+    fetch(file)
+    .then(function(r) { if (!r.ok) throw new Error(); return r.json(); })
     .then(function(data) {
-        var nodes = data.nodes;
-        var links = data.links;
+        spinner.classList.remove('visible');
+        renderNetworkGraph(data);
+    })
+    .catch(function() {
+        spinner.classList.remove('visible');
+        document.getElementById('networkContainer').innerHTML = '<div class="viz-empty">Could not load graph data.</div>';
+    });
+}
 
-        if (!nodes || nodes.length === 0) {
-            document.getElementById('networkContainer').innerHTML = '<div class="viz-empty">No graph data available.</div>';
-            return;
-        }
+function renderNetworkGraph(data) {
+    var nodes = data.nodes;
+    var links = data.links;
 
-        var container = document.getElementById('networkContainer');
-        container.innerHTML = '';
-        var width = container.clientWidth;
-        var height = 550;
+    if (!nodes || nodes.length === 0) {
+        document.getElementById('networkContainer').innerHTML = '<div class="viz-empty">No graph data available.</div>';
+        return;
+    }
 
-        var categorySet = new Set();
-        nodes.forEach(function(n) { categorySet.add(n.category || n.type); });
-        var categories = Array.from(categorySet);
-        var catColor = d3.scaleOrdinal().domain(categories).range(CGIAR_COLORS);
+    if (_graphSimulation) { _graphSimulation.stop(); _graphSimulation = null; }
+    if (_graphTip) { _graphTip.remove(); _graphTip = null; }
 
-        var degreeMap = {};
-        links.forEach(function(l) {
-            var s = typeof l.source === 'object' ? l.source.id : l.source;
-            var t = typeof l.target === 'object' ? l.target.id : l.target;
-            degreeMap[s] = (degreeMap[s] || 0) + 1;
-            degreeMap[t] = (degreeMap[t] || 0) + 1;
-        });
+    var container = document.getElementById('networkContainer');
+    container.innerHTML = '';
+    var width = container.clientWidth;
+    var height = 550;
 
-        var maxDegree = d3.max(Object.values(degreeMap)) || 1;
-        var rScale = d3.scaleSqrt().domain([0, maxDegree]).range([3, 18]);
+    var categorySet = new Set();
+    nodes.forEach(function(n) { categorySet.add(n.category || n.type); });
+    var categories = Array.from(categorySet);
+    var catColor = d3.scaleOrdinal().domain(categories).range(CGIAR_COLORS);
 
-        var svg = d3.select(container).append('svg')
-            .attr('width', width)
-            .attr('height', height)
-            .attr('viewBox', [0, 0, width, height].join(' '));
+    var degreeMap = {};
+    links.forEach(function(l) {
+        var s = typeof l.source === 'object' ? l.source.id : l.source;
+        var t = typeof l.target === 'object' ? l.target.id : l.target;
+        degreeMap[s] = (degreeMap[s] || 0) + 1;
+        degreeMap[t] = (degreeMap[t] || 0) + 1;
+    });
 
-        var g = svg.append('g');
-        var zoom = d3.zoom().scaleExtent([0.2, 5]).on('zoom', function(event) {
-            g.attr('transform', event.transform);
-        });
-        svg.call(zoom);
+    var maxDegree = d3.max(Object.values(degreeMap)) || 1;
+    var rScale = d3.scaleSqrt().domain([0, maxDegree]).range([3, 18]);
 
-        var tip = createTooltip();
+    var svg = d3.select(container).append('svg')
+        .attr('width', width)
+        .attr('height', height)
+        .attr('viewBox', [0, 0, width, height].join(' '));
 
-        var simulation = d3.forceSimulation(nodes)
-            .force('link', d3.forceLink(links).id(function(d) { return d.id; }).distance(80).strength(0.3))
-            .force('charge', d3.forceManyBody().strength(-120))
-            .force('center', d3.forceCenter(width / 2, height / 2))
-            .force('collision', d3.forceCollide().radius(function(d) { return rScale(degreeMap[d.id] || 0) + 2; }));
+    var g = svg.append('g');
+    var zoom = d3.zoom().scaleExtent([0.2, 5]).on('zoom', function(event) {
+        g.attr('transform', event.transform);
+    });
+    svg.call(zoom);
 
-        var link = g.append('g')
-            .selectAll('line')
-            .data(links)
-            .join('line')
-            .attr('stroke', 'rgba(255,255,255,0.08)')
-            .attr('stroke-width', 1);
+    var tip = createTooltip();
+    _graphTip = tip;
 
-        var node = g.append('g')
-            .selectAll('circle')
-            .data(nodes)
-            .join('circle')
-            .attr('r', function(d) { return rScale(degreeMap[d.id] || 0); })
-            .attr('fill', function(d) { return catColor(d.category || d.type); })
-            .attr('fill-opacity', 0.85)
-            .attr('stroke', 'rgba(255,255,255,0.2)')
-            .attr('stroke-width', 0.5)
-            .style('cursor', 'pointer')
-            .call(d3.drag()
-                .on('start', function(event, d) {
-                    if (!event.active) simulation.alphaTarget(0.3).restart();
-                    d.fx = d.x; d.fy = d.y;
-                })
-                .on('drag', function(event, d) {
-                    d.fx = event.x; d.fy = event.y;
-                })
-                .on('end', function(event, d) {
-                    if (!event.active) simulation.alphaTarget(0);
-                    d.fx = null; d.fy = null;
-                }))
-            .on('mouseover', function(event, d) {
-                var connected = new Set();
-                links.forEach(function(l) {
-                    var s = typeof l.source === 'object' ? l.source.id : l.source;
-                    var t = typeof l.target === 'object' ? l.target.id : l.target;
-                    if (s === d.id) connected.add(t);
-                    if (t === d.id) connected.add(s);
-                });
-                connected.add(d.id);
+    var chargeStrength = nodes.length > 1500 ? -60 : (nodes.length > 500 ? -90 : -120);
+    var simulation = d3.forceSimulation(nodes)
+        .force('link', d3.forceLink(links).id(function(d) { return d.id; }).distance(80).strength(0.3))
+        .force('charge', d3.forceManyBody().strength(chargeStrength))
+        .force('center', d3.forceCenter(width / 2, height / 2))
+        .force('collision', d3.forceCollide().radius(function(d) { return rScale(degreeMap[d.id] || 0) + 2; }));
+    _graphSimulation = simulation;
 
-                node.attr('fill-opacity', function(n) { return connected.has(n.id) ? 1 : 0.1; });
-                link.attr('stroke', function(l) {
-                    var s = typeof l.source === 'object' ? l.source.id : l.source;
-                    var t = typeof l.target === 'object' ? l.target.id : l.target;
-                    return (s === d.id || t === d.id) ? 'rgba(0,166,81,0.6)' : 'rgba(255,255,255,0.03)';
-                }).attr('stroke-width', function(l) {
-                    var s = typeof l.source === 'object' ? l.source.id : l.source;
-                    var t = typeof l.target === 'object' ? l.target.id : l.target;
-                    return (s === d.id || t === d.id) ? 2 : 0.5;
-                });
+    var link = g.append('g')
+        .selectAll('line')
+        .data(links)
+        .join('line')
+        .attr('stroke', 'rgba(255,255,255,0.08)')
+        .attr('stroke-width', 1);
 
-                var deg = degreeMap[d.id] || 0;
-                tip.style('display', 'block')
-                    .html('<strong>' + escapeHtml(d.label) + '</strong>'
-                        + '<br>Type: ' + escapeHtml(d.type) + (d.category ? ' / ' + escapeHtml(d.category) : '')
-                        + '<br>Connections: ' + deg
-                        + (d.frequency > 1 ? '<br>Frequency: ' + d.frequency : '')
-                        + (d.description ? '<br><span style="color:#8892a4">' + escapeHtml(d.description) + '</span>' : ''));
+    var node = g.append('g')
+        .selectAll('circle')
+        .data(nodes)
+        .join('circle')
+        .attr('r', function(d) { return rScale(degreeMap[d.id] || 0); })
+        .attr('fill', function(d) { return catColor(d.category || d.type); })
+        .attr('fill-opacity', 0.85)
+        .attr('stroke', 'rgba(255,255,255,0.2)')
+        .attr('stroke-width', 0.5)
+        .style('cursor', 'pointer')
+        .call(d3.drag()
+            .on('start', function(event, d) {
+                if (!event.active) simulation.alphaTarget(0.3).restart();
+                d.fx = d.x; d.fy = d.y;
             })
-            .on('mousemove', function(event) {
-                tip.style('left', (event.pageX + 14) + 'px').style('top', (event.pageY - 14) + 'px');
+            .on('drag', function(event, d) {
+                d.fx = event.x; d.fy = event.y;
             })
-            .on('mouseout', function() {
-                node.attr('fill-opacity', 0.85);
-                link.attr('stroke', 'rgba(255,255,255,0.08)').attr('stroke-width', 1);
-                tip.style('display', 'none');
-            });
-
-        var labels = g.append('g')
-            .selectAll('text')
-            .data(nodes.filter(function(d) { return (degreeMap[d.id] || 0) >= 3; }))
-            .join('text')
-            .attr('font-size', '9px')
-            .attr('fill', 'rgba(255,255,255,0.7)')
-            .attr('text-anchor', 'middle')
-            .attr('dy', function(d) { return rScale(degreeMap[d.id] || 0) + 11; })
-            .text(function(d) { return d.label.length > 20 ? d.label.substring(0, 18) + '..' : d.label; })
-            .style('pointer-events', 'none');
-
-        simulation.on('tick', function() {
-            link.attr('x1', function(d) { return d.source.x; })
-                .attr('y1', function(d) { return d.source.y; })
-                .attr('x2', function(d) { return d.target.x; })
-                .attr('y2', function(d) { return d.target.y; });
-            node.attr('cx', function(d) { return d.x; })
-                .attr('cy', function(d) { return d.y; });
-            labels.attr('x', function(d) { return d.x; })
-                .attr('y', function(d) { return d.y; });
-        });
-
-        // Search functionality
-        document.getElementById('graphSearch').addEventListener('input', function(e) {
-            var query = e.target.value.toLowerCase().trim();
-            if (!query) {
-                node.attr('fill-opacity', 0.85).attr('r', function(d) { return rScale(degreeMap[d.id] || 0); });
-                link.attr('stroke', 'rgba(255,255,255,0.08)').attr('stroke-width', 1);
-                return;
-            }
-
-            var matched = new Set();
-            var connectedToMatch = new Set();
-            nodes.forEach(function(n) {
-                if (n.label.toLowerCase().indexOf(query) !== -1) matched.add(n.id);
-            });
+            .on('end', function(event, d) {
+                if (!event.active) simulation.alphaTarget(0);
+                d.fx = null; d.fy = null;
+            }))
+        .on('mouseover', function(event, d) {
+            var connected = new Set();
             links.forEach(function(l) {
                 var s = typeof l.source === 'object' ? l.source.id : l.source;
                 var t = typeof l.target === 'object' ? l.target.id : l.target;
-                if (matched.has(s)) connectedToMatch.add(t);
-                if (matched.has(t)) connectedToMatch.add(s);
+                if (s === d.id) connected.add(t);
+                if (t === d.id) connected.add(s);
             });
-
-            node.attr('fill-opacity', function(d) {
-                if (matched.has(d.id)) return 1;
-                if (connectedToMatch.has(d.id)) return 0.5;
-                return 0.05;
-            }).attr('r', function(d) {
-                var base = rScale(degreeMap[d.id] || 0);
-                return matched.has(d.id) ? base * 1.5 : base;
-            });
-
+            connected.add(d.id);
+            node.attr('fill-opacity', function(n) { return connected.has(n.id) ? 1 : 0.1; });
             link.attr('stroke', function(l) {
                 var s = typeof l.source === 'object' ? l.source.id : l.source;
                 var t = typeof l.target === 'object' ? l.target.id : l.target;
-                if (matched.has(s) || matched.has(t)) return 'rgba(0,166,81,0.5)';
-                return 'rgba(255,255,255,0.02)';
+                return (s === d.id || t === d.id) ? 'rgba(0,166,81,0.6)' : 'rgba(255,255,255,0.03)';
             }).attr('stroke-width', function(l) {
                 var s = typeof l.source === 'object' ? l.source.id : l.source;
                 var t = typeof l.target === 'object' ? l.target.id : l.target;
-                return (matched.has(s) || matched.has(t)) ? 2 : 0.5;
+                return (s === d.id || t === d.id) ? 2 : 0.5;
             });
+            var deg = degreeMap[d.id] || 0;
+            tip.style('display', 'block')
+                .html('<strong>' + escapeHtml(d.id) + '</strong>'
+                    + '<br>Type: ' + escapeHtml(d.node_type || d.type || '') + (d.category ? ' / ' + escapeHtml(d.category) : '')
+                    + '<br>Connections: ' + deg
+                    + (d.frequency > 1 ? '<br>Frequency: ' + d.frequency : '')
+                    + (d.description ? '<br><span style="color:#8892a4">' + escapeHtml(d.description) + '</span>' : ''));
+        })
+        .on('mousemove', function(event) {
+            tip.style('left', (event.pageX + 14) + 'px').style('top', (event.pageY - 14) + 'px');
+        })
+        .on('mouseout', function() {
+            node.attr('fill-opacity', 0.85);
+            link.attr('stroke', 'rgba(255,255,255,0.08)').attr('stroke-width', 1);
+            tip.style('display', 'none');
+        })
+        .on('click', function(event, d) {
+            if (d.node_type === 'concept') openConceptPanel(d.id);
+        });
 
-            if (matched.size > 0) {
-                var firstMatch = nodes.find(function(n) { return matched.has(n.id); });
-                if (firstMatch && firstMatch.x && firstMatch.y) {
-                    svg.transition().duration(500).call(
-                        zoom.transform,
-                        d3.zoomIdentity.translate(width/2, height/2).scale(1.5).translate(-firstMatch.x, -firstMatch.y)
-                    );
-                }
+    var labelThreshold = nodes.length > 1000 ? 6 : 3;
+    var labels = g.append('g')
+        .selectAll('text')
+        .data(nodes.filter(function(d) { return (degreeMap[d.id] || 0) >= labelThreshold; }))
+        .join('text')
+        .attr('font-size', '9px')
+        .attr('fill', 'rgba(255,255,255,0.7)')
+        .attr('text-anchor', 'middle')
+        .attr('dy', function(d) { return rScale(degreeMap[d.id] || 0) + 11; })
+        .text(function(d) { var l = d.id || ''; return l.length > 20 ? l.substring(0, 18) + '..' : l; })
+        .style('pointer-events', 'none');
+
+    simulation.on('tick', function() {
+        link.attr('x1', function(d) { return d.source.x; })
+            .attr('y1', function(d) { return d.source.y; })
+            .attr('x2', function(d) { return d.target.x; })
+            .attr('y2', function(d) { return d.target.y; });
+        node.attr('cx', function(d) { return d.x; })
+            .attr('cy', function(d) { return d.y; });
+        labels.attr('x', function(d) { return d.x; })
+            .attr('y', function(d) { return d.y; });
+    });
+
+    // Search functionality
+    var searchEl = document.getElementById('graphSearch');
+    var newSearch = searchEl.cloneNode(true);
+    searchEl.parentNode.replaceChild(newSearch, searchEl);
+    newSearch.addEventListener('input', function(e) {
+        var query = e.target.value.toLowerCase().trim();
+        if (!query) {
+            node.attr('fill-opacity', 0.85).attr('r', function(d) { return rScale(degreeMap[d.id] || 0); });
+            link.attr('stroke', 'rgba(255,255,255,0.08)').attr('stroke-width', 1);
+            return;
+        }
+        var matched = new Set();
+        var connectedToMatch = new Set();
+        nodes.forEach(function(n) {
+            if ((n.id || '').toLowerCase().indexOf(query) !== -1) matched.add(n.id);
+        });
+        links.forEach(function(l) {
+            var s = typeof l.source === 'object' ? l.source.id : l.source;
+            var t = typeof l.target === 'object' ? l.target.id : l.target;
+            if (matched.has(s)) connectedToMatch.add(t);
+            if (matched.has(t)) connectedToMatch.add(s);
+        });
+        node.attr('fill-opacity', function(d) {
+            if (matched.has(d.id)) return 1;
+            if (connectedToMatch.has(d.id)) return 0.5;
+            return 0.05;
+        }).attr('r', function(d) {
+            var base = rScale(degreeMap[d.id] || 0);
+            return matched.has(d.id) ? base * 1.5 : base;
+        });
+        link.attr('stroke', function(l) {
+            var s = typeof l.source === 'object' ? l.source.id : l.source;
+            var t = typeof l.target === 'object' ? l.target.id : l.target;
+            if (matched.has(s) || matched.has(t)) return 'rgba(0,166,81,0.5)';
+            return 'rgba(255,255,255,0.02)';
+        }).attr('stroke-width', function(l) {
+            var s = typeof l.source === 'object' ? l.source.id : l.source;
+            var t = typeof l.target === 'object' ? l.target.id : l.target;
+            return (matched.has(s) || matched.has(t)) ? 2 : 0.5;
+        });
+        if (matched.size > 0) {
+            var firstMatch = nodes.find(function(n) { return matched.has(n.id); });
+            if (firstMatch && firstMatch.x && firstMatch.y) {
+                svg.transition().duration(500).call(
+                    zoom.transform,
+                    d3.zoomIdentity.translate(width/2, height/2).scale(1.5).translate(-firstMatch.x, -firstMatch.y)
+                );
             }
-        });
+        }
+    });
 
-        // Legend
-        var legend = svg.append('g').attr('transform', 'translate(12, 12)');
-        var displayCats = categories.slice(0, 8);
-        displayCats.forEach(function(cat, i) {
-            var row = legend.append('g').attr('transform', 'translate(0,' + (i * 18) + ')');
-            row.append('circle').attr('r', 5).attr('cx', 5).attr('cy', 0).attr('fill', catColor(cat));
-            row.append('text').attr('x', 14).attr('y', 4).attr('font-size', '10px').attr('fill', '#8892a4').text(cat);
-        });
-    })
-    .catch(function() {
-        document.getElementById('networkContainer').innerHTML = '<div class="viz-empty">Could not load graph data.</div>';
+    // Legend
+    var legend = svg.append('g').attr('transform', 'translate(12, 12)');
+    var displayCats = categories.slice(0, 8);
+    displayCats.forEach(function(cat, i) {
+        var row = legend.append('g').attr('transform', 'translate(0,' + (i * 18) + ')');
+        row.append('circle').attr('r', 5).attr('cx', 5).attr('cy', 0).attr('fill', catColor(cat));
+        row.append('text').attr('x', 14).attr('y', 4).attr('font-size', '10px').attr('fill', '#8892a4').text(cat);
     });
 }
 
@@ -1927,6 +2568,777 @@ function buildDomainBar() {
     })
     .catch(function() {
         document.getElementById('domainBarContainer').innerHTML = '<div class="viz-empty">Could not load domain data.</div>';
+    });
+}
+
+// ======================================================================
+// Modal System
+// ======================================================================
+function openModal(title, bodyHtml) {
+    document.getElementById('modalTitle').textContent = title;
+    document.getElementById('modalBody').innerHTML = bodyHtml;
+    document.getElementById('modalOverlay').classList.add('open');
+}
+function closeModal() {
+    document.getElementById('modalOverlay').classList.remove('open');
+}
+
+// ======================================================================
+// Stat Card Modal
+// ======================================================================
+function openStatModal(type, label) {
+    var html = '<input type="text" class="modal-search" id="statModalSearch" placeholder="Search..." oninput="filterStatModal()">';
+    if (type === 'concepts' || type === 'unique_concepts') {
+        html += '<div id="statModalList" style="max-height:50vh;overflow-y:auto;">';
+        if (_statsData && _statsData.top_concepts) {
+            html += '<table class="data-table"><thead><tr><th>Concept</th><th>Category</th><th>Freq</th></tr></thead><tbody>';
+            _statsData.top_concepts.forEach(function(c) {
+                html += '<tr class="stat-modal-row"><td class="concept-clickable" onclick="closeModal();openConceptPanel(\'' + escapeHtml(c.name).replace(/'/g, "\\'") + '\')">' + escapeHtml(c.name) + '</td><td>' + escapeHtml(c.category||'') + '</td><td style="color:var(--primary)">' + (c.frequency||0) + '</td></tr>';
+            });
+            html += '</tbody></table>';
+        }
+        html += '</div>';
+    } else if (type === 'entities') {
+        html += '<div id="statModalList" style="max-height:50vh;overflow-y:auto;">';
+        if (_statsData && _statsData.top_entities) {
+            html += '<table class="data-table"><thead><tr><th>Entity</th><th>Type</th><th>Description</th></tr></thead><tbody>';
+            _statsData.top_entities.forEach(function(e) {
+                html += '<tr class="stat-modal-row"><td style="font-weight:600;color:var(--text-bright)">' + escapeHtml(e.name) + '</td><td>' + escapeHtml(e.type||'') + '</td><td class="text-dim">' + escapeHtml((e.description||'').substring(0,60)) + '</td></tr>';
+            });
+            html += '</tbody></table>';
+        }
+        if (_statsData && _statsData.entities_by_type) {
+            html += '<div style="margin-top:12px"><strong>By Type:</strong></div><table class="data-table"><thead><tr><th>Type</th><th>Count</th></tr></thead><tbody>';
+            var ebt = _statsData.entities_by_type;
+            Object.keys(ebt).sort(function(a,b){return ebt[b]-ebt[a];}).forEach(function(t) {
+                html += '<tr class="stat-modal-row"><td>' + escapeHtml(t) + '</td><td style="color:var(--primary)">' + ebt[t] + '</td></tr>';
+            });
+            html += '</tbody></table>';
+        }
+        html += '</div>';
+    } else if (type === 'relationships') {
+        html += '<div id="statModalList" style="max-height:50vh;overflow-y:auto;"><p class="text-dim">Loading relationships...</p></div>';
+        openModal(label, html);
+        fetch('data/extractions.json').then(function(r){return r.json();}).then(function(exData) {
+            var rels = (exData.relationships || []).slice(0, 200);
+            var tbl = '<table class="data-table"><thead><tr><th>Source</th><th>Type</th><th>Target</th></tr></thead><tbody>';
+            rels.forEach(function(r) {
+                tbl += '<tr class="stat-modal-row"><td>' + escapeHtml(r.source) + '</td><td style="color:var(--warning)">' + escapeHtml(r.type) + '</td><td>' + escapeHtml(r.target) + '</td></tr>';
+            });
+            tbl += '</tbody></table>';
+            var el = document.getElementById('statModalList');
+            if (el) el.innerHTML = tbl;
+        }).catch(function(){});
+        return;
+    } else {
+        html += '<div id="statModalList"><p class="text-dim">Detailed data for this statistic is shown in the cards below.</p></div>';
+    }
+    openModal(label, html);
+}
+
+function filterStatModal() {
+    var q = (document.getElementById('statModalSearch').value || '').toLowerCase();
+    document.querySelectorAll('.stat-modal-row').forEach(function(row) {
+        row.style.display = row.textContent.toLowerCase().indexOf(q) !== -1 ? '' : 'none';
+    });
+}
+
+// ======================================================================
+// Concept Detail Panel
+// ======================================================================
+var _taxonomyData = null;
+var _extractionsData = null;
+
+function openConceptPanel(conceptName) {
+    var panel = document.getElementById('conceptPanel');
+    document.getElementById('conceptPanelName').textContent = conceptName;
+    var body = document.getElementById('conceptPanelBody');
+    body.innerHTML = '<div class="viz-loading"><div class="spinner"></div> Loading...</div>';
+    panel.classList.add('open');
+
+    // Load data as needed
+    var promises = [];
+    if (!_taxonomyData) {
+        promises.push(fetch('data/taxonomy.json').then(function(r){return r.json();}).then(function(d){_taxonomyData=d;}));
+    }
+    if (!_extractionsData) {
+        promises.push(fetch('data/extractions.json').then(function(r){return r.json();}).then(function(d){_extractionsData=d;}));
+    }
+    Promise.all(promises).then(function() {
+        renderConceptPanel(conceptName);
+    }).catch(function() {
+        body.innerHTML = '<p class="text-dim">Could not load concept data.</p>';
+    });
+}
+
+function closeConceptPanel() {
+    document.getElementById('conceptPanel').classList.remove('open');
+}
+
+function renderConceptPanel(name) {
+    var body = document.getElementById('conceptPanelBody');
+    var html = '';
+
+    // Find concept in extractions
+    var concept = null;
+    if (_extractionsData && _extractionsData.concepts) {
+        concept = _extractionsData.concepts.find(function(c) { return c.name === name; });
+    }
+
+    // Find path in taxonomy
+    var path = [];
+    if (_taxonomyData && _taxonomyData.taxonomy) {
+        findConceptPath(_taxonomyData.taxonomy, name, [], path);
+    }
+
+    if (path.length > 0) {
+        html += '<div class="concept-panel-path"><strong>Taxonomy path:</strong><br>';
+        html += path.map(function(p) { return '<span>' + escapeHtml(p) + '</span>'; }).join(' &gt; ');
+        html += '</div>';
+    }
+
+    if (concept) {
+        html += '<div class="concept-panel-section"><h4>Details</h4>';
+        html += '<p><strong>Category:</strong> ' + escapeHtml(concept.category || 'N/A') + '</p>';
+        html += '<p><strong>Description:</strong> ' + escapeHtml(concept.description || 'N/A') + '</p>';
+        if (concept.frequency) html += '<p><strong>Frequency:</strong> <span class="concept-panel-badge">' + concept.frequency + '</span></p>';
+        html += '</div>';
+    }
+
+    // Find related entities via relationships
+    if (_extractionsData && _extractionsData.relationships) {
+        var rels = _extractionsData.relationships.filter(function(r) {
+            return r.source === name || r.target === name;
+        });
+        if (rels.length > 0) {
+            // Related entities
+            var relEntities = new Set();
+            rels.forEach(function(r) {
+                if (r.source !== name) relEntities.add(r.source);
+                if (r.target !== name) relEntities.add(r.target);
+            });
+            html += '<div class="concept-panel-section"><h4>Related Entities (' + relEntities.size + ')</h4><ul>';
+            Array.from(relEntities).slice(0, 30).forEach(function(e) {
+                html += '<li>' + escapeHtml(e) + '</li>';
+            });
+            if (relEntities.size > 30) html += '<li class="text-dim">...and ' + (relEntities.size - 30) + ' more</li>';
+            html += '</ul></div>';
+
+            // Relationships
+            html += '<div class="concept-panel-section"><h4>Relationships (' + rels.length + ')</h4><ul>';
+            rels.slice(0, 30).forEach(function(r) {
+                html += '<li><span style="color:var(--text-bright)">' + escapeHtml(r.source) + '</span> <span style="color:var(--warning)">' + escapeHtml(r.type) + '</span> <span style="color:var(--text-bright)">' + escapeHtml(r.target) + '</span></li>';
+            });
+            if (rels.length > 30) html += '<li class="text-dim">...and ' + (rels.length - 30) + ' more</li>';
+            html += '</ul></div>';
+        }
+    }
+
+    if (!html) html = '<p class="text-dim">No detailed data found for this concept.</p>';
+    body.innerHTML = html;
+}
+
+function findConceptPath(nodes, target, current, result) {
+    for (var i = 0; i < nodes.length; i++) {
+        var node = nodes[i];
+        var newPath = current.concat([node.name]);
+        if (node.name === target) {
+            result.push.apply(result, newPath);
+            return true;
+        }
+        if (node.children && node.children.length > 0) {
+            if (findConceptPath(node.children, target, newPath, result)) return true;
+        }
+    }
+    return false;
+}
+
+// ======================================================================
+// Source Data Tab
+// ======================================================================
+var _sourceDataLoaded = false;
+
+function loadSourceData() {
+    if (_sourceDataLoaded) return;
+    fetch('data/extractions.json')
+    .then(function(r) { return r.json(); })
+    .then(function(data) {
+        _extractionsData = data;
+        _sourceDataLoaded = true;
+        renderSourceData(data);
+    })
+    .catch(function() {
+        document.getElementById('sourceDataBody').innerHTML = '<tr><td colspan="5" class="text-dim">Could not load extractions data.</td></tr>';
+    });
+}
+
+function renderSourceData(data) {
+    var tags = data.result_tags || [];
+    var tbody = document.getElementById('sourceDataBody');
+    var html = '';
+
+    // Group concepts/entities/relationships by batch (approximate: we use batch_size=25)
+    var batchSize = 25;
+    var totalConcepts = data.concepts ? data.concepts.length : 0;
+    var totalEntities = data.entities ? data.entities.length : 0;
+    var totalRels = data.relationships ? data.relationships.length : 0;
+    var numBatches = Math.max(1, Math.ceil(tags.length / batchSize));
+    var avgC = Math.round(totalConcepts / numBatches);
+    var avgE = Math.round(totalEntities / numBatches);
+    var avgR = Math.round(totalRels / numBatches);
+
+    tags.forEach(function(tag, idx) {
+        var tagStr = (tag.tags || []).join(', ');
+        html += '<tr class="source-row-clickable" data-idx="' + idx + '" onclick="showSourceDetail(' + tag.result_id + ')">';
+        html += '<td style="font-weight:600;color:var(--text-bright)">' + tag.result_id + '</td>';
+        html += '<td style="max-width:300px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap" title="' + escapeHtml(tagStr) + '">' + escapeHtml(tagStr) + '</td>';
+        html += '<td style="color:var(--primary)">' + avgC + '</td>';
+        html += '<td style="color:var(--info)">' + avgE + '</td>';
+        html += '<td style="color:var(--warning)">' + avgR + '</td>';
+        html += '</tr>';
+    });
+
+    tbody.innerHTML = html;
+
+    // Search
+    document.getElementById('sourceSearch').addEventListener('input', function(e) {
+        var q = e.target.value.toLowerCase().trim();
+        document.querySelectorAll('#sourceDataBody tr').forEach(function(row) {
+            row.style.display = row.textContent.toLowerCase().indexOf(q) !== -1 ? '' : 'none';
+        });
+    });
+}
+
+function showSourceDetail(resultId) {
+    if (!_extractionsData) return;
+    var tag = (_extractionsData.result_tags || []).find(function(t) { return t.result_id === resultId; });
+    var tags = tag ? tag.tags : [];
+
+    // Show concepts that match the tags as a heuristic
+    var concepts = (_extractionsData.concepts || []).filter(function(c) {
+        return tags.some(function(t) { return c.name.toLowerCase().indexOf(t.toLowerCase()) !== -1 || t.toLowerCase().indexOf(c.name.toLowerCase()) !== -1; });
+    });
+    var entities = (_extractionsData.entities || []).filter(function(e) {
+        return tags.some(function(t) { return e.name.toLowerCase().indexOf(t.toLowerCase()) !== -1 || t.toLowerCase().indexOf(e.name.toLowerCase()) !== -1; });
+    });
+    var rels = (_extractionsData.relationships || []).filter(function(r) {
+        return tags.some(function(t) { return r.source.toLowerCase().indexOf(t.toLowerCase()) !== -1 || r.target.toLowerCase().indexOf(t.toLowerCase()) !== -1; });
+    });
+
+    var html = '<p style="margin-bottom:12px;"><strong>Result #' + resultId + '</strong> -- Tags: ' + escapeHtml(tags.join(', ')) + '</p>';
+
+    html += '<div class="concept-panel-section"><h4>Concepts (' + concepts.length + ')</h4>';
+    if (concepts.length > 0) {
+        html += '<ul>';
+        concepts.slice(0, 50).forEach(function(c) {
+            html += '<li class="concept-clickable" onclick="closeModal();openConceptPanel(\'' + escapeHtml(c.name).replace(/'/g, "\\'") + '\')">' + escapeHtml(c.name) + ' <span class="concept-panel-badge">' + (c.frequency||0) + '</span></li>';
+        });
+        html += '</ul>';
+    } else {
+        html += '<p class="text-dim">No direct matches found.</p>';
+    }
+    html += '</div>';
+
+    html += '<div class="concept-panel-section"><h4>Entities (' + entities.length + ')</h4>';
+    if (entities.length > 0) {
+        html += '<ul>';
+        entities.slice(0, 50).forEach(function(e) {
+            html += '<li>' + escapeHtml(e.name) + ' <span class="text-dim">(' + escapeHtml(e.type) + ')</span></li>';
+        });
+        html += '</ul>';
+    } else {
+        html += '<p class="text-dim">No direct matches found.</p>';
+    }
+    html += '</div>';
+
+    html += '<div class="concept-panel-section"><h4>Relationships (' + rels.length + ')</h4>';
+    if (rels.length > 0) {
+        html += '<ul>';
+        rels.slice(0, 30).forEach(function(r) {
+            html += '<li>' + escapeHtml(r.source) + ' <span style="color:var(--warning)">' + escapeHtml(r.type) + '</span> ' + escapeHtml(r.target) + '</li>';
+        });
+        html += '</ul>';
+    } else {
+        html += '<p class="text-dim">No direct matches found.</p>';
+    }
+    html += '</div>';
+
+    openModal('Result #' + resultId + ' Details', html);
+}
+
+// ======================================================================
+// Chart Settings (Gear Menu)
+// ======================================================================
+function addChartGear(vizCard) {
+    var titleEl = vizCard.querySelector('.viz-card-title');
+    if (!titleEl || titleEl.querySelector('.chart-gear')) return;
+    var gear = document.createElement('button');
+    gear.className = 'chart-gear';
+    gear.innerHTML = '&#x2699;';
+    gear.title = 'Chart options';
+
+    var menu = document.createElement('div');
+    menu.className = 'chart-gear-menu';
+
+    var btnPNG = document.createElement('button');
+    btnPNG.textContent = 'Download as PNG';
+    btnPNG.addEventListener('click', function(e) {
+        e.stopPropagation();
+        menu.classList.remove('open');
+        exportChartAsPNG(vizCard);
+    });
+
+    var btnSVG = document.createElement('button');
+    btnSVG.textContent = 'Download as SVG';
+    btnSVG.addEventListener('click', function(e) {
+        e.stopPropagation();
+        menu.classList.remove('open');
+        exportChartAsSVG(vizCard);
+    });
+
+    var btnFS = document.createElement('button');
+    btnFS.textContent = 'Full screen';
+    btnFS.addEventListener('click', function(e) {
+        e.stopPropagation();
+        menu.classList.remove('open');
+        openChartFullscreen(vizCard);
+    });
+
+    menu.appendChild(btnPNG);
+    menu.appendChild(btnSVG);
+    menu.appendChild(btnFS);
+    gear.appendChild(menu);
+
+    gear.addEventListener('click', function(e) {
+        e.stopPropagation();
+        menu.classList.toggle('open');
+    });
+
+    titleEl.appendChild(gear);
+}
+
+function exportChartAsSVG(vizCard) {
+    var svgEl = vizCard.querySelector('svg');
+    if (!svgEl) { showToast('No chart found.', 'error'); return; }
+    var serializer = new XMLSerializer();
+    var source = serializer.serializeToString(svgEl);
+    var blob = new Blob([source], { type: 'image/svg+xml' });
+    var url = URL.createObjectURL(blob);
+    var a = document.createElement('a');
+    a.href = url;
+    a.download = 'chart.svg';
+    a.click();
+    URL.revokeObjectURL(url);
+}
+
+function exportChartAsPNG(vizCard) {
+    var svgEl = vizCard.querySelector('svg');
+    if (!svgEl) { showToast('No chart found.', 'error'); return; }
+    var serializer = new XMLSerializer();
+    var source = serializer.serializeToString(svgEl);
+    var canvas = document.createElement('canvas');
+    var svgW = svgEl.getAttribute('width') || svgEl.clientWidth || 800;
+    var svgH = svgEl.getAttribute('height') || svgEl.clientHeight || 600;
+    canvas.width = svgW * 2;
+    canvas.height = svgH * 2;
+    var ctx = canvas.getContext('2d');
+    ctx.scale(2, 2);
+    var img = new Image();
+    img.onload = function() {
+        ctx.fillStyle = '#1a1a2e';
+        ctx.fillRect(0, 0, canvas.width, canvas.height);
+        ctx.drawImage(img, 0, 0);
+        var url = canvas.toDataURL('image/png');
+        var a = document.createElement('a');
+        a.href = url;
+        a.download = 'chart.png';
+        a.click();
+    };
+    img.src = 'data:image/svg+xml;charset=utf-8,' + encodeURIComponent(source);
+}
+
+function openChartFullscreen(vizCard) {
+    var svgEl = vizCard.querySelector('svg');
+    if (!svgEl) return;
+    var overlay = document.createElement('div');
+    overlay.className = 'chart-fullscreen-overlay';
+    var closeBtn = document.createElement('button');
+    closeBtn.className = 'fs-close';
+    closeBtn.textContent = 'Close fullscreen';
+    closeBtn.addEventListener('click', function() { overlay.remove(); });
+    var body = document.createElement('div');
+    body.className = 'fs-body';
+    var clone = svgEl.cloneNode(true);
+    clone.style.width = '100%';
+    clone.style.height = '100%';
+    clone.removeAttribute('width');
+    clone.removeAttribute('height');
+    body.appendChild(clone);
+    overlay.appendChild(closeBtn);
+    overlay.appendChild(body);
+    document.body.appendChild(overlay);
+}
+
+// Close gear menus on outside click
+document.addEventListener('click', function() {
+    document.querySelectorAll('.chart-gear-menu.open').forEach(function(m) { m.classList.remove('open'); });
+});
+
+// ======================================================================
+// Zoomable Treemap
+// ======================================================================
+var _treemapCurrentNode = null;
+
+function buildTreemap() {
+    fetch('data/taxonomy.json')
+    .then(function(r) { if (!r.ok) throw new Error(); return r.json(); })
+    .then(function(data) {
+        var taxonomy = data.taxonomy;
+        if (!taxonomy || taxonomy.length === 0) {
+            document.getElementById('treemapContainer').innerHTML = '<div class="viz-empty">No taxonomy data.</div>';
+            return;
+        }
+
+        var container = document.getElementById('treemapContainer');
+        container.innerHTML = '';
+        var width = container.clientWidth;
+        var height = 500;
+
+        var root = d3.hierarchy({ name: 'CGIAR Taxonomy', children: taxonomy })
+            .sum(function(d) { return (!d.children || d.children.length === 0) ? (d.frequency || 1) : 0; })
+            .sort(function(a, b) { return b.value - a.value; });
+
+        var domainNames = taxonomy.map(function(d) { return d.name; });
+        var colorScale = d3.scaleOrdinal().domain(domainNames).range(CGIAR_COLORS);
+
+        function getDomainColor(d) {
+            var node = d;
+            while (node.depth > 1) node = node.parent;
+            if (node.depth === 0) return '#333';
+            var base = d3.color(colorScale(node.data.name));
+            var bright = 1 + (d.depth - 1) * 0.15;
+            return base ? base.brighter(bright * 0.4).toString() : '#555';
+        }
+
+        var treemap = d3.treemap().size([width, height]).paddingOuter(3).paddingTop(22).paddingInner(2).round(true);
+        treemap(root);
+
+        var svg = d3.select(container).append('svg')
+            .attr('width', width)
+            .attr('height', height)
+            .attr('viewBox', [0, 0, width, height].join(' '))
+            .style('font-family', 'inherit');
+
+        var tip = createTooltip();
+        _treemapCurrentNode = root;
+
+        function renderTreemapLevel(target) {
+            _treemapCurrentNode = target;
+            treemap(target);
+
+            svg.selectAll('*').remove();
+
+            // Breadcrumb
+            var path = [];
+            var n = target;
+            while (n) { path.unshift(n); n = n.parent; }
+            var bc = document.getElementById('treemapBreadcrumb');
+            bc.innerHTML = '';
+            path.forEach(function(p, i) {
+                if (i > 0) bc.innerHTML += ' / ';
+                var label = p.data.name || 'Root';
+                if (i < path.length - 1) {
+                    var sp = document.createElement('span');
+                    sp.textContent = label;
+                    sp.addEventListener('click', (function(node) { return function() { renderTreemapLevel(node); }; })(p));
+                    bc.appendChild(sp);
+                    if (i < path.length - 2) {
+                        bc.appendChild(document.createTextNode(' / '));
+                    }
+                } else {
+                    bc.appendChild(document.createTextNode(label));
+                }
+            });
+            // Reset innerHTML approach - simpler
+            bc.innerHTML = '';
+            path.forEach(function(p, i) {
+                if (i > 0) bc.innerHTML += ' / ';
+                if (i < path.length - 1) {
+                    bc.innerHTML += '<span data-depth="' + i + '">' + escapeHtml(p.data.name || 'Root') + '</span>';
+                } else {
+                    bc.innerHTML += escapeHtml(p.data.name || 'Root');
+                }
+            });
+            bc.querySelectorAll('span').forEach(function(sp) {
+                var depth = parseInt(sp.getAttribute('data-depth'));
+                sp.style.cursor = 'pointer';
+                sp.style.color = 'var(--primary)';
+                sp.addEventListener('click', function() {
+                    renderTreemapLevel(path[depth]);
+                });
+            });
+
+            var descendants = target.children || [];
+            if (descendants.length === 0) return;
+
+            var groups = svg.selectAll('g')
+                .data(descendants)
+                .join('g')
+                .attr('transform', function(d) { return 'translate(' + (d.x0 - target.x0) + ',' + (d.y0 - target.y0) + ')'; });
+
+            groups.append('rect')
+                .attr('width', function(d) { return Math.max(0, d.x1 - d.x0); })
+                .attr('height', function(d) { return Math.max(0, d.y1 - d.y0); })
+                .attr('fill', getDomainColor)
+                .attr('fill-opacity', 0.8)
+                .attr('stroke', 'rgba(26,26,46,0.8)')
+                .attr('stroke-width', 1)
+                .attr('rx', 3)
+                .style('cursor', function(d) { return d.children ? 'pointer' : 'default'; })
+                .on('mouseover', function(event, d) {
+                    d3.select(this).attr('fill-opacity', 1).attr('stroke', '#fff');
+                    tip.style('display', 'block')
+                        .html('<strong>' + escapeHtml(d.data.name) + '</strong><br>Size: ' + d.value
+                            + (d.data.frequency ? '<br>Freq: ' + d.data.frequency : '')
+                            + (d.data.description ? '<br><span style="color:#8892a4">' + escapeHtml(d.data.description) + '</span>' : ''));
+                })
+                .on('mousemove', function(event) {
+                    tip.style('left', (event.pageX + 14) + 'px').style('top', (event.pageY - 14) + 'px');
+                })
+                .on('mouseout', function() {
+                    d3.select(this).attr('fill-opacity', 0.8).attr('stroke', 'rgba(26,26,46,0.8)');
+                    tip.style('display', 'none');
+                })
+                .on('click', function(event, d) {
+                    if (d.children) {
+                        renderTreemapLevel(d);
+                    } else if (d.data.frequency) {
+                        openConceptPanel(d.data.name);
+                    }
+                });
+
+            groups.append('text')
+                .attr('x', 4)
+                .attr('y', 14)
+                .attr('font-size', function(d) {
+                    var w = d.x1 - d.x0;
+                    return w > 80 ? '11px' : '9px';
+                })
+                .attr('fill', '#fff')
+                .style('pointer-events', 'none')
+                .style('text-shadow', '0 1px 2px rgba(0,0,0,0.6)')
+                .text(function(d) {
+                    var w = d.x1 - d.x0;
+                    var h = d.y1 - d.y0;
+                    if (w < 30 || h < 18) return '';
+                    var name = d.data.name || '';
+                    var maxLen = Math.floor(w / 7);
+                    return name.length > maxLen ? name.substring(0, maxLen - 1) + '..' : name;
+                });
+        }
+
+        renderTreemapLevel(root);
+    })
+    .catch(function() {
+        document.getElementById('treemapContainer').innerHTML = '<div class="viz-empty">Could not load taxonomy data.</div>';
+    });
+}
+
+window.treemapZoomToRoot = function() {
+    if (_treemapCurrentNode && _treemapCurrentNode.parent) {
+        var root = _treemapCurrentNode;
+        while (root.parent) root = root.parent;
+        // re-render from root -- trigger rebuild
+    }
+};
+
+// ======================================================================
+// Collapsible Radial Dendrogram
+// ======================================================================
+function buildDendrogram() {
+    fetch('data/taxonomy.json')
+    .then(function(r) { if (!r.ok) throw new Error(); return r.json(); })
+    .then(function(data) {
+        var taxonomy = data.taxonomy;
+        if (!taxonomy || taxonomy.length === 0) {
+            document.getElementById('dendrogramContainer').innerHTML = '<div class="viz-empty">No taxonomy data.</div>';
+            return;
+        }
+
+        var container = document.getElementById('dendrogramContainer');
+        container.innerHTML = '';
+        var width = container.clientWidth;
+        var height = 600;
+        var radius = Math.min(width, height) / 2 - 40;
+
+        var root = d3.hierarchy({ name: 'CGIAR Taxonomy', children: taxonomy });
+
+        // Count children for node sizing
+        root.each(function(d) {
+            d._childCount = d.children ? d.children.length : 0;
+            d._freq = d.data.frequency || 0;
+        });
+
+        // Start with only top 2 levels expanded
+        root.each(function(d) {
+            if (d.depth >= 2 && d.children) {
+                d._children = d.children;
+                d.children = null;
+            }
+        });
+
+        var domainNames = taxonomy.map(function(d) { return d.name; });
+        var colorScale = d3.scaleOrdinal().domain(domainNames).range(CGIAR_COLORS);
+
+        function getNodeColor(d) {
+            var node = d;
+            while (node.depth > 1) node = node.parent;
+            if (node.depth === 0) return '#888';
+            return colorScale(node.data.name);
+        }
+
+        var svg = d3.select(container).append('svg')
+            .attr('width', width)
+            .attr('height', height)
+            .attr('viewBox', [-width/2, -height/2, width, height].join(' '));
+
+        var g = svg.append('g');
+        var zoom = d3.zoom().scaleExtent([0.3, 4]).on('zoom', function(event) {
+            g.attr('transform', event.transform);
+        });
+        svg.call(zoom);
+
+        var tip = createTooltip();
+
+        var treeLayout = d3.tree()
+            .size([2 * Math.PI, radius])
+            .separation(function(a, b) { return (a.parent === b.parent ? 1 : 2) / a.depth; });
+
+        function update(source) {
+            treeLayout(root);
+
+            var linkGen = d3.linkRadial()
+                .angle(function(d) { return d.x; })
+                .radius(function(d) { return d.y; });
+
+            // Links
+            var linkData = root.links();
+            var links = g.selectAll('.dendro-link')
+                .data(linkData, function(d) { return d.target.data.name + '-' + d.target.depth; });
+
+            links.exit().transition().duration(300).attr('opacity', 0).remove();
+
+            var linksEnter = links.enter().append('path')
+                .attr('class', 'dendro-link')
+                .attr('fill', 'none')
+                .attr('stroke', 'rgba(255,255,255,0.12)')
+                .attr('stroke-width', 1)
+                .attr('opacity', 0);
+
+            links.merge(linksEnter).transition().duration(500)
+                .attr('d', linkGen)
+                .attr('opacity', 1);
+
+            // Nodes
+            var nodeData = root.descendants();
+            var nodes = g.selectAll('.dendro-node')
+                .data(nodeData, function(d) { return d.data.name + '-' + d.depth; });
+
+            nodes.exit().transition().duration(300).attr('opacity', 0).remove();
+
+            var nodesEnter = nodes.enter().append('g')
+                .attr('class', 'dendro-node')
+                .attr('opacity', 0)
+                .style('cursor', 'pointer')
+                .on('click', function(event, d) {
+                    if (d.children) {
+                        d._children = d.children;
+                        d.children = null;
+                    } else if (d._children) {
+                        d.children = d._children;
+                        d._children = null;
+                    } else if (d.data.frequency) {
+                        openConceptPanel(d.data.name);
+                        return;
+                    }
+                    update(d);
+                })
+                .on('mouseover', function(event, d) {
+                    tip.style('display', 'block')
+                        .html('<strong>' + escapeHtml(d.data.name) + '</strong>'
+                            + (d.data.frequency ? '<br>Frequency: ' + d.data.frequency : '')
+                            + (d.data.description ? '<br><span style="color:#8892a4">' + escapeHtml(d.data.description) + '</span>' : '')
+                            + '<br>Children: ' + (d.children ? d.children.length : (d._children ? d._children.length : 0)));
+                })
+                .on('mousemove', function(event) {
+                    tip.style('left', (event.pageX + 14) + 'px').style('top', (event.pageY - 14) + 'px');
+                })
+                .on('mouseout', function() { tip.style('display', 'none'); });
+
+            nodesEnter.append('circle')
+                .attr('r', 0)
+                .attr('fill', getNodeColor)
+                .attr('stroke', 'rgba(255,255,255,0.3)')
+                .attr('stroke-width', 0.5);
+
+            nodesEnter.filter(function(d) { return d.depth <= 2; })
+                .append('text')
+                .attr('dy', '0.31em')
+                .attr('font-size', function(d) { return d.depth === 0 ? '11px' : '9px'; })
+                .attr('fill', '#ccc')
+                .style('pointer-events', 'none')
+                .style('text-shadow', '0 1px 3px rgba(0,0,0,0.8)');
+
+            var allNodes = nodes.merge(nodesEnter);
+
+            allNodes.transition().duration(500)
+                .attr('transform', function(d) {
+                    return 'rotate(' + (d.x * 180 / Math.PI - 90) + ') translate(' + d.y + ',0)';
+                })
+                .attr('opacity', 1);
+
+            allNodes.select('circle').transition().duration(500)
+                .attr('r', function(d) {
+                    if (d.depth === 0) return 8;
+                    var size = d._children ? 5 : (d.children ? 4 : 3);
+                    if (d.data.frequency) size = Math.min(8, 2 + Math.sqrt(d.data.frequency));
+                    return size;
+                })
+                .attr('fill', function(d) {
+                    if (d._children) return d3.color(getNodeColor(d)).darker(0.5).toString();
+                    return getNodeColor(d);
+                });
+
+            allNodes.select('text')
+                .attr('x', function(d) { return d.x < Math.PI ? 10 : -10; })
+                .attr('text-anchor', function(d) { return d.x < Math.PI ? 'start' : 'end'; })
+                .attr('transform', function(d) { return d.x >= Math.PI ? 'rotate(180)' : null; })
+                .text(function(d) {
+                    if (d.depth === 0) return '';
+                    var name = d.data.name || '';
+                    return name.length > 25 ? name.substring(0, 23) + '..' : name;
+                });
+        }
+
+        update(root);
+
+        // Search
+        document.getElementById('dendrogramSearch').addEventListener('input', function(e) {
+            var query = e.target.value.toLowerCase().trim();
+            if (!query) {
+                g.selectAll('.dendro-node circle').attr('stroke', 'rgba(255,255,255,0.3)').attr('stroke-width', 0.5);
+                return;
+            }
+            g.selectAll('.dendro-node').each(function(d) {
+                var match = (d.data.name || '').toLowerCase().indexOf(query) !== -1;
+                d3.select(this).select('circle')
+                    .attr('stroke', match ? '#FCBF49' : 'rgba(255,255,255,0.3)')
+                    .attr('stroke-width', match ? 3 : 0.5);
+            });
+        });
+    })
+    .catch(function() {
+        document.getElementById('dendrogramContainer').innerHTML = '<div class="viz-empty">Could not load taxonomy data.</div>';
     });
 }
 
