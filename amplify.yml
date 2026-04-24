@@ -1,0 +1,15 @@
+version: 1
+frontend:
+  phases:
+    preBuild:
+      commands:
+        - pip install -r requirements.txt
+    build:
+      commands:
+        - python build_static.py
+  artifacts:
+    baseDirectory: dist
+    files:
+      - '**/*'
+  cache:
+    paths: []

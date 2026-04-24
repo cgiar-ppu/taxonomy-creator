@@ -151,6 +151,91 @@ Important:
 # STAGE 3: Cross-Linking and Relationship Enrichment
 # ---------------------------------------------------------------------------
 
+TAXONOMY_SKELETON_PROMPT = """You are a taxonomy architect. Given the following {n_concepts} concept names extracted from {n_results} agricultural research results, design a high-level taxonomy skeleton.
+
+Your task is to create ONLY the top-level domains and their second-level categories. Do NOT place individual concepts yet -- that will happen in a later step.
+
+Rules:
+1. Create 6-12 top-level domains that collectively cover all the concepts below
+2. Each domain should have 3-8 second-level categories
+3. Domains should be MECE (Mutually Exclusive, Collectively Exhaustive)
+4. Use descriptive names, not acronyms
+5. The taxonomy should feel natural to an agricultural researcher browsing it
+6. Include an "Other / Cross-cutting" domain as the LAST domain for concepts that span multiple domains or do not fit neatly elsewhere
+
+CONCEPT NAMES:
+{concept_names}
+
+Respond in this exact JSON format (no markdown code fences, just raw JSON):
+{{
+  "taxonomy": [
+    {{
+      "name": "Top-Level Domain Name",
+      "description": "Brief description of what this domain covers",
+      "children": [
+        {{
+          "name": "Second-Level Category Name",
+          "description": "Brief description of what this category covers"
+        }}
+      ]
+    }}
+  ]
+}}
+
+Important:
+- Keep domain and category names concise but descriptive
+- Descriptions should be 1 sentence explaining scope
+- The skeleton should be comprehensive enough that every concept from the list can find a home
+- Do not create levels with only one child -- merge them up
+- The last domain MUST be "Other / Cross-cutting" for concepts that do not fit neatly elsewhere"""
+
+TAXONOMY_DOMAIN_PROMPT = """You are a taxonomy architect. You are populating one domain of a hierarchical taxonomy with specific concepts extracted from {n_results} agricultural research results.
+
+YOUR TASK: Review ALL the concept names below and select those that belong to the domain "{domain_name}". Organize the selected concepts into a hierarchy under this domain (up to {max_depth} levels deep).
+
+DOMAIN TO POPULATE:
+- Name: {domain_name}
+- Description: {domain_description}
+- Second-level categories (use these as starting points, but you may add/rename/split as needed):
+{subcategories_text}
+
+ALL AVAILABLE CONCEPT NAMES (select only those relevant to this domain):
+{concept_names}
+
+Rules:
+1. Only include concepts that genuinely belong to this domain
+2. Organize selected concepts into a hierarchy up to {max_depth} levels deep
+3. Every selected concept should appear as a leaf node with its name
+4. If a concept could belong here AND in another domain, only include it if this is its PRIMARY domain
+5. Concepts appearing fewer than {min_frequency} times should still be included but can be grouped under a "Miscellaneous" sub-branch
+6. You may create intermediate grouping nodes (they do not need frequency)
+7. Do not create levels with only one child -- merge them up
+
+Respond in this exact JSON format (no markdown code fences, just raw JSON):
+{{
+  "name": "{domain_name}",
+  "description": "{domain_description}",
+  "children": [
+    {{
+      "name": "Sub-category",
+      "description": "Brief sub-category description",
+      "children": [
+        {{
+          "name": "specific concept name"
+        }}
+      ]
+    }}
+  ],
+  "concepts_placed": ["list", "of", "concept", "names", "placed", "in", "this", "domain"]
+}}
+
+Important:
+- The "concepts_placed" array must list every concept name you placed in this domain (use the exact name from the input)
+- Be thorough: scan all {n_concepts} concepts and include every one that fits
+- Do NOT include concepts that belong more naturally in another domain
+- Leaf node names must EXACTLY match the concept names from the input list
+- Return valid JSON only, no markdown fences"""
+
 CROSSLINK_PROMPT = """You are a knowledge graph analyst. Given the taxonomy and relationships already extracted from {n_results} agricultural research results, find MISSING connections that are strongly implied but not explicitly stated.
 
 Look for these specific patterns:

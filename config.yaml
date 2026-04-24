@@ -1,8 +1,8 @@
 # Model configuration
 model:
   provider: "anthropic"  # or "openai"
-  name: "claude-sonnet-4-20250514"
-  max_tokens: 4096
+  name: "claude-sonnet-4-6"  # Latest Sonnet with 1M context window & 64K max output
+  max_tokens: 16384  # Increased from 4096 to handle large taxonomy responses
   temperature: 0.1
 
 # Input configuration

@@ -11,8 +11,8 @@ import yaml
 DEFAULTS: Dict[str, Any] = {
     "model": {
         "provider": "anthropic",
-        "name": "claude-sonnet-4-20250514",
-        "max_tokens": 4096,
+        "name": "claude-sonnet-4-6",
+        "max_tokens": 16384,
         "temperature": 0.1,
     },
     "input": {
@@ -53,10 +53,18 @@ DEFAULTS: Dict[str, Any] = {
 
 # Approximate pricing per 1M tokens (input/output) as of 2025
 MODEL_PRICING: Dict[str, Dict[str, float]] = {
-    "claude-sonnet-4-20250514": {"input": 3.0, "output": 15.0},
+    # Current Anthropic models (2026)
+    "claude-sonnet-4-6": {"input": 3.0, "output": 15.0},       # 1M context, 64K output
+    "claude-opus-4-7": {"input": 5.0, "output": 25.0},         # 1M context, 128K output
+    "claude-opus-4-6": {"input": 5.0, "output": 25.0},         # 1M context, 128K output
+    "claude-haiku-4-5": {"input": 1.0, "output": 5.0},         # 200K context, 64K output
+    # Legacy Anthropic models
+    "claude-sonnet-4-20250514": {"input": 3.0, "output": 15.0},  # deprecated, retiring June 2026
+    "claude-sonnet-4-5": {"input": 3.0, "output": 15.0},
     "claude-3-5-sonnet-20241022": {"input": 3.0, "output": 15.0},
     "claude-3-opus-20240229": {"input": 15.0, "output": 75.0},
     "claude-3-haiku-20240307": {"input": 0.25, "output": 1.25},
+    # OpenAI models
     "gpt-4o": {"input": 2.50, "output": 10.0},
     "gpt-4o-mini": {"input": 0.15, "output": 0.60},
     "gpt-4-turbo": {"input": 10.0, "output": 30.0},

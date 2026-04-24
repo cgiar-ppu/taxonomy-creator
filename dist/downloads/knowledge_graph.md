@@ -1,0 +1,12389 @@
+# Knowledge Graph - Taxonomy View
+
+## Concepts
+
+- **capacity building** (freq: 262) - systematic development of skills and knowledge among target beneficiaries
+- **climate-smart agriculture** (freq: 230) - farming practices that address climate change while improving productivity
+- **food security** (freq: 91) - reliable access to sufficient nutritious food
+- **climate adaptation** (freq: 87) - adjustments in systems to reduce vulnerability to climate change impacts
+- **climate information services** (freq: 82) - delivery of weather and climate data to support decision-making
+- **climate resilience** (freq: 65) - ability to withstand and adapt to climate change impacts
+- **variety registration** (freq: 52) - official approval of new varieties for commercial release
+- **biofortification** (freq: 41) - enhancing nutritional content of crops through breeding
+- **value chain development** (freq: 38) - systematic improvement of market linkages and business relationships
+- **early warning systems** (freq: 35) - monitoring and forecasting systems to predict and prepare for emergencies
+- **drought tolerance** (freq: 33) - plant ability to maintain productivity under water stress
+- **multi-stakeholder platforms** (freq: 33) - collaborative spaces bringing together diverse actors for innovation and change
+- **participatory research** (freq: 32) - research approach involving stakeholders as active participants in knowledge generation
+- **marker-assisted selection** (freq: 30) - breeding technique using molecular markers to select for desired traits
+- **one health approach** (freq: 30) - collaborative framework integrating human, animal, and environmental health
+- **agroecological transition** (freq: 29) - shift from conventional to sustainable farming practices that work with natural ecosystems
+- **multifunctional landscapes** (freq: 29) - land management strategy that integrates multiple functions and services across landscapes
+- **gender transformative approaches** (freq: 29) - interventions that address root causes of gender inequality and transform power relations
+- **direct-seeded rice** (freq: 28) - rice cultivation technique where seeds are sown directly in fields without transplanting
+- **germplasm utilization** (freq: 28) - use of genetic resources from gene banks or research collections for crop improvement
+- **rangeland restoration** (freq: 27) - practices aimed at rehabilitating degraded rangeland ecosystems to improve productivity and sustainability
+- **food systems transformation** (freq: 26) - fundamental changes in how food is produced, distributed, and consumed
+- **capacity development** (freq: 26) - building skills and knowledge of individuals and organizations
+- **genome-wide association study** (freq: 24) - statistical approach to identify genetic variants associated with traits
+- **community of practice** (freq: 24) - collaborative network for sharing knowledge and best practices among practitioners
+- **agroecology** (freq: 23) - ecological approach to agriculture that applies ecological principles to farming systems
+- **genomic selection** (freq: 22) - breeding approach using genome-wide markers for trait prediction
+- **digital advisory services** (freq: 22) - technology-enabled platforms providing agricultural guidance and recommendations to farmers
+- **conservation agriculture** (freq: 22) - farming system based on minimal soil disturbance, permanent soil cover and crop rotation
+- **alternate wetting and drying** (freq: 22) - water-saving rice cultivation technique alternating between flooded and non-flooded field conditions
+- **crop diversification** (freq: 21) - agricultural strategy of growing multiple crop species to reduce risk and improve sustainability
+- **greenhouse gas emissions** (freq: 21) - release of gases that contribute to climate change from agricultural activities
+- **public-private partnerships** (freq: 20) - collaborative arrangements between government and private sector entities
+- **value chain analysis** (freq: 20) - examination of production to consumption linkages and market dynamics
+- **integrated pest management** (freq: 20) - holistic approach combining multiple pest control methods sustainably
+- **nationally determined contributions** (freq: 20) - country-specific climate action plans under the Paris Agreement
+- **human-centered design** (freq: 19) - participatory design approach that prioritizes user needs and experiences in technology development
+- **scaling for impact** (freq: 18) - systematic approach to expanding successful innovations to achieve broader development outcomes
+- **training of trainers** (freq: 18) - capacity building approach that prepares participants to train others
+- **climate action** (freq: 18) - coordinated efforts to address climate change through mitigation and adaptation strategies
+- **co-design** (freq: 17) - collaborative development process involving multiple stakeholders in innovation creation
+- **on-farm testing** (freq: 16) - evaluating varieties under actual farmer field conditions
+- **stakeholder engagement** (freq: 16) - systematic involvement of relevant parties in decision-making processes
+- **climate security** (freq: 16) - framework addressing security risks arising from climate change impacts
+- **participatory variety selection** (freq: 16) - farmer-involved process for evaluating and selecting crop varieties
+- **climate risk assessment** (freq: 16) - evaluation of climate hazard exposure and vulnerability
+- **climate change adaptation** (freq: 16) - strategies and measures to adjust to climate change impacts and reduce vulnerability
+- **silvopastoral systems** (freq: 15) - integrated agricultural systems combining trees, livestock, and pastures
+- **climate services** (freq: 15) - provision of climate information and forecasts to support agricultural decision-making
+- **women's empowerment** (freq: 15) - process of increasing women's access to resources, decision-making power, and opportunities
+- **digital agriculture** (freq: 15) - use of digital technologies to enhance agricultural productivity and sustainability
+- **site-specific fertilizer recommendations** (freq: 15) - customized nutrient management based on local soil and climate conditions
+- **triadic comparisons of technology options** (freq: 15) - research approach to decentralize technology evaluation using large numbers of participants for higher external validity
+- **integrated multitrophic aquaculture** (freq: 15) - farming system combining species from different trophic levels to enhance resource efficiency and sustainability
+- **disease resistance breeding** (freq: 14) - development of crop varieties with genetic resistance to pathogens
+- **disease resistance** (freq: 13) - plant ability to defend against pathogen infection
+- **target product profiles** (freq: 13) - systematic documentation of desired crop characteristics based on market needs
+- **digital extension** (freq: 13) - delivery of agricultural advisory services through digital platforms and mobile applications
+- **genome editing** (freq: 13) - precise modification of DNA sequences in living organisms
+- **precision agriculture** (freq: 13) - data-driven farming approach using technology for site-specific crop management
+- **participatory approach** (freq: 13) - research and development methods involving stakeholder participation
+- **smallholder farming** (freq: 12) - small-scale agricultural production by resource-limited farmers
+- **agroecological practices** (freq: 12) - farming methods that integrate ecological principles for sustainability
+- **randomized controlled trial** (freq: 12) - experimental design with random assignment to treatment and control groups
+- **regenerative agriculture** (freq: 12) - farming practices aimed at rebuilding soil health and enhancing ecosystem function
+- **social protection** (freq: 12) - policies and programs designed to reduce poverty and vulnerability
+- **integrated farming systems** (freq: 12) - agricultural approach combining multiple enterprises for synergistic benefits
+- **climate-conflict nexus** (freq: 12) - the interconnected relationship between climate change impacts and violent conflict emergence
+- **scaling pathways** (freq: 12) - systematic approaches to expand adoption of innovations
+- **greenhouse gas measurement** (freq: 12) - quantification of emissions from agricultural systems using standardized protocols and equipment
+- **citizen science** (freq: 12) - scientific research conducted by members of the general public in collaboration with professional scientists
+- **climate change mitigation** (freq: 12) - actions to reduce greenhouse gas emissions and limit global warming
+- **participatory breeding** (freq: 11) - involving farmers in variety selection and development process
+- **circular bioeconomy** (freq: 11) - economic model using biological resources in circular value chains
+- **market intelligence** (freq: 11) - systematic collection and analysis of market data to inform strategic decisions
+- **decision support systems** (freq: 11) - computer-based tools providing information to aid decision-making
+- **artificial intelligence** (freq: 11) - computer systems performing tasks that typically require human intelligence
+- **climate finance** (freq: 11) - financial mechanisms including carbon credits and international funds to support climate solutions
+- **market segmentation** (freq: 11) - division of markets based on consumer preferences and end-use requirements
+- **antimicrobial resistance surveillance** (freq: 11) - systematic monitoring of antimicrobial resistance patterns in pathogens to inform public health responses
+- **climate policy integration** (freq: 11) - systematic inclusion of sector-specific solutions into national and international climate strategies
+- **climate risk management** (freq: 11) - strategies and practices for identifying, assessing, and mitigating climate-related risks
+- **agroforestry** (freq: 10) - integration of trees with agricultural crops in production systems
+- **participatory rangeland management** (freq: 10) - community-led approach to managing rangeland resources through stakeholder engagement and collaborative decision-making
+- **seed systems** (freq: 10) - networks of actors, institutions, and processes for seed production and distribution
+- **carbon sequestration** (freq: 10) - process of capturing and storing atmospheric carbon dioxide in soils and vegetation
+- **water productivity** (freq: 10) - efficiency of water use in producing agricultural output per unit of water consumed
+- **participatory governance** (freq: 10) - inclusive decision-making processes involving multiple stakeholders
+- **cryopreservation** (freq: 10) - preservation of plant genetic material at ultra-low temperatures
+- **water-use efficiency** (freq: 10) - optimization of water resources to maximize agricultural productivity per unit of water consumed
+- **climate adaptation planning** (freq: 10) - systematic planning to reduce climate vulnerability
+- **nature-based solutions** (freq: 9) - interventions that use natural processes to address environmental and development challenges
+- **ecosystem restoration** (freq: 9) - rehabilitation of degraded landscapes to restore ecological functions and services
+- **food system transformation** (freq: 9) - comprehensive change in how food is produced, processed, distributed, and consumed
+- **technology adoption** (freq: 9) - process by which farmers accept and implement new agricultural technologies or practices
+- **market monitoring** (freq: 9) - systematic tracking and analysis of commodity prices and trade flows
+- **nutrition-sensitive agriculture** (freq: 9) - agricultural practices designed to improve dietary diversity and nutritional outcomes
+- **climate vulnerability** (freq: 9) - increased susceptibility to climate-related risks and impacts
+- **anticipatory action** (freq: 9) - proactive interventions based on early warning signals to prevent crises
+- **good agricultural practices** (freq: 9) - science-backed farming techniques including timely planting, optimal fertilizer rates, and improved varieties
+- **quantitative trait loci mapping** (freq: 9) - identification of genomic regions controlling quantitative traits
+- **water accounting** (freq: 9) - systematic assessment and monitoring of water resources and their utilization
+- **seed system strengthening** (freq: 9) - interventions to improve production, distribution, and access to quality planting materials
+- **multi-stakeholder engagement** (freq: 9) - collaborative processes involving diverse actors including farmers, government, researchers, and private sector
+- **breeding pipeline** (freq: 8) - structured sequence of breeding activities and selection stages
+- **water-energy-food nexus** (freq: 8) - integrated management of water, energy and food systems
+- **business model development** (freq: 8) - creation of sustainable commercial frameworks for technology adoption
+- **digital twin** (freq: 8) - real-time digital replica of physical systems for management
+- **satellite remote sensing** (freq: 8) - use of satellite imagery and radar data to monitor agricultural systems
+- **water management** (freq: 8) - strategies for efficient use and conservation of water resources in agriculture
+- **gender mainstreaming** (freq: 8) - systematic integration of gender perspectives into policies and programs
+- **varietal adoption** (freq: 8) - process by which farmers select and use new crop varieties
+- **digital transformation** (freq: 8) - integration of digital technologies to reshape agricultural and food systems
+- **policy coherence** (freq: 8) - alignment and coordination of policies across different levels and sectors of governance
+- **landscape restoration** (freq: 8) - ecosystem-based interventions to restore degraded land and seascape functions
+- **blended finance** (freq: 8) - combination of public and private funding to reduce investment risks
+- **stress tolerance** (freq: 8) - ability of crops to maintain productivity under abiotic or biotic stress conditions
+- **machine learning** (freq: 8) - computational methods that learn patterns from data for prediction
+- **participatory learning** (freq: 8) - educational methodology where stakeholders actively engage in knowledge creation and sharing through collaborative activities
+- **solar irrigation** (freq: 8) - irrigation systems powered by solar energy for sustainable water management
+- **locally-led climate adaptation** (freq: 8) - community-driven adaptation strategies that integrate local knowledge with scientific data
+- **participatory climate services** (freq: 8) - collaborative approach to developing and delivering climate information that involves end-users in the design and implementation process
+- **climate variability** (freq: 8) - variations in climate parameters over time scales from months to decades
+- **pioneer positive deviance** (freq: 8) - approach that identifies and supports farmers already developing innovative local solutions
+- **capacity strengthening** (freq: 8) - systematic development of technical and organizational abilities to implement and scale innovations
+- **monitoring and evaluation** (freq: 8) - systematic assessment of intervention implementation and outcomes
+- **digital data collection** (freq: 7) - electronic systems for gathering and analyzing information
+- **circular economy** (freq: 7) - economic model emphasizing resource reuse and waste reduction
+- **monitoring reporting verification** (freq: 7) - framework for tracking and validating environmental compliance
+- **sustainable agriculture** (freq: 7) - farming practices that maintain productivity while preserving environmental resources
+- **machine learning modeling** (freq: 7) - use of algorithms that learn from data to make predictions or classifications
+- **dietary assessment** (freq: 7) - measurement and evaluation of food and nutrient intake patterns
+- **biosecurity** (freq: 7) - measures to prevent introduction and spread of diseases in livestock
+- **intercropping** (freq: 7) - growing multiple crop species simultaneously in the same field
+- **heat stress tolerance** (freq: 7) - plant ability to maintain performance under high temperature conditions
+- **soil health assessment** (freq: 7) - evaluation of soil physical, chemical, and biological properties for agricultural sustainability
+- **gender transformative research** (freq: 7) - research approaches that challenge and transform underlying causes of gender inequalities
+- **gender-responsive approaches** (freq: 7) - interventions that acknowledge and address different needs and constraints of men and women
+- **gender and social inclusion** (freq: 7) - ensuring equitable participation and benefits across social groups
+- **policy integration** (freq: 7) - incorporating innovations into official government frameworks
+- **participatory mapping** (freq: 7) - collaborative approach involving farmers in adaptation planning and field-level solutions
+- **aquatic food systems** (freq: 7) - integrated networks of fisheries and aquaculture production, processing, and distribution
+- **scaling framework** (freq: 7) - systematic approach for expanding successful interventions to broader contexts
+- **innovation networks** (freq: 7) - collaborative platforms connecting multiple actors to facilitate knowledge exchange and scaling
+- **crop modeling** (freq: 7) - mathematical simulation of crop growth and yield under different environmental and management conditions
+- **agroclimatic information services** (freq: 7) - platforms providing weather and climate data for agricultural decision-making
+- **systematic review** (freq: 7) - comprehensive review methodology using systematic search and analysis protocols
+- **technical assistance** (freq: 7) - expert support to strengthen implementation capacity
+- **stakeholder training** (freq: 7) - educational activities designed to improve stakeholder knowledge and skills
+- **speed breeding** (freq: 6) - accelerated breeding technique to reduce generation time
+- **school feeding programs** (freq: 6) - institutional programs providing nutritious meals to school children
+- **diet quality assessment** (freq: 6) - systematic evaluation of nutritional adequacy in food consumption
+- **yield improvement** (freq: 6) - increase in crop productivity per unit area through improved practices
+- **market-responsive breeding** (freq: 6) - crop breeding aligned with specific market demands and consumer preferences
+- **fruit and vegetable promotion** (freq: 6) - interventions designed to increase consumption of fruits and vegetables
+- **genetic improvement program** (freq: 6) - systematic breeding to enhance genetic performance of crops or livestock
+- **breeding program costing** (freq: 6) - systematic analysis of resource allocation and costs in breeding operations
+- **zoonotic disease surveillance** (freq: 6) - monitoring and detection of diseases transmissible between animals and humans
+- **food safety** (freq: 6) - assurance that food will not cause harm when prepared or consumed
+- **gender-based violence** (freq: 6) - violence directed against individuals based on their gender
+- **evidence-based policy** (freq: 6) - policy development informed by systematic research evidence
+- **biodiversity conservation** (freq: 6) - protection and sustainable management of biological diversity
+- **vulnerability assessment** (freq: 6) - systematic evaluation of exposure and susceptibility to risks
+- **one health** (freq: 6) - integrated approach addressing interconnected human, animal, and environmental health
+- **gender-responsive programming** (freq: 6) - development interventions addressing gender inequalities and promoting inclusion
+- **antimicrobial stewardship** (freq: 6) - coordinated interventions to optimize antimicrobial use and minimize resistance development
+- **earth observation** (freq: 6) - use of satellite and remote sensing technologies to monitor environmental and agricultural parameters
+- **living lab** (freq: 6) - collaborative innovation platform where stakeholders co-create and test solutions in real-world settings
+- **innovation scaling** (freq: 6) - process of expanding successful agricultural innovations to broader adoption
+- **cost-benefit analysis** (freq: 6) - economic evaluation method using financial indicators like NPV and IRR
+- **technology transfer** (freq: 6) - process of moving innovations from research to practical application
+- **biological control** (freq: 6) - pest management using natural enemies and beneficial organisms
+- **machine learning forecasting** (freq: 6) - artificial intelligence techniques applied to predict agricultural outcomes and resource needs
+- **irrigation demand forecasting** (freq: 6) - prediction of crop water requirements to optimize irrigation scheduling and water allocation
+- **sustainable agricultural practices** (freq: 6) - farming methods that maintain productivity while conserving resources and enhancing resilience
+- **conflict-sensitive programming** (freq: 6) - development approach that considers potential conflict risks and promotes peace-building
+- **fragile and conflict-affected settings** (freq: 6) - contexts characterized by violence, weak institutions and humanitarian crises
+- **climate finance tracking** (freq: 6) - systems for monitoring flow and use of climate-related funding
+- **digital platforms** (freq: 6) - technology-based systems for information sharing and service delivery
+- **curriculum integration** (freq: 6) - incorporation of new knowledge and practices into educational programs
+- **community-based management** (freq: 6) - natural resource management approach led by local communities
+- **seed production** (freq: 6) - organized process of producing quality seeds for agricultural use
+- **methane mitigation** (freq: 6) - reduction of methane emissions from livestock systems
+- **computable general equilibrium modeling** (freq: 5) - economic modeling approach for policy impact analysis
+- **mechanized agriculture** (freq: 5) - use of machinery to perform agricultural operations
+- **multistakeholder platforms** (freq: 5) - collaborative mechanisms bringing together diverse actors to address common challenges
+- **participatory evaluation** (freq: 5) - research approach involving farmers and stakeholders in assessment of technologies
+- **digital soil mapping** (freq: 5) - use of digital tools and algorithms to map soil properties spatially
+- **organic farming** (freq: 5) - agricultural production system avoiding synthetic inputs and emphasizing natural processes
+- **scaling readiness** (freq: 5) - systematic preparation of innovations for widespread adoption and implementation
+- **climate-resilient agriculture** (freq: 5) - farming practices adapted to withstand climate variability and extreme weather
+- **antimicrobial resistance** (freq: 5) - ability of microorganisms to survive exposure to antimicrobial drugs
+- **sustainable land management** (freq: 5) - land use practices that maintain ecosystem services while meeting human needs
+- **nutritional enhancement** (freq: 5) - improving the nutritional content of foods through ingredient modification or fortification
+- **value chain upgrading** (freq: 5) - improving quality, coordination, and market linkages across agricultural supply chains
+- **groundwater management** (freq: 5) - sustainable use and conservation of underground water resources
+- **food systems** (freq: 5) - interconnected processes from food production through consumption and disposal
+- **labor migration** (freq: 5) - movement of people for employment opportunities, often from rural to urban areas or abroad
+- **nitrogen use efficiency** (freq: 5) - crop's ability to convert applied nitrogen into grain yield
+- **genomic prediction** (freq: 5) - use of genome-wide markers to predict breeding values or phenotypes
+- **solar-powered irrigation** (freq: 5) - irrigation systems powered by solar energy for sustainable water management
+- **genotype by environment interaction** (freq: 5) - differential performance of genotypes across different environments
+- **genetic gain** (freq: 5) - rate of improvement in crop performance through breeding
+- **post-harvest losses** (freq: 5) - reduction in crop quantity or quality after harvest
+- **climate-peace-security nexus** (freq: 5) - integrated framework addressing interconnected climate, peace and security challenges
+- **remote sensing** (freq: 5) - use of satellite or aerial imagery for agricultural monitoring
+- **participatory methods** (freq: 5) - research approaches involving active participation of study subjects
+- **experiential learning** (freq: 5) - educational approach using hands-on interactive experiences to build understanding
+- **innovation bundling** (freq: 5) - integrating technical, digital and institutional solutions to address interconnected challenges
+- **conflict sensitivity** (freq: 5) - considering peace and conflict dynamics in development interventions
+- **sustainable intensification** (freq: 5) - increasing agricultural productivity while maintaining environmental sustainability
+- **clean seed systems** (freq: 5) - formal networks for producing and distributing disease-free planting materials
+- **market price monitoring** (freq: 5) - systematic tracking of commodity prices and market conditions
+- **gender-responsive agriculture** (freq: 5) - farming interventions designed to address differential impacts on men and women
+- **digital extension platforms** (freq: 5) - technology-enabled systems for delivering agricultural advisory services to farmers
+- **agro-climatic bulletin** (freq: 5) - weather-based agricultural advisory system providing farmers with climate information for decision-making
+- **multi-stakeholder collaboration** (freq: 5) - coordinated engagement among diverse organizations and sectors toward common goals
+- **seed conservation** (freq: 5) - preservation and maintenance of crop genetic diversity through seed storage and management
+- **scaling strategies** (freq: 5) - systematic methods for expanding successful interventions to broader populations
+- **rice-field pond systems** (freq: 5) - integrated farming combining rice cultivation with aquaculture in field ponds
+- **participatory diagnosis** (freq: 5) - collaborative assessment of needs and priorities involving stakeholders
+- **digital literacy** (freq: 5) - capacity to effectively use digital technologies for information and communication
+- **gender inclusion** (freq: 5) - ensuring equitable participation and benefits for all genders in development processes
+- **innovation platforms** (freq: 5) - multi-stakeholder forums for collaborative problem-solving and knowledge sharing
+- **agricultural intensification** (freq: 5) - increasing production per unit area through enhanced inputs and practices
+- **site-specific recommendations** (freq: 5) - tailored agricultural advice based on local conditions and farmer circumstances
+- **agricultural extension** (freq: 5) - knowledge transfer system connecting research to farmers through advisory services
+- **national adaptation plans** (freq: 5) - medium to long-term national planning processes for climate adaptation
+- **financial literacy training** (freq: 5) - educational programs teaching budgeting, savings, credit management, and investment decision-making skills
+- **livestock value chains** (freq: 5) - sequence of activities from livestock production to final consumption
+- **bundled cis and csa** (freq: 5) - integrated packages combining climate information with smart agriculture practices
+- **digital advisory platforms** (freq: 5) - technology-based systems for delivering agricultural and climate advisories
+- **smart valleys approach** (freq: 5) - integrated water control system for inland valley rice production
+- **early generation seed production** (freq: 5) - multiplication of breeder and foundation seed by private sector
+- **multi-environment testing** (freq: 4) - evaluating varieties across multiple locations and conditions
+- **mechanized direct seeding** (freq: 4) - agricultural practice using machinery to plant seeds directly into soil
+- **social behavior change communication** (freq: 4) - strategic communication approach to influence behaviors and social norms
+- **herd health management** (freq: 4) - comprehensive approach to maintaining animal health at population level
+- **forage improvement** (freq: 4) - development and promotion of improved feed crops for livestock
+- **disease resistance screening** (freq: 4) - systematic evaluation of genetic materials for pathogen tolerance
+- **business incubation** (freq: 4) - support system for developing and accelerating new enterprises
+- **prime editing** (freq: 4) - precise genome modification technique that enables targeted genetic changes
+- **quantitative trait locus mapping** (freq: 4) - genetic technique to identify chromosomal regions controlling quantitative traits
+- **extension training** (freq: 4) - capacity building programs for agricultural extension workers to improve farmer outreach
+- **soil health management** (freq: 4) - practices to maintain and improve soil biological, chemical, and physical properties
+- **sustainable livestock practices** (freq: 4) - animal husbandry methods that balance productivity with environmental and social sustainability
+- **seed certification** (freq: 4) - formal quality assurance system for verifying seed quality and genetic purity
+- **food environment analysis** (freq: 4) - study of factors affecting food accessibility, availability, and affordability
+- **policy assessment** (freq: 4) - evaluation of regulatory frameworks and their effectiveness
+- **gender empowerment** (freq: 4) - process of increasing women's capacity to make strategic life choices
+- **resilience** (freq: 4) - ability of households or systems to withstand and recover from shocks and stresses
+- **gender integration** (freq: 4) - systematic incorporation of gender considerations into policies, programs, and research
+- **community conversations** (freq: 4) - structured dialogue approach for community engagement and behavior change
+- **community-based seed production** (freq: 4) - decentralized seed production and marketing managed by local communities
+- **participatory varietal selection** (freq: 4) - farmer involvement in testing and selecting new crop varieties
+- **high-throughput phenotyping** (freq: 4) - automated measurement of plant traits using advanced technologies
+- **multi-environment trials** (freq: 4) - testing genotypes across multiple locations and conditions
+- **breeding program assessment** (freq: 4) - systematic evaluation of breeding program effectiveness and capabilities
+- **virtual training** (freq: 4) - remote delivery of educational content and skills development
+- **theory of change** (freq: 4) - comprehensive description of how and why desired change is expected to happen
+- **variety licensing** (freq: 4) - commercialization strategy where public research institutions license improved varieties to private sector
+- **humanitarian-development-peace nexus** (freq: 4) - integrated approach linking humanitarian aid, development programming, and peacebuilding
+- **climate-displacement nexus** (freq: 4) - relationship between climate change impacts and human displacement
+- **integrated soil fertility management** (freq: 4) - combined use of fertilizers, organic resources, and improved practices for soil health
+- **agricultural mechanization** (freq: 4) - introduction of machinery to replace manual labor in farming operations
+- **mechanized direct-seeded rice** (freq: 4) - climate-smart rice cultivation technology using machines for precision sowing instead of transplanting
+- **socio-technical innovation bundles** (freq: 4) - integrated packages combining technological innovations with social interventions
+- **soil health** (freq: 4) - capacity of soil to function as a living ecosystem supporting plant and animal productivity
+- **multi-stakeholder partnership** (freq: 4) - collaborative arrangements involving diverse actors from different sectors
+- **mixed farming systems** (freq: 4) - agricultural systems integrating crop and livestock production
+- **forage-based feeding** (freq: 4) - livestock nutrition strategy using cultivated or natural forages
+- **intercropping systems** (freq: 4) - agricultural practice of growing multiple crops simultaneously in the same field
+- **knowledge exchange** (freq: 4) - systematic sharing and transfer of information and expertise between stakeholders
+- **climate-induced displacement** (freq: 4) - forced migration resulting from climate change impacts and extreme weather events
+- **satellite-based crop monitoring** (freq: 4) - use of satellite imagery and vegetation indices to monitor crop development and phenology
+- **advocacy training** (freq: 4) - educational programs to develop skills for promoting causes and influencing policy
+- **women's political participation** (freq: 4) - involvement of women in political processes and decision-making
+- **market systems analysis** (freq: 4) - systematic examination of market structures, actors, and dynamics
+- **integrated crop management** (freq: 4) - holistic farming approach combining pest, disease, and soil health management practices
+- **home-grown school feeding** (freq: 4) - programs linking local food production with school nutrition
+- **climate forecasting** (freq: 4) - prediction of future climate conditions to support agricultural and disaster preparedness planning
+- **inclusive scaling** (freq: 4) - strategy for expanding improved varieties that ensures broad access across different farm types and socioeconomic levels
+- **morphological characterization** (freq: 4) - systematic description of physical traits in crop varieties or landraces
+- **disease management** (freq: 4) - integrated strategies for preventing and controlling plant diseases
+- **disease eradication** (freq: 4) - complete elimination of disease from affected areas through systematic removal
+- **disease surveillance** (freq: 4) - systematic monitoring and detection of plant diseases across geographic areas
+- **tropical forage breeding** (freq: 4) - development of improved forage varieties adapted to tropical conditions for livestock systems
+- **transformational adaptation** (freq: 4) - fundamental changes in agricultural systems to address climate change impacts
+- **digital agro-advisory services** (freq: 4) - technology-enabled platforms delivering agricultural guidance and recommendations to farmers
+- **climate risk profiling** (freq: 4) - systematic assessment of climate hazards and vulnerabilities for agricultural planning
+- **community seed banks** (freq: 4) - locally managed seed conservation and distribution systems
+- **locally led adaptation** (freq: 4) - community-driven climate adaptation strategies based on local knowledge and needs
+- **climate finance mechanisms** (freq: 4) - financial instruments and structures designed to fund climate mitigation and adaptation projects
+- **emissions monitoring** (freq: 4) - systematic measurement and verification of greenhouse gas emissions from agricultural activities
+- **large language models** (freq: 4) - AI systems for processing and generating human-like text responses
+- **impact evaluation** (freq: 4) - systematic assessment of changes caused by development interventions
+- **sustainable food systems** (freq: 4) - integrated agricultural systems that address climate, nutrition, and social challenges simultaneously
+- **co-creation** (freq: 4) - collaborative development process involving multiple stakeholders
+- **integrated production bundle** (freq: 4) - coherent package of agronomic practices, inputs, and management recommendations for specific crops
+- **agroecological stewardship** (freq: 4) - practices that promote environmental sustainability and ecological health in agricultural systems
+- **scaling** (freq: 4) - process of expanding successful innovations or interventions to reach broader populations or geographic areas
+- **capacity building training** (freq: 4) - structured educational intervention to develop skills and knowledge among target participants
+- **adaptive management** (freq: 4) - iterative management approach that adjusts based on learning and feedback
+- **integrated rice-field pond systems** (freq: 4) - farming approach combining rice cultivation with aquaculture in the same field system
+- **emission factors** (freq: 4) - standardized coefficients used to estimate greenhouse gas emissions from activities
+- **biogas production** (freq: 4) - anaerobic digestion process converting organic matter to methane-rich gas
+- **decision-support tools** (freq: 4) - digital platforms and frameworks that assist in agricultural decision-making
+- **computer vision** (freq: 4) - artificial intelligence technique that enables machines to interpret and analyze visual information
+- **carbon accounting** (freq: 4) - systematic measurement and tracking of carbon emissions and sequestration
+- **evidence gap mapping** (freq: 4) - systematic methodology to identify and visualize gaps in research evidence
+- **producer-led scaling** (freq: 4) - farmer-driven expansion of successful practices through peer-to-peer learning
+- **genome-wide association mapping** (freq: 4) - genetic analysis technique to identify genes associated with specific traits
+- **locally led climate action** (freq: 4) - climate initiatives driven and controlled by local communities
+- **institutional coordination** (freq: 4) - alignment and collaboration among organizations and agencies
+- **organic certification** (freq: 4) - formal verification process ensuring agricultural products meet organic production standards
+- **bioinput preparation** (freq: 4) - on-farm production of organic fertilizers and pest control agents from locally available materials
+- **private sector investment** (freq: 4) - mobilization of commercial capital for development and sustainability outcomes
+- **land degradation** (freq: 4) - decline in land quality and productivity due to human activities and climate factors
+- **climate-smart village approach** (freq: 4) - integrated community-level framework for implementing climate-smart agriculture
+- **gender-inclusive approaches** (freq: 4) - methods that ensure equitable participation and benefits for all genders
+- **ai-driven agricultural extension** (freq: 4) - use of artificial intelligence to deliver agricultural advice and information to farmers
+- **food systems resilience** (freq: 4) - capacity of food systems to withstand and recover from shocks while maintaining functionality
+- **forced displacement** (freq: 4) - involuntary movement of people due to conflict, persecution, or environmental factors
+- **stakeholder consultation** (freq: 4) - structured engagement with relevant parties to gather input and build consensus
+- **mixed-methods approach** (freq: 4) - research design combining quantitative and qualitative data collection techniques
+- **heat stress analysis** (freq: 4) - quantitative assessment of temperature impacts on crops, livestock, and human populations
+- **climate resilience assessment** (freq: 4) - systematic evaluation of systems' ability to withstand climate impacts
+- **water resilience planning** (freq: 4) - strategic planning to ensure water security under climate change
+- **doubled haploids** (freq: 3) - breeding technique producing homozygous lines in one generation
+- **community-based breeding programs** (freq: 3) - participatory genetic improvement schemes involving farmers in design and implementation
+- **data gap analysis** (freq: 3) - systematic assessment to identify missing or incomplete information in databases
+- **inclusive business models** (freq: 3) - commercial strategies ensuring access to services for smallholder farmers and marginalized groups
+- **better management practices** (freq: 3) - standardized guidelines for sustainable and productive farming operations
+- **interdisciplinary research** (freq: 3) - research approach combining multiple scientific disciplines to address complex problems
+- **gender-sensitive interventions** (freq: 3) - development interventions designed to address gender-specific needs and constraints
+- **enabling environment** (freq: 3) - policy and regulatory conditions that support business development
+- **deep learning detection** (freq: 3) - artificial intelligence approach for automated pattern recognition
+- **crop growth modeling** (freq: 3) - computational simulation of plant development and yield prediction
+- **field-specific nutrient management** (freq: 3) - customized fertilizer recommendations based on individual field characteristics and conditions
+- **genetic improvement** (freq: 3) - systematic enhancement of livestock or crop traits through breeding programs
+- **water-energy-food-environment nexus** (freq: 3) - integrated framework for managing interconnected water, energy, food and environmental systems
+- **hydrological modeling** (freq: 3) - mathematical simulation of water cycle processes for water resource planning and management
+- **meta-analysis** (freq: 3) - statistical method for combining results from multiple studies to assess overall effects
+- **double burden of malnutrition** (freq: 3) - coexistence of under- and overnutrition within individuals, households, and populations
+- **food security monitoring** (freq: 3) - systematic tracking of food access, availability, and utilization indicators
+- **aquaculture development** (freq: 3) - establishment and improvement of fish farming systems
+- **ultra-poor graduation model** (freq: 3) - integrated intervention combining cash transfers, assets, training, and coaching for extreme poverty
+- **vegetative propagation** (freq: 3) - plant reproduction using vegetative parts rather than seeds
+- **rotational grazing** (freq: 3) - systematic movement of livestock between pasture areas
+- **transformative adaptation** (freq: 3) - fundamental changes in systems to address climate impacts
+- **drought monitoring** (freq: 3) - systematic tracking of drought conditions using indicators
+- **carbon footprint assessment** (freq: 3) - quantification of greenhouse gas emissions from agricultural production systems
+- **incentive mechanisms** (freq: 3) - policy tools designed to encourage adoption of specific practices or behaviors
+- **nexus approach** (freq: 3) - integrated analysis of water-energy-food-environment interactions and trade-offs
+- **intimate partner violence** (freq: 3) - physical, sexual, or psychological harm by current or former intimate partners
+- **gender-sensitive agricultural interventions** (freq: 3) - agricultural programs that explicitly address gender roles and women's participation in farming activities
+- **coping strategies** (freq: 3) - actions taken by households to manage economic or environmental stress
+- **deforestation monitoring** (freq: 3) - systematic tracking of forest loss over time using remote sensing and ground data
+- **trait preferences** (freq: 3) - farmer and stakeholder preferences for specific crop characteristics
+- **gender-responsive breeding** (freq: 3) - breeding programs that consider differentiated needs of men and women farmers
+- **yield gap analysis** (freq: 3) - assessment of differences between potential and actual crop yields
+- **on-farm conservation** (freq: 3) - maintaining crop genetic diversity through cultivation on farms
+- **food diversity** (freq: 3) - variety of food types available within a given area or system
+- **aquaculture decision support tool** (freq: 3) - multi-criteria analysis platform for aquaculture site selection and planning
+- **yield gap closure** (freq: 3) - bridging the difference between current farmer yields and attainable yields under optimal conditions
+- **demand-driven breeding** (freq: 3) - breeding programs guided by end-user needs and market requirements
+- **farmer-led demonstration plots** (freq: 3) - on-farm trials managed by farmers for peer-to-peer learning and technology validation
+- **multi-omics integration** (freq: 3) - combining genomics, transcriptomics, and metabolomics data for analysis
+- **root system architecture** (freq: 3) - spatial configuration and development of plant root systems
+- **biological nitrification inhibition** (freq: 3) - natural process that hinders soil nitrification to improve nitrogen use efficiency
+- **molecular breeding** (freq: 3) - breeding approach using molecular tools and markers for trait selection
+- **product profile development** (freq: 3) - defining target traits and characteristics for specific market segments
+- **variety testing** (freq: 3) - systematic evaluation of crop varieties for performance and adaptation
+- **variety release procedures** (freq: 3) - formal processes for approving and distributing new crop varieties
+- **early generation seed supply** (freq: 3) - provision of foundation seed from breeding programs to seed producers
+- **validation workshops** (freq: 3) - participatory sessions to verify and confirm research findings
+- **human security** (freq: 3) - protection of individuals from threats to their safety and wellbeing
+- **women's leadership development** (freq: 3) - capacity building initiatives focused on enhancing women's leadership skills and confidence
+- **positive deviance approach** (freq: 3) - identifying and learning from individuals or groups with better outcomes despite similar constraints
+- **nature-positive agriculture** (freq: 3) - farming practices that enhance biodiversity and ecosystem services while maintaining productivity
+- **nitrogen management** (freq: 3) - optimization of nitrogen fertilizer application rates and timing
+- **dietary diversity** (freq: 3) - variety of foods consumed across different food groups
+- **stakeholder dialogue** (freq: 3) - structured multi-party discussions to address complex resource management challenges
+- **gender-transformative intervention** (freq: 3) - development strategies that address structural gender inequalities and power dynamics
+- **empowerment** (freq: 3) - process of increasing capacity to make choices and transform those choices into actions
+- **synthetic aperture radar** (freq: 3) - remote sensing technique using radar signals to monitor surface conditions and vegetation
+- **food insecurity** (freq: 3) - lack of reliable access to sufficient quantities of affordable, nutritious food
+- **resource scarcity** (freq: 3) - insufficient availability of natural resources like water, land, or pasture
+- **semi-autotrophic hydroponics** (freq: 3) - plant propagation system using sterile growing media under controlled conditions
+- **automatic speech recognition** (freq: 3) - technology that converts spoken language into text for digital applications
+- **knowledge dissemination** (freq: 3) - systematic sharing of research findings and expertise across communities
+- **guerrilla gardening** (freq: 3) - informal cultivation of plants in public or underutilized spaces
+- **participatory monitoring and evaluation** (freq: 3) - community-led approach to tracking progress and assessing outcomes using locally relevant indicators
+- **food system analytics** (freq: 3) - data-driven analysis of food production, distribution, and consumption systems
+- **discrete choice experiments** (freq: 3) - statistical method to elicit preferences by presenting respondents with choice scenarios
+- **willingness to pay** (freq: 3) - economic measure of maximum amount consumers will pay for a good or service
+- **systems approach** (freq: 3) - holistic methodology analyzing interconnected components and feedback loops
+- **small-scale irrigation** (freq: 3) - water management systems for smallholder agricultural production
+- **just transition** (freq: 3) - equitable shift to sustainable economy that leaves no one behind and creates decent work opportunities
+- **land restoration** (freq: 3) - practices to rehabilitate degraded landscapes and ecosystems
+- **greenhouse gas emission measurement** (freq: 3) - techniques to quantify agricultural emissions for climate action
+- **livestock production** (freq: 3) - agricultural system focused on raising animals for food, income, and other products
+- **salinity intrusion** (freq: 3) - movement of salt water into freshwater areas affecting soil and crop production
+- **technology diffusion** (freq: 3) - spread and adoption of new technologies across markets and users
+- **zero tillage** (freq: 3) - farming practice that eliminates mechanical soil disturbance for planting
+- **digital sequence information** (freq: 3) - genomic data used for genetic resource characterization and analysis
+- **rainwater harvesting** (freq: 3) - collection and storage of rainwater for agricultural use
+- **water-energy-food-ecosystems nexus** (freq: 3) - integrated approach addressing interconnections between water, energy, food, and ecosystem management
+- **digital tracking system** (freq: 3) - technology-based monitoring and data collection system for agricultural interventions
+- **disease diagnosis** (freq: 3) - systematic identification and characterization of plant diseases
+- **data harmonization** (freq: 3) - standardization of data formats and structures across systems
+- **pathogen identification** (freq: 3) - laboratory techniques for diagnosing disease-causing organisms
+- **gender equity** (freq: 3) - fair treatment and opportunities for all genders in agricultural systems
+- **small-scale mechanization** (freq: 3) - use of small machinery like power tillers and mowers in agricultural production
+- **herder-farmer conflict** (freq: 3) - violent conflict between nomadic herders and settled agricultural communities over land and resources
+- **climate-resilient farming** (freq: 3) - agricultural practices that help farmers adapt to climate change impacts
+- **water-efficient farming** (freq: 3) - agricultural techniques that optimize water use while maintaining or improving crop productivity
+- **index insurance** (freq: 3) - insurance products that use objective indices to trigger payouts rather than individual loss assessments
+- **risk contingent credit** (freq: 3) - financial mechanism that links agricultural credit with insurance coverage to manage production risks
+- **bundled advisory services** (freq: 3) - integrated delivery of multiple agricultural services including advisories, inputs, credit, and insurance
+- **water management planning** (freq: 3) - strategic allocation and scheduling of water resources for agricultural production
+- **digital farming tools** (freq: 3) - technology platforms that support agricultural decision-making and farmer participation in sustainable practices
+- **crop simulation modeling** (freq: 3) - computational tools for predicting crop growth, yield, and environmental impacts under different scenarios
+- **ipcc tier 2 methodology** (freq: 3) - standardized approach for estimating greenhouse gas emissions using country-specific parameters
+- **biogas digester performance** (freq: 3) - operational efficiency and gas production capacity of small-scale anaerobic digestion systems
+- **bundled climate-smart solutions** (freq: 3) - integrated package of climate adaptation and mitigation practices for agriculture
+- **agricultural commercialization clusters** (freq: 3) - geographic zones organized for coordinated agricultural development and market access
+- **hydroclimatic extremes** (freq: 3) - severe weather events including droughts, floods, and irregular rainfall patterns affecting agriculture
+- **transboundary water management** (freq: 3) - coordinated governance of water resources across national or regional boundaries
+- **social equity integration** (freq: 3) - ensuring marginalized groups have equal access to resources and decision-making in development programs
+- **climate advisory services** (freq: 3) - information systems providing weather and climate guidance for agricultural decision-making
+- **evidence-based decision support** (freq: 3) - agricultural advisory systems using scientific data to guide farmer decisions
+- **emission monitoring systems** (freq: 3) - tools and frameworks for measuring and reporting greenhouse gas emissions from agricultural activities
+- **digital agricultural extension** (freq: 3) - technology-enabled delivery of agricultural advisory services and information to farmers
+- **policy uptake** (freq: 3) - adoption and implementation of research findings in policy frameworks
+- **user-centered design** (freq: 3) - design approach that prioritizes end-user needs and experiences throughout development
+- **gender-responsive solutions** (freq: 3) - interventions designed to address differential impacts and needs by gender
+- **trait deployment** (freq: 3) - process of incorporating beneficial genetic traits into crop varieties through breeding programs
+- **integrated aquaculture agriculture** (freq: 3) - farming system combining fish production with crop cultivation to maximize resource efficiency
+- **socio-ecological resilience** (freq: 3) - capacity of social-ecological systems to adapt and maintain function under stress
+- **digital climate advisory services** (freq: 3) - technology-enabled platforms providing climate information and agricultural guidance to farmers
+- **scale-appropriate mechanization** (freq: 3) - agricultural machinery and tools sized and designed for smallholder farming systems
+- **data-driven agriculture** (freq: 3) - agricultural decision-making based on systematic analysis of climatic, soil, and agronomic data using computational methods
+- **community-based climate observation** (freq: 3) - local monitoring of climate variables by community members to support decision-making and early warning
+- **nursery management** (freq: 3) - systematic practices for rearing young organisms in controlled environments before transfer to production systems
+- **extension services** (freq: 3) - educational and advisory services that transfer knowledge and technologies to farmers
+- **drought management** (freq: 3) - strategies and tools for monitoring, predicting, and responding to drought conditions
+- **participatory co-design** (freq: 3) - collaborative approach involving stakeholders in designing research and interventions
+- **capacity sharing** (freq: 3) - collaborative exchange of skills, knowledge, and resources between institutions
+- **agribusiness acceleration** (freq: 3) - structured support to help agricultural enterprises scale and access markets
+- **whole-farm innovation bundles** (freq: 3) - integrated packages of complementary technologies and practices for entire farming systems
+- **tricot approach** (freq: 3) - triadic comparison method for on-farm testing where farmers rank three technologies
+- **data curation** (freq: 3) - process of organizing, validating, and managing data for quality and accessibility
+- **agroclimatic monitoring** (freq: 3) - systematic observation and tracking of climate conditions affecting agricultural production
+- **territorial mechanisms** (freq: 3) - local institutional arrangements that connect actors, infrastructure and information
+- **inter-institutional coordination** (freq: 3) - collaborative arrangements between different organizations for common goals
+- **low-carbon behaviors** (freq: 3) - individual and household actions that reduce greenhouse gas emissions
+- **village-level governance** (freq: 3) - local institutional arrangements for decision-making and resource management
+- **ecosystem carbon sequestration** (freq: 3) - natural processes by which ecosystems capture and store atmospheric carbon
+- **zero-carbon agriculture** (freq: 3) - farming systems designed to achieve net-zero greenhouse gas emissions
+- **carbon trading** (freq: 3) - market-based mechanism for trading carbon credits to offset greenhouse gas emissions
+- **climate mitigation** (freq: 3) - actions to reduce greenhouse gas emissions and limit climate change
+- **peer learning** (freq: 3) - knowledge exchange and skill development among individuals with similar experiences
+- **feed management** (freq: 3) - strategies for optimizing animal nutrition and feed resource utilization
+- **antibiotic resistance monitoring** (freq: 3) - surveillance and measurement of antimicrobial resistance in bacterial populations
+- **hub model** (freq: 3) - territorial multistakeholder platforms integrating research, innovation and extension
+- **low-emission agriculture** (freq: 3) - farming practices designed to reduce greenhouse gas emissions while maintaining productivity
+- **satellite-based monitoring** (freq: 3) - use of satellite imagery and remote sensing for crop and weather monitoring
+- **food crisis prediction** (freq: 3) - analytical approaches for forecasting food security emergencies
+- **gender-climate-nutrition integration** (freq: 3) - holistic approach linking gender equity, climate resilience, and nutrition outcomes
+- **monitoring, reporting, and verification** (freq: 3) - systems for tracking and validating climate action progress
+- **climate vulnerability assessment** (freq: 3) - systematic evaluation of exposure, sensitivity, and adaptive capacity to climate risks
+- **cooperative development** (freq: 3) - building organizational capacity and governance structures for farmer collective action
+- **curriculum development** (freq: 3) - systematic design and creation of educational programs and materials
+- **rangeland management** (freq: 3) - sustainable management of grassland ecosystems for livestock production and ecosystem services
+- **post-harvest processing** (freq: 3) - handling and treatment of crops after harvest
+- **agrobiodiversity conservation** (freq: 3) - preservation of genetic diversity in agricultural systems
+- **multisectoral collaboration** (freq: 3) - coordination across different sectors and disciplines
+- **adaptive capacity** (freq: 3) - ability of systems to adjust to climate change and reduce vulnerability
+- **digital advisories** (freq: 3) - technology-based platforms delivering agricultural guidance to farmers
+- **investment planning** (freq: 3) - systematic process for identifying and prioritizing climate-resilient investments
+- **gender-responsive agricultural advisories** (freq: 3) - agricultural guidance systems designed to address different needs and constraints of men and women farmers
+- **climate-smart villages** (freq: 3) - community-based research sites for testing and demonstrating climate adaptation technologies
+- **gender equality** (freq: 3) - equal rights, opportunities and treatment regardless of gender
+- **agroclimatic forecasting** (freq: 3) - prediction of weather and climate conditions relevant to agricultural planning
+- **gender equality social inclusion** (freq: 3) - ensuring equitable participation and benefits for all groups
+- **small-scale fisheries** (freq: 3) - artisanal fishing operations typically characterized by low capital investment and local community involvement
+- **market assessment** (freq: 3) - systematic evaluation of supply, demand, and market dynamics for specific products or sectors
+- **livelihood improvement** (freq: 3) - enhancement of income, employment, and economic opportunities for communities
+- **environmental sustainability** (freq: 3) - management practices that maintain ecological integrity while meeting human needs
+- **site-specific fertilizer advisory** (freq: 3) - precision nutrient management recommendations based on landscape and soil conditions
+- **digital monitoring platform** (freq: 3) - technology-based system for tracking and verification of activities
+- **data fusion** (freq: 3) - integration of multiple data sources or sensor types to improve analytical outcomes
+- **digital twin technology** (freq: 3) - digital replica of physical systems used for modeling and decision support
+- **agribusiness training** (freq: 3) - education combining agricultural production with business management skills
+- **certified seed production** (freq: 3) - formal system for producing seeds that meet quality standards and certification requirements
+- **monitoring and evaluation frameworks** (freq: 3) - structured approaches to measure and assess intervention outcomes
+- **seed production systems** (freq: 3) - organized networks for producing and distributing quality crop seeds
+- **adaptation finance** (freq: 3) - financial resources dedicated to climate change adaptation activities
+- **breeding pipeline development** (freq: 3) - establishment of systematic processes for variety development
+- **multi-environment trial evaluation** (freq: 3) - testing of varieties across multiple locations and seasons
+- **seed product market segmentation** (freq: 2) - systematic categorization of seed markets based on standardized criteria
+- **community-based resource management** (freq: 2) - participatory strategy where local communities manage their natural resources
+- **model farms** (freq: 2) - demonstration sites showcasing integrated agricultural technologies and practices
+- **feed processing** (freq: 2) - techniques to improve nutritional quality and preservation of animal feeds
+- **scaling champions** (freq: 2) - trusted individuals who coordinate actors and support innovation adoption
+- **ecosystem services valuation** (freq: 2) - quantification and monetization of environmental benefits
+- **unmanned aerial vehicle surveillance** (freq: 2) - drone-based monitoring and data collection for agriculture
+- **gender equality and social inclusion** (freq: 2) - strategy to ensure equitable participation of marginalized groups
+- **variety adaptation trials** (freq: 2) - field testing to evaluate crop performance under local conditions
+- **managed aquifer recharge** (freq: 2) - intentional replenishment of groundwater through controlled water infiltration
+- **multistakeholder partnerships** (freq: 2) - collaborative arrangements involving diverse actors across agricultural value chains
+- **aquaculture** (freq: 2) - farming of fish and other aquatic organisms in controlled environments
+- **mechanization service provider model** (freq: 2) - business model where farmers provide mechanization services to other farmers for a fee
+- **integrated rice-fish systems** (freq: 2) - farming system combining rice cultivation with fish production in the same field
+- **ultra-processed foods** (freq: 2) - industrially processed foods contributing to poor diet quality and health outcomes
+- **food rescue** (freq: 2) - recovery and redistribution of surplus food to reduce waste and improve food security
+- **urban farming** (freq: 2) - agricultural production within urban environments to enhance local food security
+- **data standardization** (freq: 2) - process of converting diverse datasets into consistent, comparable formats
+- **geospatial analysis** (freq: 2) - examination of spatial data to understand geographic patterns and relationships
+- **policy analysis** (freq: 2) - systematic evaluation of policy options, impacts, and implementation strategies
+- **metabolomic profiling** (freq: 2) - comprehensive analysis of small molecules and metabolites in biological samples
+- **technical efficiency analysis** (freq: 2) - measurement of how well inputs are converted to outputs relative to best practice
+- **dietary diversity assessment** (freq: 2) - measurement of variety in food consumption patterns
+- **theatre of the oppressed** (freq: 2) - participatory theatre methodology for addressing social issues and power dynamics
+- **digital transfers** (freq: 2) - electronic delivery of cash assistance through mobile money and digital platforms
+- **nitrogen fixation** (freq: 2) - biological process converting atmospheric nitrogen to plant-available forms
+- **conflict-affected settings** (freq: 2) - regions experiencing or recovering from armed conflict or civil unrest
+- **food environment intervention** (freq: 2) - strategies to modify food availability, accessibility, and affordability
+- **contingent valuation** (freq: 2) - survey-based method to estimate economic value of non-market goods
+- **water-energy-food-ecosystem nexus** (freq: 2) - integrated management of interconnected resource systems
+- **crop type mapping** (freq: 2) - remote sensing identification of agricultural land use patterns
+- **food environment assessment** (freq: 2) - evaluation of food availability, accessibility, and quality in communities
+- **nutrition-sensitive interventions** (freq: 2) - programs addressing underlying causes of malnutrition
+- **postharvest loss reduction** (freq: 2) - strategies to minimize food waste after harvest
+- **food safety monitoring** (freq: 2) - systematic surveillance of contaminants and hazards in food systems
+- **deep learning** (freq: 2) - machine learning approach using neural networks for pattern recognition
+- **end-to-end approach** (freq: 2) - comprehensive intervention strategy addressing multiple points in a system
+- **irrigation water productivity** (freq: 2) - measure of crop yield per unit of irrigation water applied
+- **social accounting matrix** (freq: 2) - comprehensive economic accounting framework linking production, income and expenditure flows
+- **groundwater governance** (freq: 2) - institutional frameworks and practices for sustainable groundwater resource management
+- **forest landscape restoration** (freq: 2) - long-term process of regaining ecological functionality across deforested landscapes
+- **cash transfers** (freq: 2) - direct monetary payments to individuals or households as social assistance
+- **social norms** (freq: 2) - shared expectations and rules that guide behavior within groups
+- **women's empowerment in agriculture index** (freq: 2) - standardized tool for measuring women's empowerment in agricultural contexts
+- **virtual learning** (freq: 2) - remote education delivery using digital technologies
+- **cash transfer programs** (freq: 2) - direct monetary assistance provided to households to improve welfare outcomes
+- **participatory extension** (freq: 2) - collaborative method of delivering agricultural knowledge involving farmer participation
+- **integrated monitoring systems** (freq: 2) - comprehensive surveillance platforms combining multiple data sources
+- **gene pyramiding** (freq: 2) - combining multiple resistance genes in a single variety
+- **combining ability analysis** (freq: 2) - assessment of parental lines' ability to produce superior hybrid offspring
+- **doubled haploid breeding** (freq: 2) - technique to rapidly produce homozygous inbred lines from heterozygous plants
+- **built food environment** (freq: 2) - physical infrastructure and retail outlets that determine food access and availability
+- **pastoral mobility** (freq: 2) - traditional practice of moving livestock to access seasonal grazing resources
+- **district working groups** (freq: 2) - collaborative governance structures for coordinated natural resource management
+- **nutrition-sensitive value chain** (freq: 2) - approach to analyze and improve nutritional outcomes along food value chains
+- **participatory cultivar selection** (freq: 2) - farmer involvement in variety evaluation and selection before commercial release
+- **irrigation-as-a-service** (freq: 2) - business model where irrigation services are provided by third parties rather than owned by farmers
+- **soil health improvement** (freq: 2) - enhancement of soil biological, chemical, and physical properties for sustainable productivity
+- **yield stability** (freq: 2) - consistent crop performance across different environments
+- **grain quality** (freq: 2) - nutritional and processing characteristics of cereal grains
+- **senescence rate** (freq: 2) - speed of plant aging and chlorophyll degradation
+- **agroecological assessment** (freq: 2) - evaluation of agricultural systems using agroecological principles
+- **supplemental irrigation** (freq: 2) - strategic water application to supplement rainfall in dryland systems
+- **economic impact assessment** (freq: 2) - quantitative evaluation of economic benefits and costs of interventions
+- **field excursion** (freq: 2) - educational approach using hands-on outdoor learning experiences
+- **stakeholder co-design** (freq: 2) - collaborative design process involving all relevant parties in solution development
+- **business-to-business forum** (freq: 2) - platform for learning, networking, and joint problem-solving to catalyze business growth and competitiveness
+- **varietal turnover** (freq: 2) - replacement of older crop varieties with newer improved varieties by farmers
+- **phenotyping** (freq: 2) - measurement and analysis of observable plant characteristics
+- **heritability estimation** (freq: 2) - quantification of genetic contribution to trait variation
+- **wildlife farming** (freq: 2) - commercial raising of wild animal species for meat, medicine, or trade
+- **technology adoption dynamics** (freq: 2) - patterns of farmer uptake and abandonment of agricultural innovations
+- **indigenous variety conservation** (freq: 2) - preservation and promotion of traditional crop varieties
+- **community-led initiatives** (freq: 2) - locally driven programs managed by community members
+- **gender dynamics** (freq: 2) - patterns of interaction and power relations between genders
+- **multi-omics approaches** (freq: 2) - integration of genomics, transcriptomics, proteomics and metabolomics data
+- **participatory learning methodology** (freq: 2) - educational approach that engages participants in dialogue and reflection to foster learning and behavior change
+- **vision-to-action process** (freq: 2) - structured community planning approach to translate environmental goals into actionable farming plans
+- **behavioral change communication** (freq: 2) - interventions designed to influence individual decision-making and behavior
+- **gender-responsive interventions** (freq: 2) - programs designed to address differential impacts across gender lines
+- **precision sowing** (freq: 2) - accurate placement of seeds using mechanized equipment for optimal crop establishment
+- **food recovery** (freq: 2) - systematic collection and redistribution of surplus food to reduce waste and improve access
+- **inclusive water governance** (freq: 2) - water management frameworks that ensure equitable participation and benefit-sharing
+- **salinity management** (freq: 2) - strategies and technologies to address soil and water salinity in agricultural systems
+- **community-based governance** (freq: 2) - local management systems where communities control and manage shared resources
+- **traceability** (freq: 2) - ability to track products through supply chain stages
+- **systematic composting** (freq: 2) - structured method for producing compost using organic materials and training
+- **soil moisture monitoring** (freq: 2) - systematic tracking of soil water content using remote sensing or field measurements
+- **subjective resilience** (freq: 2) - household-perceived capacity to anticipate, withstand, recover from, and adapt to hazards
+- **solar-based irrigation** (freq: 2) - water delivery system powered by solar energy for agricultural production
+- **agricultural water management** (freq: 2) - integrated approach to managing water resources for crop production
+- **child malnutrition** (freq: 2) - inadequate nutrition in children leading to stunting, wasting, or underweight conditions
+- **virus elimination protocols** (freq: 2) - procedures to remove viral infections from plant germplasm
+- **climate-informed decision-making** (freq: 2) - incorporating climate data and projections into planning and management
+- **strategic foresight** (freq: 2) - systematic exploration of future scenarios to inform current decisions
+- **gamification** (freq: 2) - applying game design elements to non-game contexts to enhance engagement
+- **urban food security** (freq: 2) - reliable access to adequate food in urban environments
+- **spatial targeting** (freq: 2) - geographic prioritization of interventions based on location-specific factors
+- **ex ante economic analysis** (freq: 2) - forward-looking assessment of investment returns before implementation
+- **vision-to-action approach** (freq: 2) - participatory process to translate shared community visions into concrete, measurable actions
+- **disease and pest management** (freq: 2) - integrated strategies for controlling agricultural diseases and pests
+- **shared services** (freq: 2) - centralized provision of common resources and capabilities across organizations
+- **island food systems** (freq: 2) - food production and distribution systems specific to island environments
+- **refugee policy impact** (freq: 2) - political and social effects of policies governing refugee populations
+- **payment for ecosystem services** (freq: 2) - economic mechanism compensating land managers for environmental benefits
+- **responsible scaling** (freq: 2) - expansion of innovations while anticipating and mitigating social and environmental risks
+- **feed and forage innovations** (freq: 2) - improved feeding technologies and practices for livestock in mixed farming systems
+- **integrated water resources management** (freq: 2) - coordinated development and management of water, land and related resources
+- **water balance model** (freq: 2) - computational framework quantifying water inputs, outputs, and storage changes in agricultural systems
+- **generative artificial intelligence** (freq: 2) - ai systems capable of creating new content including text, images, or recommendations based on training data
+- **climate attribution** (freq: 2) - scientific methods to quantify human influence on extreme weather events
+- **traditional knowledge systems** (freq: 2) - indigenous practices and understanding passed through generations
+- **nutrition security** (freq: 2) - reliable access to adequate, safe, and nutritious food for healthy living
+- **fodder cultivation** (freq: 2) - growing plants specifically for animal feed to improve livestock nutrition
+- **mechanical transplanting** (freq: 2) - use of machines to plant seedlings instead of manual labor
+- **responsible innovation** (freq: 2) - innovation processes that consider ethical, social, and environmental implications
+- **crop intensification** (freq: 2) - increasing agricultural productivity per unit area through improved practices
+- **fungicidal seed treatment** (freq: 2) - application of fungicides to seeds before planting to control seed-borne diseases
+- **systematic agrobiodiversity monitoring** (freq: 2) - standardized tracking of crop diversity conservation status over time and space
+- **nutritional security** (freq: 2) - access to adequate nutrition and essential micronutrients
+- **payment for environmental services** (freq: 2) - economic mechanism that compensates land users for providing ecosystem services
+- **biochar application** (freq: 2) - use of charcoal-like material to improve soil properties and carbon sequestration
+- **seed health testing** (freq: 2) - protocols for detecting pathogens and ensuring seed quality
+- **collective action** (freq: 2) - coordinated community efforts to address shared challenges
+- **policy advocacy** (freq: 2) - strategic efforts to influence policy decisions using evidence
+- **phytosanitary measures** (freq: 2) - regulations and practices to prevent spread of plant pests and diseases
+- **parasitism rate** (freq: 2) - proportion of pest population attacked by parasitoid natural enemies
+- **gendered labor response** (freq: 2) - differential impacts of external shocks on men's and women's work patterns
+- **systems thinking** (freq: 2) - holistic approach to understanding complex problems by examining interconnections and leverage points
+- **participatory capacity building** (freq: 2) - collaborative learning processes that strengthen stakeholder skills through active engagement
+- **soil organic carbon sequestration** (freq: 2) - process of capturing and storing atmospheric carbon in soil through organic matter accumulation
+- **community-led environmental management** (freq: 2) - local community-driven approaches to natural resource management and environmental conservation
+- **community fish refuge management** (freq: 2) - community-based governance of aquatic resources to maintain fish populations and livelihoods
+- **nitrogen isotope analysis** (freq: 2) - scientific technique using isotopic signatures to trace nitrogen sources and transformation pathways
+- **climate-smart credit scoring** (freq: 2) - financial assessment tool incorporating climate resilience factors for agricultural lending
+- **drought tolerance screening** (freq: 2) - systematic evaluation of crop varieties for resistance to water stress
+- **terminal heat stress** (freq: 2) - high temperature exposure during grain filling that reduces crop yields
+- **zero deforestation compliance** (freq: 2) - monitoring and verification systems to ensure supply chains do not contribute to forest loss
+- **pest risk identification** (freq: 2) - systematic surveillance and early warning systems for agricultural pest and disease threats
+- **carbon credit certification** (freq: 2) - formal verification process that enables farmers to monetize emission reductions through carbon markets
+- **circular economy solutions** (freq: 2) - waste-to-value systems that convert agricultural residues into useful products
+- **feed composition databases** (freq: 2) - centralized repositories of nutritional data for livestock feed ingredients
+- **soil organic carbon monitoring** (freq: 2) - measurement and tracking of carbon content in agricultural soils
+- **farmer-led extension** (freq: 2) - agricultural advisory systems driven by peer-to-peer knowledge sharing among farmers
+- **digital extension integration** (freq: 2) - combining digital tools with traditional extension services for farmer outreach
+- **climate-smart pest management** (freq: 2) - pest control strategies adapted to climate change conditions
+- **biological control agents** (freq: 2) - use of natural enemies to suppress agricultural pests
+- **farmer field demonstrations** (freq: 2) - on-farm testing and showcasing of improved agricultural practices
+- **agroecology transition** (freq: 2) - systematic shift from conventional to ecological agricultural practices and systems
+- **agroecosystem living labs** (freq: 2) - collaborative research approach engaging farmers and communities to test climate-smart practices in real farming systems
+- **gender-responsive policy** (freq: 2) - policy framework that integrates gender equality considerations into planning and implementation
+- **adaptive scaling** (freq: 2) - approach to scaling innovations that adapts to local contexts and market conditions
+- **environmental peacebuilding** (freq: 2) - use of environmental cooperation to promote peace and social cohesion in post-conflict areas
+- **training needs assessment** (freq: 2) - systematic approach to identify knowledge and skill gaps for targeted capacity building
+- **soil health monitoring** (freq: 2) - systematic assessment of soil biological, chemical, and physical properties for management decisions
+- **genetic diversity assessment** (freq: 2) - evaluation of genetic variation within crop populations
+- **investment action plan** (freq: 2) - strategic framework outlining funding requirements and implementation pathways
+- **vision-to-action mapping** (freq: 2) - structured process for translating strategic visions into concrete action plans
+- **mechanization services** (freq: 2) - provision of agricultural machinery and equipment services to farmers
+- **diet quality monitoring** (freq: 2) - systematic tracking and assessment of nutritional quality in food consumption patterns
+- **knowledge platform** (freq: 2) - digital system for organizing, sharing and accessing information resources
+- **urban agriculture** (freq: 2) - food production activities within urban and peri-urban areas
+- **land sparing** (freq: 2) - conservation strategy separating intensive agriculture from protected natural areas
+- **heritability metrics** (freq: 2) - statistical measures quantifying genetic versus environmental contribution to trait variation
+- **artificial insemination** (freq: 2) - reproductive technology for controlled breeding in livestock
+- **territorial innovation networks** (freq: 2) - collaborative networks linking research, extension and farmers across geographic territories
+- **iot sensor networks** (freq: 2) - interconnected sensors collecting real-time environmental and agricultural data
+- **satellite imagery analysis** (freq: 2) - use of satellite data to monitor crop conditions and agricultural landscapes
+- **homestead aquaculture** (freq: 2) - small-scale fish farming practiced at household level for food security and income generation
+- **digital financial services** (freq: 2) - technology-enabled credit, insurance, and banking solutions for agricultural communities
+- **policy dialogue** (freq: 2) - structured discussions among stakeholders to inform policy development and implementation
+- **agrifood system transformation** (freq: 2) - comprehensive changes to make food systems more sustainable, resilient, and inclusive
+- **climate suitability mapping** (freq: 2) - spatial analysis to identify optimal locations for crops under current and future climate conditions
+- **disaster risk management** (freq: 2) - systematic approach to identifying, assessing, and reducing risks from natural hazards
+- **livestock feed optimization** (freq: 2) - strategies to improve animal nutrition using locally available feed resources
+- **gender-responsive budgeting** (freq: 2) - budget analysis and allocation considering differential gender impacts
+- **bundled innovations** (freq: 2) - integrated packages combining multiple complementary technologies and practices
+- **family-based selection** (freq: 2) - breeding strategy using family performance data to select superior genetic lines
+- **digital agricultural advisory** (freq: 2) - technology-enabled extension services delivering agricultural recommendations
+- **location-specific recommendations** (freq: 2) - tailored agricultural advice based on local environmental and crop conditions
+- **diagnostic bootcamp** (freq: 2) - interactive workshop format for identifying business constraints and solutions
+- **forage legume integration** (freq: 2) - incorporating protein-rich leguminous plants into livestock feeding systems
+- **improved seed adoption** (freq: 2) - process by which farmers take up and use enhanced crop varieties
+- **drone-based monitoring** (freq: 2) - use of unmanned aerial vehicles for data collection and measurement
+- **enteric fermentation** (freq: 2) - digestive process in ruminants that produces methane as a byproduct
+- **greenhouse gas inventory** (freq: 2) - systematic accounting of emissions and removals by sources and sinks
+- **peer learning networks** (freq: 2) - farmer-to-farmer knowledge sharing platforms for scaling innovations
+- **food systems leadership** (freq: 2) - leadership development and behaviors within agricultural and food system contexts
+- **consumer preference mapping** (freq: 2) - systematic assessment of consumer preferences for product traits and characteristics
+- **quality assurance** (freq: 2) - systematic processes to ensure products or services meet specified standards
+- **usability testing** (freq: 2) - evaluation of user interface design through task-based user feedback
+- **south-south collaboration** (freq: 2) - knowledge and technology exchange between developing countries
+- **low-carbon agriculture** (freq: 2) - agricultural systems designed to minimize greenhouse gas emissions while maintaining productivity
+- **digital extension services** (freq: 2) - technology-enabled platforms for delivering agricultural advisory and information services to farmers
+- **yield projection** (freq: 2) - forecasting future crop production based on various biophysical and socioeconomic factors
+- **climate adaptation practices** (freq: 2) - strategies and actions taken to adjust to climate change impacts and reduce vulnerability
+- **fertilizer policy** (freq: 2) - government regulations and subsidies governing fertilizer availability, pricing, and use
+- **nutrient management** (freq: 2) - strategic application of fertilizers and organic matter to optimize crop nutrition and minimize environmental impact
+- **environmental justice** (freq: 2) - equitable distribution of environmental benefits and burdens across social groups
+- **agrobiodiversity monitoring** (freq: 2) - systematic tracking of crop diversity and genetic resources in food systems
+- **school meal diversification** (freq: 2) - integration of diverse local crops into institutional feeding programs
+- **cost-effectiveness analysis** (freq: 2) - economic evaluation comparing costs and outcomes of different interventions
+- **eco-compensation** (freq: 2) - payment mechanism to compensate for environmental services and conservation efforts
+- **methane emission reduction** (freq: 2) - practices to decrease methane gas release from agricultural systems
+- **pastoral adaptation** (freq: 2) - changes in pastoralist practices to cope with environmental and climate challenges
+- **climate justice** (freq: 2) - fair treatment of all people regarding climate change impacts and solutions
+- **farmer-led innovation** (freq: 2) - innovation processes initiated and driven by farmers themselves
+- **nutritional status** (freq: 2) - condition of health determined by nutrient intake and utilization
+- **value chain mapping** (freq: 2) - systematic analysis of actors, relationships, and flows in agricultural commodity chains
+- **livestock health extension** (freq: 2) - delivery of animal health knowledge and services to livestock producers
+- **rangeland governance** (freq: 2) - institutional arrangements for managing communal grazing lands and resources
+- **participatory methodology** (freq: 2) - research approach that actively involves community members in the design and implementation process
+- **innovation package** (freq: 2) - bundled set of technologies, practices and services designed to achieve specific outcomes
+- **market systems development** (freq: 2) - intervention strategy that addresses systemic barriers in market functioning
+- **gender-responsive research** (freq: 2) - research design that considers differential impacts and needs of men and women
+- **biosecurity practices** (freq: 2) - preventive measures to reduce disease transmission in livestock production
+- **food safety management** (freq: 2) - systematic approach to ensuring safe food production and handling
+- **farmer-led irrigation development** (freq: 2) - smallholder-driven investment and management of irrigation systems
+- **community engagement** (freq: 2) - participatory processes involving local stakeholders in development initiatives
+- **sustainable agricultural mechanization** (freq: 2) - use of machinery and equipment that reduces environmental impact while improving productivity
+- **multistakeholder networks** (freq: 2) - collaborative structures involving diverse actors to coordinate knowledge sharing and scaling
+- **innovation hubs** (freq: 2) - territorial platforms that connect actors, capacities, and knowledge for technology validation and scaling
+- **youth empowerment** (freq: 2) - strategies to engage and support young people in agricultural development
+- **adaptation planning** (freq: 2) - systematic process for developing climate change adaptation strategies
+- **earth observation integration** (freq: 2) - combining satellite data with ground-based information for agricultural monitoring
+- **floating agriculture** (freq: 2) - cultivation on floating beds in waterlogged areas
+- **sub-national implementation** (freq: 2) - execution of policies and programs at regional or local administrative levels
+- **zoonotic disease epidemiology** (freq: 2) - study of disease patterns and transmission dynamics between animals and humans
+- **forage production** (freq: 2) - cultivation and management of feed crops for livestock nutrition
+- **climate-smart practices** (freq: 2) - agricultural techniques that adapt to and mitigate climate change
+- **community-based breeding** (freq: 2) - participatory genetic improvement programs managed by farmers
+- **environmental sampling** (freq: 2) - collection of environmental samples for laboratory analysis
+- **zoonotic disease management** (freq: 2) - prevention and control of diseases transmissible between animals and humans
+- **biosafety protocols** (freq: 2) - standardized procedures to prevent biological contamination and exposure
+- **agricultural data hubs** (freq: 2) - centralized platforms for organizing and sharing agricultural information
+- **last-mile delivery** (freq: 2) - reaching end users through local agent networks and service providers
+- **co-production** (freq: 2) - collaborative development process involving multiple stakeholders
+- **civil society engagement** (freq: 2) - involvement of non-governmental organizations and community groups in policy and development processes
+- **bias mitigation in ai** (freq: 2) - techniques to identify and reduce unfair discrimination in artificial intelligence systems
+- **sustainable rice cultivation** (freq: 2) - rice production practices that balance environmental, economic and social considerations
+- **digital monitoring systems** (freq: 2) - electronic platforms for tracking and reporting agricultural activities and outcomes
+- **stress tolerance indices** (freq: 2) - mathematical measures used to quantify plant performance under stress conditions
+- **nutritional quality assessment** (freq: 2) - evaluation of nutrient content and bioavailability in crop products
+- **molecular marker analysis** (freq: 2) - use of DNA markers to identify genes or traits in breeding programs
+- **population genomics** (freq: 2) - study of genetic variation and evolution within and between populations
+- **forage evaluation** (freq: 2) - assessment of feed crops for biomass production and nutritional quality
+- **social inclusion** (freq: 2) - ensuring marginalized groups have access to opportunities and services
+- **intersectionality** (freq: 2) - analysis considering multiple overlapping social identities and systems of oppression
+- **fragile and conflict-affected systems** (freq: 2) - food systems operating in contexts of institutional fragility and conflict
+- **humanitarian response** (freq: 2) - coordinated assistance to populations affected by crises and disasters
+- **displacement** (freq: 2) - forced movement of people from their homes due to conflict, climate, or economic factors
+- **participatory design** (freq: 2) - collaborative approach involving end-users in the design and development process
+- **gender-responsive services** (freq: 2) - services designed to address differential needs and barriers faced by different genders
+- **contract farming** (freq: 2) - agricultural production under forward contracts between farmers and buyers
+- **soil fertility management** (freq: 2) - practices to maintain and improve soil nutrient status
+- **quality control** (freq: 2) - systematic processes to ensure product standards
+- **private sector engagement** (freq: 2) - involving commercial entities in development initiatives
+- **baseline assessment** (freq: 2) - initial measurement of conditions before intervention
+- **mental health impacts** (freq: 2) - psychological consequences of climate change and displacement on affected populations
+- **maladaptation** (freq: 2) - adaptation efforts that unintentionally create new risks or vulnerabilities
+- **climate fragility** (freq: 2) - vulnerability of systems to climate-related stresses and shocks
+- **machine learning algorithms** (freq: 2) - computational methods that learn patterns from data for prediction or classification
+- **crop monitoring** (freq: 2) - systematic observation and assessment of crop growth and conditions
+- **decolonial pedagogies** (freq: 2) - educational frameworks that challenge colonial knowledge systems and power structures
+- **food crisis early warning** (freq: 2) - systems to predict and alert about impending food security emergencies
+- **drought prediction** (freq: 2) - forecasting techniques to anticipate drought conditions using meteorological and satellite data
+- **nutrition education** (freq: 2) - structured learning programs to improve dietary knowledge and behavior
+- **institutional procurement** (freq: 2) - structured purchasing by organizations like schools or governments
+- **business development services** (freq: 2) - support services to strengthen enterprise capacity and growth
+- **investment readiness** (freq: 2) - preparation of enterprises for attracting investment funding
+- **vulnerability analysis** (freq: 2) - assessment of susceptibility to climate and environmental stresses
+- **policy alignment** (freq: 2) - coordination of policies and institutional frameworks for coherent implementation
+- **forest restoration** (freq: 2) - activities to restore degraded forest ecosystems
+- **agricultural innovation systems** (freq: 2) - networks of organizations, policies, and processes that generate, adapt, and diffuse agricultural technologies
+- **climate impact projections** (freq: 2) - quantitative assessment of expected climate change effects on agricultural systems and crop yields
+- **multi-location testing** (freq: 2) - evaluation of crop varieties across multiple environments to assess performance and adaptation
+- **post-harvest technology** (freq: 2) - methods and equipment for processing, preserving, and storing agricultural products
+- **youth entrepreneurship** (freq: 2) - support for business development and job creation among young people
+- **breeding data management** (freq: 2) - systematic organization and tracking of plant breeding information and materials
+- **mechanized agriculture services** (freq: 2) - provision of machinery and equipment for agricultural operations
+- **gem parboiling technique** (freq: 2) - improved rice processing method for enhanced quality and efficiency
+- **water-efficient practices** (freq: 2) - techniques and methods to optimize water use in agricultural systems
+- **climate risk information** (freq: 2) - data and analysis about climate-related hazards used for decision-making
+- **water-efficient agriculture** (freq: 2) - farming practices that optimize water use while maintaining productivity
+- **rice-fallow intensification** (freq: 2) - agricultural practice of growing crops in previously fallow rice fields
+- **gas chromatography** (freq: 2) - analytical technique for separating and measuring greenhouse gases
+- **satellite monitoring** (freq: 2) - use of satellite imagery and data for agricultural and environmental monitoring
+- **stewardship** (freq: 2) - responsible management and oversight of biotechnology innovations
+- **cassava production** (freq: 2) - cultivation and management of cassava crops
+- **good agronomic practices** (freq: 2) - evidence-based crop management techniques for optimal production
+- **seed roadmap development** (freq: 2) - strategic planning process for seed sector development
+- **zero tillage production** (freq: 2) - agricultural practice of growing crops without mechanically disturbing the soil
+- **data digitization** (freq: 2) - process of converting analog information into digital formats for improved management
+- **gender-responsive extension services** (freq: 2) - agricultural advisory services designed to address specific needs and constraints of different genders
+- **apical rooted cuttings propagation** (freq: 2) - vegetative propagation method using shoot tips to produce disease-free planting material
+- **quality seed production** (freq: 2) - systematic production of seed meeting genetic purity and health standards
+- **pest and disease management** (freq: 2) - integrated approaches to control crop pests and diseases
+- **capacity development training** (freq: 2) - structured learning interventions to enhance skills and knowledge of individuals or organizations
+- **gene editing** (freq: 2) - biotechnology technique for precise modification of plant genomes
+- **greenhouse gas emission reduction** (freq: 2) - mitigation of climate-warming gases from agricultural practices
+- **drought stress management** (freq: 2) - strategies to mitigate water deficit impacts on crop production
+- **climate adaptation indicators** (freq: 2) - metrics used to measure progress in building resilience to climate change
+- **greenhouse gas emissions measurement** (freq: 2) - quantification of carbon dioxide, methane and nitrous oxide emissions from agricultural systems
+- **varietal demonstrations** (freq: 2) - field trials showcasing performance of different crop varieties to farmers
+- **herbicide tolerance** (freq: 2) - genetic trait allowing crops to survive herbicide application for weed control
+- **tissue culture propagation** (freq: 2) - laboratory-based method for producing disease-free plant material through sterile culture techniques
+- **technology dissemination** (freq: 2) - process of spreading improved agricultural technologies to farmers
+- **seed distribution systems** (freq: 2) - networks and mechanisms for delivering seeds to farmers
+- **climate-resilient seed production** (freq: 2) - development and multiplication of crop varieties adapted to climate change impacts
+- **triadic comparison of technologies** (freq: 2) - participatory evaluation method where farmers compare three technologies simultaneously
+- **marker-assisted breeding** (freq: 2) - use of molecular markers to guide selection in breeding programs
+- **digital phenotyping** (freq: 2) - automated collection of plant trait data using digital technologies
+- **drought tolerance breeding** (freq: 2) - development of varieties adapted to water-limited conditions
+- **data-driven breeding** (freq: 2) - use of analytical tools and databases to guide breeding decisions
+- **participatory risk mapping** (freq: 1) - collaborative approach involving experts to identify climate-related risks and develop adaptation plans
+- **video-based product concept testing** (freq: 1) - market research method using videos to test farmer preferences for hypothetical crop products
+- **scaling hubs** (freq: 1) - regional platforms that coordinate partnerships and knowledge sharing for agricultural innovation adoption
+- **rapid-cycle genomic selection** (freq: 1) - accelerated breeding approach using genomic data to reduce crop development time
+- **on-farm verification** (freq: 1) - testing crop varieties under actual farmer conditions to validate performance
+- **genetic gain assessment** (freq: 1) - standardized measurement of breeding progress across crops and traits
+- **partnership assessment framework** (freq: 1) - systematic evaluation of breeding program capabilities and improvement needs
+- **community-led water governance** (freq: 1) - participatory management of water resources through strategic infrastructure operation
+- **artificial insemination protocols** (freq: 1) - standardized procedures for reproductive services adapted to low-input systems
+- **rapid response modeling** (freq: 1) - streamlined analytical approach to quickly assess impacts of global crises
+- **high-performance computing** (freq: 1) - computational infrastructure providing enhanced processing power and storage for complex data analysis
+- **artificial intelligence modeling** (freq: 1) - computational approach using AI algorithms for agricultural applications and data analysis
+- **micronutrient contribution modeling** (freq: 1) - analytical approach to calculate and visualize nutrient composition of food sources
+- **real-time monitoring system** (freq: 1) - automated data collection and analysis platform providing immediate feedback
+- **metadata mining** (freq: 1) - automated extraction and organization of dataset descriptions for improved data integration
+- **varietal turnover acceleration** (freq: 1) - strategies to speed replacement of older crop varieties with improved ones
+- **evolutionary plant breeding** (freq: 1) - breeding approach maintaining genetic diversity through population mixtures
+- **thermotolerant vaccines** (freq: 1) - vaccines designed to remain stable at ambient temperatures without refrigeration
+- **fertility management** (freq: 1) - integrated approach to improving animal reproductive performance
+- **gender norms measurement** (freq: 1) - quantitative tools for assessing and tracking changes in gender-related social norms
+- **breed evaluation** (freq: 1) - systematic assessment of animal genetic resources for performance traits
+- **drought adaptation** (freq: 1) - ability of crops or livestock to maintain productivity under water stress conditions
+- **best-worst scaling** (freq: 1) - survey method for assessing preferences by comparing best and worst options
+- **payments for ecosystem services** (freq: 1) - economic incentives for conservation and environmental stewardship
+- **institutional learning** (freq: 1) - systematic knowledge acquisition and application within organizations
+- **policy practice index** (freq: 1) - tool for tracking policy formulation and implementation effectiveness
+- **knowledge management system** (freq: 1) - platform for organizing and sharing information and experiences
+- **lean data collection** (freq: 1) - efficient data gathering focusing on essential information
+- **participatory indicator selection** (freq: 1) - collaborative process for developing context-specific performance measures
+- **nano-culture technology** (freq: 1) - plant tissue culture technique using minimal space and resources
+- **seed certification regulations** (freq: 1) - legal frameworks ensuring seed quality and standards
+- **scaling fund** (freq: 1) - financial mechanism supporting innovation expansion and market penetration
+- **rapid diagnostic testing** (freq: 1) - quick field-based methods for disease identification
+- **area-based yield insurance** (freq: 1) - insurance coverage based on regional average yields rather than individual farm losses
+- **rice-fish polyculture** (freq: 1) - integrated farming system combining rice cultivation with fish production
+- **co-production of knowledge** (freq: 1) - collaborative research approach involving communities in knowledge generation
+- **fuzzy cognitive mapping** (freq: 1) - participatory method to model stakeholder perceptions of system relationships
+- **sustainability assessment** (freq: 1) - evaluation framework measuring environmental, social and economic impacts
+- **systems-based theory of change** (freq: 1) - impact planning approach incorporating feedback loops and system dynamics
+- **spatial production allocation modeling** (freq: 1) - geographic modeling of crop distribution and productivity patterns
+- **indigenous food systems** (freq: 1) - traditional food production and consumption practices of local communities
+- **stage-gate framework** (freq: 1) - structured decision-making process with defined milestones and evaluation criteria
+- **reservoir forecasting** (freq: 1) - predictive modeling of future water storage levels using multiple data sources
+- **crop-livestock integration** (freq: 1) - farming approach combining crop and animal production for mutual benefits
+- **energy insecurity measurement** (freq: 1) - assessment of household energy access and shortage experiences
+- **multiple resistance gene deployment** (freq: 1) - breeding strategy combining several disease resistance genes in single varieties
+- **agroecological business modeling** (freq: 1) - development of sustainable business models based on ecological principles
+- **open data cube architecture** (freq: 1) - structured system for organizing and accessing large spatial datasets
+- **randomized survey methodology** (freq: 1) - research design using random assignment to reduce bias in data collection
+- **rapid multiplication technology** (freq: 1) - accelerated propagation techniques for plant breeding materials
+- **multi-criteria analysis** (freq: 1) - decision-making framework evaluating multiple competing objectives
+- **biogas digester technology** (freq: 1) - anaerobic digestion system converting organic waste to energy
+- **glycemic index modification** (freq: 1) - breeding strategy to alter blood sugar response of food crops
+- **direct seeded rice breeding** (freq: 1) - development of rice varieties optimized for direct planting methods
+- **land tenure security** (freq: 1) - legal and institutional frameworks that provide secure rights to land ownership or use
+- **seed delivery network** (freq: 1) - coordinated system of organizations that multiply and distribute improved crop varieties to farmers
+- **integrated water storage assessment** (freq: 1) - comprehensive evaluation of multiple water storage types and their temporal dynamics for resource management
+- **resource recovery and reuse** (freq: 1) - circular economy approach to extract value from waste materials including biomass and wastewater
+- **no-till planting** (freq: 1) - planting method that places seeds directly into soil without prior tillage
+- **rainfall forecasting** (freq: 1) - prediction of precipitation patterns to support agricultural decision-making
+- **gender-responsive livestock breeding** (freq: 1) - breeding programs that consider gender dynamics in livestock management and benefits
+- **biosecurity measures** (freq: 1) - practices to prevent introduction and spread of diseases in livestock systems
+- **soil bulk density measurement** (freq: 1) - techniques for measuring soil compaction to assess soil health and carbon stocks
+- **spatial analytics** (freq: 1) - analytical approaches combining geography, economics and data science for policy insights
+- **humanitarian-development nexus** (freq: 1) - integration of scientific research into humanitarian efforts for sustainable solutions
+- **participatory product design** (freq: 1) - collaborative approach involving stakeholders in identifying market segments and prioritizing traits for product development
+- **named entity recognition** (freq: 1) - natural language processing technique to identify and classify named entities in text
+- **food quality assessment** (freq: 1) - evaluation of nutritional, biochemical, and sensory attributes of food products
+- **stochastic frontier analysis** (freq: 1) - econometric method to estimate production efficiency and separate inefficiency from random variation
+- **spatial clustering** (freq: 1) - grouping of geographic units based on similarity of characteristics
+- **action research** (freq: 1) - research approach combining investigation with direct action for social change
+- **climate governance** (freq: 1) - institutional frameworks and processes for climate change decision-making
+- **agricultural distortions** (freq: 1) - policy-induced inefficiencies that affect agricultural productivity and resource allocation
+- **multidimensional resilience** (freq: 1) - measurement of household capacity to withstand shocks across multiple well-being dimensions
+- **vickrey auction** (freq: 1) - sealed-bid auction mechanism for economic valuation where highest bidder pays second-highest price
+- **phytosanitary regulation** (freq: 1) - policies and standards for preventing plant disease spread through seed systems
+- **direct seed marketing** (freq: 1) - policy approach allowing seed producers to sell directly to farmers bypassing state distribution
+- **pricing strategy** (freq: 1) - method of setting product prices to influence consumer behavior and adoption
+- **community seed schemes** (freq: 1) - local seed production and distribution systems operated by farming communities
+- **dna fingerprinting** (freq: 1) - genetic technique for identifying crop varieties using molecular markers
+- **environmental impact assessment** (freq: 1) - systematic evaluation of environmental effects of agricultural practices
+- **feed pellet production** (freq: 1) - process of converting organic waste into nutritious animal feed through composting
+- **financial innovation** (freq: 1) - development of new financial products and services for agricultural value chains
+- **food loss and waste reduction** (freq: 1) - strategies to minimize food losses along value chains and consumer waste
+- **hybrid adoption** (freq: 1) - uptake and use of hybrid crop varieties by farmers
+- **gender action learning system** (freq: 1) - participatory empowerment tool addressing gender inequities in development
+- **carrying capacity** (freq: 1) - maximum livestock density that land can sustainably support
+- **agricultural water insecurity** (freq: 1) - inadequate access to water for farming activities
+- **polycentric governance** (freq: 1) - multi-level decision-making involving multiple centers of authority
+- **digital marketing regulation** (freq: 1) - policies controlling online promotion of products to specific populations
+- **alternative flour blending** (freq: 1) - combining different flour types to improve nutritional and functional properties of food products
+- **sensory evaluation** (freq: 1) - systematic assessment of food products using human senses to determine consumer acceptance
+- **aflatoxin contamination** (freq: 1) - presence of toxic compounds produced by fungi that cause liver cancer and stunting
+- **life cycle assessment** (freq: 1) - evaluation of environmental impacts throughout a product's entire life cycle
+- **livestock intensification** (freq: 1) - increasing animal productivity through improved feeding, genetics, and management
+- **behavioral analysis** (freq: 1) - systematic study of animal or human behavior patterns
+- **water justice** (freq: 1) - equitable access to water resources and inclusive decision-making in water management
+- **distributive justice** (freq: 1) - fair allocation of resources ensuring equitable access to quantity, quality, and affordability
+- **procedural justice** (freq: 1) - inclusive and participatory decision-making processes involving affected stakeholders
+- **subsidy repurposing** (freq: 1) - redirecting government subsidy spending toward more effective development investments
+- **conjunctive water use** (freq: 1) - combined use of different water sources to optimize water resource management
+- **game-based learning** (freq: 1) - structured experiential learning using games to develop understanding and problem-solving skills
+- **greenhouse gas budgets** (freq: 1) - comprehensive accounting of anthropogenic and natural sources and sinks of greenhouse gases
+- **water footprint assessment** (freq: 1) - evaluation of green and blue water consumption patterns in agricultural systems
+- **biophysical simulation modeling** (freq: 1) - computational approach to model water and nutrient flows in agricultural systems
+- **indicator framework monitoring** (freq: 1) - systematic tracking of multiple metrics to assess food system performance
+- **planetary boundaries** (freq: 1) - safe operating limits for Earth system processes that regulate planet stability
+- **geospatial data analysis** (freq: 1) - spatial analysis techniques to map socio-ecological variables and inform interventions
+- **gender-inclusive water management** (freq: 1) - water governance approaches that ensure equitable participation of women in decision-making
+- **curriculum institutionalization** (freq: 1) - formal integration of interdisciplinary courses into university academic programs
+- **planetary health diet** (freq: 1) - sustainable eating pattern that promotes human health within planetary boundaries
+- **participatory technology development** (freq: 1) - collaborative approach involving stakeholders in designing and developing technologies
+- **biodiversity nexus** (freq: 1) - interconnected relationships between biodiversity and multiple sectors
+- **regulatory oversight** (freq: 1) - systematic monitoring and enforcement of standards and regulations
+- **acaricide resistance** (freq: 1) - reduced effectiveness of chemical treatments against ticks due to genetic adaptation
+- **community-led governance** (freq: 1) - local management systems where communities control decision-making processes
+- **intra-household allocation** (freq: 1) - distribution of resources among household members
+- **minimum dietary diversity** (freq: 1) - indicator measuring consumption across different food groups as proxy for nutrient adequacy
+- **shop-along methodology** (freq: 1) - observational research method following people during food shopping experiences
+- **participatory theatre** (freq: 1) - interactive drama approach used for community education and social change
+- **artificial intelligence ethics** (freq: 1) - principles and practices for responsible development and use of AI technologies
+- **mobile phone-delivered training** (freq: 1) - educational content delivered through automated phone calls or mobile platforms
+- **water consumption mapping** (freq: 1) - spatial analysis of water use patterns in agricultural systems
+- **conflict classification** (freq: 1) - systematic categorization of different types of violence and conflict
+- **farmer-herder conflict** (freq: 1) - disputes between agricultural and pastoral communities over land and resource use
+- **political violence analysis** (freq: 1) - systematic study of organized violence and its impacts on communities
+- **tapered cash transfers** (freq: 1) - gradually diminishing cash payments designed to support transition to self-reliance
+- **traditional extension** (freq: 1) - conventional top-down method of delivering agricultural information to farmers
+- **cluster randomized control trial** (freq: 1) - experimental design where groups rather than individuals are randomly assigned to treatments
+- **community-based aquaculture** (freq: 1) - fish farming systems developed and managed by local communities
+- **knowledge exchange sessions** (freq: 1) - interactive platforms for sharing and learning evidence-based practices
+- **food subsidies** (freq: 1) - government support to reduce food costs for targeted populations
+- **biosecurity assessment** (freq: 1) - evaluation of measures to prevent pathogen introduction and spread
+- **estrus detection** (freq: 1) - identification of optimal breeding timing in livestock reproduction
+- **animal welfare assessment** (freq: 1) - evaluation of animal well-being in production systems
+- **vaccine wastage** (freq: 1) - loss of vaccine doses due to handling, storage, or administration issues
+- **cold chain management** (freq: 1) - temperature-controlled supply chain for preserving vaccine potency
+- **pangenome construction** (freq: 1) - assembling comprehensive genomic landscape capturing complete genetic diversity within species
+- **mobile-based extension** (freq: 1) - delivering agricultural advisory services through mobile phone platforms
+- **participatory action research** (freq: 1) - collaborative research approach involving stakeholders in problem-solving
+- **quantitative trait nucleotides** (freq: 1) - DNA sequence variants that contribute to quantitative trait variation
+- **reseeding** (freq: 1) - introduction of seeds to establish vegetation in degraded areas
+- **vendor neighborhood analysis** (freq: 1) - spatial assessment of food diversity within defined radii around food vendors
+- **wastewater aquaculture** (freq: 1) - fish farming using treated or untreated wastewater as input
+- **livestock waste recovery** (freq: 1) - conversion of animal manure into useful products like biogas or compost
+- **crop-aquaculture farming** (freq: 1) - integrated production system combining crop cultivation with fish farming
+- **eat-lancet diet** (freq: 1) - planetary health diet framework balancing human nutrition and environmental sustainability
+- **malnutrition burden** (freq: 1) - coexistence of undernutrition, micronutrient deficiencies, and overweight/obesity
+- **hydrological modelling** (freq: 1) - mathematical simulation of water cycle processes for water resource management
+- **push-pull technology** (freq: 1) - intercropping system using companion plants to repel pests and attract beneficial insects
+- **post-mined land restoration** (freq: 1) - rehabilitation of degraded mining sites for productive agricultural use
+- **price transmission** (freq: 1) - how price changes propagate through market chains
+- **seed system development** (freq: 1) - strategies to improve seed production and distribution networks
+- **behavioral interventions** (freq: 1) - psychological approaches to influence farmer decision-making
+- **product concept testing** (freq: 1) - evaluation of new product ideas with target users
+- **sparse phenotyping** (freq: 1) - strategy to reduce phenotyping costs while maintaining selection accuracy
+- **transfer learning** (freq: 1) - machine learning approach applying knowledge from one domain to another
+- **minimum tillage** (freq: 1) - reduced soil cultivation practice to maintain soil structure
+- **near-infrared spectroscopy** (freq: 1) - analytical technique for rapid quality assessment using light absorption
+- **agropastoralism** (freq: 1) - integrated farming system combining crop production and livestock keeping
+- **gender productivity gap** (freq: 1) - difference in agricultural productivity between male and female farmers
+- **land reclamation** (freq: 1) - restoration of degraded land for productive use
+- **aquaponics** (freq: 1) - integrated farming system combining aquaculture and hydroponics
+- **germplasm repatriation** (freq: 1) - return of genetic material to countries or institutions of origin
+- **cost-recovery system** (freq: 1) - financial model where services generate revenue to cover operational costs
+- **phytosanitary testing** (freq: 1) - laboratory procedures to detect plant pathogens and ensure plant health
+- **flood modeling** (freq: 1) - computational simulation of water flow patterns and flood behavior
+- **farmer group model** (freq: 1) - organizational structure for collective farmer action and resource sharing
+- **grain quality assessment** (freq: 1) - evaluation of physical and chemical properties affecting grain value
+- **testcross evaluation** (freq: 1) - crossing experimental lines with standard testers to evaluate performance
+- **multi-trait selection index** (freq: 1) - breeding tool that combines multiple traits into single selection criterion
+- **pollen tube growth analysis** (freq: 1) - study of pollen tube development to understand fertilization barriers
+- **knowledge attitudes practices survey** (freq: 1) - assessment tool to evaluate understanding, perceptions, and behaviors
+- **multi-trait genomic selection** (freq: 1) - genomic selection approach considering multiple traits simultaneously
+- **complementary input use** (freq: 1) - coordinated application of multiple agricultural inputs to maximize technology benefits
+- **on-farm seed storage** (freq: 1) - farmer-managed preservation of seeds between harvest and planting
+- **genetic variance partitioning** (freq: 1) - statistical decomposition of trait variation into additive and non-additive components
+- **rhizosphere microbiome analysis** (freq: 1) - study of microbial communities in plant root zones
+- **computer vision phenotyping** (freq: 1) - automated plant trait measurement using image analysis algorithms
+- **migration policy** (freq: 1) - government strategies and frameworks for managing human mobility
+- **choice experiment** (freq: 1) - research method using hypothetical scenarios to elicit preferences
+- **multi-stakeholder approaches** (freq: 1) - collaborative methods involving diverse actors in problem-solving
+- **agroecological change** (freq: 1) - transformation toward ecological farming practices and systems
+- **compound risk assessment** (freq: 1) - analysis of interconnected and cascading risks across multiple systems
+- **participatory rural appraisal** (freq: 1) - community-based research method using local knowledge and participation
+- **soil quality index** (freq: 1) - composite measure of soil health based on multiple indicators
+- **integrated nutrient management** (freq: 1) - holistic approach to managing soil nutrients using multiple sources
+- **women's business skills training** (freq: 1) - educational programs designed to develop entrepreneurial and business management capabilities among women
+- **savings and lending groups** (freq: 1) - community-based financial institutions that provide members with savings and credit services
+- **women's land ownership** (freq: 1) - legal and social recognition of women's rights to own and control land resources
+- **host plant resistance** (freq: 1) - natural ability of plants to resist or tolerate pest and disease attacks
+- **meta-qtl analysis** (freq: 1) - statistical method combining qtl data from multiple studies to identify consensus regions
+- **protein digestibility** (freq: 1) - measure of how well proteins can be broken down and absorbed by the body
+- **cyanogenesis** (freq: 1) - biochemical process of hydrogen cyanide production in plants
+- **community theater** (freq: 1) - use of theatrical performances and storytelling to raise awareness and promote social change in communities
+- **genomics training** (freq: 1) - capacity building in genetic analysis techniques for crop improvement and breeding programs
+- **waste-to-value technologies** (freq: 1) - methods to convert organic waste into useful products like compost, biogas, or protein
+- **two-step drying** (freq: 1) - seed processing technique using initial warm drying followed by cooler drying to improve storage longevity
+- **proximity to natural habitat hypothesis** (freq: 1) - theory that nearness to natural areas enhances pollination services in agricultural systems
+- **market information systems** (freq: 1) - platforms for collecting and disseminating agricultural price and market data
+- **climate-smart interventions** (freq: 1) - agricultural practices that enhance productivity while building climate resilience
+- **qtl pyramiding** (freq: 1) - breeding strategy that stacks multiple quantitative trait loci to combine beneficial traits
+- **rapid generation advancement** (freq: 1) - techniques to reduce breeding cycle time and accelerate genetic gains
+- **haplotype analysis** (freq: 1) - study of linked genetic variants inherited together as blocks
+- **trait development pipeline** (freq: 1) - systematic framework for translating research discoveries into breeding applications
+- **gluten-free products** (freq: 1) - food products free from gluten proteins for celiac disease management
+- **cultural heritage preservation** (freq: 1) - maintenance of traditional agricultural practices and genetic resources
+- **food environment** (freq: 1) - physical and social surroundings that influence food access and choices
+- **fertilizer adoption** (freq: 1) - farmer uptake and use of mineral fertilizers
+- **quality testing** (freq: 1) - systematic evaluation of crop grain quality parameters
+- **agroecological performance** (freq: 1) - measurement of farming system sustainability across multiple dimensions
+- **digital inclusiveness** (freq: 1) - ensuring equitable access and participation in digital technologies and innovations
+- **tree-based restoration** (freq: 1) - ecosystem rehabilitation using tree planting and forest regeneration techniques
+- **hydro-economic modeling** (freq: 1) - integrated analysis combining hydrological and economic data for water resource management
+- **transformational agroecology** (freq: 1) - transition toward environmentally sustainable, productive, and socially just agri-food systems
+- **multifunctional landscape interventions** (freq: 1) - integrated interventions addressing multiple functions across agricultural landscapes
+- **behaviour change wheel** (freq: 1) - framework for understanding drivers of behavior change in agricultural adoption
+- **vermicompost production** (freq: 1) - composting process using earthworms to decompose organic materials
+- **climate-resilient livestock management** (freq: 1) - livestock practices adapted to withstand climate variability
+- **agricultural integrated assessment models** (freq: 1) - quantitative models combining economic, crop growth, and hydrology components for food security analysis
+- **time poverty** (freq: 1) - insufficient time to meet basic needs due to excessive work burdens
+- **water governance** (freq: 1) - institutional frameworks and processes for managing water resources
+- **green manuring** (freq: 1) - practice of growing and incorporating plants to improve soil fertility
+- **score-on-doors rating** (freq: 1) - public disclosure system for food safety inspection results
+- **climate hazard mapping** (freq: 1) - spatial analysis of current and projected climate risks
+- **no-tillage farming** (freq: 1) - agricultural practice that avoids mechanical soil disturbance to preserve soil structure and moisture
+- **conventional tillage** (freq: 1) - traditional farming practice involving mechanical soil preparation through plowing and cultivation
+- **impact-based forecasting** (freq: 1) - weather prediction approach that focuses on potential impacts rather than just meteorological conditions
+- **shock-responsive social protection** (freq: 1) - social safety net programs that can rapidly scale up during emergencies
+- **multi-criteria decision-making** (freq: 1) - analytical approach for evaluating options based on multiple, often conflicting criteria
+- **gender-responsive scaling** (freq: 1) - scaling strategies that integrate gender considerations and address gendered barriers
+- **social protection systems** (freq: 1) - government programs providing support to vulnerable populations during crises
+- **livelihood cooperation** (freq: 1) - collaborative strategies between communities to enhance economic resilience
+- **seed treatment protocols** (freq: 1) - standardized procedures for treating seeds with fungicides to prevent disease
+- **drone-based crop monitoring** (freq: 1) - use of unmanned aerial vehicles with sensors to assess crop health and growth
+- **digital transfer systems** (freq: 1) - electronic delivery mechanisms for humanitarian aid and services in crisis settings
+- **automated dna extraction** (freq: 1) - machine-based process for extracting genetic material from biological samples
+- **stakeholder mapping** (freq: 1) - systematic identification and categorization of relevant actors and their relationships
+- **spatial analysis** (freq: 1) - geographic data analysis to understand spatial patterns and relationships
+- **e-learning** (freq: 1) - digital educational delivery method using online platforms and resources
+- **zoonotic disease transmission** (freq: 1) - spread of infectious diseases between animals and humans
+- **seed tracking** (freq: 1) - monitoring system for certified seed production and distribution
+- **participatory scenario development** (freq: 1) - collaborative process for creating future scenarios with stakeholder input
+- **food systems foresight** (freq: 1) - strategic planning methodology for anticipating future food system changes
+- **difference-in-differences analysis** (freq: 1) - statistical method comparing treatment and control groups over time
+- **forage adoption** (freq: 1) - uptake of improved grass varieties by livestock farmers
+- **climate-linked credit scoring** (freq: 1) - financial risk assessment integrating climate data with borrower profiles
+- **hydroponic forage production** (freq: 1) - soilless cultivation method for producing livestock feed
+- **protein consumption adequacy** (freq: 1) - meeting recommended dietary protein intake levels
+- **social valuation** (freq: 1) - assessment of community perceptions and willingness to adopt practices
+- **ecosystem service valuation** (freq: 1) - economic quantification of benefits provided by natural systems
+- **agroforestry co-design** (freq: 1) - collaborative process to design diversified tree-crop systems aligned with producer needs
+- **fertilizer deep placement** (freq: 1) - precision application of fertilizers at optimal soil depths to improve efficiency
+- **geographical indications** (freq: 1) - certification system linking product quality and characteristics to specific geographic origins
+- **mechanization hire services** (freq: 1) - business model providing agricultural machinery access to farmers through rental arrangements
+- **service delivery integration** (freq: 1) - coordination of multiple services to provide holistic support to farmers
+- **business plan development** (freq: 1) - structured process of creating comprehensive business strategies and financial projections
+- **randomized evaluation** (freq: 1) - experimental research design using random assignment to measure intervention impacts
+- **pollination services** (freq: 1) - ecosystem service provided by pollinators for plant reproduction
+- **forest management practices** (freq: 1) - systematic methods for managing forest resources and ecosystems
+- **participatory scaling** (freq: 1) - collaborative approach to expanding successful interventions through stakeholder engagement
+- **value chain coordination** (freq: 1) - systematic organization of production, processing, and distribution activities
+- **biodiversity integration** (freq: 1) - incorporation of biological diversity principles into agricultural systems
+- **climate-food nexus** (freq: 1) - interconnected relationship between climate change and food systems
+- **hygiene oversight** (freq: 1) - systematic monitoring and enforcement of sanitation standards
+- **social protection policy** (freq: 1) - government frameworks for providing assistance to vulnerable populations
+- **single nucleotide polymorphisms** (freq: 1) - DNA sequence variations where single nucleotides differ between individuals
+- **polymorphism information content** (freq: 1) - measure of genetic marker informativeness based on allele frequencies
+- **forecast-based advisory** (freq: 1) - decision support system using weather forecasts to guide agricultural practices
+- **gender-sensitive measurement** (freq: 1) - evaluation framework incorporating gender equality considerations
+- **vulnerability indexing** (freq: 1) - quantitative assessment of susceptibility to adverse conditions
+- **bio-economic modeling** (freq: 1) - analytical framework integrating biological and economic factors
+- **agri-voltaic systems** (freq: 1) - co-location of solar panels and agricultural production
+- **science-policy interface** (freq: 1) - mechanisms connecting scientific research with policy development and implementation
+- **nutritional adequacy ratio** (freq: 1) - measure of household food security based on nutritional requirements
+- **digital water body inventory** (freq: 1) - interactive platform mapping and managing water infrastructure using satellite data
+- **integrated herd health packages** (freq: 1) - comprehensive livestock health interventions using one health principles
+- **random forest classification** (freq: 1) - machine learning algorithm for image classification and pattern recognition
+- **hydrological resilience** (freq: 1) - capacity of water systems to withstand and recover from disturbances
+- **constructed wetlands** (freq: 1) - engineered systems mimicking natural wetlands for water treatment
+- **floodwater management** (freq: 1) - strategies for controlling and utilizing flood waters for agricultural benefits
+- **climate finance taxonomy** (freq: 1) - classification framework for directing climate investments toward specific sectors and activities
+- **water quality monitoring** (freq: 1) - systematic assessment of water parameters to ensure suitability for aquaculture and other uses
+- **renewable energy solutions** (freq: 1) - sustainable energy technologies addressing rural infrastructure and livelihood challenges
+- **breeding objective** (freq: 1) - systematic framework defining desired traits and their relative importance for genetic improvement programs
+- **trait preference ranking** (freq: 1) - systematic evaluation and ordering of livestock or crop characteristics based on stakeholder priorities
+- **multinomial ordered logit regression** (freq: 1) - statistical method for analyzing ordered categorical outcomes with multiple response levels
+- **selective scaling** (freq: 1) - targeted expansion strategy focusing on specific contexts or beneficiary groups for improved varieties
+- **single-step genome-wide association study** (freq: 1) - genomic analysis method combining pedigree and marker information to identify trait-associated genetic variants
+- **somatic cell score** (freq: 1) - indicator of mammary gland health and milk quality based on immune cell counts in milk
+- **flood prediction** (freq: 1) - forecasting approach to anticipate inundation extent and timing for agricultural risk management
+- **seasonal climate forecast** (freq: 1) - long-range weather prediction providing probabilistic outlooks for upcoming growing seasons
+- **rapid stem multiplication** (freq: 1) - accelerated propagation technique for vegetatively reproduced crops using controlled environment systems
+- **satellite-based crop insurance** (freq: 1) - risk management mechanism using remote sensing data to assess crop losses and trigger payouts
+- **data interoperability** (freq: 1) - enabling different systems to exchange and use data effectively
+- **seed requirement estimation** (freq: 1) - data-driven planning for seed production and distribution
+- **climate disinformation monitoring** (freq: 1) - systematic tracking and response to climate-related misinformation
+- **flood tolerance** (freq: 1) - ability of crops to survive and produce under flooding conditions
+- **adaptive social protection** (freq: 1) - social safety nets that adjust to climate and economic shocks
+- **high-performance liquid chromatography** (freq: 1) - analytical technique for separating, identifying and quantifying compounds in mixtures
+- **phenolic compound extraction** (freq: 1) - process of isolating and purifying phenolic compounds from plant materials
+- **blanket fertilizer recommendation** (freq: 1) - uniform fertilizer application strategy applied across broad geographic areas
+- **population genetics analysis** (freq: 1) - study of genetic variation and structure within pathogen or crop populations
+- **payments for environmental services** (freq: 1) - economic incentive schemes that reward farmers for environmental stewardship
+- **landscape performance indicators** (freq: 1) - metrics used to assess sustainability and functionality of agricultural landscapes
+- **disaster impact assessment** (freq: 1) - evaluation of natural disaster effects on livelihoods and economic outcomes
+- **genetic fingerprinting** (freq: 1) - molecular technique for identifying unique genetic profiles of varieties
+- **zero deforestation monitoring** (freq: 1) - tracking and verification of forest-free agricultural production
+- **farmer-managed natural regeneration** (freq: 1) - restoration technique using indigenous vegetation management by farmers
+- **soil organic carbon mapping** (freq: 1) - spatial assessment of carbon content in soils
+- **vision-language models** (freq: 1) - AI systems that process both visual and textual information
+- **nutrition-sensitive markets** (freq: 1) - market systems that prioritize and reward nutritional quality in agricultural products
+- **line × tester analysis** (freq: 1) - breeding design to evaluate combining ability and hybrid performance
+- **combining ability** (freq: 1) - genetic capacity of parents to produce superior hybrid offspring
+- **realized genetic gain** (freq: 1) - actual improvement in crop traits achieved through breeding over time
+- **participatory assessment** (freq: 1) - evaluation approach involving stakeholder participation in research and development
+- **technology bundling** (freq: 1) - integrated package of complementary technologies and services for scaling
+- **seed demand projection** (freq: 1) - forecasting future requirements for crop planting materials
+- **digital cash transfers** (freq: 1) - electronic delivery of monetary assistance to beneficiaries
+- **livestock mobility** (freq: 1) - movement of animals along traditional grazing routes for feed and water access
+- **conditional subsidies** (freq: 1) - financial incentives tied to specific agricultural practices or outcomes
+- **metatranscriptomics** (freq: 1) - analysis of total RNA from environmental samples to detect pathogens
+- **web-gis platform** (freq: 1) - web-based geographic information system for spatial data analysis
+- **traceability systems** (freq: 1) - systems for tracking products through supply chains
+- **push-pull system** (freq: 1) - integrated pest management strategy using repellent and attractive plants to control pests
+- **oviposition repellency** (freq: 1) - deterrent effect on insect egg-laying behavior
+- **macro-propagation** (freq: 1) - rapid multiplication of planting materials under controlled conditions
+- **herbicide injection** (freq: 1) - direct application of herbicides into plant tissue for targeted destruction
+- **agricultural support repurposing** (freq: 1) - reforming agricultural policies and financial instruments for sustainable food system transformation
+- **social transfer programs** (freq: 1) - government programs providing financial or in-kind support to households
+- **community health worker model** (freq: 1) - healthcare delivery system using trained community members to provide basic health services
+- **lean season assistance** (freq: 1) - humanitarian support during periods when food stocks are depleted and prices peak
+- **variety positioning** (freq: 1) - strategic placement of improved crop varieties in formal seed systems for farmer adoption
+- **greenhouse gas emissions quantification** (freq: 1) - systematic measurement and assessment of agricultural greenhouse gas emissions using bottom-up approaches
+- **mineral-associated organic carbon** (freq: 1) - soil carbon fraction bound to mineral particles that provides long-term carbon storage
+- **environmental flows** (freq: 1) - water flow regimes required to maintain healthy river ecosystems and their services
+- **digital compliance assessment** (freq: 1) - technology-based systems for evaluating adherence to agricultural standards and guidelines
+- **rice straw transformation** (freq: 1) - converting rice straw waste into valuable products for circular economy applications
+- **circular economy principles** (freq: 1) - resource management strategies that minimize waste and maximize nutrient retention within production systems
+- **grassland restoration** (freq: 1) - rehabilitation of degraded rangeland ecosystems through improved species composition and management
+- **regenerative agricultural practices** (freq: 1) - farming methods that restore soil health and ecosystem function through practices like no-till, cover cropping, and crop rotation
+- **black soldier fly larvae composting** (freq: 1) - biotechnology using insect larvae to convert organic waste into protein-rich feed and organic fertilizers
+- **eddy covariance** (freq: 1) - micrometeorological technique for measuring ecosystem-scale carbon dioxide and water vapor fluxes
+- **carbon uptake** (freq: 1) - process by which ecosystems absorb atmospheric carbon dioxide through photosynthesis
+- **drought experiments** (freq: 1) - controlled research trials to evaluate crop performance under water stress conditions
+- **bundled livestock insurance** (freq: 1) - integrated insurance products combining multiple risk protections for pastoral communities
+- **photoperiod effects** (freq: 1) - influence of day length variations on plant growth and flowering cycles
+- **farmer-to-farmer learning** (freq: 1) - peer-to-peer knowledge exchange methods that validate farmers as sources of innovation
+- **seed system modernization** (freq: 1) - improvements to seed production, distribution, and quality assurance for vegetatively propagated crops
+- **trait introgression** (freq: 1) - transfer of specific genetic traits from wild species into cultivated varieties through breeding
+- **flow cytometry** (freq: 1) - laboratory technique for determining chromosome numbers and analyzing cellular characteristics
+- **bioslurry application** (freq: 1) - use of organic waste slurry as fertilizer to enhance crop production and reduce emissions
+- **low-emission rice production** (freq: 1) - agricultural practices designed to reduce methane emissions from rice cultivation
+- **polder zone management** (freq: 1) - agricultural and water management strategies for coastal reclaimed land areas
+- **community-engaged sluice gate operation** (freq: 1) - participatory water management involving local communities in infrastructure control
+- **wife-husband model** (freq: 1) - agricultural mechanization approach targeting gender-inclusive technology adoption
+- **seed system innovations** (freq: 1) - improved methods and technologies for crop seed production and distribution
+- **genomic diversity analysis** (freq: 1) - use of DNA sequencing data to understand genetic variation patterns in crops
+- **groundwater recharge schemes** (freq: 1) - interventions designed to replenish depleted groundwater resources
+- **evidence-based water resource management** (freq: 1) - water planning and allocation using data-driven analysis and modeling
+- **water productivity optimization** (freq: 1) - maximizing agricultural output per unit of water used
+- **spatiotemporal climate analysis** (freq: 1) - statistical analysis of climate patterns across space and time dimensions
+- **rotated empirical orthogonal functions** (freq: 1) - statistical technique for analyzing spatial patterns in climate data
+- **drainage infrastructure** (freq: 1) - water management systems designed to remove excess water from agricultural land
+- **policy coherence analysis** (freq: 1) - systematic assessment of alignment and consistency across multiple policies
+- **intrahousehold decision-making** (freq: 1) - distribution of decision-making power and preferences within households
+- **fisheries subsidies** (freq: 1) - government financial support to fishing industry operations
+- **pesticide residue detection** (freq: 1) - analytical techniques to identify and quantify chemical residues in crops
+- **economywide modeling** (freq: 1) - comprehensive economic analysis across all sectors of an economy
+- **solar-powered aquaculture** (freq: 1) - fish production systems using renewable solar energy
+- **agroforestry systems** (freq: 1) - integrated land-use combining trees with crops or livestock
+- **fertilizer subsidy reform** (freq: 1) - policy changes to agricultural input support programs
+- **conflict diffusion analysis** (freq: 1) - measurement of geographic spread of violence and conflict
+- **hyperspectral remote sensing** (freq: 1) - imaging technology using multiple spectral bands to detect crop conditions
+- **participatory action learning** (freq: 1) - collaborative approach integrating local knowledge with scientific methods
+- **water-as-a-service** (freq: 1) - business model providing irrigation services rather than selling equipment
+- **hidden hunger** (freq: 1) - micronutrient deficiencies despite adequate caloric intake
+- **blue carbon opportunities** (freq: 1) - carbon sequestration potential in marine and coastal ecosystems
+- **circular economy approaches** (freq: 1) - resource utilization strategies that minimize waste through reuse and recycling
+- **soil diagnostics** (freq: 1) - field-based assessment of soil physical, chemical, and biological characteristics
+- **market-driven seed production** (freq: 1) - seed multiplication based on trader and consumer demand
+- **gender-responsive delivery** (freq: 1) - agricultural services designed to address gender-specific needs
+- **climate risk perception** (freq: 1) - farmers' subjective assessment and interpretation of climate-related threats
+- **trader-centered seed systems** (freq: 1) - seed distribution networks that place traders at the center of connecting producers with farmers
+- **rice-based diversification** (freq: 1) - cropping systems that combine rice with other crops to enhance resilience and productivity
+- **multiplex pcr** (freq: 1) - molecular technique enabling simultaneous detection of multiple pathogens in one assay
+- **behavioral nudges** (freq: 1) - interventions that guide behavior through choice architecture without restricting options
+- **multifunctional forest landscapes** (freq: 1) - forest areas managed to provide multiple ecosystem services and benefits simultaneously
+- **machine learning workflows** (freq: 1) - automated processes for data analysis and model deployment using artificial intelligence
+- **sustainable rangeland management** (freq: 1) - integrated approach to managing grassland ecosystems for ecological resilience and rural livelihoods
+- **no-till conservation agriculture** (freq: 1) - farming practice that maintains soil cover and reduces erosion by avoiding tillage
+- **agrosilvopastoral systems** (freq: 1) - integrated land-use systems combining trees, crops, and livestock for multiple benefits
+- **gender norms analysis** (freq: 1) - systematic examination of social expectations and roles that limit participation and decision-making
+- **community-based seed systems** (freq: 1) - local seed production and distribution networks managed by farming communities
+- **demand signaling** (freq: 1) - systematic approach to understanding stakeholder needs and priorities for scaling innovations
+- **zero deforestation** (freq: 1) - agricultural practices that prevent forest loss while maintaining productive farming systems
+- **market-driven seed delivery** (freq: 1) - seed distribution system responsive to farmer and trader market demands rather than supply-driven
+- **precision farming** (freq: 1) - agricultural management approach using technology to optimize field-level crop management
+- **climate loss and damage** (freq: 1) - economic and non-economic losses from climate change impacts that cannot be avoided through adaptation
+- **partnership health assessment** (freq: 1) - evaluation of collaboration effectiveness among institutional partners
+- **image analysis** (freq: 1) - automated processing and interpretation of visual data
+- **heat stress monitoring** (freq: 1) - assessment of temperature impacts on livestock behavior and productivity
+- **desert farming** (freq: 1) - agricultural production in arid environments using specialized techniques
+- **adoption dynamics** (freq: 1) - patterns of technology uptake including initial use, consistent adoption, dis-adoption, and non-adoption
+- **agricultural research for development** (freq: 1) - research programs designed to generate agricultural innovations for development outcomes
+- **droplet vitrification** (freq: 1) - cryopreservation technique using rapid cooling of small tissue samples
+- **cluster randomized controlled trial** (freq: 1) - experimental design where groups rather than individuals are randomly assigned to treatments
+- **food insecurity experience scale** (freq: 1) - standardized tool for measuring household food access and security
+- **picture-based insurance** (freq: 1) - digital crop insurance using smartphone images to assess and indemnify crop damage
+- **weather index-based insurance** (freq: 1) - agricultural insurance that pays based on weather parameters rather than actual crop losses
+- **viral disease surveillance** (freq: 1) - systematic monitoring and detection of plant viral pathogens
+- **phylogenetic analysis** (freq: 1) - study of evolutionary relationships between organisms using genetic data
+- **iso/iec 17025** (freq: 1) - international standard for testing and calibration laboratory competence
+- **transdisciplinary research** (freq: 1) - problem-focused research approach that integrates knowledge from multiple disciplines and stakeholders
+- **demand signalling** (freq: 1) - process of identifying and articulating stakeholder needs and priorities for innovation adoption
+- **decentralized service delivery** (freq: 1) - distribution of services through local providers rather than centralized institutions
+- **on-farm trials** (freq: 1) - field research conducted on farmers' own land to test innovations under real conditions
+- **mentorship program** (freq: 1) - structured learning relationship between experienced professionals and developing practitioners
+- **standard operating procedures** (freq: 1) - documented processes that ensure consistent quality and compliance in service delivery
+- **micronutrient fortification** (freq: 1) - addition of essential vitamins and minerals to food products to address nutritional deficiencies
+- **fish value addition** (freq: 1) - processing and enhancement techniques to increase economic value of fish products
+- **technology assessment** (freq: 1) - systematic evaluation of technology performance, functionality and adoption readiness
+- **mobile application** (freq: 1) - software platform designed for mobile devices to deliver services or information
+- **climate-resilient irrigation** (freq: 1) - water management systems designed to withstand climate variability and change
+- **targeted sequencing** (freq: 1) - focused DNA sequencing approach to analyze specific genomic regions of interest
+- **population dynamics** (freq: 1) - changes in organism population characteristics over time and space
+- **varietal registration** (freq: 1) - official process to approve and license new crop varieties for commercial use
+- **true cost accounting** (freq: 1) - comprehensive assessment including environmental and social costs of food production
+- **low trophic aquaculture** (freq: 1) - fish farming systems using species that feed low in the food chain
+- **water monitoring system** (freq: 1) - integrated platform for tracking and analyzing water resource availability and use
+- **perennial vegetable production** (freq: 1) - cultivation of long-lived vegetable crops that produce over multiple seasons
+- **home gardening** (freq: 1) - small-scale food production at household level for nutrition and food security
+- **bioinformatics analysis** (freq: 1) - computational methods for analyzing biological data, particularly genomic sequences
+- **sustainable business model** (freq: 1) - commercial framework balancing economic viability with environmental and social benefits
+- **water harvesting** (freq: 1) - collection and storage of rainwater or surface water for agricultural use
+- **food sovereignty** (freq: 1) - community control over food production systems and nutritional self-determination
+- **balanced nutrient management** (freq: 1) - optimized fertilizer application strategy to improve crop productivity and resource efficiency
+- **fair data principles** (freq: 1) - data management standards ensuring findable, accessible, interoperable, and reusable datasets
+- **digital agricultural advisory services** (freq: 1) - technology-enabled platforms providing agricultural information and support to farmers
+- **transabdominal ultrasonography** (freq: 1) - non-invasive imaging technique for pregnancy detection and reproductive assessment in livestock
+- **livestock early warning systems** (freq: 1) - integrated systems providing seasonal forecasts and decision support for pastoral livestock management
+- **seasonal forage forecasting** (freq: 1) - prediction of feed availability based on climate and vegetation data for livestock planning
+- **livestock-based lending** (freq: 1) - financial model using livestock as collateral to provide credit access to smallholder farmers
+- **post-harvest management** (freq: 1) - practices and technologies for handling, processing and storing crops after harvest
+- **hermetic storage** (freq: 1) - airtight storage systems that prevent pest infestation and maintain grain quality
+- **agroclimatic intelligence** (freq: 1) - integration of climate data, ai and agricultural knowledge for decision support
+- **double haploid breeding** (freq: 1) - plant breeding technique that produces homozygous lines in a single generation
+- **community-based communication** (freq: 1) - information dissemination strategies that engage local communities and cultural practices
+- **digital agriculture assessment** (freq: 1) - frameworks for measuring and benchmarking digital technology adoption in agriculture
+- **climate-conflict analysis** (freq: 1) - analytical approach to measure connections between climate change and conflict occurrence
+- **cropping systems design** (freq: 1) - systematic approach to planning and optimizing agricultural production systems
+- **process-based simulation** (freq: 1) - modeling approach using mechanistic understanding of biological and physical processes
+- **supplementary irrigation** (freq: 1) - targeted water application during critical crop growth stages in rainfed systems
+- **purse seine fisheries** (freq: 1) - commercial fishing method using large nets to encircle fish schools
+- **ecosystem-based management** (freq: 1) - holistic management strategy considering entire ecosystem interactions
+- **equilibrium displacement modeling** (freq: 1) - economic analysis method examining market interactions and price effects
+- **supply chain mapping** (freq: 1) - systematic identification and analysis of food system bottlenecks and flows
+- **biological inputs** (freq: 1) - environmentally friendly alternatives to chemical fertilizers and pesticides
+- **blended financing** (freq: 1) - financial strategy combining public and private funding sources to mobilize resources for development
+- **digital data capture** (freq: 1) - electronic collection and recording of information using digital platforms and tools
+- **cold chain transportation** (freq: 1) - temperature-controlled logistics system for preserving product quality during transport
+- **economic surplus modeling** (freq: 1) - analytical approach to quantify economic welfare impacts and benefits of interventions
+- **trust in extension systems** (freq: 1) - farmer confidence and reliance on agricultural advisory services and information sources
+- **edutainment** (freq: 1) - educational content delivery through entertainment media to engage and inform audiences
+- **south-south cooperation** (freq: 1) - knowledge and technology exchange between developing countries for mutual development
+- **post-harvest loss reduction** (freq: 1) - minimizing food waste and quality degradation after crop harvest through improved handling
+- **intra-household information sharing** (freq: 1) - flow of knowledge and data between members within farming households
+- **water-saving technologies** (freq: 1) - innovations and practices that reduce agricultural water consumption
+- **genomic profiling** (freq: 1) - comprehensive analysis of genetic material to identify specific traits or pathogens
+- **whole-genome sequencing** (freq: 1) - complete DNA analysis technique for pathogen identification and characterization
+- **science of scaling** (freq: 1) - evidence-based understanding of how innovations achieve widespread adoption and impact
+- **hyperspectral imaging** (freq: 1) - advanced sensing technique analyzing light interaction across multiple wavelengths
+- **digital soil sensing** (freq: 1) - portable field-based technology for rapid soil property assessment
+- **last-mile distribution** (freq: 1) - final stage of product delivery from businesses to end-users in rural areas
+- **agent network optimization** (freq: 1) - systematic improvement of field agent performance and management
+- **village-led action research** (freq: 1) - community-driven research approach where locals identify and address challenges
+- **optimal contribution selection** (freq: 1) - breeding strategy to optimize genetic contributions while managing inbreeding
+- **fish genetic improvement** (freq: 1) - systematic breeding approach to enhance genetic traits of fish species for aquaculture
+- **soil and water conservation** (freq: 1) - practices and technologies to protect soil resources and manage water sustainably
+- **solar pump irrigation** (freq: 1) - irrigation system powered by solar energy for water pumping and distribution
+- **agroecological products** (freq: 1) - agricultural products produced using ecological principles and sustainable farming methods
+- **bankable investment projects** (freq: 1) - development projects structured to meet financial institution lending criteria
+- **rapid cycle recurrent selection** (freq: 1) - accelerated breeding approach that reduces cycle time from three years to one year
+- **innovation validation** (freq: 1) - systematic testing of prototypes and assumptions with real users before full implementation
+- **agroclimatic information** (freq: 1) - weather and climate data specifically relevant for agricultural decision-making
+- **seed sector development** (freq: 1) - systematic strengthening of seed production, distribution, and regulatory systems
+- **gender-sensitive programming** (freq: 1) - design and delivery of programs that consider and address gender-specific needs and impacts
+- **scoping review** (freq: 1) - systematic research method to map existing literature and identify knowledge gaps
+- **participatory validation** (freq: 1) - research approach involving stakeholders in confirming and refining findings
+- **bodyweight estimation** (freq: 1) - prediction of animal weight using measurable physical characteristics
+- **segmented regression** (freq: 1) - statistical approach dividing data into segments for improved model fit
+- **bayesian inference** (freq: 1) - statistical method using prior knowledge and observed data to estimate parameters
+- **atmospheric dispersion modeling** (freq: 1) - mathematical simulation of how gases spread through the atmosphere
+- **crop failure** (freq: 1) - significant reduction or loss of agricultural production due to various stresses
+- **anaerobic digestion** (freq: 1) - biological process that breaks down organic matter in oxygen-free environment to produce biogas
+- **biomethane potential** (freq: 1) - measure of maximum methane yield from organic feedstock under anaerobic conditions
+- **co-digestion** (freq: 1) - anaerobic digestion of multiple organic feedstocks together to optimize biogas production
+- **integrated catchment management** (freq: 1) - landscape-level approach integrating land, water, forestry and livestock management
+- **irrigation demand management** (freq: 1) - strategies to optimize water use efficiency in irrigation systems
+- **financial management training** (freq: 1) - educational programs to develop business financial skills and practices
+- **farmer segmentation** (freq: 1) - classification of farmers into distinct groups based on characteristics and preferences
+- **fairification** (freq: 1) - process of making data findable, accessible, interoperable and reusable
+- **crop residue management** (freq: 1) - practices for handling plant material left after harvest to improve soil health and sustainability
+- **plant phenotyping** (freq: 1) - measurement and analysis of plant physical and biochemical traits
+- **acoustic sensing** (freq: 1) - detection and analysis of sound patterns for monitoring and identification purposes
+- **interactive voice response** (freq: 1) - technology that allows interaction with computer systems through voice commands and responses
+- **soil fertility assessment** (freq: 1) - evaluation of soil nutrient content and quality for agricultural decision-making
+- **hydrological monitoring** (freq: 1) - systematic measurement and tracking of water levels and flow in water bodies
+- **gender-inclusive strategies** (freq: 1) - interventions designed to address gender-based barriers and promote equal participation
+- **livelihood capitals** (freq: 1) - assets and resources that individuals and households use to build their livelihoods
+- **resilience science** (freq: 1) - interdisciplinary field studying systems' capacity to cope, adapt, and transform under stress
+- **biofuel production** (freq: 1) - industrial processes for converting biological materials into renewable transportation fuels
+- **extreme weather events** (freq: 1) - severe meteorological conditions that deviate significantly from normal patterns
+- **global agricultural modeling** (freq: 1) - mathematical simulation of agricultural systems at global scale to analyze market and production dynamics
+- **home garden intensification** (freq: 1) - systematic enhancement of household food production through integrated crop-livestock systems
+- **multicrop land suitability** (freq: 1) - spatial analysis to identify optimal locations for integrated cropping systems
+- **participatory guarantee systems** (freq: 1) - community-based certification mechanisms for organic and agroecological production
+- **rotational fallow practices** (freq: 1) - traditional land management alternating cultivation with rest periods for soil regeneration
+- **agricultural innovation** (freq: 1) - development and adoption of new technologies and practices in farming systems
+- **bamboo carbon sink** (freq: 1) - carbon storage capacity of bamboo forests and plantations
+- **direct seeding** (freq: 1) - planting seeds directly in the field without transplanting seedlings
+- **experimental gaming** (freq: 1) - use of games to study decision-making and behavior in controlled settings
+- **forest-to-pasture conversion** (freq: 1) - land use change from forest to grazing land for livestock
+- **process-based modeling** (freq: 1) - simulation approach using mechanistic understanding of system processes
+- **straw management** (freq: 1) - practices for handling crop residues to optimize benefits and reduce emissions
+- **supply chain analysis** (freq: 1) - examination of production and trade networks and their impacts
+- **positive deviance** (freq: 1) - approach identifying successful practices among those facing similar challenges
+- **community-led innovation** (freq: 1) - innovation processes initiated and controlled by local communities
+- **heat stress** (freq: 1) - physiological stress caused by exposure to high temperatures
+- **rural revitalization** (freq: 1) - strategies to improve economic and social conditions in rural areas
+- **carbon neutrality** (freq: 1) - achieving net-zero carbon dioxide emissions
+- **zero-carbon villages** (freq: 1) - rural communities designed to achieve net-zero carbon emissions
+- **agro-advisories** (freq: 1) - agricultural advice services based on weather and climate information
+- **climate negotiations** (freq: 1) - international diplomatic processes to address climate change
+- **emission intensity** (freq: 1) - greenhouse gas emissions per unit of agricultural output
+- **resilience assessment** (freq: 1) - evaluation of system capacity to cope with and recover from shocks
+- **participatory geographic information systems** (freq: 1) - community-based mapping approach integrating local knowledge with GIS technology
+- **traditional ecological knowledge** (freq: 1) - indigenous knowledge systems about environmental relationships and resource management
+- **localization** (freq: 1) - shifting leadership and decision-making to local actors in development interventions
+- **drought risk management** (freq: 1) - strategies and systems to anticipate, prepare for, and respond to drought events
+- **application programming interface** (freq: 1) - software interface that allows different systems to communicate and exchange data
+- **weather-informed agro-advisories** (freq: 1) - agricultural guidance services that incorporate weather forecast data for farming decisions
+- **drought risk assessment** (freq: 1) - systematic evaluation of drought hazards, exposure and vulnerability
+- **flood risk mapping** (freq: 1) - spatial analysis to identify areas vulnerable to flooding and quantify risk levels
+- **climate-resilient water infrastructure** (freq: 1) - water systems designed to withstand and adapt to climate change impacts
+- **catchment risk and resilience index** (freq: 1) - integrated framework to assess vulnerabilities and adaptive capacity across river basins
+- **behavior change communication** (freq: 1) - strategic communication approach to influence individual and community behaviors
+- **soil erosion risk mapping** (freq: 1) - spatial analysis to identify areas prone to soil loss and degradation
+- **integrated technology package** (freq: 1) - bundled interventions combining multiple technologies to address interconnected challenges
+- **multi-site validation** (freq: 1) - testing technologies across multiple locations to assess performance and adaptability
+- **digital decision-support tools** (freq: 1) - technology platforms that provide data-driven recommendations for agricultural management
+- **community-driven extension** (freq: 1) - extension services led and owned by local communities rather than external agencies
+- **behavior change model** (freq: 1) - framework for understanding and facilitating adoption of new practices through capability, opportunity, and motivation
+- **agrobiodiversity mainstreaming** (freq: 1) - integration of crop diversity concepts into education and policy systems
+- **recommendation domains** (freq: 1) - geographic areas with similar conditions suitable for specific technology adoption
+- **haplotype stacking** (freq: 1) - breeding strategy to combine multiple favorable genetic variants in single varieties
+- **genome-wide association analysis** (freq: 1) - statistical approach to identify genetic variants associated with traits across the genome
+- **climate variability adaptation** (freq: 1) - strategies to adjust agricultural practices to changing weather patterns
+- **enteric methane reduction** (freq: 1) - strategies to reduce methane emissions from livestock digestion
+- **low-methane forage breeding** (freq: 1) - selection and breeding of feed crops that reduce livestock methane production
+- **three-legged stool approach** (freq: 1) - innovative framework for improving meat safety in informal sectors
+- **animal health loss envelope** (freq: 1) - metric measuring financial burden of disease by comparing current vs ideal health scenarios
+- **stochastic dynamic population modeling** (freq: 1) - probabilistic modeling approach for livestock population health and economics
+- **microbial diversity assessment** (freq: 1) - analysis of bacterial community composition and structure in environmental samples
+- **germplasm conservation** (freq: 1) - preservation of genetic resources for crop improvement and research
+- **remote sensing pest detection** (freq: 1) - use of satellite imagery to identify and map crop pest infestations
+- **causal loop diagrams** (freq: 1) - systems thinking tool to map interconnected causes and effects
+- **scaling scan tool** (freq: 1) - assessment framework to evaluate innovation scalability potential
+- **integrated rice-shrimp systems** (freq: 1) - farming system combining rice cultivation with shrimp aquaculture in the same field
+- **parboiling** (freq: 1) - rice processing technique involving partial boiling in the husk to improve nutritional quality
+- **smart valley farming** (freq: 1) - participatory approach targeting improved soil and water management in inland valleys
+- **technical accompaniment** (freq: 1) - ongoing technical support and capacity building for farmers and extension agents
+- **bundled financial services** (freq: 1) - integrated packages combining credit, insurance, and agricultural services
+- **accelerator programs** (freq: 1) - structured support programs for scaling agricultural innovations and businesses
+- **migration monitoring** (freq: 1) - systematic tracking and analysis of population movement patterns
+- **climate policy coordination** (freq: 1) - systematic coordination of climate action and policy implementation across government levels
+- **gender-responsive artificial intelligence** (freq: 1) - ai systems designed to recognize and mitigate gender biases in service delivery
+- **bias detection and mitigation** (freq: 1) - systematic identification and correction of algorithmic biases in ai systems
+- **malnutrition forecasting** (freq: 1) - predictive modeling to anticipate acute child malnutrition for early warning systems
+- **biodiversity-positive financing** (freq: 1) - investment mechanisms that channel finance toward biodiversity conservation and sustainable livelihoods
+- **impact measurement** (freq: 1) - systematic tracking and assessment of climate and environmental outcomes
+- **cost of healthy diet analysis** (freq: 1) - economic assessment of affordability and access to nutritious food
+- **longitudinal impact assessment** (freq: 1) - long-term tracking of intervention effects over multiple time periods
+- **federated data sharing** (freq: 1) - collaborative data sharing framework that maintains data sovereignty while enabling analysis
+- **environmental dna monitoring** (freq: 1) - biodiversity assessment using genetic material extracted from environmental samples
+- **artificial intelligence famine forecasting** (freq: 1) - machine learning approaches to predict famine conditions and food crises
+- **multimodal advisory services** (freq: 1) - agricultural extension using multiple communication channels and formats
+- **micronutrient adequacy projection** (freq: 1) - modeling future nutritional status and micronutrient availability
+- **socio-environmental monitoring** (freq: 1) - integrated assessment of social and environmental outcomes in landscapes
+- **transdisciplinary approaches** (freq: 1) - research and intervention methods that integrate multiple disciplines and stakeholder perspectives
+- **global water governance** (freq: 1) - international frameworks and institutions for managing water resources across borders
+- **climate-resilient wash** (freq: 1) - water, sanitation and hygiene systems designed to withstand climate impacts
+- **groundwater integration** (freq: 1) - systematic inclusion of groundwater considerations in water service planning
+- **bankable project development** (freq: 1) - preparation of investment-ready proposals that meet funding institution requirements
+- **climate finance mobilization** (freq: 1) - strategies to attract and deploy financial resources for climate adaptation and mitigation
+- **social-ecological systems** (freq: 1) - integrated systems of humans and natural components
+- **feminist political ecology** (freq: 1) - analytical framework examining gender, power, and environmental resource access
+- **spatiotemporal asset catalog** (freq: 1) - standardized metadata specification for spatiotemporal data assets
+- **participatory foresight** (freq: 1) - collaborative approach to exploring and planning for future scenarios
+- **pan-genomics** (freq: 1) - study of entire gene sets across multiple individuals or varieties of a species
+- **systems science** (freq: 1) - interdisciplinary study of complex systems and their emergent properties
+- **long-term experiments** (freq: 1) - extended research studies conducted over multiple years to assess agricultural and environmental outcomes
+- **gender inclusivity** (freq: 1) - ensuring equal participation and empowerment of all genders in development processes
+- **bioconversion** (freq: 1) - biological transformation of organic materials into useful products through living organisms
+- **superabsorbent hydrogels** (freq: 1) - water-retaining polymers that improve soil moisture retention and reduce irrigation needs
+- **digital public infrastructure** (freq: 1) - shared digital platforms and protocols that enable scalable service delivery
+- **aerobic composting** (freq: 1) - controlled decomposition of organic matter in the presence of oxygen to produce fertilizer
+- **scaling assessment** (freq: 1) - systematic evaluation of factors affecting innovation adoption and diffusion
+- **radio-based extension** (freq: 1) - using radio broadcasts to deliver agricultural information and climate advisories
+- **crowdsourcing** (freq: 1) - engaging large groups to collect data or perform tasks using technology
+- **randomized control trial** (freq: 1) - experimental design randomly assigning subjects to treatment and control groups
+- **food safety training** (freq: 1) - education programs to improve food handling and safety practices
+- **seed quality testing** (freq: 1) - assessment of seed viability, purity, and health for conservation and distribution
+- **market linkages** (freq: 1) - connections between producers and buyers to facilitate trade
+- **disease outbreak management** (freq: 1) - coordinated response to prevent and control disease spread
+- **enteric methane measurement** (freq: 1) - direct quantification of methane emissions from livestock digestive systems under field conditions
+- **bundled csa practices** (freq: 1) - integrated packages of climate-smart agricultural interventions implemented at scale
+- **sub-seasonal forecasting** (freq: 1) - weather and climate prediction for timescales of 2 weeks to 2 months
+- **networking support** (freq: 1) - facilitated connections and information exchange between professionals
+- **vulnerability hotspot mapping** (freq: 1) - spatial analysis to identify areas of high climate and social risk
+- **serosurvey** (freq: 1) - epidemiological study measuring antibodies in blood samples
+- **risk mapping** (freq: 1) - spatial analysis of disease or hazard probability
+- **data integration platform** (freq: 1) - unified system combining multiple data sources
+- **mass vaccination campaign** (freq: 1) - large-scale immunization program targeting animal or human populations
+- **co-creation approach** (freq: 1) - collaborative development process involving community members as partners
+- **yield prediction modeling** (freq: 1) - use of mathematical models to forecast agricultural crop yields
+- **livestock nutrition management** (freq: 1) - optimization of animal feeding practices for improved productivity
+- **social network analysis** (freq: 1) - analytical method to study information flow and relationships within social networks
+- **carbon market readiness** (freq: 1) - capacity building to enable participation in carbon trading mechanisms
+- **community seed systems** (freq: 1) - local networks for producing, storing, and distributing seeds
+- **foresight analysis** (freq: 1) - systematic exploration of future scenarios for strategic planning
+- **artificial intelligence integration** (freq: 1) - incorporation of AI technologies to enhance service delivery and decision-making
+- **family-led learning** (freq: 1) - household-based approach to knowledge sharing and decision-making
+- **pastoral resource management** (freq: 1) - practices for managing grazing lands and livestock in pastoral systems
+- **adaptation tracking** (freq: 1) - systematic monitoring and evaluation of climate adaptation interventions and outcomes
+- **digital agriculture ecosystem** (freq: 1) - interconnected digital tools and platforms supporting agricultural decision-making and operations
+- **causal chain analysis** (freq: 1) - approach linking climate shocks, adaptive actions, and outcomes through explicit causal pathways
+- **machine learning phenotyping** (freq: 1) - use of computational algorithms to automatically assess plant traits from sensor data
+- **uav-based remote sensing** (freq: 1) - collection of agricultural data using unmanned aerial vehicles equipped with sensors
+- **salinity tolerance** (freq: 1) - plant ability to grow and function in high-salt environments
+- **pathotype screening** (freq: 1) - testing plant materials against different strains of pathogens to assess resistance
+- **watershed modeling** (freq: 1) - simulation of water flow and management at landscape scale
+- **variety trial** (freq: 1) - systematic evaluation of crop or forage varieties across different environments
+- **dignified work** (freq: 1) - employment that provides income, respect, safety and social recognition
+- **forum theatre** (freq: 1) - interactive performance method to explore social issues and solutions
+- **metadata standardization** (freq: 1) - establishing consistent data description and classification systems
+- **digital water innovations** (freq: 1) - technology-based solutions for water monitoring and management
+- **bush encroachment** (freq: 1) - invasion of grasslands by woody plants reducing grazing capacity
+- **seed dormancy breaking** (freq: 1) - treatments to overcome seed dormancy and promote germination
+- **business-to-business discussion tools** (freq: 1) - structured dialogue mechanisms to strengthen coordination and collaboration among value chain actors
+- **agroecological solutions** (freq: 1) - sustainable farming practices that enhance biodiversity and ecosystem functions
+- **crop rotation** (freq: 1) - sequential cultivation of different crops to improve soil health and productivity
+- **economic inclusion** (freq: 1) - expanding access to economic opportunities for marginalized populations
+- **human capital development** (freq: 1) - investment in education, skills, and health to increase productivity
+- **frontier food systems** (freq: 1) - food systems at the edges of current research and investment priorities
+- **concentrate supplementation** (freq: 1) - feeding strategy providing concentrated nutrients to livestock
+- **methane emissions** (freq: 1) - release of methane gas from livestock digestion processes
+- **average daily gain** (freq: 1) - measure of livestock weight increase per day
+- **dry matter production** (freq: 1) - amount of dry biomass produced by plants or consumed by animals
+- **emission intensity per weight gain** (freq: 1) - ratio of greenhouse gas emissions to livestock weight gain
+- **knowledge sharing** (freq: 1) - exchange of information and expertise among stakeholders
+- **agricultural sustainability** (freq: 1) - farming practices that maintain productivity while preserving environmental resources
+- **biocontrol** (freq: 1) - use of biological agents to control pests, diseases, or contaminants
+- **metabolomics-assisted breeding** (freq: 1) - integration of metabolite profiling with breeding programs to enhance crop improvement
+- **loss and damage assessment** (freq: 1) - quantification of climate-related losses that cannot be avoided through adaptation
+- **scaling readiness assessment** (freq: 1) - systematic evaluation of factors affecting the scaling of innovations
+- **multilateral system** (freq: 1) - international framework for sharing plant genetic resources
+- **policy harmonization** (freq: 1) - aligning policies across jurisdictions for consistency
+- **waste hierarchy** (freq: 1) - prioritization framework emphasizing prevention, reduction, reuse, and recycling for waste management
+- **zero deforestation agreements** (freq: 1) - voluntary public-private initiatives to reduce deforestation in agricultural supply chains
+- **managed resettlement** (freq: 1) - planned relocation of communities away from climate hazards
+- **genetic parameter estimation** (freq: 1) - statistical methods to quantify heritable variation in traits
+- **anti-methanogenic compounds** (freq: 1) - substances that reduce methane production in ruminant digestion
+- **hdp nexus** (freq: 1) - integrated approach linking humanitarian, development, and peace interventions
+- **digital methods** (freq: 1) - computational approaches for analyzing online data and digital content
+- **spatial effects** (freq: 1) - influence of geographic proximity on social and economic outcomes
+- **post-harvest food loss** (freq: 1) - reduction in food quantity or quality that occurs after harvest but before consumption
+- **germplasm screening** (freq: 1) - systematic evaluation of genetic material for desired traits
+- **spatial prioritization** (freq: 1) - geographic targeting based on spatial analysis
+- **anti-methanogenic screening** (freq: 1) - laboratory testing to identify compounds that reduce methane production
+- **metabolomic analysis** (freq: 1) - comprehensive study of metabolites in biological samples
+- **heterotic pattern integration** (freq: 1) - breeding approach to combine complementary genetic groups for hybrid vigor
+- **anthocyanin content evaluation** (freq: 1) - measurement of pigment compounds in plant tissues
+- **reproductive biotechnology** (freq: 1) - application of biotechnological tools to monitor and improve reproductive performance in livestock
+- **system dynamics modeling** (freq: 1) - computational approach to understand complex systems through feedback loops, delays, and trade-offs
+- **socio-ecological gains** (freq: 1) - joint improvements in productivity, quality, environmental sustainability, and equitable benefit distribution
+- **target population of environments** (freq: 1) - characterization of growing environments to guide crop variety development and deployment strategies
+- **product design teams** (freq: 1) - structured approach bringing together diverse expertise to make informed crop variety advancement decisions
+- **breeding cost analysis** (freq: 1) - systematic assessment of operational costs in breeding programs for improved resource allocation
+- **crop suitability modeling** (freq: 1) - analytical framework to assess geographic areas' suitability for growing different crops based on environmental conditions
+- **machine learning integration** (freq: 1) - combining machine learning algorithms with process-based models to improve agricultural predictions
+- **value chain governance** (freq: 1) - coordination mechanisms and power relationships among actors in agricultural value chains
+- **biodiversity restoration** (freq: 1) - recovery of native species diversity and ecosystem function in degraded landscapes
+- **economic return analysis** (freq: 1) - calculation of financial benefits and costs of agricultural interventions or investments
+- **gender-responsive adaptation** (freq: 1) - climate adaptation strategies that address differential impacts and needs by gender
+- **canopy height modeling** (freq: 1) - estimation of crop structural parameters using remote sensing or other technologies
+- **spatiotemporal data cataloging** (freq: 1) - systematic organization and metadata management of spatial and temporal datasets
+- **digital seed inventory management** (freq: 1) - systematic approach to tracking and managing seed stocks using digital platforms
+- **multispectral image analysis** (freq: 1) - automated analysis using multiple wavelengths of light for species identification
+- **machine learning classification** (freq: 1) - automated pattern recognition for categorizing biological materials
+- **integrated rice-fish farming** (freq: 1) - aquaculture system combining rice cultivation with fish production
+- **kitchen gardening** (freq: 1) - small-scale vegetable production for household nutrition and income
+- **inland valley suitability assessment** (freq: 1) - evaluation of wetland areas for rice cultivation potential
+- **agro-advisory provision** (freq: 1) - services providing agricultural guidance and recommendations to farmers
+- **monitoring reporting and verification** (freq: 1) - systematic tracking and validation of environmental and agricultural outcomes
+- **saving for change** (freq: 1) - community-based savings and lending mechanism for rural financial inclusion
+- **pay-as-you-go system** (freq: 1) - payment model allowing gradual ownership transfer through installment payments
+- **aquifer recharge zone mapping** (freq: 1) - identification and mapping of areas where groundwater can be naturally replenished
+- **inclusive climate planning** (freq: 1) - participatory planning processes that ensure diverse stakeholder representation in climate initiatives
+- **iron-coated seed technology** (freq: 1) - seed treatment technology that improves crop establishment and reduces emissions
+- **soil spectroscopy** (freq: 1) - analytical technique for rapid, non-destructive assessment of soil properties
+- **cropping system diversification** (freq: 1) - practice of growing multiple crop species to improve system resilience and productivity
+- **skim-sequencing** (freq: 1) - low-coverage DNA sequencing approach for cost-effective genotyping
+- **water-saving irrigation** (freq: 1) - irrigation techniques that reduce water consumption while maintaining crop productivity
+- **climate risk mapping** (freq: 1) - spatial analysis and visualization of climate-related hazards and vulnerabilities
+- **participatory framework** (freq: 1) - structured approach involving multiple stakeholders in decision-making processes
+- **pest management** (freq: 1) - strategies to control harmful organisms affecting crops
+- **composting** (freq: 1) - biological decomposition of organic matter into nutrient-rich soil amendment
+- **rust resistance** (freq: 1) - plant ability to defend against fungal rust pathogens
+- **agroforestry monitoring** (freq: 1) - systematic tracking of tree planting and forest management activities
+- **black soldier fly farming** (freq: 1) - insect-based agricultural production system for protein and waste management
+- **in vitro culture** (freq: 1) - laboratory technique for growing plant tissues under sterile conditions
+- **vegetable production** (freq: 1) - cultivation and management of vegetable crops
+- **dairy production** (freq: 1) - livestock management system focused on milk production
+- **quality declared seed** (freq: 1) - seed certification system ensuring genetic purity and quality standards
+- **leaf-bud cutting propagation** (freq: 1) - vegetative reproduction technique using leaf-bud segments
+- **malting quality breeding** (freq: 1) - crop improvement focused on traits suitable for malt production
+- **business investment decision tools** (freq: 1) - digital platforms supporting enterprise planning and investment analysis
+- **aquaculture production** (freq: 1) - controlled cultivation of aquatic organisms for food production
+- **feed formulation** (freq: 1) - process of combining ingredients to create nutritionally balanced animal feed
+- **quality management systems** (freq: 1) - structured framework for ensuring consistent product quality and safety standards
+- **macro-propagation techniques** (freq: 1) - methods for rapid multiplication of planting materials using vegetative propagation
+- **community-based extension** (freq: 1) - extension service delivery model using local community members as agents
+- **waste-to-feed conversion** (freq: 1) - process of converting agricultural by-products into livestock feed
+- **market linkage facilitation** (freq: 1) - connecting producers with buyers and markets to improve commercialization
+- **demonstration plot training** (freq: 1) - hands-on learning approach using field demonstrations to transfer technology
+- **multilocation trials** (freq: 1) - testing varieties across multiple sites to assess performance and adaptation
+- **integrated pathogen screening** (freq: 1) - comprehensive testing approach combining multiple methods to identify disease resistance
+- **sustainable production practices** (freq: 1) - farming methods that maintain productivity while preserving environmental resources
+- **zero tillage cultivation** (freq: 1) - agricultural practice of growing crops without disturbing soil through tillage
+- **gender-responsive technical assistance** (freq: 1) - support services designed to address specific needs and barriers faced by different genders
+- **mass awareness programs** (freq: 1) - large-scale outreach activities to disseminate information and promote adoption
+- **genetic engineering** (freq: 1) - direct manipulation of organism's genes using biotechnology
+- **biosafety regulatory compliance** (freq: 1) - adherence to safety protocols and regulations for genetically modified organisms
+- **transcriptome analysis** (freq: 1) - comprehensive study of RNA transcripts produced by genome under specific conditions
+- **loop-mediated isothermal amplification** (freq: 1) - DNA amplification technique that operates at constant temperature for rapid detection
+- **chromatin accessibility mapping** (freq: 1) - technique to identify regions of genome accessible for transcription factor binding
+- **comparative genomic analysis** (freq: 1) - comparison of genome structure and function between different organisms or varieties
+- **seed certification system** (freq: 1) - quality assurance framework ensuring genetic purity and health of planting materials
+- **virus indexing** (freq: 1) - systematic testing to detect and identify viral pathogens in plant materials
+- **impact accelerator** (freq: 1) - coordinated system design to enhance adoption of agricultural innovations
+- **puddled transplanted rice** (freq: 1) - traditional rice cultivation involving seedbed preparation and transplanting in puddled soil
+- **clustered randomized control trial** (freq: 1) - experimental design using randomized groups of clusters to test interventions
+- **seed priming** (freq: 1) - pre-sowing treatment to enhance seed germination and seedling vigor
+- **precision nitrogen management** (freq: 1) - optimized fertilizer application matching nitrogen rates to specific field conditions
+- **alternative polyadenylation** (freq: 1) - molecular mechanism regulating gene expression through RNA processing
+- **gender-responsive business planning** (freq: 1) - business strategy development incorporating gender equity and inclusion principles
+- **digital mrv platform** (freq: 1) - technology system for monitoring, reporting and verifying environmental restoration activities
+- **late blight resistance** (freq: 1) - plant trait providing protection against phytophthora infestans pathogen
+- **unmanned aerial vehicles** (freq: 1) - drone technology for agricultural applications including spraying and monitoring
+- **elevated temperature stress** (freq: 1) - plant stress condition caused by higher than optimal growing temperatures
+- **rooted apical cuttings** (freq: 1) - vegetative propagation technique using rooted shoot tips for plant multiplication
+- **collaborative crop improvement networks** (freq: 1) - multi-institutional partnerships for coordinated plant breeding and research
+- **global goal on adaptation** (freq: 1) - international climate policy framework for adaptation planning and implementation
+- **indicator repository** (freq: 1) - curated knowledge base of metrics for tracking adaptation progress
+- **impact pathway assessment** (freq: 1) - systematic evaluation of intervention effects through causal chains
+- **soil health diagnostics** (freq: 1) - systematic assessment of soil physical, chemical and biological properties
+- **seasonal rainfall forecasting** (freq: 1) - prediction of precipitation patterns over seasonal timescales for agricultural planning
+- **multi-stress phenotyping** (freq: 1) - systematic evaluation of crop performance under multiple environmental stresses
+- **sustainable cattle ranching** (freq: 1) - livestock production practices that minimize environmental impact while maintaining productivity
+- **post-entry quarantine** (freq: 1) - controlled isolation and testing of introduced plant material to prevent pest and disease spread
+- **micro-drip irrigation** (freq: 1) - water-efficient irrigation method delivering small amounts of water directly to plant roots
+- **stewardship guidelines** (freq: 1) - management protocols to ensure sustainable use of agricultural technologies
+- **precision seeding** (freq: 1) - accurate placement of seeds at optimal spacing and depth using specialized equipment
+- **unmanned aerial vehicle application** (freq: 1) - use of drones for agricultural input delivery and field operations
+- **weed control efficiency** (freq: 1) - measure of effectiveness in reducing weed populations and competition
+- **resilience capacity index** (freq: 1) - composite measure of household or community ability to withstand and recover from shocks
+- **knowledge diffusion** (freq: 1) - spread of agricultural information and practices through farmer networks
+- **variety demonstration** (freq: 1) - field-based showcasing of crop varieties to promote adoption
+- **multi-location trials** (freq: 1) - testing of crop varieties across multiple geographic locations for validation
+- **striga resistance** (freq: 1) - crop ability to withstand parasitic striga weed infestation
+- **demand-led breeding** (freq: 1) - crop improvement driven by market and farmer requirements
+- **chemical control trials** (freq: 1) - field experiments testing effectiveness of chemical treatments for pest and disease management
+- **gender-inclusive planning** (freq: 1) - incorporating gender equality and social inclusion considerations into development planning
+- **willingness to pay assessment** (freq: 1) - economic evaluation of farmer demand for agricultural technologies
+- **experimental auctions** (freq: 1) - controlled market experiments to determine economic preferences
+- **multi-stress tolerance** (freq: 1) - plant resistance to multiple biotic and abiotic stresses
+- **impact assessment** (freq: 1) - systematic evaluation of intervention effects on outcomes
+- **genomic marker development** (freq: 1) - creation of DNA-based tools for genetic analysis and tracking
+- **varietal tracking** (freq: 1) - monitoring adoption and distribution of specific crop varieties
+- **target product profile development** (freq: 1) - systematic definition of desired characteristics for breeding targets
+- **population improvement** (freq: 1) - genetic enhancement of breeding populations for desired traits
+- **regional variety trials** (freq: 1) - multi-location testing of varieties across geographic regions
+- **gender equality integration** (freq: 1) - systematic inclusion of gender considerations in development programs
+- **heterotic group development** (freq: 1) - classification of breeding lines based on combining ability for hybrid development
+- **soil nutrient management** (freq: 1) - optimization of soil fertility for crop production
+- **pollinator protection** (freq: 1) - conservation strategies to support pollinating insects
+- **habitat enhancement** (freq: 1) - modification of agricultural landscapes to support beneficial organisms
+- **Plant Breeding Methods and Strategies** (freq: 1) - Conventional and advanced breeding approaches including participatory, demand-driven, and speed breeding techniques
+- **Participatory and Farmer-Centered Breeding** (freq: 1) - Breeding approaches that involve farmers and end-users in variety selection and development
+- **Advanced Breeding Techniques** (freq: 1) - Modern and accelerated breeding methods
+- **Breeding Program Design and Management** (freq: 1) - Frameworks and processes for organizing and running breeding programs
+- **Specific Breeding Targets** (freq: 1) - Breeding programs focused on specific traits or crops
+- **Crossing and Selection Methods** (freq: 1) - Specific techniques for crossing and selecting plant material
+- **Genomics and Molecular Tools** (freq: 1) - Genomic selection, genome editing, marker-assisted selection, sequencing, and molecular marker technologies
+- **Genomic Selection and Prediction** (freq: 1) - Methods using genome-wide markers for selection and prediction
+- **Genome Editing and Engineering** (freq: 1) - Technologies for precise modification of plant genomes
+- **Marker-Assisted Selection and QTL** (freq: 1) - Molecular marker technologies for trait selection
+- **Sequencing and Genomic Analysis** (freq: 1) - DNA sequencing and genomic characterization methods
+- **Molecular Markers and Fingerprinting** (freq: 1) - Molecular marker development and application
+- **Multi-Omics and Bioinformatics** (freq: 1) - Integration of multiple omics data types and computational analysis
+- **Phenotyping and Trait Evaluation** (freq: 1) - Methods for assessing plant traits including high-throughput phenotyping, multi-environment trials, and stress tolerance screening
+- **Phenotyping Methods and Technologies** (freq: 1) - Tools and approaches for measuring plant traits
+- **Multi-Environment and Multi-Location Testing** (freq: 1) - Testing varieties across multiple environments and locations
+- **Stress Tolerance Screening** (freq: 1) - Evaluation of plant responses to abiotic and biotic stresses
+- **Trait Characterization and Analysis** (freq: 1) - Assessment and analysis of specific plant traits
+- **Genetic Gain and Performance Assessment** (freq: 1) - Measuring genetic progress and breeding performance
+- **Germplasm and Genetic Resources** (freq: 1) - Conservation, characterization, and utilization of genetic diversity including gene banks and germplasm collections
+- **Germplasm Conservation and Management** (freq: 1) - Methods for preserving and managing genetic resources
+- **Genetic Diversity Assessment** (freq: 1) - Characterization and analysis of genetic diversity
+- **Vegetative Propagation and Tissue Culture** (freq: 1) - Methods for clonal propagation and in vitro culture
+- **Variety Development and Release** (freq: 1) - Processes for variety testing, registration, licensing, and deployment of improved varieties to farmers
+- **Variety Registration and Licensing** (freq: 1) - Regulatory processes for variety approval and commercialization
+- **Variety Adoption and Deployment** (freq: 1) - Processes for getting varieties to farmers and tracking adoption
+- **Target Population and Market Segmentation** (freq: 1) - Defining target environments and market segments for varieties
+- **Seed Systems and Seed Supply** (freq: 1) - Seed production, certification, distribution, quality testing, and seed system strengthening across the value chain
+- **Seed Production** (freq: 1) - Production of quality seed at various levels
+- **Seed Quality and Certification** (freq: 1) - Standards and processes for ensuring seed quality
+- **Seed System Development and Strengthening** (freq: 1) - Building and improving seed systems
+- **Seed Distribution and Delivery** (freq: 1) - Systems for getting seed to farmers
+- **Agroecology and Regenerative Practices** (freq: 1) - Agroecological principles, regenerative agriculture, organic farming, and nature-positive production approaches
+- **Core Agroecological Approaches** (freq: 1) - Foundational agroecological and regenerative farming concepts
+- **Organic and Circular Farming** (freq: 1) - Organic farming, certification, and circular bioeconomy approaches
+- **Nature-Based and Ecosystem Approaches** (freq: 1) - Nature-based solutions, ecosystem services, and biodiversity integration in farming
+- **Climate-Smart Agriculture** (freq: 1) - Climate-smart farming approaches and bundled CSA practices
+- **Integrated Crop and Soil Management** (freq: 1) - Crop rotation, intercropping, conservation agriculture, soil health management, and integrated nutrient management
+- **Conservation Agriculture and Tillage** (freq: 1) - Conservation agriculture practices, tillage management, and crop residue management
+- **Cropping Systems** (freq: 1) - Crop rotation, intercropping, diversification, and cropping system design
+- **Soil Health and Fertility Management** (freq: 1) - Soil health assessment, fertility management, and nutrient management practices
+- **Precision and Digital Crop Management** (freq: 1) - Precision agriculture, digital tools, and data-driven crop management
+- **Agricultural Mechanization** (freq: 1) - Farm mechanization, mechanized services, and scale-appropriate mechanization
+- **Carbon and Greenhouse Gas Management in Farming** (freq: 1) - Carbon sequestration, GHG measurement, and emission reduction in crop systems
+- **Irrigation and Water Management** (freq: 1) - Water-saving irrigation technologies, water productivity, agricultural water management, and irrigation systems
+- **Irrigation Systems and Technologies** (freq: 1) - Irrigation methods, technologies, and water-saving approaches
+- **Water Productivity and Efficiency** (freq: 1) - Water use efficiency, productivity, and water-efficient farming practices
+- **Agricultural Water Resources Management** (freq: 1) - Water management planning, groundwater, and integrated water resources management
+- **Pest, Disease, and Weed Management** (freq: 1) - Integrated pest management, biological control, disease resistance, and phytosanitary measures
+- **Integrated Pest Management** (freq: 1) - IPM approaches, pest control strategies, and pest risk management
+- **Biological Control** (freq: 1) - Biological control agents and biocontrol approaches
+- **Disease Management** (freq: 1) - Disease resistance, disease management, and disease surveillance in crops
+- **Livestock and Mixed Farming Systems** (freq: 1) - Livestock production, herd health, feed management, crop-livestock integration, and pastoral systems
+- **Livestock Production and Management** (freq: 1) - Livestock production systems, herd management, and sustainable livestock practices
+- **Herd Health Management** (freq: 1) - Animal health, disease management, and biosecurity in livestock systems
+- **Feed and Forage Management** (freq: 1) - Feed management, forage production, and livestock nutrition
+- **Pastoral and Rangeland Systems** (freq: 1) - Pastoral systems, rangeland management, and pastoralist livelihoods
+- **Livestock Methane and Emissions** (freq: 1) - Methane mitigation, enteric fermentation, and emission reduction in livestock
+- **Livestock Value Chains and Services** (freq: 1) - Livestock value chains, market linkages, and service delivery for livestock
+- **Aquaculture and Aquatic Food Systems** (freq: 1) - Aquaculture development, integrated rice-fish systems, small-scale fisheries, and aquatic food production
+- **Aquaculture Systems** (freq: 1) - Aquaculture development, production, and management systems
+- **Integrated Rice-Fish and Aquatic Farming** (freq: 1) - Integrated rice-fish systems, rice-field pond systems, and crop-aquaculture integration
+- **Fisheries and Aquatic Food Systems** (freq: 1) - Small-scale fisheries, aquatic food systems, and fisheries management
+- **Agroforestry and Landscape Farming** (freq: 1) - Agroforestry systems, silvopastoral systems, multifunctional landscapes, and tree-based farming approaches
+- **Agroforestry Systems** (freq: 1) - Agroforestry practices, silvopastoral systems, and tree-based farming
+- **Landscape and Land Management** (freq: 1) - Multifunctional landscapes, land restoration, and landscape-level farming approaches
+- **Farming Systems Innovation and Scaling** (freq: 1) - Innovation in farming systems, technology adoption, and scaling of agricultural practices
+- **Technology Adoption and Diffusion** (freq: 1) - Adoption of agricultural technologies and innovations
+- **Agricultural Extension and Advisory Services** (freq: 1) - Extension services, advisory systems, and farmer training approaches
+- **Participatory and Farmer-Centered Approaches** (freq: 1) - Participatory research, co-design, and farmer-centered innovation approaches
+- **Smallholder and Community Farming** (freq: 1) - Smallholder farming systems, community-based approaches, and inclusive farming
+- **Seed Systems and Crop Improvement** (freq: 1) - Seed systems, seed production, and crop improvement for sustainable farming
+- **Seed Systems Development** (freq: 1) - Seed system strengthening, seed production, and seed delivery
+- **Crop Genetic Improvement** (freq: 1) - Breeding programs, genetic improvement, and crop variety development
+- **Post-Harvest and Food Loss Management** (freq: 1) - Post-harvest management, food loss reduction, and storage technologies
+- **Climate Adaptation and Resilience** (freq: 1) - Climate-smart agriculture, adaptation planning, climate resilience building, and locally led adaptation approaches
+- **Climate-Smart Agriculture Approaches** (freq: 1) - Integrated approaches combining productivity, resilience, and mitigation
+- **Adaptation Planning and Implementation** (freq: 1) - Strategies and frameworks for planning and implementing climate adaptation
+- **Climate Resilience Building** (freq: 1) - Building resilience to climate shocks and stresses
+- **Locally Led and Community-Based Adaptation** (freq: 1) - Community-driven and locally led approaches to climate adaptation
+- **Climate-Conflict and Displacement Nexus** (freq: 1) - Linkages between climate change, conflict, and displacement
+- **Agroecological Approaches to Adaptation** (freq: 1) - Agroecological practices supporting climate adaptation
+- **Climate Mitigation and Low-Carbon Agriculture** (freq: 1) - Greenhouse gas measurement, emission reduction, carbon sequestration, and low-emission agricultural practices
+- **Greenhouse Gas Measurement and Monitoring** (freq: 1) - Methods and systems for measuring and monitoring agricultural greenhouse gas emissions
+- **Carbon Sequestration and Carbon Markets** (freq: 1) - Carbon storage, accounting, and market mechanisms
+- **Methane and Emission Reduction Practices** (freq: 1) - Practices targeting methane and other agricultural emission reductions
+- **Low-Carbon and Zero-Carbon Agriculture** (freq: 1) - Low-emission and zero-carbon agricultural systems and practices
+- **Biogas and Circular Bioeconomy** (freq: 1) - Biogas production and circular bioeconomy approaches for emission reduction
+- **Climate Information and Risk Management** (freq: 1) - Climate services, early warning systems, climate risk assessment, seasonal forecasting, and climate advisory services
+- **Climate Information Services** (freq: 1) - Services providing climate information to farmers and decision-makers
+- **Climate Forecasting and Early Warning** (freq: 1) - Forecasting systems and early warning for climate-related risks
+- **Climate Risk Assessment and Vulnerability** (freq: 1) - Assessing climate risks and vulnerabilities in agricultural systems
+- **Climate Risk Finance and Insurance** (freq: 1) - Financial instruments for managing climate risks
+- **Land, Soil, and Ecosystem Management** (freq: 1) - Sustainable land management, ecosystem restoration, soil health, land degradation, and landscape restoration
+- **Sustainable Land Management** (freq: 1) - Practices for sustainable management of land resources
+- **Soil Health and Management** (freq: 1) - Soil health assessment, monitoring, and improvement practices
+- **Ecosystem Restoration and Services** (freq: 1) - Restoring ecosystems and valuing ecosystem services
+- **Agroforestry and Silvopastoral Systems** (freq: 1) - Tree-based farming systems integrating crops, livestock, and trees
+- **Water Resources and Governance** (freq: 1) - Water governance, groundwater management, integrated water resources management, and transboundary water issues
+- **Water Governance and Management** (freq: 1) - Governance frameworks and management approaches for water resources
+- **Irrigation and Water Infrastructure** (freq: 1) - Irrigation systems and water infrastructure for agriculture
+- **Hydrological Modeling and Analysis** (freq: 1) - Modeling and analysis of hydrological systems
+- **Biodiversity and Agrobiodiversity** (freq: 1) - Biodiversity conservation, agrobiodiversity monitoring, ecosystem services, and biodiversity-positive practices
+- **Biodiversity Conservation** (freq: 1) - Conservation of biological diversity in agricultural landscapes
+- **Landscape and Ecosystem Approaches** (freq: 1) - Landscape-level approaches integrating biodiversity and production
+- **Climate Policy and Finance** (freq: 1) - Climate finance, nationally determined contributions, climate policy integration, and adaptation finance mechanisms
+- **Climate Policy and Governance** (freq: 1) - Policy frameworks and governance for climate action
+- **Climate Finance** (freq: 1) - Finance mechanisms and tracking for climate action
+- **Remote Sensing and Earth Observation for Environment** (freq: 1) - Remote sensing and earth observation tools applied to environmental monitoring
+- **Satellite and Remote Sensing Applications** (freq: 1) - Satellite-based monitoring of environmental and agricultural systems
+- **Sustainable Agricultural Practices for Environment** (freq: 1) - Agricultural practices with environmental sustainability outcomes
+- **Sustainable Intensification and Diversification** (freq: 1) - Intensifying production while maintaining environmental sustainability
+- **Composting and Organic Inputs** (freq: 1) - Organic waste management and composting for soil health
+- **Food Systems Transformation** (freq: 1) - Sustainable food systems, agrifood system transformation, food sovereignty, and systems analytics
+- **Food System Frameworks and Approaches** (freq: 1) - Conceptual and analytical frameworks for food system transformation
+- **Value Chain Development** (freq: 1) - Value chain analysis, upgrading, and market systems for food
+- **Food Market Systems** (freq: 1) - Market monitoring, intelligence, and food market interventions
+- **Nutrition Security and Dietary Quality** (freq: 1) - Nutrition-sensitive agriculture, dietary diversity, biofortification, and malnutrition reduction
+- **Nutrition-Sensitive Approaches** (freq: 1) - Agriculture and food system approaches to improve nutrition outcomes
+- **Dietary Assessment and Quality** (freq: 1) - Methods and tools for assessing dietary diversity and quality
+- **Dietary Behavior and Interventions** (freq: 1) - Behavior change and interventions to improve dietary practices
+- **Food Safety and Quality** (freq: 1) - Food safety monitoring, quality assurance, traceability, and food safety management systems
+- **Food Safety Monitoring and Management** (freq: 1) - Systems and approaches for monitoring and managing food safety
+- **Contaminant and Residue Management** (freq: 1) - Management of food contaminants, residues, and pathogens
+- **Traceability and Quality Assessment** (freq: 1) - Traceability systems and food quality assessment methods
+- **Post-Harvest Management and Loss Reduction** (freq: 1) - Post-harvest technology, storage, processing, food loss and waste reduction, and value addition
+- **Post-Harvest Technology and Storage** (freq: 1) - Technologies and practices for post-harvest handling and storage
+- **Food Loss and Waste Reduction** (freq: 1) - Approaches to reduce food loss and waste across the food system
+- **Food Processing and Value Addition** (freq: 1) - Processing technologies and value addition for food products
+- **Food Environment and Consumer Behavior** (freq: 1) - Food environment assessment, consumer preferences, dietary behavior change, and food access interventions
+- **Food Environment Assessment** (freq: 1) - Assessment and analysis of food environments
+- **Consumer Preferences and Behavior** (freq: 1) - Consumer preference research and behavior change approaches
+- **Food Access and Social Protection** (freq: 1) - Interventions to improve food access and social protection for food security
+- **Food Security Monitoring and Early Warning** (freq: 1) - Food security monitoring, food crisis prediction, early warning systems, and food insecurity measurement
+- **Food Security Measurement and Monitoring** (freq: 1) - Tools and methods for measuring and monitoring food security
+- **Early Warning and Crisis Prediction** (freq: 1) - Systems for early warning and prediction of food crises
+- **Food Security in Fragile Contexts** (freq: 1) - Food security approaches in conflict-affected and fragile settings
+- **Miscellaneous Food Systems Concepts** (freq: 1) - Additional food systems concepts appearing less frequently
+- **Food System Analytics and Modeling** (freq: 1) - Analytical and modeling approaches for food systems
+- **Specific Food System Interventions** (freq: 1) - Specific interventions and approaches in food systems
+- **Digital Advisory and Extension Platforms** (freq: 1) - Digital extension services, mobile-based advisory tools, digital agro-advisory platforms, and AI-driven extension
+- **Core Digital Advisory Services** (freq: 1) - Primary digital advisory and extension concepts
+- **Mobile and Interactive Advisory Tools** (freq: 1) - Mobile-based and interactive tools for agricultural advisory
+- **Climate and Agro-Advisory Services** (freq: 1) - Digital climate and agroclimatic advisory services
+- **Digital Extension Integration and Literacy** (freq: 1) - Integration of digital tools in extension and digital literacy
+- **Remote Sensing and Earth Observation** (freq: 1) - Satellite imagery, drone-based monitoring, hyperspectral imaging, and earth observation for agricultural applications
+- **Satellite-Based Monitoring** (freq: 1) - Satellite remote sensing and monitoring applications
+- **Drone and UAV Applications** (freq: 1) - Unmanned aerial vehicle applications in agriculture
+- **Spectral and Imaging Technologies** (freq: 1) - Hyperspectral, multispectral, and other imaging technologies
+- **Geospatial Analysis and Mapping** (freq: 1) - Geospatial data analysis and spatial mapping tools
+- **Artificial Intelligence and Machine Learning** (freq: 1) - Machine learning algorithms, deep learning, computer vision, large language models, and AI applications in agriculture
+- **Core AI and ML Methods** (freq: 1) - Fundamental AI and machine learning approaches
+- **Computer Vision and Image Processing** (freq: 1) - Computer vision and image-based AI applications
+- **Natural Language Processing** (freq: 1) - Language models and NLP applications
+- **AI Applications and Ethics** (freq: 1) - Applied AI in agriculture and ethical considerations
+- **Predictive Modeling and Forecasting** (freq: 1) - AI-driven prediction and forecasting tools
+- **Decision Support and Modeling Tools** (freq: 1) - Crop modeling, decision support systems, simulation modeling, and data-driven decision-making tools
+- **Crop and Agricultural Modeling** (freq: 1) - Crop simulation and agricultural modeling tools
+- **Decision Support Systems** (freq: 1) - Decision support tools and systems for agriculture
+- **Economic and Impact Modeling** (freq: 1) - Economic modeling and impact assessment tools
+- **Early Warning and Monitoring Systems** (freq: 1) - Early warning systems and monitoring tools
+- **Data Management and Digital Infrastructure** (freq: 1) - Data standardization, interoperability, digital public infrastructure, data platforms, and knowledge management systems
+- **Data Standards and Interoperability** (freq: 1) - Data standardization, harmonization, and interoperability
+- **Digital Platforms and Infrastructure** (freq: 1) - Digital platforms, infrastructure, and public goods
+- **Monitoring Reporting and Verification** (freq: 1) - Digital MRV and emissions monitoring systems
+- **Data-Driven Agriculture** (freq: 1) - Data-driven approaches and analytics in agriculture
+- **Precision Agriculture and Smart Farming** (freq: 1) - Precision farming, site-specific recommendations, IoT sensors, digital twins, and data-driven farm management
+- **Precision Farming Technologies** (freq: 1) - Core precision agriculture and smart farming tools
+- **Digital Farming Tools and Systems** (freq: 1) - Digital tools for farm management
+- **Sensor and IoT Applications** (freq: 1) - Sensor networks and IoT applications in agriculture
+- **Crowdsourcing and Citizen Science** (freq: 1) - Participatory and crowdsourced data collection
+- **E-Learning and Virtual Training** (freq: 1) - Digital learning platforms and virtual training tools
+- **Value Chain Development and Analysis** (freq: 1) - Value chain mapping, upgrading, coordination, governance, and market systems development
+- **Core Value Chain Concepts** (freq: 1) - Foundational value chain development and analysis concepts
+- **Supply Chain and Post-Harvest** (freq: 1) - Supply chain management and post-harvest value addition
+- **Agricultural Commercialization** (freq: 1) - Commercialization clusters and contract farming
+- **Market Systems and Market Intelligence** (freq: 1) - Market assessment, price monitoring, market information systems, and market segmentation
+- **Market Analysis and Assessment** (freq: 1) - Tools and methods for understanding market systems
+- **Price and Market Monitoring** (freq: 1) - Price monitoring, market information, and market intelligence systems
+- **Market-Oriented Seed Systems** (freq: 1) - Market-driven approaches to seed delivery and production
+- **Agricultural Mechanization and Services** (freq: 1) - Mechanized agriculture, small-scale mechanization, mechanization service providers, and precision seeding
+- **Mechanization Technologies** (freq: 1) - Technologies and approaches for agricultural mechanization
+- **Mechanization Service Models** (freq: 1) - Service delivery models for agricultural mechanization
+- **Business Development and Private Sector Engagement** (freq: 1) - Business model development, agribusiness training, private sector investment, and inclusive business models
+- **Business Models and Development** (freq: 1) - Development of business models and plans for agribusiness
+- **Agribusiness Training and Capacity** (freq: 1) - Training and capacity building for agribusiness
+- **Private Sector and Partnerships** (freq: 1) - Private sector investment and public-private partnerships
+- **Geographical Indications and Certification** (freq: 1) - Product differentiation through certification and geographical indications
+- **Finance, Insurance, and Risk Management** (freq: 1) - Index insurance, blended finance, digital financial services, climate finance, and risk contingent credit
+- **Agricultural Insurance** (freq: 1) - Insurance products for agricultural risk management
+- **Finance and Investment Mechanisms** (freq: 1) - Blended finance, digital financial services, and innovative financing
+- **Social Protection and Transfers** (freq: 1) - Social protection programs and cash transfer mechanisms
+- **Livelihoods and Economic Inclusion** (freq: 1) - Livelihood improvement, economic inclusion, youth entrepreneurship, and ultra-poor graduation approaches
+- **Livelihood Approaches** (freq: 1) - Frameworks and approaches for livelihood improvement
+- **Youth and Women's Economic Empowerment** (freq: 1) - Youth entrepreneurship and women's economic empowerment
+- **Labor and Migration** (freq: 1) - Labor migration and related livelihood dynamics
+- **Economic Analysis and Impact** (freq: 1) - Economic analysis tools for livelihood and market assessment
+- **Smallholder Farming and Technology Adoption** (freq: 1) - Smallholder farming systems, technology adoption, and scaling approaches
+- **Smallholder Farming Systems** (freq: 1) - Approaches and systems for smallholder farmers
+- **Scaling Approaches** (freq: 1) - Frameworks and strategies for scaling agricultural innovations
+- **Digital Agriculture and Advisory Services** (freq: 1) - Digital tools, platforms, and advisory services for agricultural markets and value chains
+- **Digital Agriculture Systems** (freq: 1) - Broader digital agriculture systems and transformation
+- **Institutional and Governance Frameworks** (freq: 1) - Multi-stakeholder platforms, institutional coordination, and governance for market and value chain development
+- **Multi-Stakeholder Engagement** (freq: 1) - Platforms and approaches for multi-stakeholder collaboration
+- **Policy and Enabling Environment** (freq: 1) - Policy frameworks and enabling environments for market development
+- **Collective Action and Governance** (freq: 1) - Collective action and governance mechanisms for rural development
+- **Gender Equality and Women's Empowerment** (freq: 1) - Gender-transformative approaches, women's empowerment, gender mainstreaming, and gender-responsive programming
+- **Gender-Transformative Approaches** (freq: 1) - Approaches that address root causes of gender inequality
+- **Women's Empowerment** (freq: 1) - Concepts related to empowering women in agriculture and society
+- **Gender Mainstreaming and Programming** (freq: 1) - Integrating gender into programs, policies, and research
+- **Social Inclusion and Equity** (freq: 1) - Social inclusion, intersectionality, youth empowerment, and marginalized group engagement
+- **Social Inclusion Frameworks** (freq: 1) - Frameworks and approaches for inclusive development
+- **Youth and Marginalized Groups** (freq: 1) - Empowerment of youth and other marginalized populations
+- **Intra-household and Community Dynamics** (freq: 1) - Decision-making and resource allocation within households and communities
+- **intra-household decision-making** (freq: 1) - 
+- **Justice and Rights** (freq: 1) - Environmental justice, climate justice, and rights-based approaches
+- **Social Norms and Behavior Change** (freq: 1) - Social norms change, behavior change communication, community conversations, and gender norms analysis
+- **Behavior Change Approaches** (freq: 1) - Methods and tools for changing behaviors and social norms
+- **Social Norms** (freq: 1) - Analysis and transformation of social norms
+- **Community Engagement Methods** (freq: 1) - Participatory and community-based approaches to social change
+- **Social Protection and Humanitarian Response** (freq: 1) - Social protection systems, cash transfers, shock-responsive social protection, and humanitarian-development nexus
+- **Social Protection Systems** (freq: 1) - Programs and systems providing social protection to vulnerable populations
+- **Cash and Financial Transfers** (freq: 1) - Cash transfer programs and digital financial support
+- **Humanitarian Response** (freq: 1) - Humanitarian programming and development-humanitarian linkages
+- **Conflict, Fragility, and Displacement** (freq: 1) - Conflict-sensitive programming, fragile settings, forced displacement, climate-conflict nexus, and peacebuilding
+- **Conflict-Sensitive Programming** (freq: 1) - Approaches for working in conflict-affected and fragile settings
+- **Climate-Conflict Nexus** (freq: 1) - Linkages between climate change, conflict, and security
+- **Displacement and Migration** (freq: 1) - Forced displacement, climate-induced migration, and related policies
+- **Peacebuilding and Environmental Security** (freq: 1) - Peacebuilding approaches and environmental dimensions of conflict
+- **Human Wellbeing and Livelihoods** (freq: 1) - Dimensions of human wellbeing, livelihoods, and quality of life in agricultural contexts
+- **Violence and Safety** (freq: 1) - Gender-based violence and intimate partner violence
+- **Livelihoods and Wellbeing** (freq: 1) - Livelihood improvement and wellbeing outcomes
+- **Miscellaneous Wellbeing Concepts** (freq: 1) - Additional concepts related to human wellbeing and social dimensions
+- **Extension Approaches and Methods** (freq: 1) - Core extension delivery methods and approaches
+- **Digital Advisory and Extension Services** (freq: 1) - Digital tools and platforms for agricultural advisory and extension
+- **Agroclimatic Advisory Services** (freq: 1) - Climate and weather information services for farmers
+- **Training and Capacity Building** (freq: 1) - Capacity building programs, training of trainers, curriculum development, and skills development initiatives
+- **Core Capacity Building** (freq: 1) - Foundational capacity building and training programs
+- **Curriculum and Skills Development** (freq: 1) - Curriculum design, skills training, and specialized training programs
+- **Virtual and Digital Learning** (freq: 1) - Online, virtual, and digital training modalities
+- **Mentorship and Accompaniment** (freq: 1) - Mentorship, coaching, and technical accompaniment programs
+- **Knowledge Management and Learning** (freq: 1) - Knowledge exchange, peer learning, participatory learning, knowledge platforms, and communities of practice
+- **Knowledge Exchange and Sharing** (freq: 1) - Mechanisms for sharing and disseminating knowledge
+- **Peer and Experiential Learning** (freq: 1) - Peer learning networks and experiential learning approaches
+- **Knowledge Platforms and Systems** (freq: 1) - Digital and institutional platforms for knowledge management
+- **Institutional Learning and Adaptive Management** (freq: 1) - Organizational learning, adaptive management, and monitoring frameworks
+- **Traditional and Indigenous Knowledge** (freq: 1) - Traditional knowledge systems and indigenous knowledge integration
+- **Participatory Research and Co-Design** (freq: 1) - Participatory research methods, co-design, citizen science, participatory action research, and co-production of knowledge
+- **Participatory Research Methods** (freq: 1) - Core participatory research approaches and methods
+- **Co-Design and Co-Production** (freq: 1) - Co-design, co-creation, and co-production of knowledge and solutions
+- **Citizen Science and Community-Based Research** (freq: 1) - Citizen science, community-based observation, and participatory climate services
+- **Participatory Breeding and Variety Selection** (freq: 1) - Farmer-led and participatory approaches to crop improvement
+- **Transdisciplinary and Systems Research** (freq: 1) - Interdisciplinary and transdisciplinary research approaches
+- **Participatory Governance and Rangeland Management** (freq: 1) - Participatory governance and community-based natural resource management
+- **Innovation Systems and Scaling** (freq: 1) - Innovation platforms, scaling strategies, innovation hubs, technology adoption, and scaling readiness frameworks
+- **Innovation Platforms and Networks** (freq: 1) - Multi-stakeholder innovation platforms and collaborative networks
+- **Scaling Strategies and Frameworks** (freq: 1) - Approaches and frameworks for scaling agricultural innovations
+- **Business Development and Incubation** (freq: 1) - Business incubation, acceleration, and enterprise development for agricultural innovation
+- **Foresight and Strategic Planning** (freq: 1) - Strategic foresight, vision-to-action, and planning tools for innovation systems
+- **Gender, Social Inclusion, and Empowerment** (freq: 1) - Gender-transformative approaches, social inclusion, and empowerment in agricultural knowledge systems
+- **Gender Inclusion and Equity** (freq: 1) - Gender inclusion, equity, and equality in agricultural development
+- **Women's Empowerment and Leadership** (freq: 1) - Women's empowerment, leadership development, and political participation
+- **Social Inclusion and Intersectionality** (freq: 1) - Social inclusion, intersectionality, and equity in agricultural programs
+- **Behavior Change Communication** (freq: 1) - Communication approaches for behavior change in agricultural and nutrition contexts
+- **Multi-Stakeholder Engagement and Policy Dialogue** (freq: 1) - Stakeholder engagement, policy dialogue, advocacy, and institutional coordination for agricultural development
+- **Policy Dialogue and Advocacy** (freq: 1) - Policy dialogue, advocacy, and evidence-based policy processes
+- **Networking and Collaboration** (freq: 1) - Networking, collaboration, and partnership development
+- **Digital Literacy and Data Systems for Extension** (freq: 1) - Digital literacy, data collection, and digital tools supporting extension and knowledge systems
+- **Digital Literacy and Inclusion** (freq: 1) - Digital literacy, inclusiveness, and access to digital tools
+- **Data Collection and Management for Extension** (freq: 1) - Digital data collection, management, and monitoring for extension programs
+- **Miscellaneous Capacity and Knowledge Concepts** (freq: 1) - Less frequent concepts related to capacity development, extension, and knowledge systems
+- **Participatory and Community Learning Methods** (freq: 1) - Specific participatory and community-based learning methods
+- **Institutional and Organizational Development** (freq: 1) - Institutional development, coordination, and organizational capacity
+- **Scaling and Innovation Miscellaneous** (freq: 1) - Additional scaling and innovation concepts
+- **Agricultural Policy and Reform** (freq: 1) - Policy analysis, coherence, subsidy reform, and agricultural policy advocacy
+- **Core Policy Instruments** (freq: 1) - Fundamental policy tools and frameworks
+- **Subsidy and Finance Reform** (freq: 1) - Subsidy repurposing, agricultural support reform
+- **Policy Harmonization and Coordination** (freq: 1) - Cross-sector and cross-border policy alignment
+- **Miscellaneous Agricultural Policy** (freq: 1) - Other agricultural policy concepts
+- **Governance and Institutional Coordination** (freq: 1) - Multi-stakeholder platforms, institutional coordination, polycentric and participatory governance
+- **Multi-Stakeholder Platforms and Partnerships** (freq: 1) - Platforms and partnerships for collaborative governance
+- **Institutional Coordination Mechanisms** (freq: 1) - Coordination between institutions and organizations
+- **Participatory and Polycentric Governance** (freq: 1) - Participatory governance models and decentralized approaches
+- **Stakeholder Engagement and Consultation** (freq: 1) - Processes for engaging stakeholders in governance
+- **Conflict-Sensitive Governance** (freq: 1) - Governance in fragile and conflict-affected settings
+- **Regulatory Frameworks and Standards** (freq: 1) - Biosafety regulation, phytosanitary regulation, seed certification, and quality standards
+- **Seed and Variety Regulation** (freq: 1) - Regulatory frameworks for seeds and variety registration
+- **Phytosanitary and Biosafety Regulation** (freq: 1) - Plant health and biosafety regulatory frameworks
+- **Quality and Food Safety Standards** (freq: 1) - Standards for food safety and quality assurance
+- **Antimicrobial Resistance Governance** (freq: 1) - Regulatory and governance frameworks for antimicrobial resistance
+- **Miscellaneous Regulatory Concepts** (freq: 1) - Other regulatory and standards concepts
+- **Evidence Generation and Policy Uptake** (freq: 1) - Evidence-based policy, impact evaluation, policy dialogue, science-policy interface, and policy advocacy
+- **Evidence-Based Policy Processes** (freq: 1) - Generating and using evidence for policy decisions
+- **Impact Evaluation and Assessment** (freq: 1) - Methods and frameworks for evaluating policy and program impacts
+- **Monitoring, Reporting and Verification** (freq: 1) - Systems for tracking and verifying policy outcomes
+- **Knowledge Exchange and Policy Learning** (freq: 1) - Platforms and processes for knowledge sharing in policy contexts
+- **Public-Private Partnerships and Investment** (freq: 1) - Public-private partnerships, investment planning, blended finance, and private sector engagement
+- **Partnership Models** (freq: 1) - Frameworks for public-private collaboration
+- **Investment and Finance Mechanisms** (freq: 1) - Financing instruments and investment planning for agriculture
+- **Scaling and Innovation Systems** (freq: 1) - Frameworks and approaches for scaling agricultural innovations
+- **Scaling Frameworks and Approaches** (freq: 1) - Methodologies for scaling agricultural innovations
+- **Agricultural Innovation Systems** (freq: 1) - Systems and networks for agricultural innovation
+- **Capacity Development and Institutional Learning** (freq: 1) - Building institutional and human capacity for policy and governance
+- **Capacity Building Programs** (freq: 1) - Programs and approaches for building capacity
+- **Knowledge Management and Dissemination** (freq: 1) - Systems for managing and sharing institutional knowledge
+- **Gender, Social Inclusion, and Equity in Governance** (freq: 1) - Gender-responsive and socially inclusive governance frameworks
+- **Gender-Responsive Policy and Governance** (freq: 1) - Integrating gender into policy and governance processes
+- **Social Protection and Safety Nets** (freq: 1) - Social protection policies and programs
+- **Justice and Equity Frameworks** (freq: 1) - Frameworks for environmental and social justice
+- **Climate Policy and Finance Governance** (freq: 1) - Governance frameworks for climate action, finance, and international commitments
+- **Climate Action Governance** (freq: 1) - Governance of climate action and adaptation planning
+- **Disaster Risk and Humanitarian Governance** (freq: 1) - Governance frameworks for disaster risk and humanitarian response
+- **Experimental and Quasi-Experimental Methods** (freq: 1) - Controlled trials, experimental designs, and quasi-experimental approaches used in agricultural research
+- **Randomized and Controlled Trials** (freq: 1) - Randomized controlled trials and related experimental designs
+- **Field and On-Farm Trials** (freq: 1) - Experimental methods conducted in field and farm settings
+- **Experimental Preference and Valuation Methods** (freq: 1) - Methods for eliciting preferences and valuations in experimental settings
+- **Qualitative and Mixed Methods** (freq: 1) - Participatory, qualitative, and mixed-methods approaches used in agricultural research
+- **Co-Design and Co-Creation Methods** (freq: 1) - Collaborative design and knowledge co-production approaches
+- **Mixed Methods and Interdisciplinary Approaches** (freq: 1) - Research designs combining multiple methodological traditions
+- **Qualitative and Social Research Techniques** (freq: 1) - Qualitative data collection and social research methods
+- **focus group** (freq: 1) - 
+- **Economic and Systems Modeling** (freq: 1) - Quantitative modeling, economic analysis, and systems simulation approaches
+- **Economic Modeling and Analysis** (freq: 1) - Macroeconomic and microeconomic modeling approaches
+- **Systems and Simulation Modeling** (freq: 1) - Simulation, dynamic, and process-based modeling approaches
+- **Life Cycle and Environmental Assessment** (freq: 1) - Methods for assessing environmental impacts and sustainability
+- **Statistical and Quantitative Methods** (freq: 1) - Statistical analysis and quantitative research methods
+- **Monitoring, Evaluation, and Learning** (freq: 1) - Frameworks and approaches for monitoring, evaluation, learning, and impact measurement
+- **Monitoring and Evaluation Frameworks** (freq: 1) - Structured approaches to monitoring and evaluating programs and interventions
+- **Remote Sensing and Digital Monitoring** (freq: 1) - Technology-based monitoring approaches using remote sensing and digital tools
+- **Greenhouse Gas Measurement and Reporting** (freq: 1) - Methods for measuring, reporting, and verifying greenhouse gas emissions
+- **Foresight and Strategic Planning Methods** (freq: 1) - Forward-looking analytical methods for planning and strategy
+- **Systematic Reviews and Evidence Synthesis** (freq: 1) - Methods for synthesizing evidence from multiple studies
+- **Machine Learning and Artificial Intelligence Methods** (freq: 1) - AI, machine learning, and computational methods applied in agricultural research
+- **Core AI and ML Approaches** (freq: 1) - Foundational machine learning and AI methods
+- **Digital Tools and Decision Support** (freq: 1) - Digital platforms and decision support systems for agricultural research
+- **Scaling and Innovation Methods** (freq: 1) - Frameworks and approaches for scaling agricultural innovations and assessing readiness
+- **Innovation Assessment and Bundling** (freq: 1) - Methods for assessing and packaging innovations for deployment
+- **Capacity Building and Learning Methods** (freq: 1) - Approaches for building capacity, knowledge exchange, and learning in agricultural research
+- **Training and Capacity Development** (freq: 1) - Methods and approaches for training and capacity development
+- **Knowledge Exchange and Dissemination** (freq: 1) - Methods for sharing and disseminating knowledge
+- **Gender and Social Inclusion Methods** (freq: 1) - Methods for integrating gender and social inclusion into agricultural research
+- **Gender Research Methods** (freq: 1) - Specific methods for gender analysis and gender-responsive research
+- **Social Assessment Methods** (freq: 1) - Methods for assessing social dimensions of agricultural interventions
+- **Miscellaneous Research Methods** (freq: 1) - Less frequently occurring research methods and analytical approaches
+- **Specialized Analytical Techniques** (freq: 1) - Specialized laboratory and analytical methods used in agricultural research
+- **Systems Thinking and Nexus Approaches** (freq: 1) - Integrated systems approaches, nexus thinking, and transdisciplinary research
+- **Nexus Frameworks** (freq: 1) - Water-energy-food and related nexus approaches
+- **Systems and Transdisciplinary Research** (freq: 1) - Systems thinking, transdisciplinary and interdisciplinary approaches
+- **Integrated and Adaptive Management** (freq: 1) - Integrated approaches and adaptive management frameworks
+- **One Health and Zoonotic Disease** (freq: 1) - One health approach, zoonotic disease surveillance, antimicrobial resistance, and human-animal-environment health linkages
+- **One Health Approach** (freq: 1) - Integrated human-animal-environment health frameworks
+- **Zoonotic Disease Surveillance and Management** (freq: 1) - Surveillance and management of diseases crossing animal-human boundaries
+- **Antimicrobial Resistance** (freq: 1) - Surveillance and stewardship of antimicrobial resistance
+- **Biosecurity and Disease Prevention** (freq: 1) - Biosecurity practices and disease prevention frameworks
+- **Circular Economy and Waste Management** (freq: 1) - Circular economy principles, waste-to-value technologies, resource recovery, and bioeconomy approaches
+- **Circular Economy Principles** (freq: 1) - Core circular economy frameworks and approaches
+- **Waste-to-Value and Resource Recovery** (freq: 1) - Technologies and approaches for converting waste to value
+- **Biogas and Bioenergy** (freq: 1) - Biogas production and bioenergy from agricultural waste
+- **Payment for Ecosystem Services** (freq: 1) - Mechanisms for valuing and paying for ecosystem services
+- **South-South Cooperation and Localization** (freq: 1) - South-south collaboration, technology transfer, localization, and knowledge exchange across countries and regions
+- **South-South and Knowledge Exchange** (freq: 1) - Collaborative knowledge sharing across countries and regions
+- **Locally Led Approaches** (freq: 1) - Community and locally led development and adaptation
+- **Ethics, Justice, and Responsible Innovation** (freq: 1) - Environmental justice, climate justice, responsible innovation, AI ethics, and decolonial approaches in agriculture
+- **Responsible and Ethical Innovation** (freq: 1) - Responsible innovation, AI ethics, and decolonial approaches
+- **Urban and Peri-Urban Agriculture** (freq: 1) - Urban farming, urban food security, urban agriculture systems, and city-region food system linkages
+- **Urban Farming Systems** (freq: 1) - Urban and peri-urban agricultural production systems
+- **Capacity Building and Learning** (freq: 1) - Capacity building, training, and learning approaches across agricultural development
+- **Capacity Building Approaches** (freq: 1) - Core capacity building and development frameworks
+- **Participatory Learning Methods** (freq: 1) - Participatory and experiential learning approaches
+- **Training Modalities** (freq: 1) - Specific training delivery methods and modalities
+- **Communities of Practice and Networks** (freq: 1) - Learning networks, communities of practice, and innovation platforms
+- **Gender and Social Dimensions** (freq: 1) - Gender transformative approaches, women's empowerment, and social dimensions of agricultural development
+- **Gender Transformative Approaches** (freq: 1) - Approaches that transform gender norms and relations
+- **Gender-Responsive Programming** (freq: 1) - Gender-responsive approaches in agricultural programming
+- **Gender Dynamics and Analysis** (freq: 1) - Analysis of gender dynamics, norms, and relations
+- **Multi-Stakeholder Engagement and Governance** (freq: 1) - Multi-stakeholder platforms, participatory governance, and collaborative approaches
+- **Stakeholder Engagement Methods** (freq: 1) - Methods for engaging stakeholders in research and development
+- **Governance Frameworks** (freq: 1) - Governance structures and frameworks for agricultural development
+- **Scaling and Innovation Diffusion** (freq: 1) - Approaches for scaling innovations and ensuring broad adoption
+- **Scaling Frameworks and Strategies** (freq: 1) - Frameworks and strategies for scaling agricultural innovations
+- **Innovation Bundling and Packages** (freq: 1) - Bundling innovations for greater impact
+- **Research Methods and Evidence Generation** (freq: 1) - Cross-cutting research methods and evidence generation approaches
+- **Experimental and Evaluation Methods** (freq: 1) - Experimental designs and evaluation methodologies
+- **Mixed Methods and Qualitative Approaches** (freq: 1) - Mixed methods and qualitative research approaches
+- **econometric analysis** (freq: 1) - 
+- **Citizen Science and Crowdsourcing** (freq: 1) - Citizen science and crowdsourcing approaches
+- **Climate Security and Conflict** (freq: 1) - Climate-conflict nexus, fragile settings, and humanitarian-development-peace linkages
+- **Fragile and Conflict-Affected Settings** (freq: 1) - Agricultural development in fragile and conflict-affected contexts
+- **Social Protection in Fragile Contexts** (freq: 1) - Social protection approaches in fragile and crisis contexts
+- **Finance and Investment for Development** (freq: 1) - Climate finance, blended finance, and investment approaches for agricultural development
+- **Blended Finance and Investment** (freq: 1) - Blended finance, investment planning, and business development
+- **Insurance and Risk Finance** (freq: 1) - Agricultural insurance and risk financing mechanisms
+- **Resilience and Vulnerability** (freq: 1) - Resilience assessment, vulnerability analysis, and adaptive capacity frameworks
+- **Resilience Frameworks** (freq: 1) - Frameworks for assessing and building resilience
+- **Vulnerability Assessment** (freq: 1) - Vulnerability assessment and analysis approaches
+- **Transformative Change** (freq: 1) - Approaches for transformative and systemic change
+- **Digital Technologies for Agriculture** (freq: 1) - Cross-cutting digital technologies and platforms for agricultural development
+- **Digital Advisory and Extension** (freq: 1) - Digital advisory services and extension platforms
+- **Monitoring, Reporting, and Verification** (freq: 1) - Cross-cutting monitoring, reporting, and verification frameworks
+- **MRV Frameworks** (freq: 1) - Monitoring, reporting, and verification systems
+- **Behavior Change and Communication** (freq: 1) - Behavior change communication and social behavior change approaches
+- **Communication and Outreach** (freq: 1) - Communication strategies and outreach methods
+- **Miscellaneous Cross-Cutting Concepts** (freq: 1) - Additional cross-cutting concepts that span multiple domains
+- **Planetary and Environmental Sustainability** (freq: 1) - Broad environmental sustainability and planetary health concepts
+- **Livelihoods and Social Welfare** (freq: 1) - Livelihood improvement and social welfare approaches
+- **Miscellaneous Methods and Approaches** (freq: 1) - Other cross-cutting methods and approaches
+- **Uncategorized** (freq: 1) - Concepts not assigned to a specific domain during multi-pass taxonomy building
+- **Crop Improvement and Genetics** (freq: 0) - Covers the science and practice of developing improved crop varieties through genetic, genomic, and breeding approaches
+- **Sustainable Farming Systems and Practices** (freq: 0) - Covers farming approaches, agronomic practices, and integrated systems that promote productivity, sustainability, and resilience
+- **Climate Change, Environment, and Natural Resources** (freq: 0) - Covers climate adaptation, mitigation, environmental sustainability, and natural resource management in agricultural contexts
+- **Food Systems, Nutrition, and Food Security** (freq: 0) - Covers the transformation of food systems, nutrition outcomes, food safety, and food security across populations
+- **Digital Innovation and Data Science** (freq: 0) - Covers digital technologies, data-driven tools, remote sensing, and artificial intelligence applied to agriculture
+- **Markets, Value Chains, and Rural Livelihoods** (freq: 0) - Covers market systems, agricultural value chains, business development, and rural economic development
+- **Gender, Social Inclusion, and Human Wellbeing** (freq: 0) - Covers gender equity, social inclusion, empowerment, and human wellbeing dimensions of agricultural development
+- **Capacity Development, Extension, and Knowledge Systems** (freq: 0) - Covers training, extension services, knowledge sharing, and institutional capacity building for agricultural development
+- **Policy, Governance, and Institutional Systems** (freq: 0) - Covers agricultural policy, governance frameworks, institutional coordination, and evidence-based policy processes
+- **Research Methods and Impact Assessment** (freq: 0) - Covers research design, analytical methods, monitoring and evaluation, and impact assessment approaches used in agricultural research
+- **Other / Cross-cutting** (freq: 0) - Concepts that span multiple domains, are broadly cross-cutting, or do not fit neatly into a single domain
+
+## Entities
+
+### Approach
+
+- no-till systems
+
+### Organism
+
+- 3R-gene potato
+- Acinetobacter
+- Aedes mosquitoes
+- Aegilops tauschii
+- Alternaria padwickii
+- Amblypharyngodon mola
+- Aphelenchoides besseyi
+- Arachis hypogaea
+- Ascochyta blight
+- Ascochyta rabiei
+- Aspergillus flavus
+- BRRI dhan67
+- Banana Bunchy Top Disease
+- Banana Bunchy Top Virus
+- Beauveria bassiana
+- Bipolaris maydis
+- Boran cattle
+- Brachiaria
+- Calliandra calothyrsus
+- Cassava Brown Streak Disease
+- Cenchrus purpureus
+- Ceratobasidium theobromae
+- Ceratobasisium theobromae
+- Cercospora zeae-maydis
+- Clarias gariepinus
+- Coxiella burnetii
+- Crimean-Congo haemorrhagic fever
+- Crotalaria juncea
+- Cyclone Idai
+- DWRB244
+- Desmodium
+- Desmodium spp.
+- Dichanthelium latifolium
+- Direct Seeded Rice
+- ESBL-producing bacteria
+- East Asian passiflora distortion virus
+- East Coast Fever
+- Eleusine coracana
+- Engraulis encrasicolus
+- Enterococcus
+- Enterotoxigenic Escherichia coli
+- FOFIFA 198
+- Faro66
+- Faro67
+- Fusarium
+- Fusarium fujikuroi
+- Fusarium graminearum
+- Fusarium head blight
+- Fusarium oxysporum
+- Fusarium verticillioides
+- GIANT strain
+- GIFT
+- Giza 111
+- Gliricidia sepium
+- Guinea grass
+- Hedysarum coronarium
+- Helicoverpa armigera
+- ICTA Super Chiva
+- IR64
+- Jasine 85
+- Kinandang Patong
+- Lablab purpureus
+- Lantana camara
+- Leptocybe invasa
+- Leucaena diversifolia
+- Leucaena leucocephala
+- Leymus racemosus
+- Lygos raetam
+- Magnaporthe oryzae
+- Megathyrsus maximus
+- Menz sheep
+- Metarhizium anisopliae
+- Moniliophthora
+- Moso bamboo
+- NERICA L19
+- NERICA rice
+- Napier grass
+- Nile tilapia
+- OFSP
+- Ophelimus maskelli
+- Opuntia ficus-indica
+- Opuntia spp.
+- Oreochromis niloticus
+- Orobanche
+- Oryza glaberrima
+- Oryza sativa
+- PRRS virus
+- Panicum maximum
+- Pantoea
+- Parastagonospora nodorum
+- Pennisetum glaucum
+- Pentalonia nigronervosa
+- Peste des Petits Ruminants
+- Phaseolus vulgaris
+- Phureja
+- Phytophthora
+- Phytophthora infestans
+- Pseudomonas
+- Puccinia hordei
+- Puccinia striiformis
+- Puccinia triticina
+- Pusa Basmati 1979
+- Pythium
+- Queue Fine de l'Ouest
+- RD-3064
+- RVFV
+- Rhynchosporium
+- Rhynchosporium graminicola
+- Rift Valley fever
+- Salmonella
+- Sardinella aurita
+- Scabiosa atropurpurea
+- Septoria nodorum
+- Sesamum indicum
+- Sirex noctilio
+- Spodoptera frugiperda
+- Staphylococcus
+- Striga hermonthica
+- Sulla
+- TaSTP13
+- Taenia solium
+- Tanzanian Short Horn Zebu
+- Telenomus remus
+- Tephrosia
+- Tilapia Lake Virus
+- Tithonia diversifolia
+- Tongil rice
+- Triticeae
+- Triticum aestivum
+- Triticum turgidum
+- Tuta absoluta
+- Ugandan passiflora virus
+- Urochloa
+- Urochloa brizantha
+- Urochloa humidicola
+- Urochloa hybrids
+- Zea mays
+- Zymoseptoria tritici
+- aflatoxin
+- african swine fever
+- alfalfa
+- alpaca
+- amarante
+- amaranth
+- angular leaf spot
+- anthracnose
+- aphids
+- bambara groundnut
+- bamboo
+- banana
+- banana xanthomonas wilt
+- barley
+- barnyard millet
+- bean
+- beans
+- beef cattle
+- begomovirus
+- bell peppers
+- black soldier fly
+- black soldier fly larvae
+- broiler chicken
+- buffalo
+- cabbage
+- cacao
+- cactus pear
+- camels
+- camu camu
+- carob
+- carp
+- carrot
+- cassava
+- cassava mosaic virus
+- cattle
+- chia
+- chicken strains
+- chickens
+- chickpea
+- cocoa
+- coconut husks
+- coffee
+- common bean
+- common beans
+- common bunt
+- cotton
+- cow dung
+- cowpea
+- dairy cattle
+- downy mildew
+- drought-tolerant rice varieties
+- durum wheat
+- earthworms
+- enset
+- eucalyptus
+- faba bean
+- faba beans
+- fall armyworm
+- finger millet
+- fish
+- flaxseed
+- foxtail millet
+- fusarium ear rot
+- fusarium wilt
+- goat
+- goats
+- grain legumes
+- grape
+- grasspea
+- green grams
+- greengram
+- groundnut
+- groundnuts
+- habanero
+- hantavirus
+- hepatitis E virus
+- honeybees
+- jamun leaf
+- jute mallow
+- lablab
+- late blight
+- leaf rust
+- legumes
+- lentil
+- little millet
+- livestock
+- maize
+- mastitis
+- millet
+- mola carplet
+- moniliasis
+- moringa
+- multipurpose trees
+- mung bean
+- mungbean
+- oil palm
+- oilseed crops
+- okra
+- olive
+- orange-fleshed sweet potato
+- orange-fleshed sweetpotato
+- oseille de Guinée
+- passion fruit
+- pastoral cattle
+- patate douce
+- pea
+- peanut
+- pearl millet
+- pigeonpea
+- pigs
+- pine
+- plantain
+- pollinators
+- potato
+- potato virus Y
+- pulse crops
+- purple corn
+- rabies
+- rice
+- rice blast
+- rice straw
+- rice yellow mottle virus
+- rohu
+- rosette disease
+- rust disease
+- septoria tritici blotch
+- sesame
+- sheath blight
+- sheep
+- shrimp
+- silver carp
+- small ruminants
+- sorghum
+- soybean
+- spring wheat
+- stem rust
+- striga
+- stripe rust
+- sugarcane
+- sugarcane bagasse
+- sunflower
+- sweet pepper
+- sweet potato
+- sweet potato weevil
+- sweetpotato
+- taro
+- tef
+- teff
+- tilapia
+- tomato
+- tomatoes
+- torradovirus
+- tree species
+- vetch
+- vicuña
+- voandzou
+- water hyacinth
+- wheat
+- wheat blast
+- wild yam species
+- yacon
+- yam
+- yellow jacaranda
+- yellow stemborer
+
+### Organization
+
+- 1000FARMS
+- AABS
+- ABLE firms
+- ACLED
+- ACMAD
+- ACRE Africa
+- ADCIN
+- AGNES
+- AGROSAVIA
+- AICCRA
+- AMACIC NGO
+- ANACIM
+- ANAPRI
+- APFORGEN
+- ASARECA
+- ASOCAPIC
+- ASORECH
+- ATVET
+- AVENIR project
+- AVISA
+- AWARD
+- AcceLER project
+- Africa Dryland Crops Improvement Network
+- AfricaRice
+- AfricaRice Genebank
+- African Development Bank
+- African Union
+- Agricultural Information Service
+- Agro-Processing GFCs
+- Al-Shabaab
+- Allen Institute for AI
+- Alliance Bioversity & CIAT
+- Alliance Bioversity-CIAT
+- Alliance for a Green Revolution in Africa
+- Alliance of Biodiversity and CIAT
+- Alliance of Bioversity International and CIAT
+- Alliance of Bioversity International-CIAT
+- Alliance of Bioversity and CIAT
+- Amazon Biodiversity Fund
+- Arba Minch Agricultural Research Center
+- Asia-Africa Bluetech Superhighway
+- Asian Development Bank
+- Atal Bhujal Yojana
+- B-REAL Project
+- BARI
+- BRAC
+- BRIN
+- Bahir Dar University
+- Bangladesh Agricultural Research Institute
+- Bank of Agriculture Limited Nigeria
+- Better Diets and Nutrition
+- Better Rice Initiative Cambodia
+- Bill & Melinda Gates Foundation
+- Bioversity International
+- Blue Planet Fund
+- Boko Haram
+- Bonn Climate Conference
+- Breeding for Tomorrow
+- British Ecological Society
+- Bureau of Soils and Water Management
+- CEDRO
+- CEPI
+- CGIAR
+- CGIAR AI Hub
+- CGIAR Breeding for Tomorrow
+- CGIAR Climate Community of Practice
+- CGIAR Food Frontiers and Security Science Program
+- CGIAR GESI Accelerator
+- CGIAR Gender Equality Initiative
+- CGIAR Gender Platform
+- CGIAR Scaling Fund
+- CGIAR Sustainable Farming Science Program
+- CIAT
+- CIFOR-ICRAF
+- CIMMYT
+- CIP
+- CLIC
+- CNRA
+- COHESA
+- COP29
+- COP30
+- CORAF
+- COSTECH
+- CSHEP
+- CSIR
+- CSIR-CRI
+- CSIR-SARI
+- CSIRO
+- CSISA
+- CSISA-MEA
+- CactusNet
+- Center for Mechanized Agriculture
+- Central Agricultural Research Institute
+- Central Agricultural Research Institution
+- Central Bank of Kenya
+- Chuka University
+- ClimBeR program
+- Climate Action Science Program
+- Climate Community of Practice
+- Conservation International
+- Council for Agricultural and Rural Development
+- DARS
+- Department of Agricultural Extension
+- Department of Agriculture
+- Department of Agriculture Philippines
+- Department of Agriculture Sri Lanka
+- Department of Fisheries
+- Department of Water Resources and Irrigation
+- DigiFarm
+- Digital Earth Africa
+- Digital Transformation Accelerator
+- Direction Générale des Forêts
+- Directorate of Social Development
+- DyTAEL
+- DyTAES
+- EAFF
+- EAT-Lancet Commission
+- ECABREN
+- ECOTECH
+- EIAR
+- EMBRAPA
+- EMEDO
+- ENABEL
+- Eastern Africa Farmers Federation
+- Environmental Care Foundation
+- Ethiopian Biodiversity Institute
+- Ethiopian Institute of Agricultural Research
+- Ethiopian Meteorological Institute
+- European Space Agency
+- FAO
+- FAO-ICARDA
+- FARA
+- FIFAMANOR
+- FLAR
+- FSIN
+- Family Bank
+- Farm Africa
+- Farm Radio International
+- FemiWash Network
+- Food Systems Countdown Initiative
+- Foundation for Ecological Security
+- Fragile and Conflict-Affected Food Systems Area of Work
+- GCAN
+- GCBC
+- GHACOF
+- GISTDA
+- GIZ
+- Gates Foundation
+- Gender and Plant Health Global Research Network
+- Global Alliance for Improved Nutrition
+- Global Center on Adaptation
+- Global Research Alliance
+- Global Stewardship Group
+- Global Water Partnership
+- Great Green Wall Initiative
+- Green Climate Fund
+- Green Legacy Initiative
+- HZPC Holland B.V.
+- HarvestPlus
+- Heifer International
+- Hester Biosciences Ltd
+- Howard G. Buffett Foundation
+- ICAR
+- ICARDA
+- ICCASA
+- ICMPD
+- ICPAC
+- ICRAF
+- ICRISAT
+- ICTA
+- IER
+- IFAD
+- IFPRI
+- IGAD
+- IITA
+- ILRI
+- IMTR
+- INCAP
+- INERA
+- INIAP
+- INSAB
+- INSAH/CILSS
+- IOM
+- IPAR
+- IPCC
+- IPK
+- IRAF
+- IRI
+- IRRI
+- IRRI-SARC
+- ISABU
+- ISARC
+- ISEAL
+- ISRA
+- ISRA-CERAAS
+- IUCEA
+- IUCN
+- IWMI
+- Ingredion Mexico
+- International Center for Tropical Agriculture
+- International Food Policy Research Institute
+- International Institute of Tropical Agriculture
+- International Livestock Research Institute
+- International Organization for Migration
+- International Potato Center
+- International Rice Research Institute
+- International Treaty on Plant Genetic Resources
+- International Water Management Institute
+- Islamic Development Bank
+- JEEViKA
+- KALRO
+- KEPHIS
+- KIPPRA
+- Kasetsart University
+- Kenya Breweries Limited
+- Kenya Climate-Smart Agriculture Multi-Stakeholder Platform
+- Kenya Meteorological Department
+- Kenya Revenue Authority
+- KfW
+- LIMCOM
+- Latin American Fund for Irrigated Rice
+- Lewa Wildlife Conservancy
+- Local Technical Agroclimatic Committees
+- MAAIF
+- MARD
+- MERCOSUR
+- MINAGRI
+- Malawi Government
+- Mali-Meteo
+- Mali-Météo
+- Ministry of Agriculture
+- Ministry of Agriculture and Rural Development
+- Ministry of Agriculture, Food Sovereignty, and Livestock
+- Ministry of Fisheries and Aquaculture Development
+- Ministry of Fisheries and Marine Resources
+- Ministry of Science and Technology
+- Mozambique Institute of Agricultural Research
+- Municipality of Pachacamac
+- NARO
+- NASA Harvest
+- NRCRI
+- National Environmental Management Authority
+- National Institute of Nutrition
+- National Institute of Veterinary Research
+- National Root Crops Research Institute
+- National Seed Research and Training Centre
+- Nazi Université BONI
+- New Markets Lab
+- Niger Office
+- Northwestern University
+- Nusatupe Innovation Hub
+- NutriHarvest
+- OECD Climate Change Expert Group
+- OEP
+- OHRECA
+- OPAPRU
+- Office de l'élevage et des pâturages
+- One Acre Fund
+- PABRA
+- PAGASA
+- PKSF
+- PROSSIVA
+- Pairwise
+- Pan Africa Bean Research Alliance
+- Pan African Bean Research Alliance
+- Philippine Rice Research Institute
+- Plant Production and Protection Department
+- Plant Treaty
+- Pumptech
+- RECA
+- RECCAP-2
+- REDOPA
+- RESTORE Project
+- RTTA
+- RUFORUM
+- RUNRES
+- Rangeland Stewardship Council
+- Rapid Support Forces
+- Rwanda Agriculture and Animal Resources Development Board
+- SAAF
+- SABREN
+- SADC
+- SANEM
+- SB62
+- SELEVER
+- SENA
+- SENASEM
+- SEWA
+- SPARC project
+- SPC
+- STELARR
+- Seed Control and Certification Institute
+- Seed Development and Certification Agency
+- Shalem Investments
+- Smart Zambia Institute
+- Société Malakass
+- Soros Economic Development Fund
+- Southeast Asian Regional Center for Graduate Study and Research in Agriculture
+- Southern Research Institute of Agriculture
+- Sri Lanka Red Cross Society
+- Sudanese Armed Forces
+- Syngenta Foundation
+- TAFSSA
+- TARI
+- TAWFA
+- TOSCI
+- TPHPA
+- TRANSITIONS
+- Tamil Nadu Agricultural University
+- Tanzania Agricultural Research Institute
+- TechnoServe
+- Thailand Rice Department
+- Tree Aid
+- Tribhuvan University
+- Tropical Poultry Platform
+- Tropical Resilience Fund
+- UFHB
+- UN Water Conference
+- UN World Food Programme
+- UNDP
+- UNECA
+- UNEP
+- UNFCCC
+- UNHCR
+- UNICEF
+- UNRWA
+- UPLB
+- USAID
+- Ukama Ustawi
+- University of British Columbia
+- University of Ibadan
+- University of Liberia
+- University of Maryland
+- University of Nairobi
+- University of Pretoria
+- University of the Philippines Los Baños
+- Université Joseph KI-ZERBO
+- VIETRISA
+- VKMMV
+- Vietnam Women's Academy
+- Village Link Limited
+- WASCAL
+- WFP
+- WHO
+- WMO
+- WMO Regional Training Centre
+- WOAH
+- WTO
+- Water Management Groups
+- Water Resource Authority
+- Water User Associations
+- Water Users Associations
+- Women Farmers Association of Kenya
+- World Bank
+- World Bank Group
+- World Food Programme
+- World Vegetable Center
+- World Vision
+- World Vision Somalia
+- WorldFish
+- WorldVeg
+- YAPU Solutions
+- ZARI
+- Zhejiang University
+- genebanks
+- institutional nurseries
+- microfinance institutions
+- seed companies
+
+### Place
+
+- ASALs
+- ASEAN
+- Abbay Basin
+- Abu Dhabi
+- Abu Qir Bay
+- Adamawa state
+- Addis Ababa
+- Afar
+- Africa
+- Amazon
+- Amhara region
+- Argentina
+- Asia-Pacific
+- Australia
+- Awash Fentale Woreda
+- Baidoa
+- Balochistan
+- Bangladesh
+- Banspal
+- Barahathawa Municipality
+- Baringo County
+- Bayelsa State
+- Beijing
+- Benin
+- Bhutan
+- Bicol Region
+- Bihar
+- Bokolmayo
+- Bolivia
+- Bomet County
+- Borana Zone
+- Borana communities
+- Botswana
+- Bouregreg Basin
+- Brazil
+- Brazilian Amazon
+- Bundelkhand
+- Burkina Faso
+- Burundi
+- Bussie
+- CWANA
+- Cambodia
+- Cameroon
+- Cape Town
+- Caquetá
+- Caribbean
+- Cauca
+- Central Africa
+- Central America
+- Central American Dry Corridor
+- Central Asia
+- Central Ethiopia
+- Cesar
+- Chad
+- Chiapas
+- Chimanimani
+- China
+- Chipinge
+- Chirakchi Watershed
+- Chirchik River Basin
+- Colombia
+- Cordillera Administrative Region
+- Cox's Bazar
+- Côte d'Ivoire
+- DR Congo
+- DRC
+- Dakar
+- Dar es Salaam
+- Dassenech Woreda
+- Democratic Republic of Congo
+- Dhaka
+- Diohine
+- Dolo Ado
+- Dominican Republic
+- Dong Thap
+- Dong Thap Province
+- Doyogena
+- East Africa
+- East Asia
+- East Kolkata Wetlands
+- East and Horn of Africa
+- Eastern Africa
+- Eastern India
+- Eastern and Southern Africa
+- Egypt
+- El Kef
+- Embu
+- Embu County
+- Ethiopia
+- Europe
+- European Union
+- Fatick
+- Fiji
+- G5 Sahel
+- G5 Sahel countries
+- Gabon
+- Ganga River Basin
+- Ganges Basin
+- Gaza Strip
+- Gedeo Zone
+- Ghana
+- Godavari Basin
+- Gombe State
+- Greater Horn of Africa
+- Guatemala
+- Guinea Bissau
+- Haiti
+- Hanoi
+- Hanzila Village
+- Haryana
+- Hatiya Island
+- Hindu Kush Himalaya
+- Homa Bay County
+- Honduras
+- Hongze
+- Hubei
+- Huehuetenango
+- Ibadan
+- Imo State
+- Incomati Basin
+- India
+- Indo-Gangetic Plains
+- Indonesia
+- Indus Basin
+- Isiolo
+- Isiolo County
+- Jalpaiguri
+- Jiangshan
+- Jordan
+- KP
+- Kaduna
+- Kaduna State
+- Kaffrine
+- Kajiado
+- Kakamega
+- Kampong Thom
+- Kano
+- Kano State
+- Karamoja
+- Karamoja Cluster
+- Kashkadarya region
+- Kawanda
+- Kazakhstan
+- Kebbi
+- Kef-Siliana
+- Kenya
+- Kenya Central Highlands
+- Kiambu
+- Kisumu
+- Kisumu County
+- Koumpentum
+- Kurunegala District
+- Kutch
+- Kwara State
+- La Guajira Department
+- Lake Victoria
+- Lao PDR
+- Laos
+- Latin America
+- Latin America and Caribbean
+- Latin America and the Caribbean
+- Lebanon
+- Liberia
+- Lima
+- Limpopo River Basin
+- Louga
+- Lower Eastern Kenya
+- Lower Kafue Basin
+- Lurín River Basin
+- MENA region
+- Machakos
+- Machakos County
+- Madagascar
+- Madhesh Province
+- Madhya Pradesh
+- Maharashtra
+- Makueni
+- Makueni County
+- Malawi
+- Malaysia
+- Mali
+- Mandla district
+- Mashan
+- Matara District
+- Mbire
+- Mbire District
+- Medjerda Valley
+- Medjerda watershed
+- Mekong Basin
+- Mekong Delta
+- Mekong River Delta
+- Meru
+- Meru County
+- Metro Manila
+- Mexico
+- Middle East and North Africa
+- Mindanao
+- Mirpurkhas
+- Morocco
+- Mozambique
+- Muleba District
+- Murehwa district
+- Myanmar
+- Nairobi
+- Naivasha
+- Nakuru
+- Namibia
+- Nampula
+- Nandi County
+- Narayanganj block
+- Nepal
+- New Zealand
+- Niassa
+- Niger
+- Nigeria
+- Nile Basin
+- Nile River Basin
+- Nonghet District
+- North Bengal
+- North Shewa Zone
+- North-East Region
+- Northern Ghana
+- Northern Laos
+- Northern Zambia
+- Northwest Vietnam
+- Oaxaca
+- Odisha
+- Ogun State
+- Okara District
+- Olancho
+- Orinoquía
+- Oromia region
+- Osun State
+- Oum Er Rbia Basin
+- Oyo State
+- Pacific Islands
+- Pakistan
+- Papua New Guinea
+- Paraguay
+- Peru
+- Philippines
+- Prey Veng
+- Prey Veng Province
+- Pucallpa
+- Pucallpillo
+- Pueblo Nuevo
+- Punjab
+- Putumayo
+- Qingshan Village
+- Quezon City
+- Quintana Roo
+- Rahim Yar Khan district
+- Ramganga Basin
+- Red River Delta
+- Republic of Congo
+- Rwanda
+- Sahel
+- Sajnen Forest
+- Sedhiou
+- Segou
+- Selian
+- Senegal
+- Senegal River Basin
+- Senegal River Valley
+- Sidama Region
+- Sierra Leone
+- Sikasso
+- Sikasso region
+- Solomon Islands
+- Somalia
+- Son La
+- Son La province
+- Song River
+- South Africa
+- South America
+- South Asia
+- South Caucasus
+- South Sudan
+- Southeast Asia
+- Southern Africa
+- Southern Ethiopia
+- Sri Lanka
+- Sub-Saharan Africa
+- Sudan
+- Sudan agro-ecological zone
+- Syria
+- São Tomé and Príncipe
+- Taijiang
+- Tajikistan
+- Tambacounda
+- Tana-Beles Sub-basin
+- Tanzania
+- Tay Ninh Province
+- Telangana
+- Tensift Watershed
+- Thai Nguyen Province
+- Thailand
+- The Gambia
+- Thies
+- Tigray
+- Timor-Leste
+- Tindan
+- Togo
+- Tongogara Refugee Settlement
+- Totonicapán
+- Tsholotsho
+- Tsholotsho district
+- Tunisia
+- Turkana County
+- Turkey
+- Ucayali
+- Uganda
+- Ukerewe Island
+- United Arab Emirates
+- United Kingdom
+- Upper Ayeyarwady
+- Uruguay
+- Uttar Pradesh
+- Uttarakhand
+- Uzbekistan
+- Valle del Cauca
+- Viet Nam
+- Vietnam
+- Vietnam Mekong Delta
+- Vihiga
+- Wajir County
+- West Africa
+- West and Central Africa
+- Western Ghats
+- Western Highlands of Guatemala
+- Western Indian Ocean
+- Western Kenya
+- Western Rajasthan
+- Western Terai
+- Yangtze River Delta
+- Yemen
+- Yucatán Peninsula
+- Yunnan
+- Zaghouan
+- Zaghouan Governorate
+- Zambezi Basin
+- Zambezia
+- Zambia
+- Zambézia
+- Zanzibar
+- Zhejiang Province
+- Zimbabwe
+- coastal polder zone
+- dry corridor
+- dryland systems
+- eastern Guatemala
+- eastern Nile Basin
+- eastern dry corridor
+- low and middle income countries
+- lowland tropics
+- northern Bangladesh
+- semi-arid tropics
+- small island states
+- urban and peri-urban environments
+- western highlands
+
+### Role
+
+- Community Health Promoters
+- EGS producers
+- Fulani
+- Fulani pastoralists
+- Healthy Food Connectors
+- MSc student
+- PhD student
+- Rohingya refugees
+- Village Revenue Officers
+- agri-food system workers
+- agribusiness leaders
+- agricultural officer
+- agripreneurs
+- agro-dealer
+- agro-dealers
+- agro-processors
+- agrodealers
+- animal feed entrepreneurs
+- aquaculture stakeholders
+- bakers
+- cattle farmers
+- citizen scientist
+- civil society organizations
+- climate monitors
+- coastal communities
+- community animal health workers
+- community health workers
+- community leaders
+- community-based extension agents
+- consumers
+- cooperative leader
+- country convener
+- county directors of meteorology
+- county officials
+- dairy farmers
+- dairy producers
+- data scientists
+- development agents
+- disaster management authorities
+- displaced populations
+- district officials
+- district planners
+- elected representatives
+- enumerator
+- enumerators
+- environmental health technologists
+- environmental journalists
+- extension agent
+- extension agents
+- extension officers
+- extension workers
+- farmers
+- field agent
+- field agents
+- fish farmers
+- food vendor
+- forest-dependent communities
+- genebank managers
+- genebank staff
+- government migration officials
+- government officials
+- high school students
+- humanitarian actors
+- humanitarian practitioners
+- indigenous communities
+- indigenous peoples
+- informal food vendors
+- internally displaced households
+- internally displaced person
+- internally displaced persons
+- journalists
+- laboratory technicians
+- large commercial farm
+- livestock champion
+- livestock champions
+- livestock farmer
+- livestock farmers
+- livestock keepers
+- livestock producers
+- local artisans
+- local government officials
+- local service providers
+- meat inspectors
+- meat vendors
+- mechanization service providers
+- meteorological services
+- micro small medium enterprises
+- milk collection centers
+- nursery managers
+- pastoralist
+- pastoralist communities
+- pastoralists
+- persons with disabilities
+- pig producers
+- plant breeder
+- plant breeders
+- policy researchers
+- policy stakeholder
+- policymaker
+- policymakers
+- poultry producers
+- public officials
+- refugee
+- refugees
+- researchers
+- rice millers
+- rice parboilers
+- schoolchildren
+- seed producer
+- seed producers
+- self-help groups
+- service provider
+- service providers
+- slaughter workers
+- smallholder farmer
+- smallholder farmers
+- stakeholders
+- teachers
+- technical advisors
+- tourism operators
+- traders
+- tribal communities
+- university researchers
+- value chain actors
+- value chain specialists
+- value chain stakeholders
+- vendors
+- veterinarians
+- village livestock promoters
+- water managers
+- wholesaler
+- wildlife farmer
+- wildlife farmers
+- women
+- women entrepreneurs
+- women farmers
+- women leaders
+- women of reproductive age
+- youth
+- youth entrepreneur
+
+### System
+
+- broiler farms
+- pig production systems
+- rice field fisheries
+
+### Tool
+
+- 16S rRNA sequencing
+- 24-hour dietary recall
+- 3R-gene
+- AADGG platform
+- AADGG-Dairy app
+- AClimate
+- AGX platform
+- AKILIMO
+- AMMI analysis
+- AMR AquaShield
+- APEARD tool
+- APEX
+- APSIM
+- AWARE platform
+- Adaptation Atlas
+- Aflasafe
+- Africa Agriculture Adaptation Atlas
+- Africa AgroClimate API
+- Africa Asia Dairy Genetic Gains platform
+- African Fertilizer and Soil Health Action Plan
+- AgDataHub
+- AgDx
+- AgWISE
+- AgWISE Platform
+- Agent Bi
+- AgriLLM
+- AgroTutor Academy
+- AgroTutor GenAI
+- Amiga rover
+- Anticipatory Action Toolkit
+- Aqua-DST
+- Ask-the-Data
+- Automatic Weather Station Data Tool
+- BTracT
+- Babai Irrigation Information System
+- Baermann Funnel Method
+- Bakhabar Kissan
+- Bantu languages
+- Bioflow
+- Blue Resilience
+- BrRacemeCounter
+- Breeding Management System
+- Breeding Portal
+- Bulletin Builder
+- Business Agroecology Criteria Tool
+- Business Investment Decision platform
+- Business Model Canvas
+- CAADP
+- CG Labs
+- CGIAR Climate Security Observatory
+- CHIRPS
+- CLEANED
+- CLEANED tool
+- CMIP6
+- CRISPR-Cas9
+- CRISPR/Cas
+- CRISPR/Cas9
+- CS-MAP
+- CS-PAT
+- CSA Knowledge Hub
+- CSCS Tool
+- CSPro
+- CacaoDiversity
+- CapSha Marketplace
+- Carob
+- Cassava Seed System Toolkit
+- CePaCT
+- ClimMob
+- ClimMob platform
+- Climate Data Tool
+- Climate Finance Information System
+- Climate Insights
+- Climate Opportunities Weekly Bulletin
+- Climate Resilience Platform
+- Climate Risk Intelligence Assistant
+- Climate Security Observatory
+- Climate+
+- Climate-Smart Agriculture Multi-Stakeholder Platforms
+- Cluster Farmer Field School
+- Community Fish Refuges
+- County Climate Change Fund
+- Crop Decision Trees
+- Crop Observatories platform
+- Crop2Cash
+- CropSuiteLite
+- Crops-to-Go
+- DALL·E
+- DArTseq
+- DArTseq platform
+- DIWASA project
+- DNA fingerprinting
+- DNDC model
+- DREAMpy
+- DSSAT
+- DSSAT model
+- DSSAT-CERES-millet model
+- DaIMA
+- Dairy Farmer Advisor
+- Diet Quality Questionnaire
+- DigiFeed360
+- Digital Agroclimatic Plot
+- Digital Agroclimatic Plots
+- Digital Twin
+- Digital Twin Platform
+- Doctor Vida
+- DpRVIc
+- EAT-Lancet Consumption Frequency Index
+- EDACaP
+- EDACaP-V2
+- ENACTS
+- ENACTS tools
+- EPADDY
+- EUDR
+- EasyFarm
+- EcoFarm App
+- Enabling Environment Digital Toolbox
+- EncontrAR Platform
+- Enterprise Breeding System
+- Eolo platform
+- Esoko
+- FABLE
+- FABLE Calculator
+- FARRMS
+- FEAST
+- FENBPP
+- FRESH
+- Fairgrounds
+- FarMoRE
+- FarMoRe tool
+- FarmLog
+- FarmUSE tools
+- FarmVetCare app
+- FarmerChat
+- Farmerline
+- FeedCalculator
+- Field Book
+- FieldBook
+- FishBase
+- Food Choice App
+- Food Price Shocks Tool
+- Forager system
+- FormShare
+- Fragility to Stability Policy Seminar Series
+- Fulcrum CRISPR platform
+- G-FEAST
+- GAIA
+- GBIF
+- GEM parboiler
+- GEM system
+- GESI Accelerator
+- GGE biplot
+- GMIS
+- GPT-5
+- GRIN-Global
+- GWAS
+- Genesys
+- GeoAgro-Misr
+- GeoCloudConvert
+- GeoKrishi
+- Germplasm Exchange Dashboard
+- GloMIP
+- Global Diet Quality Score
+- Global Goal on Adaptation
+- Global Market Intelligence Platform
+- Global Report on Food Crisis
+- Google Earth Engine
+- GreenReserve game
+- Groundwater Management Information System
+- HCES
+- HER+ initiative
+- HPLC
+- HQCF
+- HaFAS
+- Harvard Dataverse
+- HingaSmart
+- Htwet Toe
+- IFMIS
+- IMPACT model
+- IMTA Invest
+- IPADT
+- ISAT
+- ISAT Climate Information Services
+- IUCN Red List
+- Illumina Infinium 25K BeadChip
+- ImageJ
+- Inland Valley Suitability tool
+- Jokalante app
+- KASP
+- KASP markers
+- KASP-SNP markers
+- KAZNET
+- KONABIJIN
+- Kenya Agricultural Insurance Program
+- Kenya Animal Bio-surveillance System
+- KilimoBora
+- Kobo Collect
+- KoboCollect
+- LAFA
+- LAFA/HaFAS
+- LAMP assay
+- LCAS-APT
+- LEAP
+- LERSHA
+- LI-COR Trace Gas Analyzers
+- LIAM
+- LIWP
+- LandPKS
+- Landsat
+- Layanan Konsultasi Padi
+- Leasyscan
+- LiDAR
+- Longa
+- Lúa Việt
+- M+ Living Lab
+- M-Omulimisa
+- MDII Data Collection Tools
+- MEMO chatbot
+- MODIS
+- MODIS NDVI
+- MSOIL
+- Malawi Kwacha
+- MaliDMS
+- MapAWD
+- MarketVision
+- Meghdoot
+- Mekong Farm App
+- Metrics Library
+- Migration Propensity Index
+- Munda Makeover
+- Musabase
+- MyFarmTrees
+- MyFarmTrees platform
+- NDVI
+- NEXAR
+- NEXAR-Egypt
+- NOAA-GEFS
+- National Climate Policy
+- Nature Futures Framework
+- NextGen Decision Support Tool
+- ODK tools
+- ORYZA
+- OlmoEarth
+- Ona platform
+- One Health Heat burden framework
+- Open Data Cube
+- Open Data Kit
+- Our Sci-Reflectometer
+- Oxford Nanopore Technology
+- PEG 6000
+- PICSA
+- PM-KUSUM
+- PRIME
+- PRISM
+- PSNP
+- PaddyMitra
+- PaddyWA+
+- PakDMS
+- Paris Agreement
+- Pesira
+- PeskAAS
+- Pfumvudza
+- Pig Profit app
+- PigSmart
+- PigSmart platform
+- PlanetScope
+- PowderBot
+- Pywr model
+- QGIS
+- QTL-seq
+- Quick MAPS
+- R-Instat
+- RHoMIS
+- RIAPA model
+- RIICE
+- RUSLE
+- Random Forest
+- Random Forest classifier
+- Rapid-Ragi
+- ReDD index
+- Rice Crop Manager
+- Rice Crop Manager Advisory Service
+- Rice GAPfinder
+- RiceAdvice
+- RiceAdvice Lite
+- RiceAdvice app
+- RiceMoRe
+- RiceMoRe tool
+- RoBERTa
+- SADMS
+- SAH system
+- SECTOR
+- SHARC enzyme system
+- SNP array
+- SNP markers
+- SPAD-502
+- SPAM
+- SRE Tool
+- SRP Standard
+- SSR markers
+- STAC
+- STATA
+- SWAT
+- SWEET
+- Scaling Scan tool
+- SeaLifeBase
+- Seed Requirement Estimation tool
+- Seed Tracker
+- Sentinel 2
+- Sentinel-1
+- Sentinel-1 SAR
+- Sentinel-2
+- ShambaShield
+- Simcast
+- SmaRT pack
+- SmaRT packs
+- Small Reservoir Portal
+- Smart Nkunganire System
+- Soil Health Explorer
+- Soil Moisture Sensors
+- Solutions Dashboard
+- SuLMER
+- SukhaRakshak
+- Superposed Epoch Analysis
+- Support Vector Machine
+- SurveyStack Kit
+- TAIL-seq
+- TAPE
+- TGEIS
+- TOPSIS
+- TRACE platform
+- TRANSITIONS Metrics Library
+- TRICOT
+- TerminAg
+- TerraBio
+- TerraSocio
+- Tractilus
+- Transfer Modality Research Initiative
+- Tropical Forages Selection Tool
+- Tumaini app
+- UAE-Belém Framework
+- UAV
+- University of Queensland costing tool
+- VICR Toolkit
+- VIIRS
+- VISIPRAST
+- VPCT
+- Vendor Business School
+- ViRiCert
+- Viazi Soko
+- Videometer multispectral imaging system
+- Vision2Biomass
+- WA+ dashboard
+- WEAGov
+- WEAI
+- WELI
+- WENDOU
+- WHO GLASS
+- WaPOR
+- Water Productivity Atlas
+- Water Resilience Tracker
+- WaterCopilot
+- WeRise
+- WhatsApp
+- WhatsApp Bot Service
+- X-ray computed tomography
+- XAM XAM SUUF
+- XGBoost
+- YOLOv8
+- YOMA platform
+- Youth and Women Quality Centre
+- Zambia Crop Monitor
+- Zambia National Crop Monitor
+- agriBORA
+- breeding scheme manager
+- cloud-based bioinformatics pipeline
+- cryobank
+- drip irrigation
+- drone-based imaging
+- e-Agrology
+- e-Agrology 360
+- eAMR CONNECT
+- eLandCare
+- economic surplus model
+- erythromycin
+- farmers handbook
+- gPM+
+- haveli system
+- iOMICAS-PiMoP
+- iShamba
+- imazethapyr
+- laser levelling
+- maize sheller
+- mechanical transplanters
+- mechanical weeders
+- miniSASS
+- multi-crop thresher
+- net houses
+- oxytetracycline
+- pig weigh band
+- polyhouse
+- power probe method
+- power tillers
+- pro-WEAI
+- repeatability explorer
+- school meal programs
+- silage wrapping machine
+- solar irrigation pumps
+- solar-powered irrigation system
+- sulfocalcic solution
+- supermagro
+- two-wheel power tiller-operated seeder
+- two-wheel tractor
+- vocal R package
+- yuri R package
+
+## Relationships
+
+- capacity building --[targets]--> veterinarians (extracted)
+- capacity building --[located_in]--> Mali (extracted)
+- capacity building --[targets]--> smallholder farmers (extracted)
+- capacity building --[addresses]--> climate-displacement nexus (extracted)
+- capacity building --[targets]--> local service providers (extracted)
+- capacity building --[targets]--> smallholder farmer (extracted)
+- capacity building --[addresses]--> evidence-based policy (inferred)
+- capacity building --[targets]--> vendors (extracted)
+- capacity building --[uses]--> agroecology (extracted)
+- capacity building --[targets]--> extension agents (extracted)
+- capacity building --[targets]--> researchers (extracted)
+- capacity building --[targets]--> genebank managers (extracted)
+- capacity building --[targets]--> government officials (extracted)
+- capacity building --[addresses]--> scaling (inferred)
+- capacity building --[targets]--> extension agent (inferred)
+- capacity building --[located_in]--> Colombia (extracted)
+- capacity building --[targets]--> plant breeders (inferred)
+- capacity building --[located_in]--> Kenya (extracted)
+- capacity building --[targets]--> laboratory technicians (extracted)
+- capacity building --[is_a]--> Core Capacity Building (taxonomy)
+- capacity building --[is_a]--> Capacity Building Programs (taxonomy)
+- capacity building --[is_a]--> Training and Capacity Development (taxonomy)
+- capacity building --[is_a]--> Capacity Building Approaches (taxonomy)
+- climate-smart agriculture --[targets]--> smallholder farmers (extracted)
+- climate-smart agriculture --[uses]--> no-till planting (extracted)
+- climate-smart agriculture --[located_in]--> Sub-Saharan Africa (extracted)
+- climate-smart agriculture --[uses]--> crop diversification (extracted)
+- climate-smart agriculture --[uses]--> solar-powered irrigation (inferred)
+- climate-smart agriculture --[addresses]--> West Africa (extracted)
+- climate-smart agriculture --[uses]--> integrated nutrient management (inferred)
+- climate-smart agriculture --[addresses]--> greenhouse gas emissions (extracted)
+- climate-smart agriculture --[addresses]--> climate change (extracted)
+- climate-smart agriculture --[addresses]--> salinity intrusion (extracted)
+- climate-smart agriculture --[addresses]--> food systems transformation (inferred)
+- climate-smart agriculture --[part_of]--> sustainable land management (extracted)
+- climate-smart agriculture --[uses]--> digital agro-advisory services (inferred)
+- climate-smart agriculture --[addresses]--> food security (extracted)
+- climate-smart agriculture --[addresses]--> hydroclimatic extremes (inferred)
+- climate-smart agriculture --[located_in]--> Rwanda (extracted)
+- climate-smart agriculture --[addresses]--> climate change adaptation (extracted)
+- climate-smart agriculture --[addresses]--> climate variability (extracted)
+- climate-smart agriculture --[addresses]--> crop failure (inferred)
+- climate-smart agriculture --[targets]--> smallholder farmer (extracted)
+- climate-smart agriculture --[addresses]--> climate adaptation (inferred)
+- climate-smart agriculture --[located_in]--> Senegal (extracted)
+- climate-smart agriculture --[uses]--> last-mile delivery (extracted)
+- climate-smart agriculture --[uses]--> rotational grazing (extracted)
+- climate-smart agriculture --[uses]--> rainwater harvesting (extracted)
+- climate-smart agriculture --[uses]--> orange-fleshed sweet potato (extracted)
+- climate-smart agriculture --[located_in]--> Tunisia (extracted)
+- climate-smart agriculture --[located_in]--> Malawi (extracted)
+- climate-smart agriculture --[located_in]--> Thailand (extracted)
+- climate-smart agriculture --[uses]--> vegetable production (extracted)
+- climate-smart agriculture --[produces]--> greenhouse gas emission reduction (extracted)
+- climate-smart agriculture --[part_of]--> AVENIR project (extracted)
+- climate-smart agriculture --[is_a]--> Climate-Smart Agriculture (taxonomy)
+- climate-smart agriculture --[is_a]--> Climate-Smart Agriculture Approaches (taxonomy)
+- food security --[related_to]--> biodiversity conservation (extracted)
+- food security --[located_in]--> Oaxaca (extracted)
+- food security --[located_in]--> Quintana Roo (extracted)
+- food security --[related_to]--> climate resilience (inferred)
+- food security --[is_a]--> Food Security Measurement and Monitoring (taxonomy)
+- climate adaptation --[uses]--> innovation networks (extracted)
+- climate adaptation --[targets]--> smallholder farmers (extracted)
+- climate adaptation --[uses]--> monitoring and evaluation (extracted)
+- climate adaptation --[addresses]--> climate change (extracted)
+- climate adaptation --[located_in]--> Sub-Saharan Africa (extracted)
+- climate adaptation --[located_in]--> Kenya (extracted)
+- climate adaptation --[addresses]--> food security (inferred)
+- climate adaptation --[produces]--> maladaptation (extracted)
+- climate adaptation --[is_a]--> Adaptation Planning and Implementation (taxonomy)
+- climate information services --[targets]--> Kenya (extracted)
+- climate information services --[targets]--> women farmers (extracted)
+- climate information services --[produces]--> digital agro-advisory services (extracted)
+- climate information services --[uses]--> remote sensing (inferred)
+- climate information services --[uses]--> QGIS (extracted)
+- climate information services --[targets]--> smallholder farmers (inferred)
+- climate information services --[addresses]--> climate risk management (extracted)
+- climate information services --[located_in]--> Ethiopia (extracted)
+- climate information services --[uses]--> radio-based extension (extracted)
+- climate information services --[located_in]--> Greater Horn of Africa (extracted)
+- climate information services --[uses]--> early warning systems (extracted)
+- climate information services --[targets]--> smallholder farmer (extracted)
+- climate information services --[supports]--> climate adaptation (extracted)
+- climate information services --[located_in]--> Mali (extracted)
+- climate information services --[uses]--> digital platforms (extracted)
+- climate information services --[addresses]--> food security (inferred)
+- climate information services --[is_a]--> Climate Information Services (taxonomy)
+- climate resilience --[addresses]--> food security (inferred)
+- climate resilience --[targets]--> women (extracted)
+- climate resilience --[targets]--> Ethiopia (extracted)
+- climate resilience --[related_to]--> climate-smart agriculture (extracted)
+- climate resilience --[targets]--> Kurunegala District (extracted)
+- climate resilience --[is_a]--> Climate Resilience Building (taxonomy)
+- variety registration --[produces]--> improved varieties (inferred)
+- variety registration --[located_in]--> Kenya (extracted)
+- variety registration --[uses]--> CIP (extracted)
+- variety registration --[uses]--> germplasm utilization (inferred)
+- variety registration --[is_a]--> Variety Registration and Licensing (taxonomy)
+- variety registration --[is_a]--> Seed Systems Development (taxonomy)
+- variety registration --[is_a]--> Seed and Variety Regulation (taxonomy)
+- biofortification --[produces]--> zinc-enriched varieties (extracted)
+- biofortification --[addresses]--> malnutrition (extracted)
+- biofortification --[produces]--> high kernel-zinc maize (extracted)
+- biofortification --[targets]--> Sub-Saharan Africa (extracted)
+- biofortification --[uses]--> rice (extracted)
+- biofortification --[targets]--> micronutrient malnutrition (extracted)
+- biofortification --[targets]--> potato (extracted)
+- biofortification --[addresses]--> nutritional security (extracted)
+- biofortification --[addresses]--> hidden hunger (extracted)
+- biofortification --[uses]--> maize (extracted)
+- biofortification --[targets]--> smallholder farmers (inferred)
+- biofortification --[uses]--> orange-fleshed sweetpotato (extracted)
+- biofortification --[uses]--> sweet potato (extracted)
+- biofortification --[uses]--> wheat (extracted)
+- biofortification --[addresses]--> nutrition-sensitive aquaculture (inferred)
+- biofortification --[uses]--> orange-fleshed sweet potato (extracted)
+- biofortification --[uses]--> green grams (extracted)
+- biofortification --[is_a]--> nutrition-sensitive agriculture (inferred)
+- biofortification --[is_a]--> Specific Breeding Targets (taxonomy)
+- biofortification --[is_a]--> Crop Genetic Improvement (taxonomy)
+- biofortification --[is_a]--> Nutrition-Sensitive Approaches (taxonomy)
+- value chain development --[targets]--> common bean (extracted)
+- value chain development --[targets]--> smallholder farmer (inferred)
+- value chain development --[targets]--> goats (extracted)
+- value chain development --[addresses]--> food security (inferred)
+- value chain development --[located_in]--> Mozambique (extracted)
+- value chain development --[is_a]--> Value Chain Development (taxonomy)
+- value chain development --[is_a]--> Core Value Chain Concepts (taxonomy)
+- early warning systems --[addresses]--> climate vulnerability (extracted)
+- early warning systems --[targets]--> fall armyworm (extracted)
+- early warning systems --[targets]--> Striga (extracted)
+- early warning systems --[located_in]--> Rwanda (extracted)
+- early warning systems --[targets]--> soybean rust (extracted)
+- early warning systems --[located_in]--> Eastern Africa (extracted)
+- early warning systems --[located_in]--> Southern Africa (extracted)
+- early warning systems --[addresses]--> drought management (extracted)
+- early warning systems --[uses]--> community-based climate observation (extracted)
+- early warning systems --[addresses]--> disaster risk management (extracted)
+- early warning systems --[uses]--> PakDMS (extracted)
+- early warning systems --[uses]--> satellite-based monitoring (inferred)
+- early warning systems --[located_in]--> West Africa (extracted)
+- early warning systems --[part_of]--> climate information services (extracted)
+- early warning systems --[addresses]--> climate-conflict nexus (extracted)
+- early warning systems --[uses]--> satellite remote sensing (inferred)
+- early warning systems --[is_a]--> Climate Forecasting and Early Warning (taxonomy)
+- early warning systems --[is_a]--> Early Warning and Crisis Prediction (taxonomy)
+- early warning systems --[is_a]--> Early Warning and Monitoring Systems (taxonomy)
+- early warning systems --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- drought tolerance --[addresses]--> climate change (inferred)
+- drought tolerance --[targets]--> sub-Saharan Africa (extracted)
+- drought tolerance --[targets]--> maize (extracted)
+- drought tolerance --[targets]--> smallholder farmer (inferred)
+- drought tolerance --[part_of]--> root system architecture (extracted)
+- drought tolerance --[related_to]--> climate adaptation (inferred)
+- drought tolerance --[targets]--> lentil (extracted)
+- drought tolerance --[is_a]--> Stress Tolerance Screening (taxonomy)
+- drought tolerance --[is_a]--> Crop Genetic Improvement (taxonomy)
+- multi-stakeholder platforms --[produces]--> agroecological transition (extracted)
+- multi-stakeholder platforms --[uses]--> innovation bundling (extracted)
+- multi-stakeholder platforms --[uses]--> evidence-based decision support (extracted)
+- multi-stakeholder platforms --[addresses]--> water conflicts (extracted)
+- multi-stakeholder platforms --[part_of]--> climate-smart agriculture (extracted)
+- multi-stakeholder platforms --[uses]--> knowledge sharing (extracted)
+- multi-stakeholder platforms --[uses]--> adaptive management (extracted)
+- multi-stakeholder platforms --[is_a]--> Multi-Stakeholder Engagement (taxonomy)
+- multi-stakeholder platforms --[is_a]--> Innovation Platforms and Networks (taxonomy)
+- multi-stakeholder platforms --[is_a]--> Multi-Stakeholder Platforms and Partnerships (taxonomy)
+- participatory research --[uses]--> knowledge exchange (inferred)
+- participatory research --[targets]--> women farmers (extracted)
+- participatory research --[uses]--> tricot approach (extracted)
+- participatory research --[uses]--> multistakeholder networks (extracted)
+- participatory research --[is_a]--> Participatory and Farmer-Centered Approaches (taxonomy)
+- participatory research --[is_a]--> Participatory Research Methods (taxonomy)
+- participatory research --[is_a]--> Participatory Learning Methods (taxonomy)
+- marker-assisted selection --[uses]--> SSR markers (extracted)
+- marker-assisted selection --[uses]--> KASP-SNP markers (extracted)
+- marker-assisted selection --[targets]--> common beans (extracted)
+- marker-assisted selection --[uses]--> flow cytometry (extracted)
+- marker-assisted selection --[is_a]--> Marker-Assisted Selection and QTL (taxonomy)
+- marker-assisted selection --[is_a]--> Crop Genetic Improvement (taxonomy)
+- one health approach --[addresses]--> antimicrobial resistance (inferred)
+- one health approach --[addresses]--> zoonotic disease transmission (extracted)
+- one health approach --[addresses]--> heat stress (extracted)
+- one health approach --[collaborates_with]--> National Institute of Veterinary Research (extracted)
+- one health approach --[collaborates_with]--> International Livestock Research Institute (extracted)
+- one health approach --[located_in]--> Vietnam (extracted)
+- one health approach --[addresses]--> zoonotic disease surveillance (extracted)
+- one health approach --[addresses]--> food safety management (extracted)
+- one health approach --[uses]--> FAO (extracted)
+- one health approach --[uses]--> WHO (extracted)
+- one health approach --[located_in]--> Zambia (extracted)
+- one health approach --[addresses]--> zoonotic disease epidemiology (extracted)
+- one health approach --[addresses]--> zoonotic disease management (extracted)
+- one health approach --[is_a]--> Herd Health Management (taxonomy)
+- one health approach --[is_a]--> One Health Approach (taxonomy)
+- one health approach --[is_a]--> Uncategorized (taxonomy)
+- agroecological transition --[uses]--> multistakeholder partnerships (extracted)
+- agroecological transition --[targets]--> youth (extracted)
+- agroecological transition --[located_in]--> Zimbabwe (extracted)
+- agroecological transition --[uses]--> multi-stakeholder platforms (extracted)
+- agroecological transition --[located_in]--> Vietnam Mekong Delta (extracted)
+- agroecological transition --[uses]--> participatory approach (extracted)
+- agroecological transition --[uses]--> faba bean (extracted)
+- agroecological transition --[located_in]--> Peru (extracted)
+- agroecological transition --[is_a]--> Core Agroecological Approaches (taxonomy)
+- agroecological transition --[is_a]--> Agroecological Approaches to Adaptation (taxonomy)
+- agroecological transition --[is_a]--> Transformative Change (taxonomy)
+- multifunctional landscapes --[located_in]--> Mbire District (extracted)
+- multifunctional landscapes --[produces]--> climate resilience (extracted)
+- multifunctional landscapes --[uses]--> participatory monitoring and evaluation (extracted)
+- multifunctional landscapes --[uses]--> agroecology (extracted)
+- multifunctional landscapes --[addresses]--> gender equality (extracted)
+- multifunctional landscapes --[uses]--> co-design (extracted)
+- multifunctional landscapes --[uses]--> integrated farming systems (extracted)
+- multifunctional landscapes --[located_in]--> Zimbabwe (extracted)
+- multifunctional landscapes --[addresses]--> biodiversity conservation (inferred)
+- multifunctional landscapes --[located_in]--> Medjerda Valley (extracted)
+- multifunctional landscapes --[is_a]--> Landscape and Land Management (taxonomy)
+- multifunctional landscapes --[is_a]--> Sustainable Land Management (taxonomy)
+- gender transformative approaches --[addresses]--> food security (inferred)
+- gender transformative approaches --[targets]--> public officials (extracted)
+- gender transformative approaches --[targets]--> smallholder farmer (extracted)
+- gender transformative approaches --[is_a]--> Gender-Transformative Approaches (taxonomy)
+- gender transformative approaches --[is_a]--> Gender-Responsive Policy and Governance (taxonomy)
+- gender transformative approaches --[is_a]--> Gender Transformative Approaches (taxonomy)
+- direct-seeded rice --[located_in]--> Odisha (extracted)
+- direct-seeded rice --[addresses]--> methane emissions (extracted)
+- direct-seeded rice --[located_in]--> Cambodia (extracted)
+- direct-seeded rice --[located_in]--> Vietnam (extracted)
+- direct-seeded rice --[part_of]--> climate-smart agriculture (extracted)
+- direct-seeded rice --[produces]--> water-use efficiency (extracted)
+- direct-seeded rice --[addresses]--> water scarcity (extracted)
+- direct-seeded rice --[is_a]--> Cropping Systems (taxonomy)
+- germplasm utilization --[is_a]--> Germplasm Conservation and Management (taxonomy)
+- germplasm utilization --[is_a]--> Crop Genetic Improvement (taxonomy)
+- rangeland restoration --[uses]--> LandPKS (extracted)
+- rangeland restoration --[located_in]--> Tunisia (extracted)
+- rangeland restoration --[addresses]--> poverty (extracted)
+- rangeland restoration --[uses]--> private sector investment (extracted)
+- rangeland restoration --[addresses]--> bush encroachment (extracted)
+- rangeland restoration --[addresses]--> carbon sequestration (inferred)
+- rangeland restoration --[targets]--> pastoralist (extracted)
+- rangeland restoration --[is_a]--> Pastoral and Rangeland Systems (taxonomy)
+- rangeland restoration --[is_a]--> Sustainable Land Management (taxonomy)
+- food systems transformation --[addresses]--> planetary boundaries (extracted)
+- food systems transformation --[located_in]--> Nigeria (extracted)
+- food systems transformation --[located_in]--> Mekong Delta (extracted)
+- food systems transformation --[addresses]--> climate change mitigation (inferred)
+- food systems transformation --[is_a]--> Food System Frameworks and Approaches (taxonomy)
+- food systems transformation --[is_a]--> Food Systems Transformation (taxonomy)
+- capacity development --[targets]--> smallholder farmers (extracted)
+- capacity development --[uses]--> CGIAR (extracted)
+- capacity development --[uses]--> training of trainers (extracted)
+- capacity development --[uses]--> WhatsApp (extracted)
+- capacity development --[targets]--> Africa (extracted)
+- capacity development --[is_a]--> Core Capacity Building (taxonomy)
+- capacity development --[is_a]--> Capacity Building Programs (taxonomy)
+- capacity development --[is_a]--> Training and Capacity Development (taxonomy)
+- capacity development --[is_a]--> Capacity Building Approaches (taxonomy)
+- genome-wide association study --[uses]--> SNP markers (extracted)
+- genome-wide association study --[uses]--> maize (extracted)
+- genome-wide association study --[uses]--> Illumina Infinium 25K BeadChip (extracted)
+- genome-wide association study --[uses]--> SNP array (extracted)
+- genome-wide association study --[targets]--> Cercospora zeae-maydis (extracted)
+- genome-wide association study --[targets]--> wheat (extracted)
+- genome-wide association study --[uses]--> pigeonpea (extracted)
+- genome-wide association study --[uses]--> haplotype analysis (extracted)
+- genome-wide association study --[addresses]--> disease resistance breeding (extracted)
+- genome-wide association study --[is_a]--> Genomic Selection and Prediction (taxonomy)
+- genome-wide association study --[is_a]--> Crop Genetic Improvement (taxonomy)
+- community of practice --[targets]--> Latin America and Caribbean (extracted)
+- community of practice --[uses]--> capacity building (extracted)
+- community of practice --[addresses]--> systems science (extracted)
+- community of practice --[is_a]--> Peer and Experiential Learning (taxonomy)
+- community of practice --[is_a]--> Knowledge Exchange and Policy Learning (taxonomy)
+- community of practice --[is_a]--> Knowledge Exchange and Dissemination (taxonomy)
+- community of practice --[is_a]--> Communities of Practice and Networks (taxonomy)
+- agroecology --[located_in]--> Tunisia (extracted)
+- agroecology --[uses]--> crop diversification (inferred)
+- agroecology --[addresses]--> climate resilience (extracted)
+- agroecology --[uses]--> FABLE Calculator (extracted)
+- agroecology --[uses]--> conditional subsidies (extracted)
+- agroecology --[targets]--> youth (extracted)
+- agroecology --[located_in]--> Peru (extracted)
+- agroecology --[located_in]--> Zimbabwe (extracted)
+- agroecology --[is_a]--> Core Agroecological Approaches (taxonomy)
+- agroecology --[is_a]--> Agroecological Approaches to Adaptation (taxonomy)
+- genomic selection --[uses]--> genome-wide association study (extracted)
+- genomic selection --[uses]--> marker-assisted selection (inferred)
+- genomic selection --[uses]--> oilseed crops (extracted)
+- genomic selection --[uses]--> GIANT strain (extracted)
+- genomic selection --[is_a]--> Genomic Selection and Prediction (taxonomy)
+- genomic selection --[is_a]--> Crop Genetic Improvement (taxonomy)
+- digital advisory services --[targets]--> smallholder farmers (extracted)
+- digital advisory services --[targets]--> policymakers (extracted)
+- digital advisory services --[uses]--> climate information services (inferred)
+- digital advisory services --[is_a]--> Agricultural Extension and Advisory Services (taxonomy)
+- digital advisory services --[is_a]--> Core Digital Advisory Services (taxonomy)
+- digital advisory services --[is_a]--> Digital Advisory and Extension Platforms (taxonomy)
+- digital advisory services --[is_a]--> Digital Advisory and Extension Services (taxonomy)
+- digital advisory services --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- digital advisory services --[is_a]--> Digital Advisory and Extension (taxonomy)
+- conservation agriculture --[uses]--> mechanization service provider model (extracted)
+- conservation agriculture --[produces]--> water productivity (extracted)
+- conservation agriculture --[located_in]--> Tunisia (extracted)
+- conservation agriculture --[located_in]--> Indo-Gangetic Plains (extracted)
+- conservation agriculture --[addresses]--> soil health assessment (inferred)
+- conservation agriculture --[addresses]--> climate resilience (inferred)
+- conservation agriculture --[located_in]--> Northern Zambia (extracted)
+- conservation agriculture --[located_in]--> Guatemala (extracted)
+- conservation agriculture --[addresses]--> climate change (extracted)
+- conservation agriculture --[located_in]--> Morocco (extracted)
+- conservation agriculture --[uses]--> direct-seeded rice (extracted)
+- conservation agriculture --[addresses]--> soil organic carbon sequestration (inferred)
+- conservation agriculture --[is_a]--> Conservation Agriculture and Tillage (taxonomy)
+- conservation agriculture --[is_a]--> Soil Health and Management (taxonomy)
+- alternate wetting and drying --[addresses]--> water balance model (extracted)
+- alternate wetting and drying --[addresses]--> greenhouse gas emission measurement (extracted)
+- alternate wetting and drying --[targets]--> rice (extracted)
+- alternate wetting and drying --[addresses]--> methane emissions (extracted)
+- alternate wetting and drying --[addresses]--> methane emission reduction (extracted)
+- alternate wetting and drying --[located_in]--> Cambodia (extracted)
+- alternate wetting and drying --[addresses]--> climate-smart agriculture (extracted)
+- alternate wetting and drying --[addresses]--> water scarcity (inferred)
+- alternate wetting and drying --[produces]--> water-efficient practices (extracted)
+- alternate wetting and drying --[produces]--> greenhouse gas emission reduction (extracted)
+- alternate wetting and drying --[addresses]--> greenhouse gas emissions (inferred)
+- alternate wetting and drying --[is_a]--> Irrigation Systems and Technologies (taxonomy)
+- alternate wetting and drying --[is_a]--> Methane and Emission Reduction Practices (taxonomy)
+- crop diversification --[located_in]--> Bangladesh (extracted)
+- crop diversification --[targets]--> maize (extracted)
+- crop diversification --[addresses]--> food security (extracted)
+- crop diversification --[uses]--> pearl millet (extracted)
+- crop diversification --[uses]--> sorghum (extracted)
+- crop diversification --[located_in]--> Odisha (extracted)
+- crop diversification --[is_a]--> Cropping Systems (taxonomy)
+- crop diversification --[is_a]--> Sustainable Intensification and Diversification (taxonomy)
+- greenhouse gas emissions --[produces]--> emission intensity (inferred)
+- greenhouse gas emissions --[is_a]--> Carbon and Greenhouse Gas Management in Farming (taxonomy)
+- greenhouse gas emissions --[is_a]--> Greenhouse Gas Measurement and Monitoring (taxonomy)
+- public-private partnerships --[uses]--> inclusive business models (extracted)
+- public-private partnerships --[addresses]--> vaccine wastage (inferred)
+- public-private partnerships --[addresses]--> migration policy (extracted)
+- public-private partnerships --[targets]--> irrigation (extracted)
+- public-private partnerships --[part_of]--> climate-smart agriculture (extracted)
+- public-private partnerships --[is_a]--> Private Sector and Partnerships (taxonomy)
+- public-private partnerships --[is_a]--> Innovation Platforms and Networks (taxonomy)
+- public-private partnerships --[is_a]--> Partnership Models (taxonomy)
+- public-private partnerships --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- public-private partnerships --[is_a]--> Multi-Stakeholder Platforms and Partnerships (taxonomy)
+- value chain analysis --[targets]--> groundnut (extracted)
+- value chain analysis --[targets]--> wholesaler (extracted)
+- value chain analysis --[targets]--> neglected and underutilized species (extracted)
+- value chain analysis --[targets]--> goat (extracted)
+- value chain analysis --[uses]--> rice (extracted)
+- value chain analysis --[targets]--> agricultural transformation (extracted)
+- value chain analysis --[uses]--> climate vulnerability assessment (extracted)
+- value chain analysis --[targets]--> Honduras (extracted)
+- value chain analysis --[targets]--> fish farmers (extracted)
+- value chain analysis --[is_a]--> Value Chain Development (taxonomy)
+- value chain analysis --[is_a]--> Core Value Chain Concepts (taxonomy)
+- value chain analysis --[is_a]--> Statistical and Quantitative Methods (taxonomy)
+- integrated pest management --[addresses]--> fall armyworm (extracted)
+- integrated pest management --[produces]--> yield improvement (extracted)
+- integrated pest management --[uses]--> host plant resistance (extracted)
+- integrated pest management --[targets]--> Orobanche (extracted)
+- integrated pest management --[targets]--> faba bean (extracted)
+- integrated pest management --[uses]--> biological control (inferred)
+- integrated pest management --[targets]--> rice (extracted)
+- integrated pest management --[addresses]--> phytosanitary risks (extracted)
+- integrated pest management --[targets]--> Phytophthora (extracted)
+- integrated pest management --[targets]--> Moniliophthora (extracted)
+- integrated pest management --[part_of]--> climate-smart agriculture (extracted)
+- integrated pest management --[located_in]--> Sub-Saharan Africa (extracted)
+- integrated pest management --[addresses]--> crop protection (extracted)
+- integrated pest management --[is_a]--> Integrated Pest Management (taxonomy)
+- nationally determined contributions --[located_in]--> Bangladesh (extracted)
+- nationally determined contributions --[located_in]--> Uganda (extracted)
+- nationally determined contributions --[addresses]--> climate justice (extracted)
+- nationally determined contributions --[part_of]--> Paris Agreement (extracted)
+- nationally determined contributions --[located_in]--> West Africa (extracted)
+- nationally determined contributions --[uses]--> UAE-Belém Framework (extracted)
+- nationally determined contributions --[is_a]--> Climate Policy and Governance (taxonomy)
+- nationally determined contributions --[is_a]--> Core Policy Instruments (taxonomy)
+- nationally determined contributions --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- nationally determined contributions --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- human-centered design --[targets]--> user research (extracted)
+- human-centered design --[targets]--> digital transformation (extracted)
+- human-centered design --[targets]--> agroclimatic bulletins (extracted)
+- human-centered design --[targets]--> smallholder farmers (extracted)
+- human-centered design --[addresses]--> irrigation access (extracted)
+- human-centered design --[addresses]--> technology diffusion (extracted)
+- human-centered design --[produces]--> participatory variety selection (extracted)
+- human-centered design --[is_a]--> Participatory and Farmer-Centered Approaches (taxonomy)
+- human-centered design --[is_a]--> Co-Design and Co-Production (taxonomy)
+- human-centered design --[is_a]--> Co-Design and Co-Creation Methods (taxonomy)
+- human-centered design --[is_a]--> Stakeholder Engagement Methods (taxonomy)
+- scaling for impact --[uses]--> CGIAR (extracted)
+- scaling for impact --[uses]--> participatory research (extracted)
+- scaling for impact --[addresses]--> agricultural innovation systems (extracted)
+- scaling for impact --[located_in]--> Africa (extracted)
+- scaling for impact --[uses]--> public-private partnerships (inferred)
+- scaling for impact --[is_a]--> Technology Adoption and Diffusion (taxonomy)
+- scaling for impact --[is_a]--> Scaling Approaches (taxonomy)
+- scaling for impact --[is_a]--> Scaling Strategies and Frameworks (taxonomy)
+- scaling for impact --[is_a]--> Scaling Frameworks and Approaches (taxonomy)
+- scaling for impact --[is_a]--> Scaling Frameworks and Strategies (taxonomy)
+- training of trainers --[uses]--> one health (extracted)
+- training of trainers --[targets]--> yield prediction modeling (extracted)
+- training of trainers --[targets]--> capacity building (extracted)
+- training of trainers --[uses]--> extension agents (extracted)
+- training of trainers --[located_in]--> Rwanda (extracted)
+- training of trainers --[part_of]--> capacity development (extracted)
+- training of trainers --[located_in]--> Colombia (extracted)
+- training of trainers --[is_a]--> Core Capacity Building (taxonomy)
+- training of trainers --[is_a]--> Capacity Building Programs (taxonomy)
+- training of trainers --[is_a]--> Training and Capacity Development (taxonomy)
+- training of trainers --[is_a]--> Capacity Building Approaches (taxonomy)
+- climate action --[is_a]--> Low-Carbon and Zero-Carbon Agriculture (taxonomy)
+- climate action --[is_a]--> Climate Action Governance (taxonomy)
+- co-design --[targets]--> smallholder farmers (extracted)
+- co-design --[located_in]--> Dolo Ado (extracted)
+- co-design --[targets]--> multi-stakeholder approaches (extracted)
+- co-design --[uses]--> teachers (extracted)
+- co-design --[is_a]--> Participatory and Farmer-Centered Approaches (taxonomy)
+- co-design --[is_a]--> Co-Design and Co-Production (taxonomy)
+- co-design --[is_a]--> Co-Design and Co-Creation Methods (taxonomy)
+- co-design --[is_a]--> Stakeholder Engagement Methods (taxonomy)
+- on-farm testing --[targets]--> smallholder farmers (extracted)
+- on-farm testing --[located_in]--> East Africa (extracted)
+- on-farm testing --[is_a]--> Multi-Environment and Multi-Location Testing (taxonomy)
+- on-farm testing --[is_a]--> Precision and Digital Crop Management (taxonomy)
+- on-farm testing --[is_a]--> Participatory and Farmer-Centered Approaches (taxonomy)
+- on-farm testing --[is_a]--> Participatory Breeding and Variety Selection (taxonomy)
+- on-farm testing --[is_a]--> Field and On-Farm Trials (taxonomy)
+- stakeholder engagement --[targets]--> public institutions (extracted)
+- stakeholder engagement --[produces]--> agrifood system transformation (extracted)
+- stakeholder engagement --[uses]--> CGIAR (extracted)
+- stakeholder engagement --[is_a]--> Multi-Stakeholder Engagement (taxonomy)
+- stakeholder engagement --[is_a]--> Participatory Governance and Rangeland Management (taxonomy)
+- stakeholder engagement --[is_a]--> Stakeholder Engagement and Consultation (taxonomy)
+- stakeholder engagement --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- stakeholder engagement --[is_a]--> Stakeholder Engagement Methods (taxonomy)
+- climate security --[addresses]--> climate-induced displacement (inferred)
+- climate security --[is_a]--> Climate-Conflict and Displacement Nexus (taxonomy)
+- climate security --[is_a]--> Climate-Conflict Nexus (taxonomy)
+- climate security --[is_a]--> Disaster Risk and Humanitarian Governance (taxonomy)
+- participatory variety selection --[uses]--> triadic comparisons of technology options (extracted)
+- participatory variety selection --[targets]--> smallholder farmers (extracted)
+- participatory variety selection --[produces]--> farmer-preferred varieties (inferred)
+- participatory variety selection --[is_a]--> Participatory and Farmer-Centered Breeding (taxonomy)
+- participatory variety selection --[is_a]--> Seed Systems Development (taxonomy)
+- participatory variety selection --[is_a]--> Participatory Breeding and Variety Selection (taxonomy)
+- climate risk assessment --[located_in]--> Guatemala (extracted)
+- climate risk assessment --[uses]--> watershed modeling (extracted)
+- climate risk assessment --[uses]--> Africa Agriculture Adaptation Atlas (extracted)
+- climate risk assessment --[uses]--> CMIP6 (extracted)
+- climate risk assessment --[is_a]--> Climate Risk Assessment and Vulnerability (taxonomy)
+- climate risk assessment --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- climate change adaptation --[is_a]--> Adaptation Planning and Implementation (taxonomy)
+- silvopastoral systems --[uses]--> best-worst scaling (extracted)
+- silvopastoral systems --[uses]--> payments for ecosystem services (extracted)
+- silvopastoral systems --[located_in]--> Northern Laos (extracted)
+- silvopastoral systems --[produces]--> carbon sequestration (extracted)
+- silvopastoral systems --[uses]--> Sulla (extracted)
+- silvopastoral systems --[uses]--> aromatic and medicinal plants (extracted)
+- silvopastoral systems --[located_in]--> Lao PDR (extracted)
+- silvopastoral systems --[uses]--> Hedysarum coronarium (extracted)
+- silvopastoral systems --[located_in]--> Tunisia (extracted)
+- silvopastoral systems --[addresses]--> methane mitigation (inferred)
+- silvopastoral systems --[is_a]--> Agroforestry Systems (taxonomy)
+- silvopastoral systems --[is_a]--> Agroforestry and Silvopastoral Systems (taxonomy)
+- climate services --[uses]--> participatory research (extracted)
+- climate services --[located_in]--> Guatemala (extracted)
+- climate services --[uses]--> earth observation (extracted)
+- climate services --[located_in]--> Bangladesh (extracted)
+- climate services --[located_in]--> Zambia (extracted)
+- climate services --[located_in]--> Malawi (extracted)
+- climate services --[targets]--> smallholder farmers (extracted)
+- climate services --[is_a]--> Climate Information Services (taxonomy)
+- women's empowerment --[related_to]--> intersectionality (extracted)
+- women's empowerment --[is_a]--> Youth and Women's Economic Empowerment (taxonomy)
+- women's empowerment --[is_a]--> Women's Empowerment (taxonomy)
+- women's empowerment --[is_a]--> Women's Empowerment and Leadership (taxonomy)
+- digital agriculture --[targets]--> gender empowerment (extracted)
+- digital agriculture --[related_to]--> water-energy-food-ecosystems nexus (extracted)
+- digital agriculture --[uses]--> iot sensor networks (extracted)
+- digital agriculture --[uses]--> remote sensing (extracted)
+- digital agriculture --[is_a]--> Digital Extension Integration and Literacy (taxonomy)
+- digital agriculture --[is_a]--> Digital Agriculture Systems (taxonomy)
+- digital agriculture --[is_a]--> Digital Literacy and Inclusion (taxonomy)
+- digital agriculture --[is_a]--> Digital Platforms and Infrastructure (taxonomy)
+- site-specific fertilizer recommendations --[part_of]--> LAFA/HaFAS (extracted)
+- site-specific fertilizer recommendations --[uses]--> evidence-based decision support (extracted)
+- site-specific fertilizer recommendations --[is_a]--> Soil Health and Fertility Management (taxonomy)
+- site-specific fertilizer recommendations --[is_a]--> Climate and Agro-Advisory Services (taxonomy)
+- triadic comparisons of technology options --[uses]--> ClimMob (extracted)
+- triadic comparisons of technology options --[is_a]--> Participatory and Farmer-Centered Approaches (taxonomy)
+- triadic comparisons of technology options --[is_a]--> Crowdsourcing and Citizen Science (taxonomy)
+- triadic comparisons of technology options --[is_a]--> Citizen Science and Community-Based Research (taxonomy)
+- triadic comparisons of technology options --[is_a]--> Experimental Preference and Valuation Methods (taxonomy)
+- triadic comparisons of technology options --[is_a]--> Citizen Science and Crowdsourcing (taxonomy)
+- integrated multitrophic aquaculture --[targets]--> environmental sustainability (extracted)
+- integrated multitrophic aquaculture --[uses]--> Clarias gariepinus (extracted)
+- integrated multitrophic aquaculture --[uses]--> Oreochromis niloticus (extracted)
+- integrated multitrophic aquaculture --[located_in]--> Nigeria (extracted)
+- integrated multitrophic aquaculture --[located_in]--> Kenya (extracted)
+- integrated multitrophic aquaculture --[targets]--> youth (extracted)
+- integrated multitrophic aquaculture --[targets]--> women (extracted)
+- integrated multitrophic aquaculture --[uses]--> IMTA Invest (extracted)
+- integrated multitrophic aquaculture --[is_a]--> Aquaculture Systems (taxonomy)
+- disease resistance breeding --[addresses]--> stripe rust (extracted)
+- disease resistance breeding --[targets]--> Parastagonospora nodorum (extracted)
+- disease resistance breeding --[targets]--> Magnaporthe oryzae (extracted)
+- disease resistance breeding --[uses]--> machine learning phenotyping (extracted)
+- disease resistance breeding --[targets]--> Ethiopia (extracted)
+- disease resistance breeding --[is_a]--> Specific Breeding Targets (taxonomy)
+- disease resistance breeding --[is_a]--> Crop Genetic Improvement (taxonomy)
+- disease resistance --[addresses]--> Puccinia striiformis (extracted)
+- disease resistance --[is_a]--> Disease Management (taxonomy)
+- target product profiles --[uses]--> partnership assessment framework (inferred)
+- target product profiles --[targets]--> Bambara groundnut (extracted)
+- target product profiles --[is_a]--> Breeding Program Design and Management (taxonomy)
+- target product profiles --[is_a]--> Crop Genetic Improvement (taxonomy)
+- target product profiles --[is_a]--> Participatory Breeding and Variety Selection (taxonomy)
+- target product profiles --[is_a]--> Innovation Assessment and Bundling (taxonomy)
+- digital extension --[located_in]--> Vietnam (extracted)
+- digital extension --[uses]--> WhatsApp (extracted)
+- digital extension --[uses]--> generative artificial intelligence (extracted)
+- digital extension --[uses]--> Rice Crop Manager (extracted)
+- digital extension --[uses]--> PaddyMitra (extracted)
+- digital extension --[uses]--> machine learning (inferred)
+- digital extension --[is_a]--> Agricultural Extension and Advisory Services (taxonomy)
+- digital extension --[is_a]--> Core Digital Advisory Services (taxonomy)
+- digital extension --[is_a]--> Digital Advisory and Extension Platforms (taxonomy)
+- digital extension --[is_a]--> Digital Advisory and Extension Services (taxonomy)
+- digital extension --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- digital extension --[is_a]--> Digital Advisory and Extension (taxonomy)
+- genome editing --[uses]--> stage-gate framework (extracted)
+- genome editing --[uses]--> CRISPR-Cas9 (extracted)
+- genome editing --[uses]--> Fulcrum CRISPR platform (extracted)
+- genome editing --[uses]--> CRISPR/Cas9 (extracted)
+- genome editing --[uses]--> CGIAR (extracted)
+- genome editing --[addresses]--> disease resistance (inferred)
+- genome editing --[is_a]--> Genome Editing and Engineering (taxonomy)
+- genome editing --[is_a]--> Crop Genetic Improvement (taxonomy)
+- precision agriculture --[uses]--> artificial intelligence (inferred)
+- precision agriculture --[uses]--> generative artificial intelligence (extracted)
+- precision agriculture --[uses]--> direct seeded rice (inferred)
+- precision agriculture --[uses]--> hyperspectral remote sensing (extracted)
+- precision agriculture --[uses]--> satellite-based crop monitoring (inferred)
+- precision agriculture --[uses]--> digital agriculture (inferred)
+- precision agriculture --[is_a]--> Precision and Digital Crop Management (taxonomy)
+- precision agriculture --[is_a]--> Precision Farming Technologies (taxonomy)
+- participatory approach --[uses]--> value chain stakeholders (extracted)
+- participatory approach --[produces]--> socio-ecological resilience (extracted)
+- participatory approach --[is_a]--> Participatory and Farmer-Centered Approaches (taxonomy)
+- participatory approach --[is_a]--> Participatory Research Methods (taxonomy)
+- participatory approach --[is_a]--> Participatory Learning Methods (taxonomy)
+- smallholder farming --[is_a]--> Smallholder and Community Farming (taxonomy)
+- smallholder farming --[is_a]--> Smallholder Farming Systems (taxonomy)
+- agroecological practices --[located_in]--> Kef-Siliana (extracted)
+- agroecological practices --[collaborates_with]--> ICARDA (extracted)
+- agroecological practices --[collaborates_with]--> CSHEP (extracted)
+- agroecological practices --[located_in]--> Kenya (extracted)
+- agroecological practices --[uses]--> incentive mechanisms (extracted)
+- agroecological practices --[addresses]--> biodiversity loss (extracted)
+- agroecological practices --[is_a]--> Core Agroecological Approaches (taxonomy)
+- agroecological practices --[is_a]--> Agroecological Approaches to Adaptation (taxonomy)
+- agroecological practices --[is_a]--> Planetary and Environmental Sustainability (taxonomy)
+- randomized controlled trial --[uses]--> sustainable land management (extracted)
+- randomized controlled trial --[uses]--> ultra-poor graduation model (extracted)
+- randomized controlled trial --[targets]--> PSNP (extracted)
+- randomized controlled trial --[uses]--> agro-dealers (extracted)
+- randomized controlled trial --[uses]--> women's empowerment (extracted)
+- randomized controlled trial --[uses]--> climate-smart agriculture (extracted)
+- randomized controlled trial --[is_a]--> Impact Evaluation and Assessment (taxonomy)
+- randomized controlled trial --[is_a]--> Randomized and Controlled Trials (taxonomy)
+- randomized controlled trial --[is_a]--> Experimental and Evaluation Methods (taxonomy)
+- regenerative agriculture --[targets]--> smallholder farmers (inferred)
+- regenerative agriculture --[part_of]--> integrated farming systems (extracted)
+- regenerative agriculture --[uses]--> soil health monitoring (extracted)
+- regenerative agriculture --[is_a]--> Core Agroecological Approaches (taxonomy)
+- regenerative agriculture --[is_a]--> Agroecological Approaches to Adaptation (taxonomy)
+- regenerative agriculture --[is_a]--> Planetary and Environmental Sustainability (taxonomy)
+- social protection --[addresses]--> climate adaptation (extracted)
+- social protection --[addresses]--> climate vulnerability (extracted)
+- social protection --[addresses]--> food security (inferred)
+- social protection --[is_a]--> Food Access and Social Protection (taxonomy)
+- social protection --[is_a]--> Social Protection and Transfers (taxonomy)
+- social protection --[is_a]--> Social Protection Systems (taxonomy)
+- social protection --[is_a]--> Social Protection and Safety Nets (taxonomy)
+- social protection --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- social protection --[is_a]--> Social Protection in Fragile Contexts (taxonomy)
+- integrated farming systems --[uses]--> climate-smart agriculture (inferred)
+- integrated farming systems --[addresses]--> food security (extracted)
+- integrated farming systems --[uses]--> rice-field pond systems (extracted)
+- integrated farming systems --[is_a]--> Cropping Systems (taxonomy)
+- integrated farming systems --[is_a]--> Livestock Production and Management (taxonomy)
+- integrated farming systems --[is_a]--> Sustainable Intensification and Diversification (taxonomy)
+- climate-conflict nexus --[located_in]--> Amazon (extracted)
+- climate-conflict nexus --[is_a]--> Climate-Conflict and Displacement Nexus (taxonomy)
+- climate-conflict nexus --[is_a]--> Climate-Conflict Nexus (taxonomy)
+- climate-conflict nexus --[is_a]--> Disaster Risk and Humanitarian Governance (taxonomy)
+- climate-conflict nexus --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- scaling pathways --[targets]--> forage-based feeds (extracted)
+- scaling pathways --[uses]--> multi-stakeholder platforms (extracted)
+- scaling pathways --[is_a]--> Technology Adoption and Diffusion (taxonomy)
+- scaling pathways --[is_a]--> Scaling Approaches (taxonomy)
+- scaling pathways --[is_a]--> Scaling Strategies and Frameworks (taxonomy)
+- scaling pathways --[is_a]--> Scaling Frameworks and Approaches (taxonomy)
+- scaling pathways --[is_a]--> Scaling Frameworks and Strategies (taxonomy)
+- greenhouse gas measurement --[uses]--> gas chromatography (extracted)
+- greenhouse gas measurement --[uses]--> LI-COR Trace Gas Analyzers (extracted)
+- greenhouse gas measurement --[located_in]--> Thailand (extracted)
+- greenhouse gas measurement --[is_a]--> Carbon and Greenhouse Gas Management in Farming (taxonomy)
+- greenhouse gas measurement --[is_a]--> Greenhouse Gas Measurement and Monitoring (taxonomy)
+- greenhouse gas measurement --[is_a]--> Greenhouse Gas Measurement and Reporting (taxonomy)
+- citizen science --[part_of]--> tricot approach (extracted)
+- citizen science --[produces]--> food systems leadership (extracted)
+- citizen science --[uses]--> miniSASS (extracted)
+- citizen science --[uses]--> YOMA platform (extracted)
+- citizen science --[uses]--> WhatsApp Bot Service (extracted)
+- citizen science --[uses]--> digital data collection (inferred)
+- citizen science --[is_a]--> Participatory and Farmer-Centered Approaches (taxonomy)
+- citizen science --[is_a]--> Crowdsourcing and Citizen Science (taxonomy)
+- citizen science --[is_a]--> Citizen Science and Community-Based Research (taxonomy)
+- citizen science --[is_a]--> Qualitative and Social Research Techniques (taxonomy)
+- citizen science --[is_a]--> Citizen Science and Crowdsourcing (taxonomy)
+- climate change mitigation --[is_a]--> Low-Carbon and Zero-Carbon Agriculture (taxonomy)
+- participatory breeding --[uses]--> farmer feedback (extracted)
+- participatory breeding --[targets]--> smallholder farmers (extracted)
+- participatory breeding --[uses]--> triadic comparisons of technology options (inferred)
+- participatory breeding --[is_a]--> Participatory and Farmer-Centered Breeding (taxonomy)
+- participatory breeding --[is_a]--> Crop Genetic Improvement (taxonomy)
+- participatory breeding --[is_a]--> Participatory Breeding and Variety Selection (taxonomy)
+- circular bioeconomy --[located_in]--> Ghana (extracted)
+- circular bioeconomy --[located_in]--> India (extracted)
+- circular bioeconomy --[addresses]--> climate change (extracted)
+- circular bioeconomy --[addresses]--> livestock waste recovery (extracted)
+- circular bioeconomy --[targets]--> climate resilience (extracted)
+- circular bioeconomy --[produces]--> resource recovery (inferred)
+- circular bioeconomy --[addresses]--> agroecological transition (inferred)
+- circular bioeconomy --[located_in]--> Addis Ababa (extracted)
+- circular bioeconomy --[is_a]--> Organic and Circular Farming (taxonomy)
+- circular bioeconomy --[is_a]--> Biogas and Circular Bioeconomy (taxonomy)
+- circular bioeconomy --[is_a]--> Circular Economy Principles (taxonomy)
+- market intelligence --[uses]--> seed product market segmentation (inferred)
+- market intelligence --[is_a]--> Food Market Systems (taxonomy)
+- market intelligence --[is_a]--> Market Analysis and Assessment (taxonomy)
+- market intelligence --[is_a]--> Innovation Assessment and Bundling (taxonomy)
+- decision support systems --[is_a]--> Precision and Digital Crop Management (taxonomy)
+- decision support systems --[is_a]--> Decision Support Systems (taxonomy)
+- decision support systems --[is_a]--> Knowledge Platforms and Systems (taxonomy)
+- decision support systems --[is_a]--> Digital Tools and Decision Support (taxonomy)
+- artificial intelligence --[uses]--> Farm Radio International (extracted)
+- artificial intelligence --[located_in]--> IWMI (extracted)
+- artificial intelligence --[uses]--> image analysis (extracted)
+- artificial intelligence --[uses]--> WhatsApp Bot Service (extracted)
+- artificial intelligence --[is_a]--> Core AI and ML Methods (taxonomy)
+- artificial intelligence --[is_a]--> Core AI and ML Approaches (taxonomy)
+- artificial intelligence --[is_a]--> Artificial Intelligence and Machine Learning (taxonomy)
+- climate finance --[uses]--> carbon credits (extracted)
+- climate finance --[targets]--> livestock transformation (extracted)
+- climate finance --[targets]--> smallholder farmers (extracted)
+- climate finance --[targets]--> Togo (extracted)
+- climate finance --[is_a]--> Climate Finance (taxonomy)
+- climate finance --[is_a]--> Investment and Finance Mechanisms (taxonomy)
+- market segmentation --[uses]--> target product profiles (extracted)
+- market segmentation --[targets]--> smallholder farmer (extracted)
+- market segmentation --[part_of]--> target product profile (extracted)
+- market segmentation --[targets]--> taro (extracted)
+- market segmentation --[is_a]--> Market Analysis and Assessment (taxonomy)
+- market segmentation --[is_a]--> Innovation Assessment and Bundling (taxonomy)
+- antimicrobial resistance surveillance --[uses]--> one health approach (extracted)
+- antimicrobial resistance surveillance --[targets]--> livestock sector (extracted)
+- antimicrobial resistance surveillance --[is_a]--> Herd Health Management (taxonomy)
+- antimicrobial resistance surveillance --[is_a]--> Contaminant and Residue Management (taxonomy)
+- antimicrobial resistance surveillance --[is_a]--> Antimicrobial Resistance Governance (taxonomy)
+- antimicrobial resistance surveillance --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- antimicrobial resistance surveillance --[is_a]--> Antimicrobial Resistance (taxonomy)
+- climate policy integration --[addresses]--> food security (extracted)
+- climate policy integration --[is_a]--> Climate Policy and Governance (taxonomy)
+- climate policy integration --[is_a]--> Core Policy Instruments (taxonomy)
+- climate policy integration --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- climate risk management --[targets]--> extension agents (extracted)
+- climate risk management --[part_of]--> agricultural extension (extracted)
+- climate risk management --[uses]--> KilimoBora (extracted)
+- climate risk management --[is_a]--> Climate Risk Assessment and Vulnerability (taxonomy)
+- climate risk management --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- agroforestry --[uses]--> cacao (extracted)
+- agroforestry --[addresses]--> land degradation (extracted)
+- agroforestry --[uses]--> Gliricidia sepium (extracted)
+- agroforestry --[part_of]--> climate-smart agriculture (extracted)
+- agroforestry --[addresses]--> carbon sequestration (inferred)
+- agroforestry --[is_a]--> Agroforestry Systems (taxonomy)
+- agroforestry --[is_a]--> Agroforestry and Silvopastoral Systems (taxonomy)
+- participatory rangeland management --[produces]--> rangeland restoration (extracted)
+- participatory rangeland management --[located_in]--> Baringo County (extracted)
+- participatory rangeland management --[located_in]--> Wajir County (extracted)
+- participatory rangeland management --[targets]--> pastoralist (extracted)
+- participatory rangeland management --[located_in]--> Tunisia (extracted)
+- participatory rangeland management --[targets]--> pastoralists (extracted)
+- participatory rangeland management --[addresses]--> herder-farmer conflict (inferred)
+- participatory rangeland management --[is_a]--> Pastoral and Rangeland Systems (taxonomy)
+- participatory rangeland management --[is_a]--> Sustainable Land Management (taxonomy)
+- participatory rangeland management --[is_a]--> Participatory Governance and Rangeland Management (taxonomy)
+- seed systems --[uses]--> gender-transformative approach (extracted)
+- seed systems --[related_to]--> varietal adoption (extracted)
+- seed systems --[is_a]--> Seed System Development and Strengthening (taxonomy)
+- seed systems --[is_a]--> Seed Systems Development (taxonomy)
+- carbon sequestration --[related_to]--> Kenya (extracted)
+- carbon sequestration --[is_a]--> Carbon and Greenhouse Gas Management in Farming (taxonomy)
+- carbon sequestration --[is_a]--> Carbon Sequestration and Carbon Markets (taxonomy)
+- water productivity --[part_of]--> water accounting (extracted)
+- water productivity --[is_a]--> Water Productivity and Efficiency (taxonomy)
+- water productivity --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- participatory governance --[uses]--> multifunctional landscapes (extracted)
+- participatory governance --[located_in]--> Sajnen Forest (extracted)
+- participatory governance --[is_a]--> Collective Action and Governance (taxonomy)
+- participatory governance --[is_a]--> Participatory Governance and Rangeland Management (taxonomy)
+- participatory governance --[is_a]--> Participatory and Polycentric Governance (taxonomy)
+- participatory governance --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- participatory governance --[is_a]--> Governance Frameworks (taxonomy)
+- cryopreservation --[targets]--> plant genetic resources (extracted)
+- cryopreservation --[uses]--> droplet vitrification (extracted)
+- cryopreservation --[uses]--> IPK (extracted)
+- cryopreservation --[uses]--> potato (extracted)
+- cryopreservation --[is_a]--> Germplasm Conservation and Management (taxonomy)
+- cryopreservation --[is_a]--> Crop Genetic Improvement (taxonomy)
+- water-use efficiency --[targets]--> wheat (extracted)
+- water-use efficiency --[is_a]--> Water Productivity and Efficiency (taxonomy)
+- climate adaptation planning --[addresses]--> climate risk assessment (inferred)
+- climate adaptation planning --[is_a]--> Adaptation Planning and Implementation (taxonomy)
+- climate adaptation planning --[is_a]--> Climate Action Governance (taxonomy)
+- nature-based solutions --[addresses]--> climate change (extracted)
+- nature-based solutions --[part_of]--> SuLMER (extracted)
+- nature-based solutions --[uses]--> monitoring and evaluation framework (extracted)
+- nature-based solutions --[is_a]--> Nature-Based and Ecosystem Approaches (taxonomy)
+- nature-based solutions --[is_a]--> Agroecological Approaches to Adaptation (taxonomy)
+- nature-based solutions --[is_a]--> Planetary and Environmental Sustainability (taxonomy)
+- ecosystem restoration --[located_in]--> Bundelkhand (extracted)
+- ecosystem restoration --[located_in]--> Uzbekistan (extracted)
+- ecosystem restoration --[located_in]--> Central Asia (extracted)
+- ecosystem restoration --[uses]--> participatory governance (extracted)
+- ecosystem restoration --[is_a]--> Nature-Based and Ecosystem Approaches (taxonomy)
+- ecosystem restoration --[is_a]--> Ecosystem Restoration and Services (taxonomy)
+- food system transformation --[located_in]--> Vietnam (extracted)
+- food system transformation --[located_in]--> Ethiopia (extracted)
+- food system transformation --[is_a]--> Food System Frameworks and Approaches (taxonomy)
+- food system transformation --[is_a]--> Food Systems Transformation (taxonomy)
+- technology adoption --[targets]--> smallholder farmer (extracted)
+- technology adoption --[addresses]--> food security (extracted)
+- technology adoption --[is_a]--> Technology Adoption and Diffusion (taxonomy)
+- technology adoption --[is_a]--> Monitoring and Evaluation Frameworks (taxonomy)
+- market monitoring --[targets]--> maize (extracted)
+- market monitoring --[is_a]--> Food Market Systems (taxonomy)
+- market monitoring --[is_a]--> Price and Market Monitoring (taxonomy)
+- market monitoring --[is_a]--> Remote Sensing and Digital Monitoring (taxonomy)
+- nutrition-sensitive agriculture --[targets]--> smallholder farmers (inferred)
+- nutrition-sensitive agriculture --[uses]--> dietary diversity (inferred)
+- nutrition-sensitive agriculture --[is_a]--> Nutrition-Sensitive Approaches (taxonomy)
+- climate vulnerability --[targets]--> persons with disabilities (extracted)
+- climate vulnerability --[produces]--> food security (extracted)
+- climate vulnerability --[is_a]--> Climate Risk Assessment and Vulnerability (taxonomy)
+- climate vulnerability --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- climate vulnerability --[is_a]--> Vulnerability Assessment (taxonomy)
+- anticipatory action --[addresses]--> smallholder farmer (inferred)
+- anticipatory action --[addresses]--> food system analytics (inferred)
+- anticipatory action --[addresses]--> flood risk mapping (extracted)
+- anticipatory action --[uses]--> climate information services (extracted)
+- anticipatory action --[uses]--> AWARE platform (extracted)
+- anticipatory action --[uses]--> early warning systems (inferred)
+- anticipatory action --[is_a]--> Climate Forecasting and Early Warning (taxonomy)
+- anticipatory action --[is_a]--> Early Warning and Crisis Prediction (taxonomy)
+- anticipatory action --[is_a]--> Humanitarian Response (taxonomy)
+- anticipatory action --[is_a]--> Disaster Risk and Humanitarian Governance (taxonomy)
+- anticipatory action --[is_a]--> Fragile and Conflict-Affected Settings (taxonomy)
+- good agricultural practices --[targets]--> maize (extracted)
+- good agricultural practices --[is_a]--> Climate-Smart Agriculture (taxonomy)
+- good agricultural practices --[is_a]--> Smallholder and Community Farming (taxonomy)
+- good agricultural practices --[is_a]--> Food Safety Monitoring and Management (taxonomy)
+- good agricultural practices --[is_a]--> Quality and Food Safety Standards (taxonomy)
+- quantitative trait loci mapping --[produces]--> marker-assisted selection (inferred)
+- quantitative trait loci mapping --[uses]--> DArTseq platform (extracted)
+- quantitative trait loci mapping --[is_a]--> Marker-Assisted Selection and QTL (taxonomy)
+- quantitative trait loci mapping --[is_a]--> Crop Genetic Improvement (taxonomy)
+- quantitative trait loci mapping --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- water accounting --[uses]--> WA+ dashboard (extracted)
+- water accounting --[located_in]--> Punjab (extracted)
+- water accounting --[located_in]--> Kenya Central Highlands (extracted)
+- water accounting --[is_a]--> Agricultural Water Resources Management (taxonomy)
+- water accounting --[is_a]--> Water Productivity and Efficiency (taxonomy)
+- water accounting --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- seed system strengthening --[produces]--> certified seed (inferred)
+- seed system strengthening --[is_a]--> Seed System Development and Strengthening (taxonomy)
+- seed system strengthening --[is_a]--> Seed Systems Development (taxonomy)
+- multi-stakeholder engagement --[produces]--> social equity integration (extracted)
+- multi-stakeholder engagement --[uses]--> capacity building (inferred)
+- multi-stakeholder engagement --[is_a]--> Multi-Stakeholder Engagement (taxonomy)
+- multi-stakeholder engagement --[is_a]--> Innovation Platforms and Networks (taxonomy)
+- multi-stakeholder engagement --[is_a]--> Multi-Stakeholder Platforms and Partnerships (taxonomy)
+- multi-stakeholder engagement --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- breeding pipeline --[is_a]--> Breeding Program Design and Management (taxonomy)
+- breeding pipeline --[is_a]--> Crop Genetic Improvement (taxonomy)
+- water-energy-food nexus --[uses]--> computable general equilibrium modeling (extracted)
+- water-energy-food nexus --[is_a]--> Agricultural Water Resources Management (taxonomy)
+- water-energy-food nexus --[is_a]--> Water Governance and Management (taxonomy)
+- water-energy-food nexus --[is_a]--> Nexus Frameworks (taxonomy)
+- business model development --[targets]--> smallholder farmers (inferred)
+- business model development --[is_a]--> Business Models and Development (taxonomy)
+- business model development --[is_a]--> Business Development and Incubation (taxonomy)
+- business model development --[is_a]--> Partnership Models (taxonomy)
+- business model development --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- business model development --[is_a]--> Blended Finance and Investment (taxonomy)
+- digital twin --[located_in]--> Limpopo River Basin (extracted)
+- digital twin --[located_in]--> Ethiopia (extracted)
+- digital twin --[uses]--> dairy cattle (extracted)
+- digital twin --[uses]--> artificial intelligence (extracted)
+- digital twin --[is_a]--> Precision Farming Technologies (taxonomy)
+- digital twin --[is_a]--> Digital Tools and Decision Support (taxonomy)
+- digital twin --[is_a]--> Decision Support Systems (taxonomy)
+- satellite remote sensing --[is_a]--> Satellite and Remote Sensing Applications (taxonomy)
+- satellite remote sensing --[is_a]--> Satellite-Based Monitoring (taxonomy)
+- satellite remote sensing --[is_a]--> Remote Sensing and Digital Monitoring (taxonomy)
+- satellite remote sensing --[is_a]--> Remote Sensing and Earth Observation (taxonomy)
+- water management --[addresses]--> climate risks (extracted)
+- water management --[is_a]--> Agricultural Water Resources Management (taxonomy)
+- water management --[is_a]--> Water Governance and Management (taxonomy)
+- gender mainstreaming --[addresses]--> gender inequality (extracted)
+- gender mainstreaming --[addresses]--> climate adaptation (extracted)
+- gender mainstreaming --[is_a]--> Gender Mainstreaming and Programming (taxonomy)
+- gender mainstreaming --[is_a]--> Gender-Transformative Approaches (taxonomy)
+- gender mainstreaming --[is_a]--> Gender-Responsive Policy and Governance (taxonomy)
+- gender mainstreaming --[is_a]--> Gender Transformative Approaches (taxonomy)
+- varietal adoption --[targets]--> smallholder farmers (extracted)
+- varietal adoption --[addresses]--> food security (extracted)
+- varietal adoption --[is_a]--> Variety Adoption and Deployment (taxonomy)
+- varietal adoption --[is_a]--> Technology Adoption and Diffusion (taxonomy)
+- varietal adoption --[is_a]--> Monitoring and Evaluation Frameworks (taxonomy)
+- digital transformation --[located_in]--> Colombia (extracted)
+- digital transformation --[produces]--> AGX platform (extracted)
+- digital transformation --[produces]--> traceability (extracted)
+- digital transformation --[part_of]--> CGIAR (extracted)
+- digital transformation --[is_a]--> Digital Extension Integration and Literacy (taxonomy)
+- digital transformation --[is_a]--> Digital Agriculture Systems (taxonomy)
+- digital transformation --[is_a]--> Digital Literacy and Inclusion (taxonomy)
+- digital transformation --[is_a]--> Digital Platforms and Infrastructure (taxonomy)
+- policy coherence --[addresses]--> food security (extracted)
+- policy coherence --[addresses]--> multifunctional landscapes (extracted)
+- policy coherence --[is_a]--> Policy and Enabling Environment (taxonomy)
+- policy coherence --[is_a]--> Policy Dialogue and Advocacy (taxonomy)
+- policy coherence --[is_a]--> Core Policy Instruments (taxonomy)
+- policy coherence --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- policy coherence --[is_a]--> Integrated and Adaptive Management (taxonomy)
+- landscape restoration --[addresses]--> policy coherence (extracted)
+- landscape restoration --[is_a]--> Landscape and Land Management (taxonomy)
+- landscape restoration --[is_a]--> Sustainable Land Management (taxonomy)
+- blended finance --[addresses]--> multifunctional landscapes (extracted)
+- blended finance --[supports]--> rangeland restoration (extracted)
+- blended finance --[addresses]--> climate adaptation (inferred)
+- blended finance --[is_a]--> Climate Finance (taxonomy)
+- blended finance --[is_a]--> Finance and Investment Mechanisms (taxonomy)
+- blended finance --[is_a]--> Investment and Finance Mechanisms (taxonomy)
+- blended finance --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- blended finance --[is_a]--> Blended Finance and Investment (taxonomy)
+- stress tolerance --[related_to]--> climate adaptation (inferred)
+- stress tolerance --[is_a]--> Stress Tolerance Screening (taxonomy)
+- stress tolerance --[is_a]--> Crop Genetic Improvement (taxonomy)
+- machine learning --[produces]--> soil quality index (extracted)
+- machine learning --[is_a]--> Core AI and ML Methods (taxonomy)
+- machine learning --[is_a]--> Core AI and ML Approaches (taxonomy)
+- machine learning --[is_a]--> Artificial Intelligence and Machine Learning (taxonomy)
+- participatory learning --[addresses]--> antimicrobial stewardship (extracted)
+- participatory learning --[is_a]--> Participatory and Farmer-Centered Approaches (taxonomy)
+- participatory learning --[is_a]--> Peer and Experiential Learning (taxonomy)
+- participatory learning --[is_a]--> Participatory Research Methods (taxonomy)
+- participatory learning --[is_a]--> Participatory Learning Methods (taxonomy)
+- solar irrigation --[addresses]--> food security (extracted)
+- solar irrigation --[addresses]--> precision agriculture (inferred)
+- solar irrigation --[targets]--> smallholder farmers (extracted)
+- solar irrigation --[addresses]--> low-carbon agriculture (inferred)
+- solar irrigation --[is_a]--> Irrigation Systems and Technologies (taxonomy)
+- solar irrigation --[is_a]--> Irrigation and Water Infrastructure (taxonomy)
+- locally-led climate adaptation --[uses]--> multi-stakeholder engagement (extracted)
+- locally-led climate adaptation --[is_a]--> Locally Led and Community-Based Adaptation (taxonomy)
+- locally-led climate adaptation --[is_a]--> Scaling and Innovation Miscellaneous (taxonomy)
+- locally-led climate adaptation --[is_a]--> Climate Action Governance (taxonomy)
+- locally-led climate adaptation --[is_a]--> Locally Led Approaches (taxonomy)
+- participatory climate services --[uses]--> PICSA (extracted)
+- participatory climate services --[is_a]--> Locally Led and Community-Based Adaptation (taxonomy)
+- participatory climate services --[is_a]--> Citizen Science and Community-Based Research (taxonomy)
+- climate variability --[is_a]--> Climate Risk Assessment and Vulnerability (taxonomy)
+- pioneer positive deviance --[uses]--> peer learning networks (extracted)
+- pioneer positive deviance --[uses]--> peer learning (extracted)
+- pioneer positive deviance --[is_a]--> Participatory and Farmer-Centered Approaches (taxonomy)
+- pioneer positive deviance --[is_a]--> Specific Food System Interventions (taxonomy)
+- pioneer positive deviance --[is_a]--> Social Norms (taxonomy)
+- pioneer positive deviance --[is_a]--> Citizen Science and Community-Based Research (taxonomy)
+- pioneer positive deviance --[is_a]--> Qualitative and Social Research Techniques (taxonomy)
+- pioneer positive deviance --[is_a]--> Citizen Science and Crowdsourcing (taxonomy)
+- capacity strengthening --[is_a]--> Core Capacity Building (taxonomy)
+- capacity strengthening --[is_a]--> Capacity Building Programs (taxonomy)
+- capacity strengthening --[is_a]--> Training and Capacity Development (taxonomy)
+- capacity strengthening --[is_a]--> Capacity Building Approaches (taxonomy)
+- monitoring and evaluation --[addresses]--> climate adaptation (extracted)
+- monitoring and evaluation --[part_of]--> Great Green Wall Initiative (extracted)
+- monitoring and evaluation --[uses]--> digital platforms (inferred)
+- monitoring and evaluation --[is_a]--> Institutional Learning and Adaptive Management (taxonomy)
+- monitoring and evaluation --[is_a]--> Impact Evaluation and Assessment (taxonomy)
+- monitoring and evaluation --[is_a]--> Monitoring and Evaluation Frameworks (taxonomy)
+- monitoring and evaluation --[is_a]--> Integrated and Adaptive Management (taxonomy)
+- digital data collection --[targets]--> smallholder farmers (inferred)
+- digital data collection --[uses]--> Open Data Kit (extracted)
+- digital data collection --[is_a]--> Data Standards and Interoperability (taxonomy)
+- digital data collection --[is_a]--> Data Collection and Management for Extension (taxonomy)
+- digital data collection --[is_a]--> Remote Sensing and Digital Monitoring (taxonomy)
+- digital data collection --[is_a]--> Digital Platforms and Infrastructure (taxonomy)
+- circular economy --[collaborates_with]--> SENA (extracted)
+- circular economy --[uses]--> regenerative agriculture (extracted)
+- circular economy --[targets]--> rice (extracted)
+- circular economy --[addresses]--> food systems resilience (inferred)
+- circular economy --[addresses]--> waste hierarchy (extracted)
+- circular economy --[is_a]--> Organic and Circular Farming (taxonomy)
+- circular economy --[is_a]--> Biogas and Circular Bioeconomy (taxonomy)
+- circular economy --[is_a]--> Food Loss and Waste Reduction (taxonomy)
+- circular economy --[is_a]--> Circular Economy Principles (taxonomy)
+- monitoring reporting verification --[addresses]--> Colombia (extracted)
+- monitoring reporting verification --[addresses]--> climate mitigation (extracted)
+- monitoring reporting verification --[uses]--> TGEIS (extracted)
+- monitoring reporting verification --[is_a]--> Carbon and Greenhouse Gas Management in Farming (taxonomy)
+- monitoring reporting verification --[is_a]--> Greenhouse Gas Measurement and Monitoring (taxonomy)
+- monitoring reporting verification --[is_a]--> Monitoring Reporting and Verification (taxonomy)
+- monitoring reporting verification --[is_a]--> Data Collection and Management for Extension (taxonomy)
+- monitoring reporting verification --[is_a]--> Monitoring, Reporting and Verification (taxonomy)
+- monitoring reporting verification --[is_a]--> Greenhouse Gas Measurement and Reporting (taxonomy)
+- monitoring reporting verification --[is_a]--> MRV Frameworks (taxonomy)
+- sustainable agriculture --[is_a]--> Core Agroecological Approaches (taxonomy)
+- sustainable agriculture --[is_a]--> Sustainable Intensification and Diversification (taxonomy)
+- sustainable agriculture --[is_a]--> Planetary and Environmental Sustainability (taxonomy)
+- machine learning modeling --[addresses]--> ecosystem restoration (extracted)
+- machine learning modeling --[uses]--> early warning systems (extracted)
+- machine learning modeling --[is_a]--> Core AI and ML Methods (taxonomy)
+- machine learning modeling --[is_a]--> Core AI and ML Approaches (taxonomy)
+- machine learning modeling --[is_a]--> Artificial Intelligence and Machine Learning (taxonomy)
+- dietary assessment --[is_a]--> Dietary Assessment and Quality (taxonomy)
+- dietary assessment --[is_a]--> Statistical and Quantitative Methods (taxonomy)
+- biosecurity --[addresses]--> antimicrobial resistance (inferred)
+- biosecurity --[targets]--> broiler chicken (extracted)
+- biosecurity --[is_a]--> Herd Health Management (taxonomy)
+- biosecurity --[is_a]--> Food Safety Monitoring and Management (taxonomy)
+- biosecurity --[is_a]--> Biosecurity and Disease Prevention (taxonomy)
+- intercropping --[uses]--> grain legumes (extracted)
+- intercropping --[uses]--> maize (extracted)
+- intercropping --[uses]--> cowpea (extracted)
+- intercropping --[located_in]--> Ghana (extracted)
+- intercropping --[targets]--> smallholder farmer (extracted)
+- intercropping --[is_a]--> Cropping Systems (taxonomy)
+- intercropping --[is_a]--> Sustainable Intensification and Diversification (taxonomy)
+- heat stress tolerance --[targets]--> wheat (extracted)
+- heat stress tolerance --[targets]--> lentil (extracted)
+- heat stress tolerance --[is_a]--> Stress Tolerance Screening (taxonomy)
+- heat stress tolerance --[is_a]--> Crop Genetic Improvement (taxonomy)
+- soil health assessment --[addresses]--> climate resilience (extracted)
+- soil health assessment --[located_in]--> Kenya (extracted)
+- soil health assessment --[is_a]--> Soil Health and Fertility Management (taxonomy)
+- soil health assessment --[is_a]--> Soil Health and Management (taxonomy)
+- soil health assessment --[is_a]--> Sensor and IoT Applications (taxonomy)
+- soil health assessment --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- gender transformative research --[addresses]--> gender inequality (extracted)
+- gender transformative research --[addresses]--> gender inequalities (extracted)
+- gender transformative research --[targets]--> plant breeders (extracted)
+- gender transformative research --[is_a]--> Gender-Transformative Approaches (taxonomy)
+- gender transformative research --[is_a]--> Gender Research Methods (taxonomy)
+- gender transformative research --[is_a]--> Gender Transformative Approaches (taxonomy)
+- gender-responsive approaches --[targets]--> women farmers (extracted)
+- gender-responsive approaches --[is_a]--> Gender Mainstreaming and Programming (taxonomy)
+- gender-responsive approaches --[is_a]--> Gender-Transformative Approaches (taxonomy)
+- gender-responsive approaches --[is_a]--> Gender-Responsive Programming (taxonomy)
+- gender and social inclusion --[targets]--> MENA Region (extracted)
+- gender and social inclusion --[targets]--> smallholder farmers (extracted)
+- gender and social inclusion --[is_a]--> Youth and Women's Economic Empowerment (taxonomy)
+- gender and social inclusion --[is_a]--> Gender Mainstreaming and Programming (taxonomy)
+- gender and social inclusion --[is_a]--> Gender Inclusion and Equity (taxonomy)
+- gender and social inclusion --[is_a]--> Gender-Responsive Policy and Governance (taxonomy)
+- gender and social inclusion --[is_a]--> Gender Transformative Approaches (taxonomy)
+- policy integration --[produces]--> scaling pathways (inferred)
+- policy integration --[addresses]--> biofortification (extracted)
+- policy integration --[is_a]--> Policy and Enabling Environment (taxonomy)
+- policy integration --[is_a]--> Policy Dialogue and Advocacy (taxonomy)
+- policy integration --[is_a]--> Core Policy Instruments (taxonomy)
+- policy integration --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- policy integration --[is_a]--> Integrated and Adaptive Management (taxonomy)
+- participatory mapping --[is_a]--> Participatory and Farmer-Centered Approaches (taxonomy)
+- participatory mapping --[is_a]--> Participatory Research Methods (taxonomy)
+- participatory mapping --[is_a]--> Participatory Learning Methods (taxonomy)
+- aquatic food systems --[part_of]--> nationally determined contributions (extracted)
+- aquatic food systems --[addresses]--> food security (inferred)
+- aquatic food systems --[is_a]--> Fisheries and Aquatic Food Systems (taxonomy)
+- aquatic food systems --[is_a]--> Food System Frameworks and Approaches (taxonomy)
+- scaling framework --[targets]--> bundled cis and csa (extracted)
+- scaling framework --[is_a]--> Technology Adoption and Diffusion (taxonomy)
+- scaling framework --[is_a]--> Scaling Approaches (taxonomy)
+- scaling framework --[is_a]--> Scaling Strategies and Frameworks (taxonomy)
+- scaling framework --[is_a]--> Scaling Frameworks and Approaches (taxonomy)
+- scaling framework --[is_a]--> Scaling Frameworks and Strategies (taxonomy)
+- innovation networks --[produces]--> capacity building (extracted)
+- innovation networks --[uses]--> inter-institutional coordination (extracted)
+- innovation networks --[is_a]--> Technology Adoption and Diffusion (taxonomy)
+- innovation networks --[is_a]--> Private Sector and Partnerships (taxonomy)
+- innovation networks --[is_a]--> Innovation Platforms and Networks (taxonomy)
+- innovation networks --[is_a]--> Multi-Stakeholder Platforms and Partnerships (taxonomy)
+- innovation networks --[is_a]--> Knowledge Exchange and Dissemination (taxonomy)
+- innovation networks --[is_a]--> Communities of Practice and Networks (taxonomy)
+- crop modeling --[uses]--> DSSAT (inferred)
+- crop modeling --[uses]--> climate impact projections (inferred)
+- crop modeling --[is_a]--> Precision and Digital Crop Management (taxonomy)
+- crop modeling --[is_a]--> Crop and Agricultural Modeling (taxonomy)
+- crop modeling --[is_a]--> Systems and Simulation Modeling (taxonomy)
+- agroclimatic information services --[is_a]--> Climate Information Services (taxonomy)
+- agroclimatic information services --[is_a]--> Climate and Agro-Advisory Services (taxonomy)
+- agroclimatic information services --[is_a]--> Agroclimatic Advisory Services (taxonomy)
+- systematic review --[uses]--> evidence gap mapping (extracted)
+- systematic review --[is_a]--> Impact Evaluation and Assessment (taxonomy)
+- systematic review --[is_a]--> Systematic Reviews and Evidence Synthesis (taxonomy)
+- technical assistance --[targets]--> Agro-Processing GFCs (extracted)
+- technical assistance --[is_a]--> Core Capacity Building (taxonomy)
+- technical assistance --[is_a]--> Capacity Building Programs (taxonomy)
+- technical assistance --[is_a]--> Capacity Building Approaches (taxonomy)
+- stakeholder training --[addresses]--> capacity building (extracted)
+- stakeholder training --[is_a]--> Core Capacity Building (taxonomy)
+- stakeholder training --[is_a]--> Training and Capacity Development (taxonomy)
+- stakeholder training --[is_a]--> Training Modalities (taxonomy)
+- speed breeding --[uses]--> rapid generation advancement (extracted)
+- speed breeding --[produces]--> realized genetic gain (extracted)
+- speed breeding --[produces]--> Rapid-Ragi (extracted)
+- speed breeding --[is_a]--> Advanced Breeding Techniques (taxonomy)
+- speed breeding --[is_a]--> Crop Genetic Improvement (taxonomy)
+- school feeding programs --[uses]--> chickens (extracted)
+- school feeding programs --[located_in]--> Yemen (extracted)
+- school feeding programs --[addresses]--> food security (inferred)
+- school feeding programs --[is_a]--> Food Market Systems (taxonomy)
+- school feeding programs --[is_a]--> Social Protection and Safety Nets (taxonomy)
+- school feeding programs --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- diet quality assessment --[part_of]--> ReDD index (extracted)
+- diet quality assessment --[uses]--> Global Diet Quality Score (extracted)
+- diet quality assessment --[is_a]--> Dietary Assessment and Quality (taxonomy)
+- diet quality assessment --[is_a]--> Statistical and Quantitative Methods (taxonomy)
+- yield improvement --[is_a]--> Trait Characterization and Analysis (taxonomy)
+- yield improvement --[is_a]--> Precision and Digital Crop Management (taxonomy)
+- market-responsive breeding --[targets]--> banana (extracted)
+- market-responsive breeding --[is_a]--> Participatory and Farmer-Centered Breeding (taxonomy)
+- market-responsive breeding --[is_a]--> Crop Genetic Improvement (taxonomy)
+- market-responsive breeding --[is_a]--> Market-Oriented Seed Systems (taxonomy)
+- fruit and vegetable promotion --[located_in]--> Fiji (extracted)
+- fruit and vegetable promotion --[is_a]--> Dietary Behavior and Interventions (taxonomy)
+- genetic improvement program --[targets]--> rohu (extracted)
+- genetic improvement program --[located_in]--> Bangladesh (extracted)
+- genetic improvement program --[uses]--> family-based selection (extracted)
+- genetic improvement program --[targets]--> smallholder farmer (extracted)
+- genetic improvement program --[uses]--> optimal contribution selection (extracted)
+- genetic improvement program --[is_a]--> Breeding Program Design and Management (taxonomy)
+- genetic improvement program --[is_a]--> Crop Genetic Improvement (taxonomy)
+- breeding program costing --[targets]--> climate resilience (extracted)
+- breeding program costing --[is_a]--> Breeding Program Design and Management (taxonomy)
+- breeding program costing --[is_a]--> Crop Genetic Improvement (taxonomy)
+- breeding program costing --[is_a]--> Economic Modeling and Analysis (taxonomy)
+- zoonotic disease surveillance --[part_of]--> one health approach (inferred)
+- zoonotic disease surveillance --[addresses]--> hantavirus (extracted)
+- zoonotic disease surveillance --[is_a]--> Herd Health Management (taxonomy)
+- zoonotic disease surveillance --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- zoonotic disease surveillance --[is_a]--> Zoonotic Disease Surveillance and Management (taxonomy)
+- zoonotic disease surveillance --[is_a]--> Uncategorized (taxonomy)
+- food safety --[addresses]--> Salmonella (extracted)
+- food safety --[is_a]--> Post-Harvest and Food Loss Management (taxonomy)
+- food safety --[is_a]--> Food Safety Monitoring and Management (taxonomy)
+- food safety --[is_a]--> Supply Chain and Post-Harvest (taxonomy)
+- food safety --[is_a]--> Quality and Food Safety Standards (taxonomy)
+- food safety --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- gender-based violence --[related_to]--> climate change (extracted)
+- gender-based violence --[related_to]--> climate vulnerability (extracted)
+- gender-based violence --[is_a]--> Violence and Safety (taxonomy)
+- gender-based violence --[is_a]--> Gender Dynamics and Analysis (taxonomy)
+- evidence-based policy --[uses]--> stakeholder dialogue (extracted)
+- evidence-based policy --[is_a]--> Policy and Enabling Environment (taxonomy)
+- evidence-based policy --[is_a]--> Policy Dialogue and Advocacy (taxonomy)
+- evidence-based policy --[is_a]--> Evidence-Based Policy Processes (taxonomy)
+- evidence-based policy --[is_a]--> Systematic Reviews and Evidence Synthesis (taxonomy)
+- evidence-based policy --[is_a]--> Integrated and Adaptive Management (taxonomy)
+- biodiversity conservation --[is_a]--> Nature-Based and Ecosystem Approaches (taxonomy)
+- biodiversity conservation --[is_a]--> Biodiversity Conservation (taxonomy)
+- vulnerability assessment --[targets]--> refugee-hosting communities (extracted)
+- vulnerability assessment --[uses]--> climate risk assessment (extracted)
+- vulnerability assessment --[is_a]--> Climate Risk Assessment and Vulnerability (taxonomy)
+- vulnerability assessment --[is_a]--> Food Security Measurement and Monitoring (taxonomy)
+- vulnerability assessment --[is_a]--> Monitoring and Evaluation Frameworks (taxonomy)
+- vulnerability assessment --[is_a]--> Vulnerability Assessment (taxonomy)
+- one health --[addresses]--> rabies (extracted)
+- one health --[located_in]--> Somalia (extracted)
+- one health --[is_a]--> Herd Health Management (taxonomy)
+- one health --[is_a]--> One Health Approach (taxonomy)
+- one health --[is_a]--> Uncategorized (taxonomy)
+- gender-responsive programming --[targets]--> smallholder farmers (inferred)
+- gender-responsive programming --[is_a]--> Gender Mainstreaming and Programming (taxonomy)
+- gender-responsive programming --[is_a]--> Gender-Transformative Approaches (taxonomy)
+- gender-responsive programming --[is_a]--> Gender-Responsive Programming (taxonomy)
+- antimicrobial stewardship --[uses]--> FarmUSE tools (extracted)
+- antimicrobial stewardship --[targets]--> veterinarians (extracted)
+- antimicrobial stewardship --[is_a]--> Herd Health Management (taxonomy)
+- antimicrobial stewardship --[is_a]--> Contaminant and Residue Management (taxonomy)
+- antimicrobial stewardship --[is_a]--> Antimicrobial Resistance Governance (taxonomy)
+- antimicrobial stewardship --[is_a]--> Antimicrobial Resistance (taxonomy)
+- earth observation --[uses]--> Sentinel-1 (extracted)
+- earth observation --[is_a]--> Satellite and Remote Sensing Applications (taxonomy)
+- earth observation --[is_a]--> Satellite-Based Monitoring (taxonomy)
+- earth observation --[is_a]--> Remote Sensing and Digital Monitoring (taxonomy)
+- earth observation --[is_a]--> Remote Sensing and Earth Observation (taxonomy)
+- living lab --[promotes]--> climate-smart agriculture (extracted)
+- living lab --[uses]--> bamboo carbon sink (extracted)
+- living lab --[located_in]--> Banspal (extracted)
+- living lab --[is_a]--> Technology Adoption and Diffusion (taxonomy)
+- living lab --[is_a]--> Transdisciplinary and Systems Research (taxonomy)
+- living lab --[is_a]--> Agricultural Innovation Systems (taxonomy)
+- living lab --[is_a]--> Co-Design and Co-Creation Methods (taxonomy)
+- living lab --[is_a]--> Communities of Practice and Networks (taxonomy)
+- innovation scaling --[targets]--> CGIAR (extracted)
+- innovation scaling --[uses]--> demand signaling (extracted)
+- innovation scaling --[is_a]--> Technology Adoption and Diffusion (taxonomy)
+- innovation scaling --[is_a]--> Scaling Approaches (taxonomy)
+- innovation scaling --[is_a]--> Scaling Strategies and Frameworks (taxonomy)
+- innovation scaling --[is_a]--> Scaling Frameworks and Approaches (taxonomy)
+- innovation scaling --[is_a]--> Scaling Frameworks and Strategies (taxonomy)
+- cost-benefit analysis --[uses]--> agroecology (extracted)
+- cost-benefit analysis --[targets]--> cattle farmers (extracted)
+- cost-benefit analysis --[uses]--> climate adaptation strategies (extracted)
+- cost-benefit analysis --[addresses]--> climate-smart agriculture (extracted)
+- cost-benefit analysis --[is_a]--> Economic Analysis and Impact (taxonomy)
+- cost-benefit analysis --[is_a]--> Impact Evaluation and Assessment (taxonomy)
+- cost-benefit analysis --[is_a]--> Economic Modeling and Analysis (taxonomy)
+- cost-benefit analysis --[is_a]--> Experimental and Evaluation Methods (taxonomy)
+- technology transfer --[located_in]--> Tunisia (extracted)
+- technology transfer --[targets]--> smallholder farmer (extracted)
+- technology transfer --[collaborates_with]--> New Zealand (extracted)
+- technology transfer --[is_a]--> Technology Adoption and Diffusion (taxonomy)
+- technology transfer --[is_a]--> Knowledge Exchange and Sharing (taxonomy)
+- technology transfer --[is_a]--> Knowledge Management and Dissemination (taxonomy)
+- technology transfer --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- technology transfer --[is_a]--> South-South and Knowledge Exchange (taxonomy)
+- biological control --[uses]--> indigenous parasitoids (extracted)
+- biological control --[uses]--> Beauveria bassiana (extracted)
+- biological control --[uses]--> Metarhizium anisopliae (extracted)
+- biological control --[addresses]--> carbon sequestration (extracted)
+- biological control --[is_a]--> Biological Control (taxonomy)
+- biological control --[is_a]--> Uncategorized (taxonomy)
+- machine learning forecasting --[uses]--> satellite remote sensing (extracted)
+- machine learning forecasting --[is_a]--> Core AI and ML Methods (taxonomy)
+- machine learning forecasting --[is_a]--> Core AI and ML Approaches (taxonomy)
+- machine learning forecasting --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- machine learning forecasting --[is_a]--> Artificial Intelligence and Machine Learning (taxonomy)
+- irrigation demand forecasting --[targets]--> water managers (extracted)
+- irrigation demand forecasting --[is_a]--> Agricultural Water Resources Management (taxonomy)
+- irrigation demand forecasting --[is_a]--> Irrigation and Water Infrastructure (taxonomy)
+- irrigation demand forecasting --[is_a]--> Predictive Modeling and Forecasting (taxonomy)
+- irrigation demand forecasting --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- sustainable agricultural practices --[located_in]--> Kenya Central Highlands (extracted)
+- sustainable agricultural practices --[targets]--> smallholder farmers (inferred)
+- sustainable agricultural practices --[located_in]--> Uzbekistan (extracted)
+- sustainable agricultural practices --[is_a]--> Core Agroecological Approaches (taxonomy)
+- sustainable agricultural practices --[is_a]--> Smallholder and Community Farming (taxonomy)
+- sustainable agricultural practices --[is_a]--> Sustainable Intensification and Diversification (taxonomy)
+- sustainable agricultural practices --[is_a]--> Planetary and Environmental Sustainability (taxonomy)
+- conflict-sensitive programming --[addresses]--> climate security (extracted)
+- conflict-sensitive programming --[located_in]--> Mozambique (extracted)
+- conflict-sensitive programming --[is_a]--> Food Security in Fragile Contexts (taxonomy)
+- conflict-sensitive programming --[is_a]--> Conflict-Sensitive Programming (taxonomy)
+- conflict-sensitive programming --[is_a]--> Conflict-Sensitive Governance (taxonomy)
+- conflict-sensitive programming --[is_a]--> Social Assessment Methods (taxonomy)
+- conflict-sensitive programming --[is_a]--> Climate-Conflict Nexus (taxonomy)
+- fragile and conflict-affected settings --[addresses]--> food security (extracted)
+- fragile and conflict-affected settings --[is_a]--> Food Security in Fragile Contexts (taxonomy)
+- fragile and conflict-affected settings --[is_a]--> Conflict-Sensitive Programming (taxonomy)
+- fragile and conflict-affected settings --[is_a]--> Conflict-Sensitive Governance (taxonomy)
+- fragile and conflict-affected settings --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- fragile and conflict-affected settings --[is_a]--> Fragile and Conflict-Affected Settings (taxonomy)
+- climate finance tracking --[uses]--> IFMIS (extracted)
+- climate finance tracking --[is_a]--> Climate Finance (taxonomy)
+- climate finance tracking --[is_a]--> Monitoring, Reporting and Verification (taxonomy)
+- climate finance tracking --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- digital platforms --[uses]--> market linkages (extracted)
+- digital platforms --[is_a]--> Digital Platforms and Infrastructure (taxonomy)
+- digital platforms --[is_a]--> Digital Advisory and Extension Platforms (taxonomy)
+- digital platforms --[is_a]--> Knowledge Platforms and Systems (taxonomy)
+- digital platforms --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- curriculum integration --[targets]--> climate-smart agriculture (extracted)
+- curriculum integration --[is_a]--> Curriculum and Skills Development (taxonomy)
+- curriculum integration --[is_a]--> Capacity Building Programs (taxonomy)
+- curriculum integration --[is_a]--> Training and Capacity Development (taxonomy)
+- curriculum integration --[is_a]--> Training Modalities (taxonomy)
+- community-based management --[located_in]--> Kenya (extracted)
+- community-based management --[is_a]--> Smallholder and Community Farming (taxonomy)
+- community-based management --[is_a]--> Collective Action and Governance (taxonomy)
+- community-based management --[is_a]--> Participatory Governance and Rangeland Management (taxonomy)
+- community-based management --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- community-based management --[is_a]--> Governance Frameworks (taxonomy)
+- seed production --[uses]--> integrated crop management (extracted)
+- seed production --[is_a]--> Seed Production (taxonomy)
+- seed production --[is_a]--> Seed Systems Development (taxonomy)
+- methane mitigation --[related_to]--> livestock systems (inferred)
+- methane mitigation --[is_a]--> Livestock Methane and Emissions (taxonomy)
+- methane mitigation --[is_a]--> Methane and Emission Reduction Practices (taxonomy)
+- computable general equilibrium modeling --[targets]--> policy researchers (extracted)
+- computable general equilibrium modeling --[is_a]--> Food Security Measurement and Monitoring (taxonomy)
+- computable general equilibrium modeling --[is_a]--> Economic and Impact Modeling (taxonomy)
+- computable general equilibrium modeling --[is_a]--> Economic Analysis and Impact (taxonomy)
+- computable general equilibrium modeling --[is_a]--> Impact Evaluation and Assessment (taxonomy)
+- computable general equilibrium modeling --[is_a]--> Economic Modeling and Analysis (taxonomy)
+- computable general equilibrium modeling --[is_a]--> Mixed Methods and Qualitative Approaches (taxonomy)
+- mechanized agriculture --[addresses]--> rice straw management (extracted)
+- mechanized agriculture --[is_a]--> Agricultural Mechanization (taxonomy)
+- mechanized agriculture --[is_a]--> Mechanization Technologies (taxonomy)
+- multistakeholder platforms --[addresses]--> value chain development (extracted)
+- multistakeholder platforms --[located_in]--> Cambodia (extracted)
+- multistakeholder platforms --[addresses]--> water governance (extracted)
+- multistakeholder platforms --[located_in]--> Nile Basin (extracted)
+- multistakeholder platforms --[is_a]--> Multi-Stakeholder Engagement (taxonomy)
+- multistakeholder platforms --[is_a]--> Innovation Platforms and Networks (taxonomy)
+- multistakeholder platforms --[is_a]--> Multi-Stakeholder Platforms and Partnerships (taxonomy)
+- participatory evaluation --[targets]--> smallholder farmers (extracted)
+- participatory evaluation --[is_a]--> Participatory and Farmer-Centered Approaches (taxonomy)
+- participatory evaluation --[is_a]--> Participatory Research Methods (taxonomy)
+- participatory evaluation --[is_a]--> Participatory Learning Methods (taxonomy)
+- digital soil mapping --[part_of]--> MSOIL (extracted)
+- digital soil mapping --[uses]--> precision farming (extracted)
+- digital soil mapping --[uses]--> machine learning (inferred)
+- digital soil mapping --[is_a]--> Soil Health and Fertility Management (taxonomy)
+- digital soil mapping --[is_a]--> Soil Health and Management (taxonomy)
+- digital soil mapping --[is_a]--> Geospatial Analysis and Mapping (taxonomy)
+- digital soil mapping --[is_a]--> Digital Tools and Decision Support (taxonomy)
+- organic farming --[addresses]--> moniliasis (extracted)
+- organic farming --[uses]--> black soldier fly (extracted)
+- organic farming --[is_a]--> Organic and Circular Farming (taxonomy)
+- organic farming --[is_a]--> Sustainable Intensification and Diversification (taxonomy)
+- scaling readiness --[is_a]--> Technology Adoption and Diffusion (taxonomy)
+- scaling readiness --[is_a]--> Scaling Approaches (taxonomy)
+- scaling readiness --[is_a]--> Scaling Strategies and Frameworks (taxonomy)
+- scaling readiness --[is_a]--> Scaling Frameworks and Approaches (taxonomy)
+- scaling readiness --[is_a]--> Scaling Frameworks and Strategies (taxonomy)
+- climate-resilient agriculture --[located_in]--> Tanzania (extracted)
+- climate-resilient agriculture --[is_a]--> Climate-Smart Agriculture (taxonomy)
+- climate-resilient agriculture --[is_a]--> Climate-Smart Agriculture Approaches (taxonomy)
+- antimicrobial resistance --[addresses]--> one health approach (extracted)
+- antimicrobial resistance --[is_a]--> Herd Health Management (taxonomy)
+- antimicrobial resistance --[is_a]--> Contaminant and Residue Management (taxonomy)
+- antimicrobial resistance --[is_a]--> Antimicrobial Resistance Governance (taxonomy)
+- antimicrobial resistance --[is_a]--> Antimicrobial Resistance (taxonomy)
+- sustainable land management --[located_in]--> Ethiopia (extracted)
+- sustainable land management --[is_a]--> Landscape and Land Management (taxonomy)
+- sustainable land management --[is_a]--> Sustainable Land Management (taxonomy)
+- nutritional enhancement --[produces]--> gluten-free products (extracted)
+- nutritional enhancement --[is_a]--> Trait Characterization and Analysis (taxonomy)
+- nutritional enhancement --[is_a]--> Crop Genetic Improvement (taxonomy)
+- nutritional enhancement --[is_a]--> Nutrition-Sensitive Approaches (taxonomy)
+- value chain upgrading --[addresses]--> food safety monitoring (inferred)
+- value chain upgrading --[is_a]--> Value Chain Development (taxonomy)
+- value chain upgrading --[is_a]--> Core Value Chain Concepts (taxonomy)
+- groundwater management --[located_in]--> Rahim Yar Khan district (extracted)
+- groundwater management --[is_a]--> Agricultural Water Resources Management (taxonomy)
+- groundwater management --[is_a]--> Water Governance and Management (taxonomy)
+- food systems --[related_to]--> gender integration (extracted)
+- food systems --[is_a]--> Food System Frameworks and Approaches (taxonomy)
+- food systems --[is_a]--> Food Systems Transformation (taxonomy)
+- labor migration --[located_in]--> Tajikistan (extracted)
+- labor migration --[addresses]--> women's empowerment (extracted)
+- labor migration --[is_a]--> Labor and Migration (taxonomy)
+- labor migration --[is_a]--> Displacement and Migration (taxonomy)
+- nitrogen use efficiency --[related_to]--> wheat (extracted)
+- nitrogen use efficiency --[related_to]--> precision agriculture (extracted)
+- nitrogen use efficiency --[addresses]--> greenhouse gas emissions (inferred)
+- nitrogen use efficiency --[is_a]--> Trait Characterization and Analysis (taxonomy)
+- nitrogen use efficiency --[is_a]--> Soil Health and Fertility Management (taxonomy)
+- nitrogen use efficiency --[is_a]--> Water Productivity and Efficiency (taxonomy)
+- nitrogen use efficiency --[is_a]--> Sustainable Intensification and Diversification (taxonomy)
+- genomic prediction --[uses]--> multi-environment trials (extracted)
+- genomic prediction --[is_a]--> Genomic Selection and Prediction (taxonomy)
+- genomic prediction --[is_a]--> Crop Genetic Improvement (taxonomy)
+- solar-powered irrigation --[targets]--> smallholder farmer (extracted)
+- solar-powered irrigation --[is_a]--> Irrigation Systems and Technologies (taxonomy)
+- solar-powered irrigation --[is_a]--> Irrigation and Water Infrastructure (taxonomy)
+- genotype by environment interaction --[uses]--> GGE biplot (extracted)
+- genotype by environment interaction --[is_a]--> Multi-Environment and Multi-Location Testing (taxonomy)
+- genotype by environment interaction --[is_a]--> Crop Genetic Improvement (taxonomy)
+- genetic gain --[uses]--> marker-assisted selection (inferred)
+- genetic gain --[is_a]--> Genetic Gain and Performance Assessment (taxonomy)
+- genetic gain --[is_a]--> Crop Genetic Improvement (taxonomy)
+- post-harvest losses --[related_to]--> tomato (extracted)
+- post-harvest losses --[is_a]--> Post-Harvest and Food Loss Management (taxonomy)
+- post-harvest losses --[is_a]--> Post-Harvest Technology and Storage (taxonomy)
+- post-harvest losses --[is_a]--> Supply Chain and Post-Harvest (taxonomy)
+- climate-peace-security nexus --[located_in]--> Southern Africa (extracted)
+- climate-peace-security nexus --[addresses]--> landscape restoration (extracted)
+- climate-peace-security nexus --[is_a]--> Climate-Conflict and Displacement Nexus (taxonomy)
+- climate-peace-security nexus --[is_a]--> Climate-Conflict Nexus (taxonomy)
+- climate-peace-security nexus --[is_a]--> Disaster Risk and Humanitarian Governance (taxonomy)
+- climate-peace-security nexus --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- remote sensing --[uses]--> AgWise (extracted)
+- remote sensing --[is_a]--> Satellite and Remote Sensing Applications (taxonomy)
+- remote sensing --[is_a]--> Spectral and Imaging Technologies (taxonomy)
+- remote sensing --[is_a]--> Remote Sensing and Digital Monitoring (taxonomy)
+- remote sensing --[is_a]--> Remote Sensing and Earth Observation (taxonomy)
+- participatory methods --[uses]--> gender-based violence (extracted)
+- participatory methods --[targets]--> smallholder farmers (extracted)
+- participatory methods --[is_a]--> Participatory and Farmer-Centered Approaches (taxonomy)
+- participatory methods --[is_a]--> Participatory Research Methods (taxonomy)
+- participatory methods --[is_a]--> Participatory Learning Methods (taxonomy)
+- experiential learning --[addresses]--> groundwater management (extracted)
+- experiential learning --[uses]--> agroecological card game (extracted)
+- experiential learning --[is_a]--> Peer and Experiential Learning (taxonomy)
+- experiential learning --[is_a]--> Training and Capacity Development (taxonomy)
+- experiential learning --[is_a]--> Participatory Learning Methods (taxonomy)
+- innovation bundling --[addresses]--> mixed farming systems (extracted)
+- innovation bundling --[is_a]--> Precision and Digital Crop Management (taxonomy)
+- innovation bundling --[is_a]--> Technology Adoption and Diffusion (taxonomy)
+- innovation bundling --[is_a]--> Smallholder Farming Systems (taxonomy)
+- innovation bundling --[is_a]--> Agricultural Innovation Systems (taxonomy)
+- innovation bundling --[is_a]--> Innovation Assessment and Bundling (taxonomy)
+- innovation bundling --[is_a]--> Innovation Bundling and Packages (taxonomy)
+- conflict sensitivity --[addresses]--> Mindanao (extracted)
+- conflict sensitivity --[addresses]--> climate adaptation (extracted)
+- conflict sensitivity --[is_a]--> Conflict-Sensitive Programming (taxonomy)
+- conflict sensitivity --[is_a]--> Conflict-Sensitive Governance (taxonomy)
+- conflict sensitivity --[is_a]--> Social Assessment Methods (taxonomy)
+- conflict sensitivity --[is_a]--> Climate-Conflict Nexus (taxonomy)
+- sustainable intensification --[produces]--> job creation (extracted)
+- sustainable intensification --[addresses]--> food insecurity (extracted)
+- sustainable intensification --[located_in]--> Malawi (extracted)
+- sustainable intensification --[is_a]--> Climate-Smart Agriculture (taxonomy)
+- sustainable intensification --[is_a]--> Sustainable Intensification and Diversification (taxonomy)
+- sustainable intensification --[is_a]--> Planetary and Environmental Sustainability (taxonomy)
+- clean seed systems --[produces]--> disease-free planting materials (extracted)
+- clean seed systems --[is_a]--> Seed Production (taxonomy)
+- clean seed systems --[is_a]--> Seed Systems Development (taxonomy)
+- market price monitoring --[located_in]--> Sudan (extracted)
+- market price monitoring --[is_a]--> Food Market Systems (taxonomy)
+- market price monitoring --[is_a]--> Price and Market Monitoring (taxonomy)
+- market price monitoring --[is_a]--> Remote Sensing and Digital Monitoring (taxonomy)
+- gender-responsive agriculture --[targets]--> women farmers (extracted)
+- gender-responsive agriculture --[located_in]--> Senegal (extracted)
+- gender-responsive agriculture --[is_a]--> Gender Mainstreaming and Programming (taxonomy)
+- gender-responsive agriculture --[is_a]--> Gender-Responsive Programming (taxonomy)
+- digital extension platforms --[targets]--> smallholder farmers (extracted)
+- digital extension platforms --[is_a]--> Agricultural Extension and Advisory Services (taxonomy)
+- digital extension platforms --[is_a]--> Core Digital Advisory Services (taxonomy)
+- digital extension platforms --[is_a]--> Digital Advisory and Extension Platforms (taxonomy)
+- digital extension platforms --[is_a]--> Digital Advisory and Extension Services (taxonomy)
+- digital extension platforms --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- digital extension platforms --[is_a]--> Digital Advisory and Extension (taxonomy)
+- agro-climatic bulletin --[targets]--> agricultural officer (extracted)
+- agro-climatic bulletin --[located_in]--> Viet Nam (extracted)
+- agro-climatic bulletin --[is_a]--> Climate Information Services (taxonomy)
+- agro-climatic bulletin --[is_a]--> Climate and Agro-Advisory Services (taxonomy)
+- agro-climatic bulletin --[is_a]--> Agroclimatic Advisory Services (taxonomy)
+- multi-stakeholder collaboration --[located_in]--> Ghana (extracted)
+- multi-stakeholder collaboration --[located_in]--> Cambodia (extracted)
+- multi-stakeholder collaboration --[is_a]--> Multi-Stakeholder Engagement (taxonomy)
+- multi-stakeholder collaboration --[is_a]--> Innovation Platforms and Networks (taxonomy)
+- multi-stakeholder collaboration --[is_a]--> Multi-Stakeholder Platforms and Partnerships (taxonomy)
+- multi-stakeholder collaboration --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- seed conservation --[produces]--> food sovereignty (inferred)
+- seed conservation --[is_a]--> Germplasm Conservation and Management (taxonomy)
+- seed conservation --[is_a]--> Seed Systems Development (taxonomy)
+- seed conservation --[is_a]--> Crop Genetic Improvement (taxonomy)
+- scaling strategies --[is_a]--> Technology Adoption and Diffusion (taxonomy)
+- scaling strategies --[is_a]--> Scaling Approaches (taxonomy)
+- scaling strategies --[is_a]--> Scaling Strategies and Frameworks (taxonomy)
+- scaling strategies --[is_a]--> Scaling Frameworks and Approaches (taxonomy)
+- scaling strategies --[is_a]--> Scaling Frameworks and Strategies (taxonomy)
+- rice-field pond systems --[located_in]--> Cambodia (extracted)
+- rice-field pond systems --[is_a]--> Integrated Rice-Fish and Aquatic Farming (taxonomy)
+- participatory diagnosis --[uses]--> capacity strengthening (extracted)
+- participatory diagnosis --[uses]--> multi-stakeholder platforms (inferred)
+- participatory diagnosis --[is_a]--> Participatory and Farmer-Centered Approaches (taxonomy)
+- participatory diagnosis --[is_a]--> Participatory Research Methods (taxonomy)
+- participatory diagnosis --[is_a]--> Participatory Learning Methods (taxonomy)
+- digital literacy --[uses]--> Viazi Soko (extracted)
+- digital literacy --[is_a]--> Digital Extension Integration and Literacy (taxonomy)
+- digital literacy --[is_a]--> Digital Agriculture Systems (taxonomy)
+- digital literacy --[is_a]--> Digital Literacy and Inclusion (taxonomy)
+- digital literacy --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- digital literacy --[is_a]--> Digital Platforms and Infrastructure (taxonomy)
+- gender inclusion --[part_of]--> participatory geographic information systems (extracted)
+- gender inclusion --[addresses]--> youth empowerment (extracted)
+- gender inclusion --[is_a]--> Youth and Women's Economic Empowerment (taxonomy)
+- gender inclusion --[is_a]--> Gender Mainstreaming and Programming (taxonomy)
+- gender inclusion --[is_a]--> Gender Inclusion and Equity (taxonomy)
+- gender inclusion --[is_a]--> Gender Transformative Approaches (taxonomy)
+- innovation platforms --[uses]--> participatory approach (extracted)
+- innovation platforms --[targets]--> gender equality social inclusion (extracted)
+- innovation platforms --[is_a]--> Technology Adoption and Diffusion (taxonomy)
+- innovation platforms --[is_a]--> Private Sector and Partnerships (taxonomy)
+- innovation platforms --[is_a]--> Innovation Platforms and Networks (taxonomy)
+- innovation platforms --[is_a]--> Multi-Stakeholder Platforms and Partnerships (taxonomy)
+- innovation platforms --[is_a]--> Knowledge Exchange and Dissemination (taxonomy)
+- innovation platforms --[is_a]--> Communities of Practice and Networks (taxonomy)
+- agricultural intensification --[addresses]--> food security (extracted)
+- agricultural intensification --[uses]--> biofortification (extracted)
+- agricultural intensification --[is_a]--> Cropping Systems (taxonomy)
+- site-specific recommendations --[is_a]--> Soil Health and Fertility Management (taxonomy)
+- site-specific recommendations --[is_a]--> Precision and Digital Crop Management (taxonomy)
+- site-specific recommendations --[is_a]--> Climate and Agro-Advisory Services (taxonomy)
+- site-specific recommendations --[is_a]--> Agroclimatic Advisory Services (taxonomy)
+- agricultural extension --[targets]--> smallholder farmers (inferred)
+- agricultural extension --[uses]--> climate information services (extracted)
+- agricultural extension --[is_a]--> Agricultural Extension and Advisory Services (taxonomy)
+- agricultural extension --[is_a]--> Extension Approaches and Methods (taxonomy)
+- agricultural extension --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- national adaptation plans --[uses]--> Alliance of Bioversity International and CIAT (extracted)
+- national adaptation plans --[is_a]--> Adaptation Planning and Implementation (taxonomy)
+- national adaptation plans --[is_a]--> Core Policy Instruments (taxonomy)
+- national adaptation plans --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- national adaptation plans --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- financial literacy training --[targets]--> smallholder farmer (extracted)
+- financial literacy training --[targets]--> smallholder farmers (inferred)
+- financial literacy training --[is_a]--> Agribusiness Training and Capacity (taxonomy)
+- financial literacy training --[is_a]--> Cash and Financial Transfers (taxonomy)
+- financial literacy training --[is_a]--> Curriculum and Skills Development (taxonomy)
+- financial literacy training --[is_a]--> Training and Capacity Development (taxonomy)
+- financial literacy training --[is_a]--> Training Modalities (taxonomy)
+- livestock value chains --[produces]--> greenhouse gas emissions (extracted)
+- livestock value chains --[is_a]--> Livestock Value Chains and Services (taxonomy)
+- livestock value chains --[is_a]--> Value Chain Development (taxonomy)
+- livestock value chains --[is_a]--> Core Value Chain Concepts (taxonomy)
+- bundled cis and csa --[is_a]--> Climate-Smart Agriculture (taxonomy)
+- bundled cis and csa --[is_a]--> Climate-Smart Agriculture Approaches (taxonomy)
+- bundled cis and csa --[is_a]--> Agroclimatic Advisory Services (taxonomy)
+- bundled cis and csa --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- bundled cis and csa --[is_a]--> Innovation Bundling and Packages (taxonomy)
+- digital advisory platforms --[is_a]--> Agricultural Extension and Advisory Services (taxonomy)
+- digital advisory platforms --[is_a]--> Core Digital Advisory Services (taxonomy)
+- digital advisory platforms --[is_a]--> Digital Advisory and Extension Platforms (taxonomy)
+- digital advisory platforms --[is_a]--> Digital Advisory and Extension Services (taxonomy)
+- digital advisory platforms --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- digital advisory platforms --[is_a]--> Digital Advisory and Extension (taxonomy)
+- smart valleys approach --[addresses]--> drought (extracted)
+- smart valleys approach --[is_a]--> Precision and Digital Crop Management (taxonomy)
+- smart valleys approach --[is_a]--> Irrigation and Water Infrastructure (taxonomy)
+- smart valleys approach --[is_a]--> Digital Farming Tools and Systems (taxonomy)
+- smart valleys approach --[is_a]--> Scaling and Innovation Miscellaneous (taxonomy)
+- early generation seed production --[produces]--> climate-resilient varieties (inferred)
+- early generation seed production --[is_a]--> Seed Production (taxonomy)
+- early generation seed production --[is_a]--> Seed Systems Development (taxonomy)
+- multi-environment testing --[part_of]--> breeding pipeline (inferred)
+- multi-environment testing --[is_a]--> Multi-Environment and Multi-Location Testing (taxonomy)
+- multi-environment testing --[is_a]--> Seed Systems Development (taxonomy)
+- multi-environment testing --[is_a]--> Field and On-Farm Trials (taxonomy)
+- mechanized direct seeding --[targets]--> rice (extracted)
+- mechanized direct seeding --[addresses]--> greenhouse gas emissions (extracted)
+- mechanized direct seeding --[uses]--> fertilizer deep placement (extracted)
+- mechanized direct seeding --[is_a]--> Cropping Systems (taxonomy)
+- mechanized direct seeding --[is_a]--> Mechanization Technologies (taxonomy)
+- social behavior change communication --[targets]--> smallholder farmers (extracted)
+- social behavior change communication --[located_in]--> Son La province (extracted)
+- social behavior change communication --[is_a]--> Dietary Behavior and Interventions (taxonomy)
+- social behavior change communication --[is_a]--> Behavior Change Approaches (taxonomy)
+- social behavior change communication --[is_a]--> Behavior Change Communication (taxonomy)
+- social behavior change communication --[is_a]--> Social Assessment Methods (taxonomy)
+- herd health management --[is_a]--> Herd Health Management (taxonomy)
+- forage improvement --[is_a]--> Specific Breeding Targets (taxonomy)
+- forage improvement --[is_a]--> Feed and Forage Management (taxonomy)
+- disease resistance screening --[uses]--> okra (extracted)
+- disease resistance screening --[is_a]--> Stress Tolerance Screening (taxonomy)
+- disease resistance screening --[is_a]--> Disease Management (taxonomy)
+- disease resistance screening --[is_a]--> Crop Genetic Improvement (taxonomy)
+- disease resistance screening --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- business incubation --[uses]--> agroecological practices (extracted)
+- business incubation --[targets]--> agripreneurs (extracted)
+- business incubation --[targets]--> youth entrepreneur (extracted)
+- business incubation --[is_a]--> Business Models and Development (taxonomy)
+- business incubation --[is_a]--> Business Development and Incubation (taxonomy)
+- business incubation --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- business incubation --[is_a]--> Blended Finance and Investment (taxonomy)
+- prime editing --[targets]--> potato virus Y (extracted)
+- prime editing --[targets]--> TaSTP13 (extracted)
+- prime editing --[targets]--> rice blast (extracted)
+- prime editing --[uses]--> Faro66 (extracted)
+- prime editing --[is_a]--> Genome Editing and Engineering (taxonomy)
+- prime editing --[is_a]--> Crop Genetic Improvement (taxonomy)
+- quantitative trait locus mapping --[produces]--> grain zinc enhancement (extracted)
+- quantitative trait locus mapping --[targets]--> wheat blast (extracted)
+- quantitative trait locus mapping --[targets]--> Tilapia Lake Virus (extracted)
+- quantitative trait locus mapping --[targets]--> rice (extracted)
+- quantitative trait locus mapping --[is_a]--> Marker-Assisted Selection and QTL (taxonomy)
+- quantitative trait locus mapping --[is_a]--> Crop Genetic Improvement (taxonomy)
+- quantitative trait locus mapping --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- extension training --[is_a]--> Core Capacity Building (taxonomy)
+- extension training --[is_a]--> Training and Capacity Development (taxonomy)
+- extension training --[is_a]--> Training Modalities (taxonomy)
+- soil health management --[part_of]--> climate-smart agriculture (inferred)
+- soil health management --[is_a]--> Soil Health and Fertility Management (taxonomy)
+- soil health management --[is_a]--> Soil Health and Management (taxonomy)
+- sustainable livestock practices --[located_in]--> Olancho (extracted)
+- sustainable livestock practices --[located_in]--> Vietnam (extracted)
+- sustainable livestock practices --[located_in]--> Honduras (extracted)
+- sustainable livestock practices --[is_a]--> Livestock Production and Management (taxonomy)
+- sustainable livestock practices --[is_a]--> Sustainable Intensification and Diversification (taxonomy)
+- seed certification --[produces]--> certified seeds (extracted)
+- seed certification --[addresses]--> quality control (inferred)
+- seed certification --[is_a]--> Seed Quality and Certification (taxonomy)
+- seed certification --[is_a]--> Seed Systems Development (taxonomy)
+- seed certification --[is_a]--> Seed and Variety Regulation (taxonomy)
+- food environment analysis --[located_in]--> Tanzania (extracted)
+- food environment analysis --[located_in]--> Colombia (extracted)
+- food environment analysis --[is_a]--> Food Environment Assessment (taxonomy)
+- food environment analysis --[is_a]--> Statistical and Quantitative Methods (taxonomy)
+- policy assessment --[located_in]--> Vietnam (extracted)
+- policy assessment --[is_a]--> Policy and Enabling Environment (taxonomy)
+- policy assessment --[is_a]--> Policy Dialogue and Advocacy (taxonomy)
+- policy assessment --[is_a]--> Core Policy Instruments (taxonomy)
+- policy assessment --[is_a]--> Statistical and Quantitative Methods (taxonomy)
+- policy assessment --[is_a]--> Integrated and Adaptive Management (taxonomy)
+- gender empowerment --[is_a]--> Youth and Women's Economic Empowerment (taxonomy)
+- gender empowerment --[is_a]--> Gender Mainstreaming and Programming (taxonomy)
+- gender empowerment --[is_a]--> Women's Empowerment and Leadership (taxonomy)
+- gender empowerment --[is_a]--> Gender Dynamics and Analysis (taxonomy)
+- resilience --[is_a]--> Livelihoods and Wellbeing (taxonomy)
+- resilience --[is_a]--> Resilience Frameworks (taxonomy)
+- gender integration --[is_a]--> Gender Mainstreaming and Programming (taxonomy)
+- gender integration --[is_a]--> Gender Inclusion and Equity (taxonomy)
+- gender integration --[is_a]--> Gender Transformative Approaches (taxonomy)
+- community conversations --[addresses]--> antimicrobial resistance (extracted)
+- community conversations --[located_in]--> Ethiopia (extracted)
+- community conversations --[targets]--> pastoralist communities (extracted)
+- community conversations --[addresses]--> one health (extracted)
+- community conversations --[is_a]--> Specific Food System Interventions (taxonomy)
+- community conversations --[is_a]--> Community Engagement Methods (taxonomy)
+- community conversations --[is_a]--> Behavior Change Communication (taxonomy)
+- community conversations --[is_a]--> Qualitative and Social Research Techniques (taxonomy)
+- community conversations --[is_a]--> Training Modalities (taxonomy)
+- community-based seed production --[targets]--> chickpea (extracted)
+- community-based seed production --[produces]--> biofortified crops (extracted)
+- community-based seed production --[is_a]--> Seed Production (taxonomy)
+- community-based seed production --[is_a]--> Seed Systems Development (taxonomy)
+- participatory varietal selection --[targets]--> smallholder farmer (extracted)
+- participatory varietal selection --[is_a]--> Participatory and Farmer-Centered Breeding (taxonomy)
+- participatory varietal selection --[is_a]--> Seed Systems Development (taxonomy)
+- participatory varietal selection --[is_a]--> Participatory Breeding and Variety Selection (taxonomy)
+- high-throughput phenotyping --[uses]--> UAV (extracted)
+- high-throughput phenotyping --[uses]--> computer vision phenotyping (extracted)
+- high-throughput phenotyping --[is_a]--> Phenotyping Methods and Technologies (taxonomy)
+- high-throughput phenotyping --[is_a]--> Crop Genetic Improvement (taxonomy)
+- high-throughput phenotyping --[is_a]--> Digital Farming Tools and Systems (taxonomy)
+- high-throughput phenotyping --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- multi-environment trials --[is_a]--> Multi-Environment and Multi-Location Testing (taxonomy)
+- multi-environment trials --[is_a]--> Seed Systems Development (taxonomy)
+- multi-environment trials --[is_a]--> Field and On-Farm Trials (taxonomy)
+- breeding program assessment --[uses]--> market-responsive breeding (inferred)
+- breeding program assessment --[is_a]--> Breeding Program Design and Management (taxonomy)
+- breeding program assessment --[is_a]--> Crop Genetic Improvement (taxonomy)
+- breeding program assessment --[is_a]--> Monitoring and Evaluation Frameworks (taxonomy)
+- virtual training --[addresses]--> capacity building (extracted)
+- virtual training --[is_a]--> E-Learning and Virtual Training (taxonomy)
+- virtual training --[is_a]--> Virtual and Digital Learning (taxonomy)
+- virtual training --[is_a]--> Training and Capacity Development (taxonomy)
+- virtual training --[is_a]--> Training Modalities (taxonomy)
+- theory of change --[part_of]--> multifunctional landscapes (extracted)
+- theory of change --[is_a]--> Institutional Learning and Adaptive Management (taxonomy)
+- theory of change --[is_a]--> Foresight and Strategic Planning (taxonomy)
+- theory of change --[is_a]--> Impact Evaluation and Assessment (taxonomy)
+- theory of change --[is_a]--> Monitoring and Evaluation Frameworks (taxonomy)
+- theory of change --[is_a]--> Integrated and Adaptive Management (taxonomy)
+- variety licensing --[addresses]--> commercialization (extracted)
+- variety licensing --[is_a]--> Variety Registration and Licensing (taxonomy)
+- variety licensing --[is_a]--> Seed Systems Development (taxonomy)
+- variety licensing --[is_a]--> Seed and Variety Regulation (taxonomy)
+- humanitarian-development-peace nexus --[is_a]--> Food Security in Fragile Contexts (taxonomy)
+- humanitarian-development-peace nexus --[is_a]--> Humanitarian Response (taxonomy)
+- humanitarian-development-peace nexus --[is_a]--> Conflict-Sensitive Governance (taxonomy)
+- humanitarian-development-peace nexus --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- humanitarian-development-peace nexus --[is_a]--> Fragile and Conflict-Affected Settings (taxonomy)
+- climate-displacement nexus --[located_in]--> Honduras (extracted)
+- climate-displacement nexus --[is_a]--> Climate-Conflict and Displacement Nexus (taxonomy)
+- climate-displacement nexus --[is_a]--> Displacement and Migration (taxonomy)
+- climate-displacement nexus --[is_a]--> Disaster Risk and Humanitarian Governance (taxonomy)
+- climate-displacement nexus --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- integrated soil fertility management --[located_in]--> Ethiopia (extracted)
+- integrated soil fertility management --[located_in]--> Nigeria (extracted)
+- integrated soil fertility management --[targets]--> smallholder farmers (extracted)
+- integrated soil fertility management --[located_in]--> Niger (extracted)
+- integrated soil fertility management --[addresses]--> greenhouse gas emissions (inferred)
+- integrated soil fertility management --[is_a]--> Soil Health and Fertility Management (taxonomy)
+- integrated soil fertility management --[is_a]--> Soil Health and Management (taxonomy)
+- agricultural mechanization --[located_in]--> Bangladesh (extracted)
+- agricultural mechanization --[located_in]--> Ghana (extracted)
+- agricultural mechanization --[is_a]--> Agricultural Mechanization (taxonomy)
+- agricultural mechanization --[is_a]--> Mechanization Technologies (taxonomy)
+- mechanized direct-seeded rice --[is_a]--> climate-smart agriculture (extracted)
+- mechanized direct-seeded rice --[is_a]--> Cropping Systems (taxonomy)
+- mechanized direct-seeded rice --[is_a]--> Mechanization Technologies (taxonomy)
+- socio-technical innovation bundles --[addresses]--> climate risks (extracted)
+- socio-technical innovation bundles --[part_of]--> whole-farm innovation bundles (extracted)
+- socio-technical innovation bundles --[is_a]--> Precision and Digital Crop Management (taxonomy)
+- socio-technical innovation bundles --[is_a]--> Smallholder Farming Systems (taxonomy)
+- socio-technical innovation bundles --[is_a]--> Technology Adoption and Diffusion (taxonomy)
+- socio-technical innovation bundles --[is_a]--> Innovation Assessment and Bundling (taxonomy)
+- socio-technical innovation bundles --[is_a]--> Innovation Bundling and Packages (taxonomy)
+- soil health --[part_of]--> climate resilience (extracted)
+- soil health --[is_a]--> Soil Health and Fertility Management (taxonomy)
+- soil health --[is_a]--> Soil Health and Management (taxonomy)
+- multi-stakeholder partnership --[produces]--> evidence-based policy (extracted)
+- multi-stakeholder partnership --[is_a]--> Multi-Stakeholder Engagement (taxonomy)
+- multi-stakeholder partnership --[is_a]--> Innovation Platforms and Networks (taxonomy)
+- multi-stakeholder partnership --[is_a]--> Multi-Stakeholder Platforms and Partnerships (taxonomy)
+- multi-stakeholder partnership --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- mixed farming systems --[part_of]--> Bangladesh (extracted)
+- mixed farming systems --[is_a]--> Livestock Production and Management (taxonomy)
+- forage-based feeding --[targets]--> smallholder farmers (extracted)
+- forage-based feeding --[is_a]--> Feed and Forage Management (taxonomy)
+- intercropping systems --[produces]--> food security (inferred)
+- intercropping systems --[uses]--> maize (extracted)
+- intercropping systems --[uses]--> cowpea (extracted)
+- intercropping systems --[uses]--> lablab (extracted)
+- intercropping systems --[is_a]--> Cropping Systems (taxonomy)
+- intercropping systems --[is_a]--> Sustainable Intensification and Diversification (taxonomy)
+- knowledge exchange --[collaborates_with]--> Australia (extracted)
+- knowledge exchange --[is_a]--> Knowledge Exchange and Sharing (taxonomy)
+- knowledge exchange --[is_a]--> Knowledge Exchange and Policy Learning (taxonomy)
+- knowledge exchange --[is_a]--> Knowledge Exchange and Dissemination (taxonomy)
+- knowledge exchange --[is_a]--> South-South and Knowledge Exchange (taxonomy)
+- climate-induced displacement --[is_a]--> Climate-Conflict and Displacement Nexus (taxonomy)
+- climate-induced displacement --[is_a]--> Displacement and Migration (taxonomy)
+- climate-induced displacement --[is_a]--> Disaster Risk and Humanitarian Governance (taxonomy)
+- climate-induced displacement --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- satellite-based crop monitoring --[produces]--> planting date estimation (extracted)
+- satellite-based crop monitoring --[targets]--> rice (extracted)
+- satellite-based crop monitoring --[is_a]--> Precision and Digital Crop Management (taxonomy)
+- satellite-based crop monitoring --[is_a]--> Satellite-Based Monitoring (taxonomy)
+- satellite-based crop monitoring --[is_a]--> Remote Sensing and Digital Monitoring (taxonomy)
+- advocacy training --[targets]--> women's political participation (extracted)
+- advocacy training --[is_a]--> Curriculum and Skills Development (taxonomy)
+- advocacy training --[is_a]--> Knowledge Exchange and Policy Learning (taxonomy)
+- advocacy training --[is_a]--> Training and Capacity Development (taxonomy)
+- advocacy training --[is_a]--> Training Modalities (taxonomy)
+- women's political participation --[is_a]--> Youth and Women's Economic Empowerment (taxonomy)
+- women's political participation --[is_a]--> Women's Empowerment (taxonomy)
+- women's political participation --[is_a]--> Women's Empowerment and Leadership (taxonomy)
+- women's political participation --[is_a]--> Gender-Responsive Policy and Governance (taxonomy)
+- market systems analysis --[targets]--> Son La Province (extracted)
+- market systems analysis --[uses]--> causal loop diagrams (extracted)
+- market systems analysis --[is_a]--> Value Chain Development (taxonomy)
+- market systems analysis --[is_a]--> Market Analysis and Assessment (taxonomy)
+- market systems analysis --[is_a]--> Statistical and Quantitative Methods (taxonomy)
+- integrated crop management --[is_a]--> Cropping Systems (taxonomy)
+- integrated crop management --[is_a]--> Sustainable Intensification and Diversification (taxonomy)
+- home-grown school feeding --[uses]--> gender-responsive programming (extracted)
+- home-grown school feeding --[uses]--> biofortified crops (extracted)
+- home-grown school feeding --[is_a]--> Food Market Systems (taxonomy)
+- home-grown school feeding --[is_a]--> Specific Food System Interventions (taxonomy)
+- home-grown school feeding --[is_a]--> Social Protection and Safety Nets (taxonomy)
+- home-grown school feeding --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- climate forecasting --[supports]--> agricultural planning (inferred)
+- climate forecasting --[targets]--> livestock nutrition management (extracted)
+- climate forecasting --[is_a]--> Climate Forecasting and Early Warning (taxonomy)
+- climate forecasting --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- inclusive scaling --[targets]--> women farmers (extracted)
+- inclusive scaling --[targets]--> youth (extracted)
+- inclusive scaling --[addresses]--> gender-responsive approaches (extracted)
+- inclusive scaling --[is_a]--> Technology Adoption and Diffusion (taxonomy)
+- inclusive scaling --[is_a]--> Scaling Approaches (taxonomy)
+- inclusive scaling --[is_a]--> Social Inclusion Frameworks (taxonomy)
+- inclusive scaling --[is_a]--> Scaling Strategies and Frameworks (taxonomy)
+- inclusive scaling --[is_a]--> Scaling Frameworks and Approaches (taxonomy)
+- inclusive scaling --[is_a]--> Scaling Frameworks and Strategies (taxonomy)
+- morphological characterization --[uses]--> Phureja (extracted)
+- morphological characterization --[uses]--> potato (extracted)
+- morphological characterization --[is_a]--> Trait Characterization and Analysis (taxonomy)
+- morphological characterization --[is_a]--> Crop Genetic Improvement (taxonomy)
+- morphological characterization --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- disease management --[is_a]--> Disease Management (taxonomy)
+- disease eradication --[addresses]--> Banana Bunchy Top Virus (extracted)
+- disease eradication --[is_a]--> Herd Health Management (taxonomy)
+- disease surveillance --[is_a]--> Disease Management (taxonomy)
+- disease surveillance --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- disease surveillance --[is_a]--> Zoonotic Disease Surveillance and Management (taxonomy)
+- tropical forage breeding --[uses]--> Urochloa humidicola (extracted)
+- tropical forage breeding --[located_in]--> Brazil (extracted)
+- tropical forage breeding --[is_a]--> Specific Breeding Targets (taxonomy)
+- tropical forage breeding --[is_a]--> Feed and Forage Management (taxonomy)
+- tropical forage breeding --[is_a]--> Crop Genetic Improvement (taxonomy)
+- transformational adaptation --[located_in]--> Sub-Saharan Africa (extracted)
+- transformational adaptation --[is_a]--> Adaptation Planning and Implementation (taxonomy)
+- transformational adaptation --[is_a]--> Climate Action Governance (taxonomy)
+- transformational adaptation --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- transformational adaptation --[is_a]--> Vulnerability Assessment (taxonomy)
+- digital agro-advisory services --[is_a]--> Agricultural Extension and Advisory Services (taxonomy)
+- digital agro-advisory services --[is_a]--> Core Digital Advisory Services (taxonomy)
+- digital agro-advisory services --[is_a]--> Digital Advisory and Extension Platforms (taxonomy)
+- digital agro-advisory services --[is_a]--> Digital Advisory and Extension Services (taxonomy)
+- digital agro-advisory services --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- digital agro-advisory services --[is_a]--> Digital Advisory and Extension (taxonomy)
+- climate risk profiling --[is_a]--> Climate Risk Assessment and Vulnerability (taxonomy)
+- climate risk profiling --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- community seed banks --[located_in]--> Kisumu (extracted)
+- community seed banks --[located_in]--> Vihiga (extracted)
+- community seed banks --[located_in]--> Western Kenya (extracted)
+- community seed banks --[produces]--> agrobiodiversity conservation (extracted)
+- community seed banks --[addresses]--> food security (inferred)
+- community seed banks --[is_a]--> Germplasm Conservation and Management (taxonomy)
+- community seed banks --[is_a]--> Seed Systems Development (taxonomy)
+- community seed banks --[is_a]--> Biodiversity Conservation (taxonomy)
+- locally led adaptation --[targets]--> smallholder farmer (extracted)
+- locally led adaptation --[uses]--> traditional knowledge systems (inferred)
+- locally led adaptation --[is_a]--> Locally Led and Community-Based Adaptation (taxonomy)
+- locally led adaptation --[is_a]--> Scaling and Innovation Miscellaneous (taxonomy)
+- locally led adaptation --[is_a]--> Climate Action Governance (taxonomy)
+- locally led adaptation --[is_a]--> Locally Led Approaches (taxonomy)
+- climate finance mechanisms --[addresses]--> emissions monitoring (extracted)
+- climate finance mechanisms --[is_a]--> Climate Finance (taxonomy)
+- climate finance mechanisms --[is_a]--> Investment and Finance Mechanisms (taxonomy)
+- climate finance mechanisms --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- emissions monitoring --[is_a]--> Carbon and Greenhouse Gas Management in Farming (taxonomy)
+- emissions monitoring --[is_a]--> Greenhouse Gas Measurement and Monitoring (taxonomy)
+- emissions monitoring --[is_a]--> Monitoring Reporting and Verification (taxonomy)
+- emissions monitoring --[is_a]--> Greenhouse Gas Measurement and Reporting (taxonomy)
+- emissions monitoring --[is_a]--> MRV Frameworks (taxonomy)
+- large language models --[uses]--> remote sensing (extracted)
+- large language models --[addresses]--> agricultural knowledge management (inferred)
+- large language models --[is_a]--> Natural Language Processing (taxonomy)
+- large language models --[is_a]--> Core AI and ML Approaches (taxonomy)
+- large language models --[is_a]--> Artificial Intelligence and Machine Learning (taxonomy)
+- impact evaluation --[located_in]--> Yemen (extracted)
+- impact evaluation --[uses]--> IFPRI (extracted)
+- impact evaluation --[is_a]--> Institutional Learning and Adaptive Management (taxonomy)
+- impact evaluation --[is_a]--> Impact Evaluation and Assessment (taxonomy)
+- impact evaluation --[is_a]--> Monitoring and Evaluation Frameworks (taxonomy)
+- impact evaluation --[is_a]--> Integrated and Adaptive Management (taxonomy)
+- sustainable food systems --[addresses]--> climate change (extracted)
+- sustainable food systems --[is_a]--> Sustainable Intensification and Diversification (taxonomy)
+- sustainable food systems --[is_a]--> Food System Frameworks and Approaches (taxonomy)
+- sustainable food systems --[is_a]--> Food Systems Transformation (taxonomy)
+- co-creation --[is_a]--> Participatory and Farmer-Centered Approaches (taxonomy)
+- co-creation --[is_a]--> Co-Design and Co-Production (taxonomy)
+- co-creation --[is_a]--> Co-Design and Co-Creation Methods (taxonomy)
+- co-creation --[is_a]--> Stakeholder Engagement Methods (taxonomy)
+- integrated production bundle --[targets]--> barley (extracted)
+- integrated production bundle --[located_in]--> Uzbekistan (extracted)
+- integrated production bundle --[is_a]--> Cropping Systems (taxonomy)
+- integrated production bundle --[is_a]--> Smallholder Farming Systems (taxonomy)
+- integrated production bundle --[is_a]--> Technology Adoption and Diffusion (taxonomy)
+- integrated production bundle --[is_a]--> Innovation Assessment and Bundling (taxonomy)
+- integrated production bundle --[is_a]--> Innovation Bundling and Packages (taxonomy)
+- agroecological stewardship --[targets]--> teachers (extracted)
+- agroecological stewardship --[is_a]--> Core Agroecological Approaches (taxonomy)
+- agroecological stewardship --[is_a]--> Agroecological Approaches to Adaptation (taxonomy)
+- agroecological stewardship --[is_a]--> Transformative Change (taxonomy)
+- scaling --[uses]--> demand signalling (extracted)
+- scaling --[is_a]--> Scaling Approaches (taxonomy)
+- scaling --[is_a]--> Scaling Strategies and Frameworks (taxonomy)
+- scaling --[is_a]--> Scaling Frameworks and Approaches (taxonomy)
+- scaling --[is_a]--> Scaling Frameworks and Strategies (taxonomy)
+- capacity building training --[targets]--> smallholder farmer (extracted)
+- capacity building training --[is_a]--> Core Capacity Building (taxonomy)
+- capacity building training --[is_a]--> Capacity Building Programs (taxonomy)
+- capacity building training --[is_a]--> Training and Capacity Development (taxonomy)
+- capacity building training --[is_a]--> Capacity Building Approaches (taxonomy)
+- adaptive management --[uses]--> CGIAR (extracted)
+- adaptive management --[is_a]--> Institutional Learning and Adaptive Management (taxonomy)
+- adaptive management --[is_a]--> Foresight and Strategic Planning (taxonomy)
+- adaptive management --[is_a]--> Monitoring and Evaluation Frameworks (taxonomy)
+- adaptive management --[is_a]--> Integrated and Adaptive Management (taxonomy)
+- integrated rice-field pond systems --[targets]--> smallholder farmers (extracted)
+- integrated rice-field pond systems --[located_in]--> Cambodia (extracted)
+- integrated rice-field pond systems --[is_a]--> Integrated Rice-Fish and Aquatic Farming (taxonomy)
+- emission factors --[uses]--> IPCC (extracted)
+- emission factors --[is_a]--> Carbon and Greenhouse Gas Management in Farming (taxonomy)
+- emission factors --[is_a]--> Greenhouse Gas Measurement and Monitoring (taxonomy)
+- emission factors --[is_a]--> Greenhouse Gas Measurement and Reporting (taxonomy)
+- biogas production --[addresses]--> greenhouse gas emissions (inferred)
+- biogas production --[addresses]--> circular economy (inferred)
+- biogas production --[is_a]--> Livestock Methane and Emissions (taxonomy)
+- biogas production --[is_a]--> Biogas and Circular Bioeconomy (taxonomy)
+- biogas production --[is_a]--> Biogas and Bioenergy (taxonomy)
+- decision-support tools --[uses]--> regenerative agriculture (extracted)
+- decision-support tools --[is_a]--> Precision and Digital Crop Management (taxonomy)
+- decision-support tools --[is_a]--> Decision Support Systems (taxonomy)
+- decision-support tools --[is_a]--> Knowledge Platforms and Systems (taxonomy)
+- decision-support tools --[is_a]--> Digital Tools and Decision Support (taxonomy)
+- computer vision --[is_a]--> Computer Vision and Image Processing (taxonomy)
+- computer vision --[is_a]--> Core AI and ML Approaches (taxonomy)
+- computer vision --[is_a]--> Artificial Intelligence and Machine Learning (taxonomy)
+- carbon accounting --[is_a]--> Carbon and Greenhouse Gas Management in Farming (taxonomy)
+- carbon accounting --[is_a]--> Carbon Sequestration and Carbon Markets (taxonomy)
+- carbon accounting --[is_a]--> Monitoring Reporting and Verification (taxonomy)
+- carbon accounting --[is_a]--> Greenhouse Gas Measurement and Reporting (taxonomy)
+- evidence gap mapping --[is_a]--> Data-Driven Agriculture (taxonomy)
+- evidence gap mapping --[is_a]--> Institutional Learning and Adaptive Management (taxonomy)
+- evidence gap mapping --[is_a]--> Evidence-Based Policy Processes (taxonomy)
+- evidence gap mapping --[is_a]--> Systematic Reviews and Evidence Synthesis (taxonomy)
+- producer-led scaling --[uses]--> pioneer positive deviance (extracted)
+- producer-led scaling --[is_a]--> Technology Adoption and Diffusion (taxonomy)
+- producer-led scaling --[is_a]--> Scaling Approaches (taxonomy)
+- producer-led scaling --[is_a]--> Scaling Strategies and Frameworks (taxonomy)
+- producer-led scaling --[is_a]--> Scaling Frameworks and Approaches (taxonomy)
+- producer-led scaling --[is_a]--> Locally Led Approaches (taxonomy)
+- genome-wide association mapping --[targets]--> finger millet (extracted)
+- genome-wide association mapping --[uses]--> molecular marker analysis (extracted)
+- genome-wide association mapping --[is_a]--> Genomic Selection and Prediction (taxonomy)
+- genome-wide association mapping --[is_a]--> Crop Genetic Improvement (taxonomy)
+- genome-wide association mapping --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- locally led climate action --[targets]--> smallholder farmers (inferred)
+- locally led climate action --[is_a]--> Locally Led and Community-Based Adaptation (taxonomy)
+- locally led climate action --[is_a]--> Scaling and Innovation Miscellaneous (taxonomy)
+- locally led climate action --[is_a]--> Climate Action Governance (taxonomy)
+- locally led climate action --[is_a]--> Locally Led Approaches (taxonomy)
+- institutional coordination --[addresses]--> implementation gaps (extracted)
+- institutional coordination --[is_a]--> Multi-Stakeholder Engagement (taxonomy)
+- institutional coordination --[is_a]--> Innovation Platforms and Networks (taxonomy)
+- institutional coordination --[is_a]--> Institutional Coordination Mechanisms (taxonomy)
+- institutional coordination --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- institutional coordination --[is_a]--> Integrated and Adaptive Management (taxonomy)
+- organic certification --[is_a]--> Organic and Circular Farming (taxonomy)
+- organic certification --[is_a]--> Food Processing and Value Addition (taxonomy)
+- organic certification --[is_a]--> Geographical Indications and Certification (taxonomy)
+- organic certification --[is_a]--> Seed and Variety Regulation (taxonomy)
+- organic certification --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- bioinput preparation --[produces]--> supermagro (extracted)
+- bioinput preparation --[produces]--> sulfocalcic solution (extracted)
+- bioinput preparation --[is_a]--> Organic and Circular Farming (taxonomy)
+- private sector investment --[is_a]--> Private Sector and Partnerships (taxonomy)
+- private sector investment --[is_a]--> Networking and Collaboration (taxonomy)
+- private sector investment --[is_a]--> Partnership Models (taxonomy)
+- private sector investment --[is_a]--> Multi-Stakeholder Platforms and Partnerships (taxonomy)
+- land degradation --[is_a]--> Landscape and Land Management (taxonomy)
+- land degradation --[is_a]--> Sustainable Land Management (taxonomy)
+- land degradation --[is_a]--> Planetary and Environmental Sustainability (taxonomy)
+- climate-smart village approach --[located_in]--> West Africa (extracted)
+- climate-smart village approach --[uses]--> INSAH/CILSS (extracted)
+- climate-smart village approach --[is_a]--> Climate-Smart Agriculture (taxonomy)
+- climate-smart village approach --[is_a]--> Climate-Smart Agriculture Approaches (taxonomy)
+- climate-smart village approach --[is_a]--> Scaling and Innovation Miscellaneous (taxonomy)
+- gender-inclusive approaches --[targets]--> Women Farmers Association of Kenya (extracted)
+- gender-inclusive approaches --[is_a]--> Gender Mainstreaming and Programming (taxonomy)
+- gender-inclusive approaches --[is_a]--> Gender Inclusion and Equity (taxonomy)
+- gender-inclusive approaches --[is_a]--> Gender Transformative Approaches (taxonomy)
+- ai-driven agricultural extension --[is_a]--> Agricultural Extension and Advisory Services (taxonomy)
+- ai-driven agricultural extension --[is_a]--> Core Digital Advisory Services (taxonomy)
+- ai-driven agricultural extension --[is_a]--> Digital Advisory and Extension Services (taxonomy)
+- ai-driven agricultural extension --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- ai-driven agricultural extension --[is_a]--> Digital Advisory and Extension (taxonomy)
+- food systems resilience --[is_a]--> Climate Resilience Building (taxonomy)
+- food systems resilience --[is_a]--> Food System Frameworks and Approaches (taxonomy)
+- food systems resilience --[is_a]--> Food Systems Transformation (taxonomy)
+- micro small medium enterprises --[targets]--> food security (extracted)
+- micro small medium enterprises --[is_a]--> Private Sector and Partnerships (taxonomy)
+- micro small medium enterprises --[is_a]--> Business Development and Incubation (taxonomy)
+- forced displacement --[produces]--> mental health impacts (extracted)
+- forced displacement --[is_a]--> Food Security in Fragile Contexts (taxonomy)
+- forced displacement --[is_a]--> Displacement and Migration (taxonomy)
+- forced displacement --[is_a]--> Disaster Risk and Humanitarian Governance (taxonomy)
+- forced displacement --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- stakeholder consultation --[is_a]--> Multi-Stakeholder Engagement (taxonomy)
+- stakeholder consultation --[is_a]--> Participatory Governance and Rangeland Management (taxonomy)
+- stakeholder consultation --[is_a]--> Stakeholder Engagement and Consultation (taxonomy)
+- stakeholder consultation --[is_a]--> Qualitative and Social Research Techniques (taxonomy)
+- stakeholder consultation --[is_a]--> Stakeholder Engagement Methods (taxonomy)
+- mixed-methods approach --[uses]--> stakeholder consultation (extracted)
+- mixed-methods approach --[is_a]--> Transdisciplinary and Systems Research (taxonomy)
+- mixed-methods approach --[is_a]--> Mixed Methods and Interdisciplinary Approaches (taxonomy)
+- mixed-methods approach --[is_a]--> Mixed Methods and Qualitative Approaches (taxonomy)
+- heat stress analysis --[targets]--> smallholder farmer (inferred)
+- heat stress analysis --[is_a]--> Crop Genetic Improvement (taxonomy)
+- heat stress analysis --[is_a]--> Sensor and IoT Applications (taxonomy)
+- heat stress analysis --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- climate resilience assessment --[is_a]--> Climate Resilience Building (taxonomy)
+- climate resilience assessment --[is_a]--> Monitoring and Evaluation Frameworks (taxonomy)
+- climate resilience assessment --[is_a]--> Resilience Frameworks (taxonomy)
+- water resilience planning --[is_a]--> Agricultural Water Resources Management (taxonomy)
+- water resilience planning --[is_a]--> Climate Resilience Building (taxonomy)
+- doubled haploids --[part_of]--> advanced breeding techniques (extracted)
+- doubled haploids --[is_a]--> Advanced Breeding Techniques (taxonomy)
+- doubled haploids --[is_a]--> Crop Genetic Improvement (taxonomy)
+- community-based breeding programs --[targets]--> sheep (extracted)
+- community-based breeding programs --[targets]--> goats (extracted)
+- community-based breeding programs --[targets]--> small ruminants (extracted)
+- community-based breeding programs --[addresses]--> food security (inferred)
+- community-based breeding programs --[is_a]--> Participatory and Farmer-Centered Breeding (taxonomy)
+- community-based breeding programs --[is_a]--> Crop Genetic Improvement (taxonomy)
+- community-based breeding programs --[is_a]--> Participatory Breeding and Variety Selection (taxonomy)
+- data gap analysis --[uses]--> FishBase (extracted)
+- data gap analysis --[is_a]--> Data-Driven Agriculture (taxonomy)
+- data gap analysis --[is_a]--> Statistical and Quantitative Methods (taxonomy)
+- data gap analysis --[is_a]--> Systematic Reviews and Evidence Synthesis (taxonomy)
+- inclusive business models --[targets]--> fish farmers (extracted)
+- inclusive business models --[is_a]--> Smallholder and Community Farming (taxonomy)
+- inclusive business models --[is_a]--> Business Models and Development (taxonomy)
+- inclusive business models --[is_a]--> Social Inclusion Frameworks (taxonomy)
+- inclusive business models --[is_a]--> Business Development and Incubation (taxonomy)
+- inclusive business models --[is_a]--> Partnership Models (taxonomy)
+- inclusive business models --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- inclusive business models --[is_a]--> Blended Finance and Investment (taxonomy)
+- better management practices --[targets]--> GIFT (extracted)
+- better management practices --[located_in]--> Nigeria (extracted)
+- better management practices --[is_a]--> Smallholder and Community Farming (taxonomy)
+- interdisciplinary research --[is_a]--> Participatory and Farmer-Centered Approaches (taxonomy)
+- interdisciplinary research --[is_a]--> Transdisciplinary and Systems Research (taxonomy)
+- interdisciplinary research --[is_a]--> Mixed Methods and Interdisciplinary Approaches (taxonomy)
+- interdisciplinary research --[is_a]--> Systems and Transdisciplinary Research (taxonomy)
+- gender-sensitive interventions --[is_a]--> Gender Mainstreaming and Programming (taxonomy)
+- gender-sensitive interventions --[is_a]--> Gender Inclusion and Equity (taxonomy)
+- gender-sensitive interventions --[is_a]--> Gender-Responsive Programming (taxonomy)
+- enabling environment --[is_a]--> Policy and Enabling Environment (taxonomy)
+- enabling environment --[is_a]--> Networking and Collaboration (taxonomy)
+- enabling environment --[is_a]--> Institutional Coordination Mechanisms (taxonomy)
+- enabling environment --[is_a]--> Governance Frameworks (taxonomy)
+- deep learning detection --[uses]--> Tumaini app (extracted)
+- deep learning detection --[is_a]--> Core AI and ML Methods (taxonomy)
+- deep learning detection --[is_a]--> Core AI and ML Approaches (taxonomy)
+- deep learning detection --[is_a]--> Artificial Intelligence and Machine Learning (taxonomy)
+- crop growth modeling --[uses]--> DSSAT (extracted)
+- crop growth modeling --[is_a]--> Precision and Digital Crop Management (taxonomy)
+- crop growth modeling --[is_a]--> Crop and Agricultural Modeling (taxonomy)
+- crop growth modeling --[is_a]--> Systems and Simulation Modeling (taxonomy)
+- field-specific nutrient management --[produces]--> yield improvement (extracted)
+- field-specific nutrient management --[is_a]--> Soil Health and Fertility Management (taxonomy)
+- field-specific nutrient management --[is_a]--> Precision Farming Technologies (taxonomy)
+- genetic improvement --[targets]--> dairy cattle (extracted)
+- genetic improvement --[is_a]--> Breeding Program Design and Management (taxonomy)
+- genetic improvement --[is_a]--> Crop Genetic Improvement (taxonomy)
+- water-energy-food-environment nexus --[uses]--> science-policy interface (extracted)
+- water-energy-food-environment nexus --[is_a]--> Agricultural Water Resources Management (taxonomy)
+- water-energy-food-environment nexus --[is_a]--> Water Governance and Management (taxonomy)
+- water-energy-food-environment nexus --[is_a]--> Nexus Frameworks (taxonomy)
+- hydrological modeling --[addresses]--> water-energy-food-environment nexus (extracted)
+- hydrological modeling --[is_a]--> Agricultural Water Resources Management (taxonomy)
+- hydrological modeling --[is_a]--> Hydrological Modeling and Analysis (taxonomy)
+- hydrological modeling --[is_a]--> Crop and Agricultural Modeling (taxonomy)
+- hydrological modeling --[is_a]--> Systems and Simulation Modeling (taxonomy)
+- meta-analysis --[addresses]--> climate-smart agriculture (extracted)
+- meta-analysis --[uses]--> triadic comparisons of technology options (extracted)
+- meta-analysis --[uses]--> direct seeded rice (extracted)
+- meta-analysis --[is_a]--> Impact Evaluation and Assessment (taxonomy)
+- meta-analysis --[is_a]--> Statistical and Quantitative Methods (taxonomy)
+- meta-analysis --[is_a]--> Systematic Reviews and Evidence Synthesis (taxonomy)
+- double burden of malnutrition --[located_in]--> Egypt (extracted)
+- double burden of malnutrition --[is_a]--> Nutrition-Sensitive Approaches (taxonomy)
+- double burden of malnutrition --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- double burden of malnutrition --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- food security monitoring --[addresses]--> food system transformation (inferred)
+- food security monitoring --[is_a]--> Food Security Measurement and Monitoring (taxonomy)
+- food security monitoring --[is_a]--> Early Warning and Monitoring Systems (taxonomy)
+- food security monitoring --[is_a]--> Remote Sensing and Digital Monitoring (taxonomy)
+- food security monitoring --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- aquaculture development --[targets]--> tilapia (extracted)
+- aquaculture development --[located_in]--> North-East Region (extracted)
+- aquaculture development --[uses]--> earth observation (extracted)
+- aquaculture development --[located_in]--> Homa Bay County (extracted)
+- aquaculture development --[is_a]--> Aquaculture Systems (taxonomy)
+- ultra-poor graduation model --[uses]--> cash transfers (extracted)
+- ultra-poor graduation model --[is_a]--> Food Access and Social Protection (taxonomy)
+- ultra-poor graduation model --[is_a]--> Livelihood Approaches (taxonomy)
+- ultra-poor graduation model --[is_a]--> Social Protection Systems (taxonomy)
+- ultra-poor graduation model --[is_a]--> Social Protection and Safety Nets (taxonomy)
+- ultra-poor graduation model --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- ultra-poor graduation model --[is_a]--> Social Protection in Fragile Contexts (taxonomy)
+- vegetative propagation --[part_of]--> cassava (extracted)
+- vegetative propagation --[uses]--> carob (extracted)
+- vegetative propagation --[is_a]--> Vegetative Propagation and Tissue Culture (taxonomy)
+- vegetative propagation --[is_a]--> Crop Genetic Improvement (taxonomy)
+- rotational grazing --[uses]--> carrying capacity (extracted)
+- rotational grazing --[is_a]--> Pastoral and Rangeland Systems (taxonomy)
+- rotational grazing --[is_a]--> Landscape and Ecosystem Approaches (taxonomy)
+- transformative adaptation --[located_in]--> Morocco (extracted)
+- transformative adaptation --[addresses]--> food systems transformation (extracted)
+- transformative adaptation --[is_a]--> Adaptation Planning and Implementation (taxonomy)
+- transformative adaptation --[is_a]--> Climate Action Governance (taxonomy)
+- transformative adaptation --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- transformative adaptation --[is_a]--> Vulnerability Assessment (taxonomy)
+- drought monitoring --[located_in]--> Limpopo River Basin (extracted)
+- drought monitoring --[uses]--> MaliDMS (extracted)
+- drought monitoring --[is_a]--> Climate Forecasting and Early Warning (taxonomy)
+- drought monitoring --[is_a]--> Early Warning and Monitoring Systems (taxonomy)
+- drought monitoring --[is_a]--> Remote Sensing and Digital Monitoring (taxonomy)
+- carbon footprint assessment --[is_a]--> Carbon and Greenhouse Gas Management in Farming (taxonomy)
+- carbon footprint assessment --[is_a]--> Carbon Sequestration and Carbon Markets (taxonomy)
+- carbon footprint assessment --[is_a]--> Life Cycle and Environmental Assessment (taxonomy)
+- incentive mechanisms --[is_a]--> Uncategorized (taxonomy)
+- nexus approach --[addresses]--> food systems transformation (inferred)
+- nexus approach --[addresses]--> climate resilience (extracted)
+- nexus approach --[is_a]--> Landscape and Ecosystem Approaches (taxonomy)
+- nexus approach --[is_a]--> Mixed Methods and Interdisciplinary Approaches (taxonomy)
+- nexus approach --[is_a]--> Nexus Frameworks (taxonomy)
+- intimate partner violence --[is_a]--> Violence and Safety (taxonomy)
+- intimate partner violence --[is_a]--> Gender Dynamics and Analysis (taxonomy)
+- gender-sensitive agricultural interventions --[targets]--> smallholder farmers (extracted)
+- gender-sensitive agricultural interventions --[produces]--> resilience (extracted)
+- gender-sensitive agricultural interventions --[is_a]--> Gender Mainstreaming and Programming (taxonomy)
+- gender-sensitive agricultural interventions --[is_a]--> Gender Inclusion and Equity (taxonomy)
+- gender-sensitive agricultural interventions --[is_a]--> Gender-Responsive Programming (taxonomy)
+- coping strategies --[is_a]--> Livelihoods and Wellbeing (taxonomy)
+- coping strategies --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- coping strategies --[is_a]--> Vulnerability Assessment (taxonomy)
+- deforestation monitoring --[located_in]--> MERCOSUR (extracted)
+- deforestation monitoring --[is_a]--> Landscape and Land Management (taxonomy)
+- deforestation monitoring --[is_a]--> Sustainable Land Management (taxonomy)
+- deforestation monitoring --[is_a]--> Satellite-Based Monitoring (taxonomy)
+- deforestation monitoring --[is_a]--> Remote Sensing and Digital Monitoring (taxonomy)
+- trait preferences --[related_to]--> varietal adoption (extracted)
+- trait preferences --[targets]--> amaranth (extracted)
+- trait preferences --[targets]--> jute mallow (extracted)
+- trait preferences --[targets]--> okra (extracted)
+- trait preferences --[is_a]--> Trait Characterization and Analysis (taxonomy)
+- trait preferences --[is_a]--> Crop Genetic Improvement (taxonomy)
+- trait preferences --[is_a]--> Participatory Breeding and Variety Selection (taxonomy)
+- trait preferences --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- gender-responsive breeding --[related_to]--> gender transformative approaches (inferred)
+- gender-responsive breeding --[produces]--> varietal adoption (inferred)
+- gender-responsive breeding --[is_a]--> Participatory and Farmer-Centered Breeding (taxonomy)
+- gender-responsive breeding --[is_a]--> Crop Genetic Improvement (taxonomy)
+- gender-responsive breeding --[is_a]--> Gender Mainstreaming and Programming (taxonomy)
+- gender-responsive breeding --[is_a]--> Gender-Responsive Programming (taxonomy)
+- yield gap analysis --[uses]--> Random Forest (extracted)
+- yield gap analysis --[is_a]--> Genetic Gain and Performance Assessment (taxonomy)
+- yield gap analysis --[is_a]--> Precision and Digital Crop Management (taxonomy)
+- yield gap analysis --[is_a]--> Crop Genetic Improvement (taxonomy)
+- yield gap analysis --[is_a]--> Statistical and Quantitative Methods (taxonomy)
+- on-farm conservation --[located_in]--> Maharashtra (extracted)
+- on-farm conservation --[uses]--> systematic agrobiodiversity monitoring (extracted)
+- on-farm conservation --[is_a]--> Germplasm Conservation and Management (taxonomy)
+- on-farm conservation --[is_a]--> Nature-Based and Ecosystem Approaches (taxonomy)
+- on-farm conservation --[is_a]--> Crop Genetic Improvement (taxonomy)
+- on-farm conservation --[is_a]--> Biodiversity Conservation (taxonomy)
+- food diversity --[located_in]--> Nairobi (extracted)
+- food diversity --[is_a]--> Dietary Assessment and Quality (taxonomy)
+- aquaculture decision support tool --[is_a]--> Aquaculture Systems (taxonomy)
+- aquaculture decision support tool --[is_a]--> Decision Support Systems (taxonomy)
+- aquaculture decision support tool --[is_a]--> Digital Tools and Decision Support (taxonomy)
+- yield gap closure --[uses]--> good agricultural practices (extracted)
+- yield gap closure --[is_a]--> Genetic Gain and Performance Assessment (taxonomy)
+- yield gap closure --[is_a]--> Precision and Digital Crop Management (taxonomy)
+- yield gap closure --[is_a]--> Crop Genetic Improvement (taxonomy)
+- demand-driven breeding --[uses]--> participatory cultivar selection (extracted)
+- demand-driven breeding --[uses]--> market intelligence (inferred)
+- demand-driven breeding --[is_a]--> Participatory and Farmer-Centered Breeding (taxonomy)
+- demand-driven breeding --[is_a]--> Crop Genetic Improvement (taxonomy)
+- demand-driven breeding --[is_a]--> Participatory Breeding and Variety Selection (taxonomy)
+- farmer-led demonstration plots --[located_in]--> Uzbekistan (extracted)
+- farmer-led demonstration plots --[is_a]--> Precision and Digital Crop Management (taxonomy)
+- farmer-led demonstration plots --[is_a]--> Extension Approaches and Methods (taxonomy)
+- farmer-led demonstration plots --[is_a]--> Training and Capacity Development (taxonomy)
+- multi-omics integration --[produces]--> genomic selection (extracted)
+- multi-omics integration --[is_a]--> Multi-Omics and Bioinformatics (taxonomy)
+- multi-omics integration --[is_a]--> Crop Genetic Improvement (taxonomy)
+- multi-omics integration --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- root system architecture --[related_to]--> drought tolerance (extracted)
+- root system architecture --[is_a]--> Trait Characterization and Analysis (taxonomy)
+- root system architecture --[is_a]--> Crop Genetic Improvement (taxonomy)
+- biological nitrification inhibition --[addresses]--> nitrogen use efficiency (extracted)
+- biological nitrification inhibition --[is_a]--> Soil Health and Fertility Management (taxonomy)
+- biological nitrification inhibition --[is_a]--> Sustainable Intensification and Diversification (taxonomy)
+- molecular breeding --[is_a]--> Crossing and Selection Methods (taxonomy)
+- molecular breeding --[is_a]--> Crop Genetic Improvement (taxonomy)
+- product profile development --[addresses]--> market-responsive breeding (extracted)
+- product profile development --[is_a]--> Breeding Program Design and Management (taxonomy)
+- product profile development --[is_a]--> Crop Genetic Improvement (taxonomy)
+- product profile development --[is_a]--> Participatory Breeding and Variety Selection (taxonomy)
+- product profile development --[is_a]--> Innovation Assessment and Bundling (taxonomy)
+- variety testing --[targets]--> maize (extracted)
+- variety testing --[targets]--> soybean (extracted)
+- variety testing --[targets]--> wheat (extracted)
+- variety testing --[is_a]--> Multi-Environment and Multi-Location Testing (taxonomy)
+- variety testing --[is_a]--> Seed Systems Development (taxonomy)
+- variety release procedures --[is_a]--> Variety Registration and Licensing (taxonomy)
+- variety release procedures --[is_a]--> Seed Systems Development (taxonomy)
+- variety release procedures --[is_a]--> Seed and Variety Regulation (taxonomy)
+- early generation seed supply --[is_a]--> Seed Production (taxonomy)
+- early generation seed supply --[is_a]--> Seed Systems Development (taxonomy)
+- validation workshops --[addresses]--> climate-displacement nexus (extracted)
+- validation workshops --[located_in]--> Zimbabwe (extracted)
+- validation workshops --[located_in]--> Mozambique (extracted)
+- validation workshops --[is_a]--> Mentorship and Accompaniment (taxonomy)
+- validation workshops --[is_a]--> Qualitative and Social Research Techniques (taxonomy)
+- validation workshops --[is_a]--> Training Modalities (taxonomy)
+- human security --[located_in]--> Mekong Delta (extracted)
+- human security --[is_a]--> Conflict-Sensitive Programming (taxonomy)
+- human security --[is_a]--> Justice and Equity Frameworks (taxonomy)
+- human security --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- human security --[is_a]--> Fragile and Conflict-Affected Settings (taxonomy)
+- human security --[is_a]--> Livelihoods and Social Welfare (taxonomy)
+- women's leadership development --[targets]--> cassava (extracted)
+- women's leadership development --[is_a]--> Youth and Women's Economic Empowerment (taxonomy)
+- women's leadership development --[is_a]--> Women's Empowerment (taxonomy)
+- women's leadership development --[is_a]--> Women's Empowerment and Leadership (taxonomy)
+- positive deviance approach --[addresses]--> transformative adaptation (extracted)
+- positive deviance approach --[targets]--> smallholder farmers (extracted)
+- positive deviance approach --[is_a]--> Participatory and Farmer-Centered Approaches (taxonomy)
+- positive deviance approach --[is_a]--> Specific Food System Interventions (taxonomy)
+- positive deviance approach --[is_a]--> Social Norms (taxonomy)
+- positive deviance approach --[is_a]--> Citizen Science and Community-Based Research (taxonomy)
+- positive deviance approach --[is_a]--> Qualitative and Social Research Techniques (taxonomy)
+- positive deviance approach --[is_a]--> Citizen Science and Crowdsourcing (taxonomy)
+- nature-positive agriculture --[is_a]--> Core Agroecological Approaches (taxonomy)
+- nature-positive agriculture --[is_a]--> Agroecological Approaches to Adaptation (taxonomy)
+- nature-positive agriculture --[is_a]--> Sustainable Intensification and Diversification (taxonomy)
+- nature-positive agriculture --[is_a]--> Transformative Change (taxonomy)
+- nature-positive agriculture --[is_a]--> Planetary and Environmental Sustainability (taxonomy)
+- nitrogen management --[addresses]--> greenhouse gas emissions (extracted)
+- nitrogen management --[is_a]--> Soil Health and Fertility Management (taxonomy)
+- nitrogen management --[is_a]--> Sustainable Intensification and Diversification (taxonomy)
+- dietary diversity --[related_to]--> food environment (extracted)
+- dietary diversity --[is_a]--> Dietary Assessment and Quality (taxonomy)
+- stakeholder dialogue --[addresses]--> water-energy-food nexus (extracted)
+- stakeholder dialogue --[is_a]--> Multi-Stakeholder Engagement (taxonomy)
+- stakeholder dialogue --[is_a]--> Participatory Governance and Rangeland Management (taxonomy)
+- stakeholder dialogue --[is_a]--> Stakeholder Engagement and Consultation (taxonomy)
+- stakeholder dialogue --[is_a]--> Qualitative and Social Research Techniques (taxonomy)
+- stakeholder dialogue --[is_a]--> Stakeholder Engagement Methods (taxonomy)
+- gender-transformative intervention --[produces]--> empowerment (extracted)
+- gender-transformative intervention --[is_a]--> Gender-Transformative Approaches (taxonomy)
+- gender-transformative intervention --[is_a]--> Gender Transformative Approaches (taxonomy)
+- empowerment --[is_a]--> Youth and Women's Economic Empowerment (taxonomy)
+- empowerment --[is_a]--> Women's Empowerment (taxonomy)
+- empowerment --[is_a]--> Women's Empowerment and Leadership (taxonomy)
+- synthetic aperture radar --[part_of]--> soil moisture monitoring (extracted)
+- synthetic aperture radar --[is_a]--> Satellite and Remote Sensing Applications (taxonomy)
+- synthetic aperture radar --[is_a]--> Satellite-Based Monitoring (taxonomy)
+- synthetic aperture radar --[is_a]--> Remote Sensing and Digital Monitoring (taxonomy)
+- synthetic aperture radar --[is_a]--> Remote Sensing and Earth Observation (taxonomy)
+- food insecurity --[produces]--> violent conflict (extracted)
+- food insecurity --[is_a]--> Food Security Measurement and Monitoring (taxonomy)
+- food insecurity --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- resource scarcity --[produces]--> social tensions (extracted)
+- resource scarcity --[is_a]--> Peacebuilding and Environmental Security (taxonomy)
+- resource scarcity --[is_a]--> Planetary and Environmental Sustainability (taxonomy)
+- semi-autotrophic hydroponics --[produces]--> virus-free plantlets (extracted)
+- semi-autotrophic hydroponics --[targets]--> cassava (extracted)
+- semi-autotrophic hydroponics --[located_in]--> Liberia (extracted)
+- semi-autotrophic hydroponics --[is_a]--> Aquaculture Systems (taxonomy)
+- semi-autotrophic hydroponics --[is_a]--> Uncategorized (taxonomy)
+- automatic speech recognition --[targets]--> smallholder farmers (extracted)
+- automatic speech recognition --[targets]--> Bantu languages (extracted)
+- automatic speech recognition --[is_a]--> Mobile and Interactive Advisory Tools (taxonomy)
+- automatic speech recognition --[is_a]--> Core AI and ML Approaches (taxonomy)
+- automatic speech recognition --[is_a]--> Artificial Intelligence and Machine Learning (taxonomy)
+- knowledge dissemination --[is_a]--> Knowledge Exchange and Sharing (taxonomy)
+- knowledge dissemination --[is_a]--> Knowledge Management and Dissemination (taxonomy)
+- knowledge dissemination --[is_a]--> Knowledge Exchange and Dissemination (taxonomy)
+- knowledge dissemination --[is_a]--> South-South and Knowledge Exchange (taxonomy)
+- guerrilla gardening --[addresses]--> urban food security (extracted)
+- guerrilla gardening --[located_in]--> Metro Manila (extracted)
+- guerrilla gardening --[located_in]--> Quezon City (extracted)
+- guerrilla gardening --[is_a]--> Cropping Systems (taxonomy)
+- guerrilla gardening --[is_a]--> Specific Food System Interventions (taxonomy)
+- guerrilla gardening --[is_a]--> Urban Farming Systems (taxonomy)
+- participatory monitoring and evaluation --[is_a]--> Participatory and Farmer-Centered Approaches (taxonomy)
+- participatory monitoring and evaluation --[is_a]--> Institutional Learning and Adaptive Management (taxonomy)
+- participatory monitoring and evaluation --[is_a]--> Impact Evaluation and Assessment (taxonomy)
+- participatory monitoring and evaluation --[is_a]--> Participatory Research Methods (taxonomy)
+- participatory monitoring and evaluation --[is_a]--> Participatory Learning Methods (taxonomy)
+- food system analytics --[is_a]--> Food System Frameworks and Approaches (taxonomy)
+- food system analytics --[is_a]--> Data-Driven Agriculture (taxonomy)
+- food system analytics --[is_a]--> Statistical and Quantitative Methods (taxonomy)
+- food system analytics --[is_a]--> Food Systems Transformation (taxonomy)
+- discrete choice experiments --[uses]--> willingness to pay (extracted)
+- discrete choice experiments --[located_in]--> Uganda (extracted)
+- discrete choice experiments --[is_a]--> Consumer Preferences and Behavior (taxonomy)
+- discrete choice experiments --[is_a]--> Market Analysis and Assessment (taxonomy)
+- discrete choice experiments --[is_a]--> Experimental Preference and Valuation Methods (taxonomy)
+- discrete choice experiments --[is_a]--> Mixed Methods and Qualitative Approaches (taxonomy)
+- willingness to pay --[is_a]--> Consumer Preferences and Behavior (taxonomy)
+- willingness to pay --[is_a]--> Market Analysis and Assessment (taxonomy)
+- willingness to pay --[is_a]--> Experimental Preference and Valuation Methods (taxonomy)
+- willingness to pay --[is_a]--> Mixed Methods and Qualitative Approaches (taxonomy)
+- systems approach --[addresses]--> smallholder farmers (extracted)
+- systems approach --[is_a]--> Participatory and Farmer-Centered Approaches (taxonomy)
+- systems approach --[is_a]--> Institutional Learning and Adaptive Management (taxonomy)
+- systems approach --[is_a]--> Mixed Methods and Interdisciplinary Approaches (taxonomy)
+- systems approach --[is_a]--> Systems and Transdisciplinary Research (taxonomy)
+- small-scale irrigation --[located_in]--> Nigeria (extracted)
+- small-scale irrigation --[targets]--> smallholder farmers (extracted)
+- small-scale irrigation --[produces]--> agricultural productivity (extracted)
+- small-scale irrigation --[is_a]--> Irrigation Systems and Technologies (taxonomy)
+- small-scale irrigation --[is_a]--> Irrigation and Water Infrastructure (taxonomy)
+- just transition --[is_a]--> Low-Carbon and Zero-Carbon Agriculture (taxonomy)
+- just transition --[is_a]--> Justice and Rights (taxonomy)
+- just transition --[is_a]--> Justice and Equity Frameworks (taxonomy)
+- just transition --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- land restoration --[located_in]--> Wajir County (extracted)
+- land restoration --[uses]--> oil palm (extracted)
+- land restoration --[is_a]--> Landscape and Land Management (taxonomy)
+- land restoration --[is_a]--> Sustainable Land Management (taxonomy)
+- greenhouse gas emission measurement --[is_a]--> Carbon and Greenhouse Gas Management in Farming (taxonomy)
+- greenhouse gas emission measurement --[is_a]--> Greenhouse Gas Measurement and Monitoring (taxonomy)
+- greenhouse gas emission measurement --[is_a]--> Greenhouse Gas Measurement and Reporting (taxonomy)
+- livestock production --[produces]--> nutrition security (extracted)
+- livestock production --[is_a]--> Livestock Production and Management (taxonomy)
+- salinity intrusion --[addresses]--> fodder cultivation (extracted)
+- salinity intrusion --[is_a]--> Agricultural Water Resources Management (taxonomy)
+- salinity intrusion --[is_a]--> Hydrological Modeling and Analysis (taxonomy)
+- technology diffusion --[is_a]--> Technology Adoption and Diffusion (taxonomy)
+- technology diffusion --[is_a]--> Knowledge Exchange and Sharing (taxonomy)
+- technology diffusion --[is_a]--> Knowledge Management and Dissemination (taxonomy)
+- technology diffusion --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- technology diffusion --[is_a]--> South-South and Knowledge Exchange (taxonomy)
+- zero tillage --[uses]--> rice (extracted)
+- zero tillage --[produces]--> soil water conservation (extracted)
+- zero tillage --[is_a]--> Conservation Agriculture and Tillage (taxonomy)
+- zero tillage --[is_a]--> Soil Health and Management (taxonomy)
+- digital sequence information --[uses]--> community of practice (extracted)
+- digital sequence information --[uses]--> plant breeding (extracted)
+- digital sequence information --[is_a]--> Sequencing and Genomic Analysis (taxonomy)
+- digital sequence information --[is_a]--> Crop Genetic Improvement (taxonomy)
+- digital sequence information --[is_a]--> Data-Driven Agriculture (taxonomy)
+- digital sequence information --[is_a]--> Miscellaneous Regulatory Concepts (taxonomy)
+- digital sequence information --[is_a]--> Responsible and Ethical Innovation (taxonomy)
+- rainwater harvesting --[is_a]--> Agricultural Water Resources Management (taxonomy)
+- rainwater harvesting --[is_a]--> Irrigation and Water Infrastructure (taxonomy)
+- water-energy-food-ecosystems nexus --[is_a]--> Agricultural Water Resources Management (taxonomy)
+- water-energy-food-ecosystems nexus --[is_a]--> Water Governance and Management (taxonomy)
+- water-energy-food-ecosystems nexus --[is_a]--> Nexus Frameworks (taxonomy)
+- digital tracking system --[targets]--> development agents (extracted)
+- digital tracking system --[is_a]--> Digital Platforms and Infrastructure (taxonomy)
+- digital tracking system --[is_a]--> Data Collection and Management for Extension (taxonomy)
+- digital tracking system --[is_a]--> Remote Sensing and Digital Monitoring (taxonomy)
+- disease diagnosis --[addresses]--> cassava frogskin disease (extracted)
+- disease diagnosis --[is_a]--> Disease Management (taxonomy)
+- disease diagnosis --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- data harmonization --[addresses]--> small-scale fisheries (extracted)
+- data harmonization --[is_a]--> Data Standards and Interoperability (taxonomy)
+- data harmonization --[is_a]--> Systematic Reviews and Evidence Synthesis (taxonomy)
+- data harmonization --[is_a]--> Digital Platforms and Infrastructure (taxonomy)
+- pathogen identification --[uses]--> laboratory analysis (extracted)
+- pathogen identification --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- pathogen identification --[is_a]--> Uncategorized (taxonomy)
+- gender equity --[targets]--> coffee value chain (extracted)
+- gender equity --[is_a]--> Youth and Women's Economic Empowerment (taxonomy)
+- gender equity --[is_a]--> Gender Mainstreaming and Programming (taxonomy)
+- gender equity --[is_a]--> Gender Inclusion and Equity (taxonomy)
+- gender equity --[is_a]--> Gender Transformative Approaches (taxonomy)
+- small-scale mechanization --[uses]--> power tillers (extracted)
+- small-scale mechanization --[located_in]--> Tunisia (extracted)
+- small-scale mechanization --[is_a]--> Agricultural Mechanization (taxonomy)
+- small-scale mechanization --[is_a]--> Mechanization Technologies (taxonomy)
+- herder-farmer conflict --[located_in]--> Nigeria (extracted)
+- herder-farmer conflict --[is_a]--> Pastoral and Rangeland Systems (taxonomy)
+- herder-farmer conflict --[is_a]--> Climate-Conflict Nexus (taxonomy)
+- climate-resilient farming --[located_in]--> Bangladesh (extracted)
+- climate-resilient farming --[is_a]--> Climate-Smart Agriculture (taxonomy)
+- climate-resilient farming --[is_a]--> Climate Resilience Building (taxonomy)
+- water-efficient farming --[addresses]--> food security (extracted)
+- water-efficient farming --[is_a]--> Water Productivity and Efficiency (taxonomy)
+- index insurance --[targets]--> smallholder farmers (extracted)
+- index insurance --[located_in]--> Togo (extracted)
+- index insurance --[uses]--> satellite remote sensing (inferred)
+- index insurance --[is_a]--> Climate Risk Finance and Insurance (taxonomy)
+- index insurance --[is_a]--> Agricultural Insurance (taxonomy)
+- index insurance --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- index insurance --[is_a]--> Insurance and Risk Finance (taxonomy)
+- risk contingent credit --[targets]--> smallholder farmers (extracted)
+- risk contingent credit --[is_a]--> Climate Risk Finance and Insurance (taxonomy)
+- risk contingent credit --[is_a]--> Finance and Investment Mechanisms (taxonomy)
+- risk contingent credit --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- risk contingent credit --[is_a]--> Insurance and Risk Finance (taxonomy)
+- bundled advisory services --[is_a]--> Agricultural Extension and Advisory Services (taxonomy)
+- bundled advisory services --[is_a]--> Climate and Agro-Advisory Services (taxonomy)
+- bundled advisory services --[is_a]--> Finance and Investment Mechanisms (taxonomy)
+- bundled advisory services --[is_a]--> Digital Advisory and Extension Services (taxonomy)
+- bundled advisory services --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- water management planning --[uses]--> irrigation demand forecasting (inferred)
+- water management planning --[is_a]--> Agricultural Water Resources Management (taxonomy)
+- water management planning --[is_a]--> Water Governance and Management (taxonomy)
+- digital farming tools --[is_a]--> Precision and Digital Crop Management (taxonomy)
+- digital farming tools --[is_a]--> Digital Farming Tools and Systems (taxonomy)
+- digital farming tools --[is_a]--> Digital Advisory and Extension Platforms (taxonomy)
+- digital farming tools --[is_a]--> Digital Literacy and Inclusion (taxonomy)
+- digital farming tools --[is_a]--> Digital Platforms and Infrastructure (taxonomy)
+- crop simulation modeling --[uses]--> APSIM (extracted)
+- crop simulation modeling --[located_in]--> Morocco (extracted)
+- crop simulation modeling --[is_a]--> Precision and Digital Crop Management (taxonomy)
+- crop simulation modeling --[is_a]--> Crop and Agricultural Modeling (taxonomy)
+- crop simulation modeling --[is_a]--> Systems and Simulation Modeling (taxonomy)
+- ipcc tier 2 methodology --[located_in]--> Tanzania (extracted)
+- ipcc tier 2 methodology --[located_in]--> Uganda (extracted)
+- ipcc tier 2 methodology --[is_a]--> Carbon and Greenhouse Gas Management in Farming (taxonomy)
+- ipcc tier 2 methodology --[is_a]--> Greenhouse Gas Measurement and Monitoring (taxonomy)
+- ipcc tier 2 methodology --[is_a]--> Greenhouse Gas Measurement and Reporting (taxonomy)
+- biogas digester performance --[produces]--> greenhouse gas emissions (extracted)
+- biogas digester performance --[is_a]--> Livestock Methane and Emissions (taxonomy)
+- biogas digester performance --[is_a]--> Biogas and Circular Bioeconomy (taxonomy)
+- biogas digester performance --[is_a]--> Biogas and Bioenergy (taxonomy)
+- bundled climate-smart solutions --[uses]--> climate risk profiling (extracted)
+- bundled climate-smart solutions --[targets]--> maize (extracted)
+- bundled climate-smart solutions --[is_a]--> Climate-Smart Agriculture (taxonomy)
+- bundled climate-smart solutions --[is_a]--> Climate-Smart Agriculture Approaches (taxonomy)
+- bundled climate-smart solutions --[is_a]--> Technology Adoption and Diffusion (taxonomy)
+- bundled climate-smart solutions --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- bundled climate-smart solutions --[is_a]--> Innovation Bundling and Packages (taxonomy)
+- agricultural commercialization clusters --[located_in]--> Southern Ethiopia (extracted)
+- agricultural commercialization clusters --[is_a]--> Smallholder and Community Farming (taxonomy)
+- agricultural commercialization clusters --[is_a]--> Agricultural Commercialization (taxonomy)
+- agricultural commercialization clusters --[is_a]--> Scaling and Innovation Miscellaneous (taxonomy)
+- hydroclimatic extremes --[is_a]--> Climate Risk Assessment and Vulnerability (taxonomy)
+- transboundary water management --[is_a]--> Agricultural Water Resources Management (taxonomy)
+- transboundary water management --[is_a]--> Water Governance and Management (taxonomy)
+- social equity integration --[is_a]--> Social Inclusion Frameworks (taxonomy)
+- social equity integration --[is_a]--> Social Inclusion and Intersectionality (taxonomy)
+- social equity integration --[is_a]--> Gender-Responsive Policy and Governance (taxonomy)
+- social equity integration --[is_a]--> Social Assessment Methods (taxonomy)
+- social equity integration --[is_a]--> Justice and Equity Frameworks (taxonomy)
+- climate advisory services --[targets]--> smallholder farmers (extracted)
+- climate advisory services --[is_a]--> Climate Information Services (taxonomy)
+- climate advisory services --[is_a]--> Digital Advisory and Extension Services (taxonomy)
+- evidence-based decision support --[is_a]--> Decision Support Systems (taxonomy)
+- evidence-based decision support --[is_a]--> Knowledge Platforms and Systems (taxonomy)
+- evidence-based decision support --[is_a]--> Evidence-Based Policy Processes (taxonomy)
+- evidence-based decision support --[is_a]--> Systematic Reviews and Evidence Synthesis (taxonomy)
+- emission monitoring systems --[addresses]--> climate finance (extracted)
+- emission monitoring systems --[is_a]--> Carbon and Greenhouse Gas Management in Farming (taxonomy)
+- emission monitoring systems --[is_a]--> Greenhouse Gas Measurement and Monitoring (taxonomy)
+- emission monitoring systems --[is_a]--> Early Warning and Monitoring Systems (taxonomy)
+- emission monitoring systems --[is_a]--> Greenhouse Gas Measurement and Reporting (taxonomy)
+- emission monitoring systems --[is_a]--> MRV Frameworks (taxonomy)
+- digital agricultural extension --[uses]--> RiceAdvice (extracted)
+- digital agricultural extension --[is_a]--> Agricultural Extension and Advisory Services (taxonomy)
+- digital agricultural extension --[is_a]--> Core Digital Advisory Services (taxonomy)
+- digital agricultural extension --[is_a]--> Digital Advisory and Extension Platforms (taxonomy)
+- digital agricultural extension --[is_a]--> Digital Advisory and Extension Services (taxonomy)
+- digital agricultural extension --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- digital agricultural extension --[is_a]--> Digital Advisory and Extension (taxonomy)
+- policy uptake --[located_in]--> Nigeria (extracted)
+- policy uptake --[is_a]--> Policy and Enabling Environment (taxonomy)
+- policy uptake --[is_a]--> Policy Dialogue and Advocacy (taxonomy)
+- policy uptake --[is_a]--> Evidence-Based Policy Processes (taxonomy)
+- policy uptake --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- policy uptake --[is_a]--> Integrated and Adaptive Management (taxonomy)
+- user-centered design --[produces]--> scaling (inferred)
+- user-centered design --[uses]--> innovation validation (extracted)
+- user-centered design --[is_a]--> Participatory and Farmer-Centered Approaches (taxonomy)
+- user-centered design --[is_a]--> Co-Design and Co-Production (taxonomy)
+- user-centered design --[is_a]--> Co-Design and Co-Creation Methods (taxonomy)
+- user-centered design --[is_a]--> Stakeholder Engagement Methods (taxonomy)
+- gender-responsive solutions --[addresses]--> smallholder farmer (inferred)
+- gender-responsive solutions --[targets]--> smallholder farmers (extracted)
+- gender-responsive solutions --[is_a]--> Gender Mainstreaming and Programming (taxonomy)
+- gender-responsive solutions --[is_a]--> Gender-Transformative Approaches (taxonomy)
+- gender-responsive solutions --[is_a]--> Gender-Responsive Programming (taxonomy)
+- trait deployment --[uses]--> genomic prediction (inferred)
+- trait deployment --[is_a]--> Trait Characterization and Analysis (taxonomy)
+- trait deployment --[is_a]--> Crop Genetic Improvement (taxonomy)
+- integrated aquaculture agriculture --[located_in]--> Egypt (extracted)
+- integrated aquaculture agriculture --[is_a]--> Integrated Rice-Fish and Aquatic Farming (taxonomy)
+- socio-ecological resilience --[is_a]--> Climate Resilience Building (taxonomy)
+- socio-ecological resilience --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- socio-ecological resilience --[is_a]--> Resilience Frameworks (taxonomy)
+- digital climate advisory services --[is_a]--> Climate Information Services (taxonomy)
+- digital climate advisory services --[is_a]--> Climate and Agro-Advisory Services (taxonomy)
+- digital climate advisory services --[is_a]--> Digital Advisory and Extension Services (taxonomy)
+- digital climate advisory services --[is_a]--> Digital Advisory and Extension (taxonomy)
+- scale-appropriate mechanization --[targets]--> smallholder farmers (extracted)
+- scale-appropriate mechanization --[is_a]--> Agricultural Mechanization (taxonomy)
+- scale-appropriate mechanization --[is_a]--> Mechanization Technologies (taxonomy)
+- data-driven agriculture --[uses]--> machine learning (extracted)
+- data-driven agriculture --[is_a]--> Precision and Digital Crop Management (taxonomy)
+- data-driven agriculture --[is_a]--> Data-Driven Agriculture (taxonomy)
+- data-driven agriculture --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- data-driven agriculture --[is_a]--> Decision Support Systems (taxonomy)
+- community-based climate observation --[uses]--> citizen science (extracted)
+- community-based climate observation --[is_a]--> Locally Led and Community-Based Adaptation (taxonomy)
+- community-based climate observation --[is_a]--> Crowdsourcing and Citizen Science (taxonomy)
+- community-based climate observation --[is_a]--> Citizen Science and Community-Based Research (taxonomy)
+- community-based climate observation --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- nursery management --[uses]--> biosecurity (extracted)
+- nursery management --[is_a]--> Agroforestry Systems (taxonomy)
+- extension services --[targets]--> smallholder farmers (inferred)
+- extension services --[is_a]--> Agricultural Extension and Advisory Services (taxonomy)
+- extension services --[is_a]--> Extension Approaches and Methods (taxonomy)
+- extension services --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- participatory co-design --[uses]--> agroecological transition (extracted)
+- participatory co-design --[is_a]--> Participatory and Farmer-Centered Approaches (taxonomy)
+- participatory co-design --[is_a]--> Co-Design and Co-Production (taxonomy)
+- participatory co-design --[is_a]--> Participatory Research Methods (taxonomy)
+- participatory co-design --[is_a]--> Participatory Learning Methods (taxonomy)
+- capacity sharing --[uses]--> CapSha Marketplace (extracted)
+- capacity sharing --[is_a]--> Core Capacity Building (taxonomy)
+- capacity sharing --[is_a]--> Capacity Building Programs (taxonomy)
+- capacity sharing --[is_a]--> Knowledge Exchange and Dissemination (taxonomy)
+- capacity sharing --[is_a]--> Capacity Building Approaches (taxonomy)
+- agribusiness acceleration --[uses]--> last-mile distribution (extracted)
+- agribusiness acceleration --[is_a]--> Agribusiness Training and Capacity (taxonomy)
+- agribusiness acceleration --[is_a]--> Business Development and Incubation (taxonomy)
+- agribusiness acceleration --[is_a]--> Blended Finance and Investment (taxonomy)
+- whole-farm innovation bundles --[addresses]--> smallholder farmers (extracted)
+- whole-farm innovation bundles --[is_a]--> Precision and Digital Crop Management (taxonomy)
+- whole-farm innovation bundles --[is_a]--> Smallholder Farming Systems (taxonomy)
+- whole-farm innovation bundles --[is_a]--> Technology Adoption and Diffusion (taxonomy)
+- whole-farm innovation bundles --[is_a]--> Innovation Assessment and Bundling (taxonomy)
+- whole-farm innovation bundles --[is_a]--> Innovation Bundling and Packages (taxonomy)
+- tricot approach --[uses]--> ClimMob platform (extracted)
+- tricot approach --[is_a]--> Participatory and Farmer-Centered Approaches (taxonomy)
+- tricot approach --[is_a]--> Crowdsourcing and Citizen Science (taxonomy)
+- tricot approach --[is_a]--> Citizen Science and Community-Based Research (taxonomy)
+- tricot approach --[is_a]--> Qualitative and Social Research Techniques (taxonomy)
+- tricot approach --[is_a]--> Citizen Science and Crowdsourcing (taxonomy)
+- data curation --[is_a]--> Data Standards and Interoperability (taxonomy)
+- data curation --[is_a]--> Systematic Reviews and Evidence Synthesis (taxonomy)
+- data curation --[is_a]--> Digital Platforms and Infrastructure (taxonomy)
+- agroclimatic monitoring --[uses]--> PlanetScope (extracted)
+- agroclimatic monitoring --[located_in]--> Colombia (extracted)
+- agroclimatic monitoring --[is_a]--> Climate Forecasting and Early Warning (taxonomy)
+- agroclimatic monitoring --[is_a]--> Early Warning and Monitoring Systems (taxonomy)
+- agroclimatic monitoring --[is_a]--> Agroclimatic Advisory Services (taxonomy)
+- agroclimatic monitoring --[is_a]--> Remote Sensing and Digital Monitoring (taxonomy)
+- territorial mechanisms --[uses]--> innovation networks (extracted)
+- territorial mechanisms --[is_a]--> Scaling and Innovation Miscellaneous (taxonomy)
+- territorial mechanisms --[is_a]--> Institutional Coordination Mechanisms (taxonomy)
+- territorial mechanisms --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- inter-institutional coordination --[is_a]--> Multi-Stakeholder Engagement (taxonomy)
+- inter-institutional coordination --[is_a]--> Innovation Platforms and Networks (taxonomy)
+- inter-institutional coordination --[is_a]--> Institutional Coordination Mechanisms (taxonomy)
+- inter-institutional coordination --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- inter-institutional coordination --[is_a]--> Integrated and Adaptive Management (taxonomy)
+- low-carbon behaviors --[related_to]--> digital literacy (extracted)
+- low-carbon behaviors --[is_a]--> Carbon and Greenhouse Gas Management in Farming (taxonomy)
+- low-carbon behaviors --[is_a]--> Low-Carbon and Zero-Carbon Agriculture (taxonomy)
+- low-carbon behaviors --[is_a]--> Behavior Change Approaches (taxonomy)
+- village-level governance --[uses]--> carbon accounting (extracted)
+- village-level governance --[is_a]--> Collective Action and Governance (taxonomy)
+- village-level governance --[is_a]--> Scaling and Innovation Miscellaneous (taxonomy)
+- village-level governance --[is_a]--> Participatory and Polycentric Governance (taxonomy)
+- village-level governance --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- village-level governance --[is_a]--> Governance Frameworks (taxonomy)
+- ecosystem carbon sequestration --[is_a]--> Carbon and Greenhouse Gas Management in Farming (taxonomy)
+- ecosystem carbon sequestration --[is_a]--> Carbon Sequestration and Carbon Markets (taxonomy)
+- ecosystem carbon sequestration --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- zero-carbon agriculture --[uses]--> ecosystem carbon sequestration (extracted)
+- zero-carbon agriculture --[is_a]--> Climate-Smart Agriculture (taxonomy)
+- zero-carbon agriculture --[is_a]--> Low-Carbon and Zero-Carbon Agriculture (taxonomy)
+- zero-carbon agriculture --[is_a]--> Planetary and Environmental Sustainability (taxonomy)
+- carbon trading --[uses]--> agroforestry (inferred)
+- carbon trading --[is_a]--> Carbon and Greenhouse Gas Management in Farming (taxonomy)
+- carbon trading --[is_a]--> Carbon Sequestration and Carbon Markets (taxonomy)
+- carbon trading --[is_a]--> Climate Finance (taxonomy)
+- carbon trading --[is_a]--> Investment and Finance Mechanisms (taxonomy)
+- carbon trading --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- climate mitigation --[is_a]--> Low-Carbon and Zero-Carbon Agriculture (taxonomy)
+- peer learning --[is_a]--> Peer and Experiential Learning (taxonomy)
+- peer learning --[is_a]--> Training and Capacity Development (taxonomy)
+- peer learning --[is_a]--> Participatory Learning Methods (taxonomy)
+- feed management --[targets]--> livestock production (extracted)
+- feed management --[is_a]--> Feed and Forage Management (taxonomy)
+- antibiotic resistance monitoring --[is_a]--> Herd Health Management (taxonomy)
+- antibiotic resistance monitoring --[is_a]--> Contaminant and Residue Management (taxonomy)
+- antibiotic resistance monitoring --[is_a]--> Early Warning and Monitoring Systems (taxonomy)
+- antibiotic resistance monitoring --[is_a]--> Antimicrobial Resistance Governance (taxonomy)
+- antibiotic resistance monitoring --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- antibiotic resistance monitoring --[is_a]--> Antimicrobial Resistance (taxonomy)
+- hub model --[uses]--> community engagement (extracted)
+- hub model --[located_in]--> Mexico (extracted)
+- hub model --[located_in]--> Guatemala (extracted)
+- hub model --[is_a]--> Technology Adoption and Diffusion (taxonomy)
+- hub model --[is_a]--> Business Models and Development (taxonomy)
+- hub model --[is_a]--> Innovation Platforms and Networks (taxonomy)
+- hub model --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- hub model --[is_a]--> Communities of Practice and Networks (taxonomy)
+- low-emission agriculture --[located_in]--> Vietnam (extracted)
+- low-emission agriculture --[is_a]--> Climate-Smart Agriculture (taxonomy)
+- low-emission agriculture --[is_a]--> Low-Carbon and Zero-Carbon Agriculture (taxonomy)
+- low-emission agriculture --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- low-emission agriculture --[is_a]--> Planetary and Environmental Sustainability (taxonomy)
+- satellite-based monitoring --[is_a]--> Satellite and Remote Sensing Applications (taxonomy)
+- satellite-based monitoring --[is_a]--> Satellite-Based Monitoring (taxonomy)
+- satellite-based monitoring --[is_a]--> Remote Sensing and Digital Monitoring (taxonomy)
+- satellite-based monitoring --[is_a]--> Remote Sensing and Earth Observation (taxonomy)
+- food crisis prediction --[produces]--> Global Report on Food Crisis (inferred)
+- food crisis prediction --[is_a]--> Early Warning and Crisis Prediction (taxonomy)
+- food crisis prediction --[is_a]--> Predictive Modeling and Forecasting (taxonomy)
+- food crisis prediction --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- food crisis prediction --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- gender-climate-nutrition integration --[located_in]--> Senegal (extracted)
+- gender-climate-nutrition integration --[is_a]--> Nutrition-Sensitive Approaches (taxonomy)
+- gender-climate-nutrition integration --[is_a]--> Gender Mainstreaming and Programming (taxonomy)
+- gender-climate-nutrition integration --[is_a]--> Gender Dynamics and Analysis (taxonomy)
+- monitoring, reporting, and verification --[part_of]--> climate adaptation (extracted)
+- monitoring, reporting, and verification --[is_a]--> Carbon and Greenhouse Gas Management in Farming (taxonomy)
+- monitoring, reporting, and verification --[is_a]--> Greenhouse Gas Measurement and Monitoring (taxonomy)
+- monitoring, reporting, and verification --[is_a]--> Monitoring Reporting and Verification (taxonomy)
+- monitoring, reporting, and verification --[is_a]--> Data Collection and Management for Extension (taxonomy)
+- monitoring, reporting, and verification --[is_a]--> Monitoring, Reporting and Verification (taxonomy)
+- monitoring, reporting, and verification --[is_a]--> Greenhouse Gas Measurement and Reporting (taxonomy)
+- monitoring, reporting, and verification --[is_a]--> MRV Frameworks (taxonomy)
+- climate vulnerability assessment --[located_in]--> Mozambique (extracted)
+- climate vulnerability assessment --[is_a]--> Climate Risk Assessment and Vulnerability (taxonomy)
+- climate vulnerability assessment --[is_a]--> Monitoring and Evaluation Frameworks (taxonomy)
+- climate vulnerability assessment --[is_a]--> Vulnerability Assessment (taxonomy)
+- cooperative development --[uses]--> Business Model Canvas (extracted)
+- cooperative development --[is_a]--> Smallholder and Community Farming (taxonomy)
+- cooperative development --[is_a]--> Private Sector and Partnerships (taxonomy)
+- cooperative development --[is_a]--> Business Development and Incubation (taxonomy)
+- cooperative development --[is_a]--> Livelihoods and Social Welfare (taxonomy)
+- curriculum development --[addresses]--> capacity building (inferred)
+- curriculum development --[located_in]--> Ethiopia (extracted)
+- curriculum development --[is_a]--> Curriculum and Skills Development (taxonomy)
+- curriculum development --[is_a]--> Capacity Building Programs (taxonomy)
+- curriculum development --[is_a]--> Training and Capacity Development (taxonomy)
+- curriculum development --[is_a]--> Training Modalities (taxonomy)
+- rangeland management --[located_in]--> East Africa (extracted)
+- rangeland management --[is_a]--> Pastoral and Rangeland Systems (taxonomy)
+- rangeland management --[is_a]--> Sustainable Land Management (taxonomy)
+- post-harvest processing --[uses]--> cacao (extracted)
+- post-harvest processing --[is_a]--> Post-Harvest and Food Loss Management (taxonomy)
+- post-harvest processing --[is_a]--> Post-Harvest Technology and Storage (taxonomy)
+- post-harvest processing --[is_a]--> Supply Chain and Post-Harvest (taxonomy)
+- agrobiodiversity conservation --[uses]--> cacao (extracted)
+- agrobiodiversity conservation --[is_a]--> Nature-Based and Ecosystem Approaches (taxonomy)
+- agrobiodiversity conservation --[is_a]--> Biodiversity Conservation (taxonomy)
+- multisectoral collaboration --[part_of]--> one health approach (inferred)
+- multisectoral collaboration --[is_a]--> Innovation Platforms and Networks (taxonomy)
+- multisectoral collaboration --[is_a]--> Institutional Coordination Mechanisms (taxonomy)
+- multisectoral collaboration --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- multisectoral collaboration --[is_a]--> Integrated and Adaptive Management (taxonomy)
+- adaptive capacity --[is_a]--> Climate Resilience Building (taxonomy)
+- adaptive capacity --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- adaptive capacity --[is_a]--> Resilience Frameworks (taxonomy)
+- digital advisories --[targets]--> smallholder farmers (extracted)
+- digital advisories --[is_a]--> Agricultural Extension and Advisory Services (taxonomy)
+- digital advisories --[is_a]--> Core Digital Advisory Services (taxonomy)
+- digital advisories --[is_a]--> Digital Advisory and Extension Platforms (taxonomy)
+- digital advisories --[is_a]--> Digital Advisory and Extension Services (taxonomy)
+- digital advisories --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- digital advisories --[is_a]--> Digital Advisory and Extension (taxonomy)
+- investment planning --[is_a]--> Agribusiness Training and Capacity (taxonomy)
+- investment planning --[is_a]--> Investment and Finance Mechanisms (taxonomy)
+- investment planning --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- investment planning --[is_a]--> Blended Finance and Investment (taxonomy)
+- gender-responsive agricultural advisories --[targets]--> smallholder farmers (extracted)
+- gender-responsive agricultural advisories --[is_a]--> Gender Mainstreaming and Programming (taxonomy)
+- gender-responsive agricultural advisories --[is_a]--> Digital Advisory and Extension Services (taxonomy)
+- gender-responsive agricultural advisories --[is_a]--> Gender-Transformative Approaches (taxonomy)
+- gender-responsive agricultural advisories --[is_a]--> Gender-Responsive Programming (taxonomy)
+- climate-smart villages --[produces]--> climate-smart agriculture (inferred)
+- climate-smart villages --[located_in]--> Senegal (extracted)
+- climate-smart villages --[uses]--> participatory research (inferred)
+- climate-smart villages --[is_a]--> Climate-Smart Agriculture (taxonomy)
+- climate-smart villages --[is_a]--> Climate-Smart Agriculture Approaches (taxonomy)
+- climate-smart villages --[is_a]--> Scaling and Innovation Miscellaneous (taxonomy)
+- gender equality --[is_a]--> Youth and Women's Economic Empowerment (taxonomy)
+- gender equality --[is_a]--> Gender Mainstreaming and Programming (taxonomy)
+- gender equality --[is_a]--> Gender Inclusion and Equity (taxonomy)
+- gender equality --[is_a]--> Gender Transformative Approaches (taxonomy)
+- agroclimatic forecasting --[is_a]--> Climate Forecasting and Early Warning (taxonomy)
+- agroclimatic forecasting --[is_a]--> Climate and Agro-Advisory Services (taxonomy)
+- agroclimatic forecasting --[is_a]--> Agroclimatic Advisory Services (taxonomy)
+- agroclimatic forecasting --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- gender equality social inclusion --[is_a]--> Youth and Women's Economic Empowerment (taxonomy)
+- gender equality social inclusion --[is_a]--> Gender Mainstreaming and Programming (taxonomy)
+- gender equality social inclusion --[is_a]--> Gender Inclusion and Equity (taxonomy)
+- gender equality social inclusion --[is_a]--> Gender-Responsive Policy and Governance (taxonomy)
+- gender equality social inclusion --[is_a]--> Gender Transformative Approaches (taxonomy)
+- small-scale fisheries --[located_in]--> Western Indian Ocean (extracted)
+- small-scale fisheries --[is_a]--> Fisheries and Aquatic Food Systems (taxonomy)
+- market assessment --[targets]--> integrated multitrophic aquaculture (extracted)
+- market assessment --[is_a]--> Food Market Systems (taxonomy)
+- market assessment --[is_a]--> Market Analysis and Assessment (taxonomy)
+- market assessment --[is_a]--> Statistical and Quantitative Methods (taxonomy)
+- livelihood improvement --[is_a]--> Livelihood Approaches (taxonomy)
+- livelihood improvement --[is_a]--> Livelihoods and Wellbeing (taxonomy)
+- livelihood improvement --[is_a]--> Livelihoods and Social Welfare (taxonomy)
+- environmental sustainability --[is_a]--> Ecosystem Restoration and Services (taxonomy)
+- environmental sustainability --[is_a]--> Planetary and Environmental Sustainability (taxonomy)
+- site-specific fertilizer advisory --[targets]--> smallholder farmers (extracted)
+- site-specific fertilizer advisory --[produces]--> teff (extracted)
+- site-specific fertilizer advisory --[produces]--> wheat (extracted)
+- site-specific fertilizer advisory --[produces]--> sorghum (extracted)
+- site-specific fertilizer advisory --[produces]--> maize (extracted)
+- site-specific fertilizer advisory --[is_a]--> Soil Health and Fertility Management (taxonomy)
+- site-specific fertilizer advisory --[is_a]--> Climate and Agro-Advisory Services (taxonomy)
+- site-specific fertilizer advisory --[is_a]--> Agroclimatic Advisory Services (taxonomy)
+- digital monitoring platform --[is_a]--> Early Warning and Monitoring Systems (taxonomy)
+- digital monitoring platform --[is_a]--> Data Collection and Management for Extension (taxonomy)
+- digital monitoring platform --[is_a]--> Remote Sensing and Digital Monitoring (taxonomy)
+- digital monitoring platform --[is_a]--> Digital Platforms and Infrastructure (taxonomy)
+- data fusion --[uses]--> LiDAR (extracted)
+- data fusion --[is_a]--> Data Standards and Interoperability (taxonomy)
+- data fusion --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- data fusion --[is_a]--> Digital Platforms and Infrastructure (taxonomy)
+- digital twin technology --[located_in]--> Limpopo River Basin (extracted)
+- digital twin technology --[addresses]--> water security (extracted)
+- digital twin technology --[is_a]--> Precision Farming Technologies (taxonomy)
+- digital twin technology --[is_a]--> Digital Tools and Decision Support (taxonomy)
+- digital twin technology --[is_a]--> Decision Support Systems (taxonomy)
+- agribusiness training --[targets]--> smallholder farmers (extracted)
+- agribusiness training --[is_a]--> Agribusiness Training and Capacity (taxonomy)
+- agribusiness training --[is_a]--> Curriculum and Skills Development (taxonomy)
+- agribusiness training --[is_a]--> Training and Capacity Development (taxonomy)
+- agribusiness training --[is_a]--> Training Modalities (taxonomy)
+- certified seed production --[located_in]--> Mozambique (extracted)
+- certified seed production --[targets]--> maize (extracted)
+- certified seed production --[is_a]--> Seed Production (taxonomy)
+- certified seed production --[is_a]--> Seed Systems Development (taxonomy)
+- monitoring and evaluation frameworks --[is_a]--> Institutional Learning and Adaptive Management (taxonomy)
+- monitoring and evaluation frameworks --[is_a]--> Impact Evaluation and Assessment (taxonomy)
+- monitoring and evaluation frameworks --[is_a]--> Monitoring and Evaluation Frameworks (taxonomy)
+- monitoring and evaluation frameworks --[is_a]--> Integrated and Adaptive Management (taxonomy)
+- seed production systems --[targets]--> groundnut (extracted)
+- seed production systems --[is_a]--> Seed Production (taxonomy)
+- seed production systems --[is_a]--> Seed Systems Development (taxonomy)
+- adaptation finance --[addresses]--> climate resilience (extracted)
+- adaptation finance --[is_a]--> Adaptation Planning and Implementation (taxonomy)
+- adaptation finance --[is_a]--> Climate Finance (taxonomy)
+- adaptation finance --[is_a]--> Investment and Finance Mechanisms (taxonomy)
+- adaptation finance --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- breeding pipeline development --[located_in]--> West Africa (extracted)
+- breeding pipeline development --[is_a]--> Breeding Program Design and Management (taxonomy)
+- breeding pipeline development --[is_a]--> Crop Genetic Improvement (taxonomy)
+- multi-environment trial evaluation --[is_a]--> Multi-Environment and Multi-Location Testing (taxonomy)
+- multi-environment trial evaluation --[is_a]--> Seed Systems Development (taxonomy)
+- multi-environment trial evaluation --[is_a]--> Field and On-Farm Trials (taxonomy)
+- seed product market segmentation --[is_a]--> Target Population and Market Segmentation (taxonomy)
+- seed product market segmentation --[is_a]--> Market Analysis and Assessment (taxonomy)
+- seed product market segmentation --[is_a]--> Innovation Assessment and Bundling (taxonomy)
+- community-based resource management --[located_in]--> Solomon Islands (extracted)
+- community-based resource management --[addresses]--> sustainable development (extracted)
+- community-based resource management --[is_a]--> Smallholder and Community Farming (taxonomy)
+- community-based resource management --[is_a]--> Collective Action and Governance (taxonomy)
+- community-based resource management --[is_a]--> Participatory Governance and Rangeland Management (taxonomy)
+- community-based resource management --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- community-based resource management --[is_a]--> Governance Frameworks (taxonomy)
+- model farms --[uses]--> herd health management (extracted)
+- model farms --[is_a]--> Technology Adoption and Diffusion (taxonomy)
+- model farms --[is_a]--> Smallholder Farming Systems (taxonomy)
+- model farms --[is_a]--> Participatory and Community Learning Methods (taxonomy)
+- feed processing --[uses]--> rice (extracted)
+- feed processing --[is_a]--> Feed and Forage Management (taxonomy)
+- feed processing --[is_a]--> Food Processing and Value Addition (taxonomy)
+- scaling champions --[part_of]--> Ukama Ustawi (extracted)
+- scaling champions --[located_in]--> Zimbabwe (extracted)
+- scaling champions --[located_in]--> Malawi (extracted)
+- scaling champions --[located_in]--> Uganda (extracted)
+- scaling champions --[is_a]--> Technology Adoption and Diffusion (taxonomy)
+- scaling champions --[is_a]--> Scaling Approaches (taxonomy)
+- scaling champions --[is_a]--> Scaling Strategies and Frameworks (taxonomy)
+- scaling champions --[is_a]--> Scaling Frameworks and Approaches (taxonomy)
+- scaling champions --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- scaling champions --[is_a]--> Scaling Frameworks and Strategies (taxonomy)
+- ecosystem services valuation --[part_of]--> APEARD tool (extracted)
+- ecosystem services valuation --[uses]--> contingent valuation (extracted)
+- ecosystem services valuation --[is_a]--> Nature-Based and Ecosystem Approaches (taxonomy)
+- ecosystem services valuation --[is_a]--> Ecosystem Restoration and Services (taxonomy)
+- ecosystem services valuation --[is_a]--> Economic Modeling and Analysis (taxonomy)
+- ecosystem services valuation --[is_a]--> Payment for Ecosystem Services (taxonomy)
+- unmanned aerial vehicle surveillance --[uses]--> deep learning detection (extracted)
+- unmanned aerial vehicle surveillance --[is_a]--> Drone and UAV Applications (taxonomy)
+- unmanned aerial vehicle surveillance --[is_a]--> Remote Sensing and Digital Monitoring (taxonomy)
+- unmanned aerial vehicle surveillance --[is_a]--> Remote Sensing and Earth Observation (taxonomy)
+- gender equality and social inclusion --[targets]--> smallholder farmers (inferred)
+- gender equality and social inclusion --[is_a]--> Youth and Women's Economic Empowerment (taxonomy)
+- gender equality and social inclusion --[is_a]--> Gender Mainstreaming and Programming (taxonomy)
+- gender equality and social inclusion --[is_a]--> Gender Inclusion and Equity (taxonomy)
+- gender equality and social inclusion --[is_a]--> Gender-Responsive Policy and Governance (taxonomy)
+- gender equality and social inclusion --[is_a]--> Gender Transformative Approaches (taxonomy)
+- variety adaptation trials --[produces]--> tomato (extracted)
+- variety adaptation trials --[produces]--> sweet pepper (extracted)
+- variety adaptation trials --[is_a]--> Multi-Environment and Multi-Location Testing (taxonomy)
+- variety adaptation trials --[is_a]--> Seed Systems Development (taxonomy)
+- variety adaptation trials --[is_a]--> Field and On-Farm Trials (taxonomy)
+- managed aquifer recharge --[located_in]--> Ganges Basin (extracted)
+- managed aquifer recharge --[addresses]--> groundwater depletion (extracted)
+- managed aquifer recharge --[is_a]--> Agricultural Water Resources Management (taxonomy)
+- managed aquifer recharge --[is_a]--> Irrigation and Water Infrastructure (taxonomy)
+- multistakeholder partnerships --[is_a]--> Multi-Stakeholder Engagement (taxonomy)
+- multistakeholder partnerships --[is_a]--> Innovation Platforms and Networks (taxonomy)
+- multistakeholder partnerships --[is_a]--> Multi-Stakeholder Platforms and Partnerships (taxonomy)
+- multistakeholder partnerships --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- aquaculture --[addresses]--> food security (extracted)
+- aquaculture --[is_a]--> Aquaculture Systems (taxonomy)
+- mechanization service provider model --[located_in]--> Zambia (extracted)
+- mechanization service provider model --[is_a]--> Agricultural Mechanization (taxonomy)
+- mechanization service provider model --[is_a]--> Mechanization Service Models (taxonomy)
+- integrated rice-fish systems --[uses]--> agroecology (extracted)
+- integrated rice-fish systems --[located_in]--> Eastern India (extracted)
+- integrated rice-fish systems --[is_a]--> Integrated Rice-Fish and Aquatic Farming (taxonomy)
+- ultra-processed foods --[produces]--> overweight and obesity (extracted)
+- ultra-processed foods --[is_a]--> Dietary Behavior and Interventions (taxonomy)
+- food rescue --[addresses]--> food security (extracted)
+- food rescue --[addresses]--> food system transformation (inferred)
+- food rescue --[is_a]--> Post-Harvest and Food Loss Management (taxonomy)
+- food rescue --[is_a]--> Food Loss and Waste Reduction (taxonomy)
+- food rescue --[is_a]--> Waste-to-Value and Resource Recovery (taxonomy)
+- urban farming --[located_in]--> Quezon City (extracted)
+- urban farming --[is_a]--> Cropping Systems (taxonomy)
+- urban farming --[is_a]--> Food Environment Assessment (taxonomy)
+- urban farming --[is_a]--> Urban Farming Systems (taxonomy)
+- data standardization --[is_a]--> Data Standards and Interoperability (taxonomy)
+- data standardization --[is_a]--> Systematic Reviews and Evidence Synthesis (taxonomy)
+- data standardization --[is_a]--> Digital Platforms and Infrastructure (taxonomy)
+- geospatial analysis --[is_a]--> Satellite and Remote Sensing Applications (taxonomy)
+- geospatial analysis --[is_a]--> Geospatial Analysis and Mapping (taxonomy)
+- geospatial analysis --[is_a]--> Statistical and Quantitative Methods (taxonomy)
+- geospatial analysis --[is_a]--> Remote Sensing and Earth Observation (taxonomy)
+- policy analysis --[uses]--> named entity recognition (extracted)
+- policy analysis --[is_a]--> Policy and Enabling Environment (taxonomy)
+- policy analysis --[is_a]--> Policy Dialogue and Advocacy (taxonomy)
+- policy analysis --[is_a]--> Core Policy Instruments (taxonomy)
+- policy analysis --[is_a]--> Statistical and Quantitative Methods (taxonomy)
+- policy analysis --[is_a]--> Integrated and Adaptive Management (taxonomy)
+- metabolomic profiling --[targets]--> cassava (extracted)
+- metabolomic profiling --[targets]--> potato (extracted)
+- metabolomic profiling --[targets]--> sweet potato (extracted)
+- metabolomic profiling --[targets]--> banana (extracted)
+- metabolomic profiling --[targets]--> anti-methanogenic compounds (extracted)
+- metabolomic profiling --[is_a]--> Multi-Omics and Bioinformatics (taxonomy)
+- metabolomic profiling --[is_a]--> Crop Genetic Improvement (taxonomy)
+- metabolomic profiling --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- technical efficiency analysis --[is_a]--> Economic Analysis and Impact (taxonomy)
+- technical efficiency analysis --[is_a]--> Economic Modeling and Analysis (taxonomy)
+- technical efficiency analysis --[is_a]--> Mixed Methods and Qualitative Approaches (taxonomy)
+- dietary diversity assessment --[located_in]--> Gedeo Zone (extracted)
+- dietary diversity assessment --[is_a]--> Dietary Assessment and Quality (taxonomy)
+- dietary diversity assessment --[is_a]--> Statistical and Quantitative Methods (taxonomy)
+- theatre of the oppressed --[addresses]--> harmful gender norms (extracted)
+- theatre of the oppressed --[is_a]--> Community Engagement Methods (taxonomy)
+- theatre of the oppressed --[is_a]--> Behavior Change Communication (taxonomy)
+- theatre of the oppressed --[is_a]--> Training Modalities (taxonomy)
+- digital transfers --[targets]--> internally displaced persons (extracted)
+- digital transfers --[is_a]--> Food Access and Social Protection (taxonomy)
+- digital transfers --[is_a]--> Digital Platforms and Infrastructure (taxonomy)
+- digital transfers --[is_a]--> Finance and Investment Mechanisms (taxonomy)
+- digital transfers --[is_a]--> Cash and Financial Transfers (taxonomy)
+- digital transfers --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- nitrogen fixation --[related_to]--> chickpea (extracted)
+- nitrogen fixation --[is_a]--> Soil Health and Fertility Management (taxonomy)
+- conflict-affected settings --[located_in]--> Ethiopia (extracted)
+- conflict-affected settings --[is_a]--> Food Security in Fragile Contexts (taxonomy)
+- conflict-affected settings --[is_a]--> Conflict-Sensitive Programming (taxonomy)
+- conflict-affected settings --[is_a]--> Disaster Risk and Humanitarian Governance (taxonomy)
+- conflict-affected settings --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- conflict-affected settings --[is_a]--> Fragile and Conflict-Affected Settings (taxonomy)
+- food environment intervention --[located_in]--> Tanzania (extracted)
+- food environment intervention --[is_a]--> Food Environment Assessment (taxonomy)
+- food environment intervention --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- contingent valuation --[uses]--> willingness to pay (extracted)
+- contingent valuation --[targets]--> pastoralist (extracted)
+- contingent valuation --[is_a]--> Consumer Preferences and Behavior (taxonomy)
+- contingent valuation --[is_a]--> Market Analysis and Assessment (taxonomy)
+- contingent valuation --[is_a]--> Experimental Preference and Valuation Methods (taxonomy)
+- contingent valuation --[is_a]--> Mixed Methods and Qualitative Approaches (taxonomy)
+- water-energy-food-ecosystem nexus --[addresses]--> food systems transformation (extracted)
+- water-energy-food-ecosystem nexus --[located_in]--> South Asia (extracted)
+- water-energy-food-ecosystem nexus --[is_a]--> Agricultural Water Resources Management (taxonomy)
+- water-energy-food-ecosystem nexus --[is_a]--> Water Governance and Management (taxonomy)
+- water-energy-food-ecosystem nexus --[is_a]--> Nexus Frameworks (taxonomy)
+- crop type mapping --[uses]--> random forest classification (extracted)
+- crop type mapping --[located_in]--> Oaxaca (extracted)
+- crop type mapping --[is_a]--> Precision and Digital Crop Management (taxonomy)
+- crop type mapping --[is_a]--> Satellite and Remote Sensing Applications (taxonomy)
+- crop type mapping --[is_a]--> Satellite-Based Monitoring (taxonomy)
+- crop type mapping --[is_a]--> Remote Sensing and Digital Monitoring (taxonomy)
+- food environment assessment --[uses]--> XGBoost (extracted)
+- food environment assessment --[located_in]--> Ethiopia (extracted)
+- food environment assessment --[addresses]--> dietary diversity (inferred)
+- food environment assessment --[is_a]--> Food Environment Assessment (taxonomy)
+- food environment assessment --[is_a]--> Statistical and Quantitative Methods (taxonomy)
+- nutrition-sensitive interventions --[located_in]--> Nigeria (extracted)
+- nutrition-sensitive interventions --[located_in]--> Vietnam (extracted)
+- nutrition-sensitive interventions --[is_a]--> Nutrition-Sensitive Approaches (taxonomy)
+- postharvest loss reduction --[uses]--> tomato (extracted)
+- postharvest loss reduction --[is_a]--> Post-Harvest and Food Loss Management (taxonomy)
+- postharvest loss reduction --[is_a]--> Post-Harvest Technology and Storage (taxonomy)
+- postharvest loss reduction --[is_a]--> Supply Chain and Post-Harvest (taxonomy)
+- food safety monitoring --[is_a]--> Post-Harvest and Food Loss Management (taxonomy)
+- food safety monitoring --[is_a]--> Food Safety Monitoring and Management (taxonomy)
+- food safety monitoring --[is_a]--> Early Warning and Monitoring Systems (taxonomy)
+- food safety monitoring --[is_a]--> Supply Chain and Post-Harvest (taxonomy)
+- food safety monitoring --[is_a]--> Quality and Food Safety Standards (taxonomy)
+- food safety monitoring --[is_a]--> Remote Sensing and Digital Monitoring (taxonomy)
+- food safety monitoring --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- food safety monitoring --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- deep learning --[uses]--> behavioral analysis (extracted)
+- deep learning --[is_a]--> Core AI and ML Methods (taxonomy)
+- deep learning --[is_a]--> Core AI and ML Approaches (taxonomy)
+- deep learning --[is_a]--> Artificial Intelligence and Machine Learning (taxonomy)
+- end-to-end approach --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- end-to-end approach --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- end-to-end approach --[is_a]--> Uncategorized (taxonomy)
+- irrigation water productivity --[is_a]--> Water Productivity and Efficiency (taxonomy)
+- irrigation water productivity --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- social accounting matrix --[located_in]--> Pakistan (extracted)
+- social accounting matrix --[is_a]--> Food Security Measurement and Monitoring (taxonomy)
+- social accounting matrix --[is_a]--> Economic and Impact Modeling (taxonomy)
+- social accounting matrix --[is_a]--> Economic Analysis and Impact (taxonomy)
+- social accounting matrix --[is_a]--> Impact Evaluation and Assessment (taxonomy)
+- social accounting matrix --[is_a]--> Economic Modeling and Analysis (taxonomy)
+- social accounting matrix --[is_a]--> Mixed Methods and Qualitative Approaches (taxonomy)
+- groundwater governance --[is_a]--> Agricultural Water Resources Management (taxonomy)
+- groundwater governance --[is_a]--> Water Governance and Management (taxonomy)
+- groundwater governance --[is_a]--> Participatory and Polycentric Governance (taxonomy)
+- groundwater governance --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- forest landscape restoration --[targets]--> forest-dependent communities (extracted)
+- forest landscape restoration --[is_a]--> Landscape and Land Management (taxonomy)
+- forest landscape restoration --[is_a]--> Sustainable Land Management (taxonomy)
+- cash transfers --[addresses]--> intimate partner violence (extracted)
+- cash transfers --[is_a]--> Food Access and Social Protection (taxonomy)
+- cash transfers --[is_a]--> Social Protection and Transfers (taxonomy)
+- cash transfers --[is_a]--> Cash and Financial Transfers (taxonomy)
+- cash transfers --[is_a]--> Social Protection and Safety Nets (taxonomy)
+- cash transfers --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- cash transfers --[is_a]--> Social Protection in Fragile Contexts (taxonomy)
+- social norms --[related_to]--> intimate partner violence (extracted)
+- social norms --[is_a]--> Consumer Preferences and Behavior (taxonomy)
+- social norms --[is_a]--> Social Norms (taxonomy)
+- social norms --[is_a]--> Social Inclusion and Intersectionality (taxonomy)
+- women's empowerment in agriculture index --[is_a]--> Youth and Women's Economic Empowerment (taxonomy)
+- women's empowerment in agriculture index --[is_a]--> Women's Empowerment (taxonomy)
+- women's empowerment in agriculture index --[is_a]--> Women's Empowerment and Leadership (taxonomy)
+- women's empowerment in agriculture index --[is_a]--> Gender Research Methods (taxonomy)
+- virtual learning --[addresses]--> biosecurity (extracted)
+- virtual learning --[is_a]--> E-Learning and Virtual Training (taxonomy)
+- virtual learning --[is_a]--> Virtual and Digital Learning (taxonomy)
+- virtual learning --[is_a]--> Training and Capacity Development (taxonomy)
+- virtual learning --[is_a]--> Training Modalities (taxonomy)
+- cash transfer programs --[addresses]--> food security (extracted)
+- cash transfer programs --[is_a]--> Food Access and Social Protection (taxonomy)
+- cash transfer programs --[is_a]--> Social Protection and Transfers (taxonomy)
+- cash transfer programs --[is_a]--> Cash and Financial Transfers (taxonomy)
+- cash transfer programs --[is_a]--> Social Protection and Safety Nets (taxonomy)
+- cash transfer programs --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- cash transfer programs --[is_a]--> Social Protection in Fragile Contexts (taxonomy)
+- participatory extension --[targets]--> smallholder farmers (extracted)
+- participatory extension --[addresses]--> climate-smart agriculture (extracted)
+- participatory extension --[is_a]--> Agricultural Extension and Advisory Services (taxonomy)
+- participatory extension --[is_a]--> Extension Approaches and Methods (taxonomy)
+- participatory extension --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- integrated monitoring systems --[uses]--> Babai Irrigation Information System (extracted)
+- integrated monitoring systems --[is_a]--> Early Warning and Monitoring Systems (taxonomy)
+- integrated monitoring systems --[is_a]--> Remote Sensing and Digital Monitoring (taxonomy)
+- integrated monitoring systems --[is_a]--> MRV Frameworks (taxonomy)
+- gene pyramiding --[uses]--> marker-assisted selection (extracted)
+- gene pyramiding --[uses]--> molecular breeding (inferred)
+- gene pyramiding --[is_a]--> Crossing and Selection Methods (taxonomy)
+- gene pyramiding --[is_a]--> Crop Genetic Improvement (taxonomy)
+- combining ability analysis --[uses]--> fall armyworm (inferred)
+- combining ability analysis --[uses]--> testcross evaluation (extracted)
+- combining ability analysis --[is_a]--> Crossing and Selection Methods (taxonomy)
+- combining ability analysis --[is_a]--> Crop Genetic Improvement (taxonomy)
+- combining ability analysis --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- doubled haploid breeding --[produces]--> inbred lines (extracted)
+- doubled haploid breeding --[is_a]--> Advanced Breeding Techniques (taxonomy)
+- doubled haploid breeding --[is_a]--> Crop Genetic Improvement (taxonomy)
+- built food environment --[located_in]--> Kenya (extracted)
+- built food environment --[is_a]--> Food Environment Assessment (taxonomy)
+- pastoral mobility --[addresses]--> rangeland restoration (extracted)
+- pastoral mobility --[is_a]--> Pastoral and Rangeland Systems (taxonomy)
+- pastoral mobility --[is_a]--> Landscape and Ecosystem Approaches (taxonomy)
+- district working groups --[located_in]--> Cambodia (extracted)
+- district working groups --[is_a]--> Multi-Stakeholder Engagement (taxonomy)
+- district working groups --[is_a]--> Innovation Platforms and Networks (taxonomy)
+- district working groups --[is_a]--> Multi-Stakeholder Platforms and Partnerships (taxonomy)
+- district working groups --[is_a]--> Governance Frameworks (taxonomy)
+- nutrition-sensitive value chain --[targets]--> Honduras (extracted)
+- nutrition-sensitive value chain --[targets]--> beans (extracted)
+- nutrition-sensitive value chain --[is_a]--> Value Chain Development (taxonomy)
+- nutrition-sensitive value chain --[is_a]--> Core Value Chain Concepts (taxonomy)
+- participatory cultivar selection --[is_a]--> Participatory and Farmer-Centered Breeding (taxonomy)
+- participatory cultivar selection --[is_a]--> Seed Systems Development (taxonomy)
+- participatory cultivar selection --[is_a]--> Participatory Breeding and Variety Selection (taxonomy)
+- irrigation-as-a-service --[located_in]--> Ghana (extracted)
+- irrigation-as-a-service --[is_a]--> Irrigation Systems and Technologies (taxonomy)
+- irrigation-as-a-service --[is_a]--> Irrigation and Water Infrastructure (taxonomy)
+- irrigation-as-a-service --[is_a]--> Mechanization Service Models (taxonomy)
+- irrigation-as-a-service --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- soil health improvement --[located_in]--> Sub-Saharan Africa (extracted)
+- soil health improvement --[is_a]--> Soil Health and Fertility Management (taxonomy)
+- soil health improvement --[is_a]--> Soil Health and Management (taxonomy)
+- yield stability --[uses]--> AMMI analysis (extracted)
+- yield stability --[is_a]--> Trait Characterization and Analysis (taxonomy)
+- yield stability --[is_a]--> Precision and Digital Crop Management (taxonomy)
+- grain quality --[is_a]--> Trait Characterization and Analysis (taxonomy)
+- grain quality --[is_a]--> Crop Genetic Improvement (taxonomy)
+- grain quality --[is_a]--> Traceability and Quality Assessment (taxonomy)
+- senescence rate --[uses]--> SPAD-502 (extracted)
+- senescence rate --[is_a]--> Trait Characterization and Analysis (taxonomy)
+- senescence rate --[is_a]--> Crop Genetic Improvement (taxonomy)
+- agroecological assessment --[uses]--> Business Model Canvas (extracted)
+- agroecological assessment --[is_a]--> Core Agroecological Approaches (taxonomy)
+- agroecological assessment --[is_a]--> Agroecological Approaches to Adaptation (taxonomy)
+- agroecological assessment --[is_a]--> Life Cycle and Environmental Assessment (taxonomy)
+- agroecological assessment --[is_a]--> Planetary and Environmental Sustainability (taxonomy)
+- supplemental irrigation --[produces]--> climate resilience (inferred)
+- supplemental irrigation --[is_a]--> Irrigation Systems and Technologies (taxonomy)
+- supplemental irrigation --[is_a]--> Irrigation and Water Infrastructure (taxonomy)
+- economic impact assessment --[uses]--> economic surplus model (extracted)
+- economic impact assessment --[is_a]--> Economic Analysis and Impact (taxonomy)
+- economic impact assessment --[is_a]--> Impact Evaluation and Assessment (taxonomy)
+- economic impact assessment --[is_a]--> Economic Modeling and Analysis (taxonomy)
+- economic impact assessment --[is_a]--> Experimental and Evaluation Methods (taxonomy)
+- field excursion --[targets]--> high school students (extracted)
+- field excursion --[is_a]--> Participatory and Community Learning Methods (taxonomy)
+- field excursion --[is_a]--> Training Modalities (taxonomy)
+- stakeholder co-design --[produces]--> theory of change (extracted)
+- stakeholder co-design --[is_a]--> Co-Design and Co-Production (taxonomy)
+- stakeholder co-design --[is_a]--> Co-Design and Co-Creation Methods (taxonomy)
+- stakeholder co-design --[is_a]--> Stakeholder Engagement Methods (taxonomy)
+- business-to-business forum --[targets]--> dryland crops (extracted)
+- business-to-business forum --[is_a]--> Business Models and Development (taxonomy)
+- business-to-business forum --[is_a]--> Networking and Collaboration (taxonomy)
+- varietal turnover --[produces]--> yield gains (extracted)
+- varietal turnover --[is_a]--> Variety Registration and Licensing (taxonomy)
+- varietal turnover --[is_a]--> Seed Systems Development (taxonomy)
+- phenotyping --[is_a]--> Phenotyping Methods and Technologies (taxonomy)
+- phenotyping --[is_a]--> Crop Genetic Improvement (taxonomy)
+- phenotyping --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- heritability estimation --[part_of]--> genetic gain (inferred)
+- heritability estimation --[is_a]--> Trait Characterization and Analysis (taxonomy)
+- heritability estimation --[is_a]--> Crop Genetic Improvement (taxonomy)
+- heritability estimation --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- wildlife farming --[located_in]--> Vietnam (extracted)
+- wildlife farming --[is_a]--> Livestock Production and Management (taxonomy)
+- technology adoption dynamics --[targets]--> smallholder farmer (extracted)
+- technology adoption dynamics --[is_a]--> Technology Adoption and Diffusion (taxonomy)
+- technology adoption dynamics --[is_a]--> Monitoring and Evaluation Frameworks (taxonomy)
+- indigenous variety conservation --[located_in]--> Maharashtra (extracted)
+- indigenous variety conservation --[is_a]--> Germplasm Conservation and Management (taxonomy)
+- indigenous variety conservation --[is_a]--> Seed Systems Development (taxonomy)
+- indigenous variety conservation --[is_a]--> Biodiversity Conservation (taxonomy)
+- indigenous variety conservation --[is_a]--> Traditional and Indigenous Knowledge (taxonomy)
+- community-led initiatives --[is_a]--> Smallholder and Community Farming (taxonomy)
+- community-led initiatives --[is_a]--> Collective Action and Governance (taxonomy)
+- community-led initiatives --[is_a]--> Participatory Governance and Rangeland Management (taxonomy)
+- community-led initiatives --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- community-led initiatives --[is_a]--> Locally Led Approaches (taxonomy)
+- gender dynamics --[located_in]--> Nampula (extracted)
+- gender dynamics --[is_a]--> Gender Mainstreaming and Programming (taxonomy)
+- gender dynamics --[is_a]--> Social Inclusion and Intersectionality (taxonomy)
+- gender dynamics --[is_a]--> Gender Dynamics and Analysis (taxonomy)
+- multi-omics approaches --[uses]--> marker-assisted selection (extracted)
+- multi-omics approaches --[is_a]--> Multi-Omics and Bioinformatics (taxonomy)
+- multi-omics approaches --[is_a]--> Crop Genetic Improvement (taxonomy)
+- multi-omics approaches --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- participatory learning methodology --[produces]--> dialogue and reflection (extracted)
+- participatory learning methodology --[is_a]--> Participatory and Farmer-Centered Approaches (taxonomy)
+- participatory learning methodology --[is_a]--> Peer and Experiential Learning (taxonomy)
+- participatory learning methodology --[is_a]--> Participatory Research Methods (taxonomy)
+- participatory learning methodology --[is_a]--> Participatory Learning Methods (taxonomy)
+- vision-to-action process --[produces]--> agroecological transition plans (extracted)
+- vision-to-action process --[is_a]--> Foresight and Strategic Planning (taxonomy)
+- vision-to-action process --[is_a]--> Qualitative and Social Research Techniques (taxonomy)
+- vision-to-action process --[is_a]--> Communication and Outreach (taxonomy)
+- vision-to-action process --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- behavioral change communication --[uses]--> Food Choice App (extracted)
+- behavioral change communication --[uses]--> radio programs (extracted)
+- behavioral change communication --[is_a]--> Dietary Behavior and Interventions (taxonomy)
+- behavioral change communication --[is_a]--> Behavior Change Approaches (taxonomy)
+- behavioral change communication --[is_a]--> Behavior Change Communication (taxonomy)
+- behavioral change communication --[is_a]--> Social Assessment Methods (taxonomy)
+- gender-responsive interventions --[is_a]--> Gender Mainstreaming and Programming (taxonomy)
+- gender-responsive interventions --[is_a]--> Gender-Transformative Approaches (taxonomy)
+- gender-responsive interventions --[is_a]--> Gender-Responsive Programming (taxonomy)
+- precision sowing --[uses]--> mechanized direct-seeded rice (extracted)
+- precision sowing --[is_a]--> Cropping Systems (taxonomy)
+- precision sowing --[is_a]--> Precision Farming Technologies (taxonomy)
+- precision sowing --[is_a]--> Mechanization Technologies (taxonomy)
+- food recovery --[addresses]--> food security (extracted)
+- food recovery --[is_a]--> Post-Harvest and Food Loss Management (taxonomy)
+- food recovery --[is_a]--> Food Loss and Waste Reduction (taxonomy)
+- food recovery --[is_a]--> Waste-to-Value and Resource Recovery (taxonomy)
+- inclusive water governance --[located_in]--> Indus Basin (extracted)
+- inclusive water governance --[is_a]--> Agricultural Water Resources Management (taxonomy)
+- inclusive water governance --[is_a]--> Water Governance and Management (taxonomy)
+- inclusive water governance --[is_a]--> Collective Action and Governance (taxonomy)
+- inclusive water governance --[is_a]--> Participatory and Polycentric Governance (taxonomy)
+- inclusive water governance --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- salinity management --[located_in]--> northern Bangladesh (extracted)
+- salinity management --[is_a]--> Agricultural Water Resources Management (taxonomy)
+- salinity management --[is_a]--> Hydrological Modeling and Analysis (taxonomy)
+- community-based governance --[is_a]--> Collective Action and Governance (taxonomy)
+- community-based governance --[is_a]--> Participatory and Polycentric Governance (taxonomy)
+- community-based governance --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- community-based governance --[is_a]--> Governance Frameworks (taxonomy)
+- community-based governance --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- traceability --[is_a]--> Post-Harvest and Food Loss Management (taxonomy)
+- traceability --[is_a]--> Traceability and Quality Assessment (taxonomy)
+- traceability --[is_a]--> Digital Platforms and Infrastructure (taxonomy)
+- traceability --[is_a]--> Supply Chain and Post-Harvest (taxonomy)
+- traceability --[is_a]--> Quality and Food Safety Standards (taxonomy)
+- traceability --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- traceability --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- systematic composting --[uses]--> cow dung (extracted)
+- systematic composting --[is_a]--> Organic and Circular Farming (taxonomy)
+- systematic composting --[is_a]--> Composting and Organic Inputs (taxonomy)
+- systematic composting --[is_a]--> Waste-to-Value and Resource Recovery (taxonomy)
+- soil moisture monitoring --[uses]--> Sentinel-1 SAR (extracted)
+- soil moisture monitoring --[uses]--> Sentinel-1 (extracted)
+- soil moisture monitoring --[is_a]--> Soil Health and Fertility Management (taxonomy)
+- soil moisture monitoring --[is_a]--> Soil Health and Management (taxonomy)
+- soil moisture monitoring --[is_a]--> Early Warning and Monitoring Systems (taxonomy)
+- soil moisture monitoring --[is_a]--> Remote Sensing and Digital Monitoring (taxonomy)
+- subjective resilience --[related_to]--> climate hazard mapping (extracted)
+- subjective resilience --[is_a]--> Livelihoods and Wellbeing (taxonomy)
+- subjective resilience --[is_a]--> Social Assessment Methods (taxonomy)
+- subjective resilience --[is_a]--> Resilience Frameworks (taxonomy)
+- solar-based irrigation --[targets]--> smallholder farmers (extracted)
+- solar-based irrigation --[located_in]--> Nigeria (extracted)
+- solar-based irrigation --[is_a]--> Irrigation Systems and Technologies (taxonomy)
+- solar-based irrigation --[is_a]--> Irrigation and Water Infrastructure (taxonomy)
+- agricultural water management --[uses]--> water-energy-food nexus (extracted)
+- agricultural water management --[located_in]--> Africa (extracted)
+- agricultural water management --[is_a]--> Agricultural Water Resources Management (taxonomy)
+- agricultural water management --[is_a]--> Water Governance and Management (taxonomy)
+- child malnutrition --[related_to]--> violent conflict (extracted)
+- child malnutrition --[is_a]--> Nutrition-Sensitive Approaches (taxonomy)
+- child malnutrition --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- virus elimination protocols --[is_a]--> Vegetative Propagation and Tissue Culture (taxonomy)
+- virus elimination protocols --[is_a]--> Disease Management (taxonomy)
+- climate-informed decision-making --[is_a]--> Climate Information Services (taxonomy)
+- climate-informed decision-making --[is_a]--> Decision Support Systems (taxonomy)
+- climate-informed decision-making --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- strategic foresight --[uses]--> market intelligence (extracted)
+- strategic foresight --[addresses]--> agroecological transition (inferred)
+- strategic foresight --[is_a]--> Foresight and Strategic Planning (taxonomy)
+- strategic foresight --[is_a]--> Foresight and Strategic Planning Methods (taxonomy)
+- strategic foresight --[is_a]--> Integrated and Adaptive Management (taxonomy)
+- gamification --[produces]--> knowledge dissemination (extracted)
+- gamification --[uses]--> climate information services (extracted)
+- gamification --[is_a]--> E-Learning and Virtual Training (taxonomy)
+- gamification --[is_a]--> Virtual and Digital Learning (taxonomy)
+- gamification --[is_a]--> Training and Capacity Development (taxonomy)
+- gamification --[is_a]--> Training Modalities (taxonomy)
+- urban food security --[is_a]--> Food Environment Assessment (taxonomy)
+- urban food security --[is_a]--> Urban Farming Systems (taxonomy)
+- spatial targeting --[addresses]--> soil acidity (extracted)
+- spatial targeting --[is_a]--> Geospatial Analysis and Mapping (taxonomy)
+- spatial targeting --[is_a]--> Statistical and Quantitative Methods (taxonomy)
+- spatial targeting --[is_a]--> Remote Sensing and Earth Observation (taxonomy)
+- ex ante economic analysis --[located_in]--> Sub-Saharan Africa (extracted)
+- ex ante economic analysis --[is_a]--> Economic and Impact Modeling (taxonomy)
+- ex ante economic analysis --[is_a]--> Economic Analysis and Impact (taxonomy)
+- ex ante economic analysis --[is_a]--> Impact Evaluation and Assessment (taxonomy)
+- ex ante economic analysis --[is_a]--> Economic Modeling and Analysis (taxonomy)
+- ex ante economic analysis --[is_a]--> Experimental and Evaluation Methods (taxonomy)
+- vision-to-action approach --[produces]--> participatory monitoring and evaluation (extracted)
+- vision-to-action approach --[is_a]--> Foresight and Strategic Planning (taxonomy)
+- vision-to-action approach --[is_a]--> Qualitative and Social Research Techniques (taxonomy)
+- vision-to-action approach --[is_a]--> Communication and Outreach (taxonomy)
+- disease and pest management --[targets]--> potato (extracted)
+- disease and pest management --[is_a]--> Integrated Pest Management (taxonomy)
+- disease and pest management --[is_a]--> Uncategorized (taxonomy)
+- shared services --[is_a]--> Mechanization Service Models (taxonomy)
+- shared services --[is_a]--> Institutional and Organizational Development (taxonomy)
+- shared services --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- shared services --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- island food systems --[is_a]--> Fisheries and Aquatic Food Systems (taxonomy)
+- island food systems --[is_a]--> Food System Frameworks and Approaches (taxonomy)
+- island food systems --[is_a]--> Food Systems Transformation (taxonomy)
+- refugee policy impact --[located_in]--> Sub-Saharan Africa (inferred)
+- refugee policy impact --[is_a]--> Food Security in Fragile Contexts (taxonomy)
+- refugee policy impact --[is_a]--> Humanitarian Response (taxonomy)
+- refugee policy impact --[is_a]--> Miscellaneous Agricultural Policy (taxonomy)
+- refugee policy impact --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- refugee policy impact --[is_a]--> Displacement and Migration (taxonomy)
+- payment for ecosystem services --[is_a]--> Nature-Based and Ecosystem Approaches (taxonomy)
+- payment for ecosystem services --[is_a]--> Landscape and Land Management (taxonomy)
+- payment for ecosystem services --[is_a]--> Ecosystem Restoration and Services (taxonomy)
+- payment for ecosystem services --[is_a]--> Climate Finance (taxonomy)
+- payment for ecosystem services --[is_a]--> Investment and Finance Mechanisms (taxonomy)
+- payment for ecosystem services --[is_a]--> Economic Modeling and Analysis (taxonomy)
+- payment for ecosystem services --[is_a]--> Payment for Ecosystem Services (taxonomy)
+- responsible scaling --[uses]--> whole-farm innovation bundles (extracted)
+- responsible scaling --[is_a]--> Technology Adoption and Diffusion (taxonomy)
+- responsible scaling --[is_a]--> Scaling Approaches (taxonomy)
+- responsible scaling --[is_a]--> Scaling Strategies and Frameworks (taxonomy)
+- responsible scaling --[is_a]--> Scaling Frameworks and Approaches (taxonomy)
+- responsible scaling --[is_a]--> Scaling Frameworks and Strategies (taxonomy)
+- feed and forage innovations --[targets]--> mixed farming systems (extracted)
+- feed and forage innovations --[located_in]--> Ethiopia (extracted)
+- feed and forage innovations --[is_a]--> Feed and Forage Management (taxonomy)
+- feed and forage innovations --[is_a]--> Uncategorized (taxonomy)
+- integrated water resources management --[uses]--> micro-drip irrigation (extracted)
+- integrated water resources management --[is_a]--> Agricultural Water Resources Management (taxonomy)
+- integrated water resources management --[is_a]--> Water Governance and Management (taxonomy)
+- water balance model --[is_a]--> Agricultural Water Resources Management (taxonomy)
+- water balance model --[is_a]--> Water Productivity and Efficiency (taxonomy)
+- water balance model --[is_a]--> Crop and Agricultural Modeling (taxonomy)
+- water balance model --[is_a]--> Systems and Simulation Modeling (taxonomy)
+- water balance model --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- generative artificial intelligence --[part_of]--> digital transformation (inferred)
+- generative artificial intelligence --[is_a]--> Core AI and ML Methods (taxonomy)
+- generative artificial intelligence --[is_a]--> Core AI and ML Approaches (taxonomy)
+- generative artificial intelligence --[is_a]--> Artificial Intelligence and Machine Learning (taxonomy)
+- climate attribution --[addresses]--> Sub-Saharan Africa (extracted)
+- climate attribution --[supports]--> loss and damage assessment (extracted)
+- climate attribution --[is_a]--> Climate Risk Assessment and Vulnerability (taxonomy)
+- climate attribution --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- climate attribution --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- traditional knowledge systems --[is_a]--> Landscape and Ecosystem Approaches (taxonomy)
+- traditional knowledge systems --[is_a]--> Miscellaneous Wellbeing Concepts (taxonomy)
+- traditional knowledge systems --[is_a]--> Traditional and Indigenous Knowledge (taxonomy)
+- traditional knowledge systems --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- nutrition security --[is_a]--> Nutrition-Sensitive Approaches (taxonomy)
+- nutrition security --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- fodder cultivation --[is_a]--> Feed and Forage Management (taxonomy)
+- fodder cultivation --[is_a]--> Uncategorized (taxonomy)
+- mechanical transplanting --[addresses]--> rice (extracted)
+- mechanical transplanting --[is_a]--> Cropping Systems (taxonomy)
+- mechanical transplanting --[is_a]--> Mechanization Technologies (taxonomy)
+- responsible innovation --[part_of]--> CGIAR (extracted)
+- responsible innovation --[is_a]--> Technology Adoption and Diffusion (taxonomy)
+- responsible innovation --[is_a]--> Agricultural Innovation Systems (taxonomy)
+- responsible innovation --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- responsible innovation --[is_a]--> Responsible and Ethical Innovation (taxonomy)
+- crop intensification --[uses]--> short-duration aman rice (extracted)
+- crop intensification --[is_a]--> Cropping Systems (taxonomy)
+- crop intensification --[is_a]--> Uncategorized (taxonomy)
+- fungicidal seed treatment --[addresses]--> common bunt (extracted)
+- fungicidal seed treatment --[is_a]--> Seed Quality and Certification (taxonomy)
+- fungicidal seed treatment --[is_a]--> Disease Management (taxonomy)
+- systematic agrobiodiversity monitoring --[addresses]--> on-farm conservation (extracted)
+- systematic agrobiodiversity monitoring --[is_a]--> Nature-Based and Ecosystem Approaches (taxonomy)
+- systematic agrobiodiversity monitoring --[is_a]--> Biodiversity Conservation (taxonomy)
+- systematic agrobiodiversity monitoring --[is_a]--> Early Warning and Monitoring Systems (taxonomy)
+- systematic agrobiodiversity monitoring --[is_a]--> Remote Sensing and Digital Monitoring (taxonomy)
+- nutritional security --[is_a]--> Nutrition-Sensitive Approaches (taxonomy)
+- nutritional security --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- payment for environmental services --[located_in]--> China (extracted)
+- payment for environmental services --[is_a]--> Nature-Based and Ecosystem Approaches (taxonomy)
+- payment for environmental services --[is_a]--> Ecosystem Restoration and Services (taxonomy)
+- payment for environmental services --[is_a]--> Climate Finance (taxonomy)
+- payment for environmental services --[is_a]--> Investment and Finance Mechanisms (taxonomy)
+- payment for environmental services --[is_a]--> Economic Modeling and Analysis (taxonomy)
+- payment for environmental services --[is_a]--> Payment for Ecosystem Services (taxonomy)
+- biochar application --[targets]--> smallholder farmers (extracted)
+- biochar application --[addresses]--> climate change mitigation (extracted)
+- biochar application --[is_a]--> Organic and Circular Farming (taxonomy)
+- biochar application --[is_a]--> Soil Health and Management (taxonomy)
+- seed health testing --[uses]--> Baermann Funnel Method (extracted)
+- seed health testing --[addresses]--> seed-borne pathogens (extracted)
+- seed health testing --[is_a]--> Seed Quality and Certification (taxonomy)
+- seed health testing --[is_a]--> Disease Management (taxonomy)
+- seed health testing --[is_a]--> Seed Systems Development (taxonomy)
+- seed health testing --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- collective action --[addresses]--> Lantana camara (extracted)
+- collective action --[located_in]--> Lake Victoria (extracted)
+- collective action --[is_a]--> Smallholder and Community Farming (taxonomy)
+- collective action --[is_a]--> Collective Action and Governance (taxonomy)
+- collective action --[is_a]--> Miscellaneous Wellbeing Concepts (taxonomy)
+- collective action --[is_a]--> Participatory Governance and Rangeland Management (taxonomy)
+- collective action --[is_a]--> Institutional Coordination Mechanisms (taxonomy)
+- collective action --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- collective action --[is_a]--> Governance Frameworks (taxonomy)
+- policy advocacy --[produces]--> phytosanitary bylaws (extracted)
+- policy advocacy --[is_a]--> Policy and Enabling Environment (taxonomy)
+- policy advocacy --[is_a]--> Policy Dialogue and Advocacy (taxonomy)
+- policy advocacy --[is_a]--> Evidence-Based Policy Processes (taxonomy)
+- policy advocacy --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- policy advocacy --[is_a]--> Integrated and Adaptive Management (taxonomy)
+- phytosanitary measures --[is_a]--> Seed Quality and Certification (taxonomy)
+- phytosanitary measures --[is_a]--> Disease Management (taxonomy)
+- phytosanitary measures --[is_a]--> Food Safety Monitoring and Management (taxonomy)
+- phytosanitary measures --[is_a]--> Phytosanitary and Biosafety Regulation (taxonomy)
+- parasitism rate --[is_a]--> Biological Control (taxonomy)
+- parasitism rate --[is_a]--> Uncategorized (taxonomy)
+- gendered labor response --[addresses]--> herder-farmer conflict (extracted)
+- gendered labor response --[is_a]--> Labor and Migration (taxonomy)
+- gendered labor response --[is_a]--> Gender Mainstreaming and Programming (taxonomy)
+- gendered labor response --[is_a]--> Gender Research Methods (taxonomy)
+- gendered labor response --[is_a]--> Gender Dynamics and Analysis (taxonomy)
+- systems thinking --[uses]--> participatory capacity building (extracted)
+- systems thinking --[part_of]--> aquatic food systems (extracted)
+- systems thinking --[is_a]--> Participatory and Farmer-Centered Approaches (taxonomy)
+- systems thinking --[is_a]--> Institutional Learning and Adaptive Management (taxonomy)
+- systems thinking --[is_a]--> Foresight and Strategic Planning (taxonomy)
+- systems thinking --[is_a]--> Mixed Methods and Interdisciplinary Approaches (taxonomy)
+- systems thinking --[is_a]--> Systems and Transdisciplinary Research (taxonomy)
+- participatory capacity building --[is_a]--> Participatory Research Methods (taxonomy)
+- participatory capacity building --[is_a]--> Training and Capacity Development (taxonomy)
+- soil organic carbon sequestration --[uses]--> mineral-associated organic carbon (extracted)
+- soil organic carbon sequestration --[uses]--> forage grasses (extracted)
+- soil organic carbon sequestration --[is_a]--> Soil Health and Fertility Management (taxonomy)
+- soil organic carbon sequestration --[is_a]--> Carbon Sequestration and Carbon Markets (taxonomy)
+- soil organic carbon sequestration --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- community-led environmental management --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- community-led environmental management --[is_a]--> Locally Led Approaches (taxonomy)
+- community fish refuge management --[located_in]--> Cambodia (extracted)
+- community fish refuge management --[located_in]--> Prey Veng Province (extracted)
+- community fish refuge management --[is_a]--> Integrated Rice-Fish and Aquatic Farming (taxonomy)
+- nitrogen isotope analysis --[part_of]--> greenhouse gas measurement (extracted)
+- nitrogen isotope analysis --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- nitrogen isotope analysis --[is_a]--> Uncategorized (taxonomy)
+- climate-smart credit scoring --[targets]--> smallholder farmer (extracted)
+- climate-smart credit scoring --[is_a]--> Climate Risk Finance and Insurance (taxonomy)
+- climate-smart credit scoring --[is_a]--> Agricultural Insurance (taxonomy)
+- climate-smart credit scoring --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- climate-smart credit scoring --[is_a]--> Insurance and Risk Finance (taxonomy)
+- drought tolerance screening --[uses]--> Leasyscan (extracted)
+- drought tolerance screening --[is_a]--> Stress Tolerance Screening (taxonomy)
+- drought tolerance screening --[is_a]--> Crop Genetic Improvement (taxonomy)
+- drought tolerance screening --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- terminal heat stress --[affects]--> wheat (extracted)
+- terminal heat stress --[is_a]--> Stress Tolerance Screening (taxonomy)
+- terminal heat stress --[is_a]--> Crop Genetic Improvement (taxonomy)
+- zero deforestation compliance --[is_a]--> Landscape and Land Management (taxonomy)
+- zero deforestation compliance --[is_a]--> Sustainable Land Management (taxonomy)
+- pest risk identification --[addresses]--> hydroclimatic extremes (extracted)
+- pest risk identification --[is_a]--> Integrated Pest Management (taxonomy)
+- pest risk identification --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- pest risk identification --[is_a]--> Uncategorized (taxonomy)
+- carbon credit certification --[produces]--> water-use efficiency (inferred)
+- carbon credit certification --[is_a]--> Carbon and Greenhouse Gas Management in Farming (taxonomy)
+- carbon credit certification --[is_a]--> Carbon Sequestration and Carbon Markets (taxonomy)
+- carbon credit certification --[is_a]--> Climate Finance (taxonomy)
+- carbon credit certification --[is_a]--> Investment and Finance Mechanisms (taxonomy)
+- carbon credit certification --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- circular economy solutions --[addresses]--> greenhouse gas measurement (inferred)
+- circular economy solutions --[is_a]--> Organic and Circular Farming (taxonomy)
+- circular economy solutions --[is_a]--> Biogas and Circular Bioeconomy (taxonomy)
+- circular economy solutions --[is_a]--> Food Loss and Waste Reduction (taxonomy)
+- circular economy solutions --[is_a]--> Circular Economy Principles (taxonomy)
+- feed composition databases --[targets]--> livestock producers (inferred)
+- feed composition databases --[is_a]--> Feed and Forage Management (taxonomy)
+- feed composition databases --[is_a]--> Digital Platforms and Infrastructure (taxonomy)
+- soil organic carbon monitoring --[uses]--> Our Sci-Reflectometer (extracted)
+- soil organic carbon monitoring --[is_a]--> Soil Health and Fertility Management (taxonomy)
+- soil organic carbon monitoring --[is_a]--> Soil Health and Management (taxonomy)
+- soil organic carbon monitoring --[is_a]--> Early Warning and Monitoring Systems (taxonomy)
+- soil organic carbon monitoring --[is_a]--> Remote Sensing and Digital Monitoring (taxonomy)
+- farmer-led extension --[uses]--> pioneer-positive deviance (extracted)
+- farmer-led extension --[is_a]--> Agricultural Extension and Advisory Services (taxonomy)
+- farmer-led extension --[is_a]--> Extension Approaches and Methods (taxonomy)
+- farmer-led extension --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- digital extension integration --[is_a]--> Agricultural Extension and Advisory Services (taxonomy)
+- digital extension integration --[is_a]--> Digital Extension Integration and Literacy (taxonomy)
+- digital extension integration --[is_a]--> Digital Advisory and Extension Platforms (taxonomy)
+- digital extension integration --[is_a]--> Digital Advisory and Extension Services (taxonomy)
+- digital extension integration --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- digital extension integration --[is_a]--> Digital Advisory and Extension (taxonomy)
+- climate-smart pest management --[targets]--> rice (extracted)
+- climate-smart pest management --[is_a]--> Integrated Pest Management (taxonomy)
+- biological control agents --[targets]--> yellow stemborer (extracted)
+- biological control agents --[targets]--> sheath blight (extracted)
+- biological control agents --[is_a]--> Biological Control (taxonomy)
+- farmer field demonstrations --[targets]--> soybean (extracted)
+- farmer field demonstrations --[located_in]--> Egypt (extracted)
+- farmer field demonstrations --[is_a]--> Precision and Digital Crop Management (taxonomy)
+- farmer field demonstrations --[is_a]--> Agricultural Extension and Advisory Services (taxonomy)
+- farmer field demonstrations --[is_a]--> Extension Approaches and Methods (taxonomy)
+- farmer field demonstrations --[is_a]--> Training and Capacity Development (taxonomy)
+- agroecology transition --[located_in]--> Tunisia (extracted)
+- agroecology transition --[is_a]--> Core Agroecological Approaches (taxonomy)
+- agroecology transition --[is_a]--> Transformative Change (taxonomy)
+- agroecosystem living labs --[uses]--> participatory research (extracted)
+- agroecosystem living labs --[is_a]--> Technology Adoption and Diffusion (taxonomy)
+- agroecosystem living labs --[is_a]--> Transdisciplinary and Systems Research (taxonomy)
+- agroecosystem living labs --[is_a]--> Agricultural Innovation Systems (taxonomy)
+- agroecosystem living labs --[is_a]--> Co-Design and Co-Creation Methods (taxonomy)
+- agroecosystem living labs --[is_a]--> Communities of Practice and Networks (taxonomy)
+- gender-responsive policy --[addresses]--> climate-smart agriculture (extracted)
+- gender-responsive policy --[is_a]--> Gender Mainstreaming and Programming (taxonomy)
+- gender-responsive policy --[is_a]--> Gender-Transformative Approaches (taxonomy)
+- gender-responsive policy --[is_a]--> Gender-Responsive Policy and Governance (taxonomy)
+- gender-responsive policy --[is_a]--> Gender-Responsive Programming (taxonomy)
+- adaptive scaling --[targets]--> smallholder farmers (inferred)
+- adaptive scaling --[is_a]--> Technology Adoption and Diffusion (taxonomy)
+- adaptive scaling --[is_a]--> Scaling Approaches (taxonomy)
+- adaptive scaling --[is_a]--> Scaling Strategies and Frameworks (taxonomy)
+- adaptive scaling --[is_a]--> Scaling Frameworks and Approaches (taxonomy)
+- adaptive scaling --[is_a]--> Scaling Frameworks and Strategies (taxonomy)
+- environmental peacebuilding --[uses]--> nutrition-sensitive agriculture (extracted)
+- environmental peacebuilding --[addresses]--> climate security (extracted)
+- environmental peacebuilding --[is_a]--> Climate Policy and Governance (taxonomy)
+- environmental peacebuilding --[is_a]--> Peacebuilding and Environmental Security (taxonomy)
+- environmental peacebuilding --[is_a]--> Conflict-Sensitive Governance (taxonomy)
+- environmental peacebuilding --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- environmental peacebuilding --[is_a]--> Climate-Conflict Nexus (taxonomy)
+- training needs assessment --[is_a]--> Curriculum and Skills Development (taxonomy)
+- training needs assessment --[is_a]--> Monitoring and Evaluation Frameworks (taxonomy)
+- training needs assessment --[is_a]--> Capacity Building Approaches (taxonomy)
+- soil health monitoring --[is_a]--> Soil Health and Fertility Management (taxonomy)
+- soil health monitoring --[is_a]--> Soil Health and Management (taxonomy)
+- soil health monitoring --[is_a]--> Early Warning and Monitoring Systems (taxonomy)
+- soil health monitoring --[is_a]--> Remote Sensing and Digital Monitoring (taxonomy)
+- genetic diversity assessment --[uses]--> sweet potato (extracted)
+- genetic diversity assessment --[is_a]--> Genetic Diversity Assessment (taxonomy)
+- genetic diversity assessment --[is_a]--> Crop Genetic Improvement (taxonomy)
+- genetic diversity assessment --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- investment action plan --[is_a]--> Agribusiness Training and Capacity (taxonomy)
+- investment action plan --[is_a]--> Investment and Finance Mechanisms (taxonomy)
+- investment action plan --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- investment action plan --[is_a]--> Blended Finance and Investment (taxonomy)
+- vision-to-action mapping --[produces]--> multifunctional landscapes (extracted)
+- vision-to-action mapping --[is_a]--> Foresight and Strategic Planning (taxonomy)
+- vision-to-action mapping --[is_a]--> Qualitative and Social Research Techniques (taxonomy)
+- vision-to-action mapping --[is_a]--> Communication and Outreach (taxonomy)
+- mechanization services --[uses]--> mobile application (extracted)
+- mechanization services --[is_a]--> Agricultural Mechanization (taxonomy)
+- mechanization services --[is_a]--> Mechanization Service Models (taxonomy)
+- diet quality monitoring --[located_in]--> Guatemala (extracted)
+- diet quality monitoring --[uses]--> MEMO chatbot (extracted)
+- diet quality monitoring --[is_a]--> Dietary Assessment and Quality (taxonomy)
+- diet quality monitoring --[is_a]--> Early Warning and Monitoring Systems (taxonomy)
+- diet quality monitoring --[is_a]--> Statistical and Quantitative Methods (taxonomy)
+- knowledge platform --[part_of]--> CGIAR (extracted)
+- knowledge platform --[is_a]--> Digital Platforms and Infrastructure (taxonomy)
+- knowledge platform --[is_a]--> Digital Agriculture Systems (taxonomy)
+- knowledge platform --[is_a]--> Knowledge Platforms and Systems (taxonomy)
+- knowledge platform --[is_a]--> Knowledge Exchange and Policy Learning (taxonomy)
+- knowledge platform --[is_a]--> Knowledge Exchange and Dissemination (taxonomy)
+- knowledge platform --[is_a]--> South-South and Knowledge Exchange (taxonomy)
+- urban agriculture --[located_in]--> Quezon City (extracted)
+- urban agriculture --[is_a]--> Cropping Systems (taxonomy)
+- urban agriculture --[is_a]--> Food Environment Assessment (taxonomy)
+- urban agriculture --[is_a]--> Urban Farming Systems (taxonomy)
+- land sparing --[is_a]--> Nature-Based and Ecosystem Approaches (taxonomy)
+- land sparing --[is_a]--> Sustainable Land Management (taxonomy)
+- heritability metrics --[part_of]--> plant breeding (extracted)
+- heritability metrics --[is_a]--> Trait Characterization and Analysis (taxonomy)
+- heritability metrics --[is_a]--> Crop Genetic Improvement (taxonomy)
+- heritability metrics --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- artificial insemination --[is_a]--> Livestock Production and Management (taxonomy)
+- territorial innovation networks --[located_in]--> Guatemala (extracted)
+- territorial innovation networks --[uses]--> participatory research (extracted)
+- territorial innovation networks --[is_a]--> Private Sector and Partnerships (taxonomy)
+- territorial innovation networks --[is_a]--> Innovation Platforms and Networks (taxonomy)
+- territorial innovation networks --[is_a]--> Institutional Coordination Mechanisms (taxonomy)
+- territorial innovation networks --[is_a]--> Knowledge Exchange and Dissemination (taxonomy)
+- territorial innovation networks --[is_a]--> Communities of Practice and Networks (taxonomy)
+- iot sensor networks --[is_a]--> Precision Farming Technologies (taxonomy)
+- iot sensor networks --[is_a]--> Remote Sensing and Digital Monitoring (taxonomy)
+- iot sensor networks --[is_a]--> Digital Platforms and Infrastructure (taxonomy)
+- satellite imagery analysis --[is_a]--> Satellite and Remote Sensing Applications (taxonomy)
+- satellite imagery analysis --[is_a]--> Satellite-Based Monitoring (taxonomy)
+- satellite imagery analysis --[is_a]--> Remote Sensing and Digital Monitoring (taxonomy)
+- satellite imagery analysis --[is_a]--> Remote Sensing and Earth Observation (taxonomy)
+- homestead aquaculture --[targets]--> food security (inferred)
+- homestead aquaculture --[is_a]--> Aquaculture Systems (taxonomy)
+- digital financial services --[uses]--> satellite-based crop monitoring (extracted)
+- digital financial services --[targets]--> smallholder farmers (extracted)
+- digital financial services --[is_a]--> Digital Platforms and Infrastructure (taxonomy)
+- digital financial services --[is_a]--> Finance and Investment Mechanisms (taxonomy)
+- digital financial services --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- policy dialogue --[is_a]--> Policy and Enabling Environment (taxonomy)
+- policy dialogue --[is_a]--> Policy Dialogue and Advocacy (taxonomy)
+- policy dialogue --[is_a]--> Evidence-Based Policy Processes (taxonomy)
+- policy dialogue --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- policy dialogue --[is_a]--> Integrated and Adaptive Management (taxonomy)
+- agrifood system transformation --[is_a]--> Food System Frameworks and Approaches (taxonomy)
+- agrifood system transformation --[is_a]--> Food Systems Transformation (taxonomy)
+- climate suitability mapping --[addresses]--> climate-smart agriculture (inferred)
+- climate suitability mapping --[is_a]--> Climate Risk Assessment and Vulnerability (taxonomy)
+- climate suitability mapping --[is_a]--> Geospatial Analysis and Mapping (taxonomy)
+- climate suitability mapping --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- disaster risk management --[is_a]--> Climate Risk Finance and Insurance (taxonomy)
+- disaster risk management --[is_a]--> Disaster Risk and Humanitarian Governance (taxonomy)
+- disaster risk management --[is_a]--> Fragile and Conflict-Affected Settings (taxonomy)
+- livestock feed optimization --[is_a]--> Feed and Forage Management (taxonomy)
+- gender-responsive budgeting --[located_in]--> Bangladesh (extracted)
+- gender-responsive budgeting --[is_a]--> Gender Mainstreaming and Programming (taxonomy)
+- gender-responsive budgeting --[is_a]--> Gender-Transformative Approaches (taxonomy)
+- gender-responsive budgeting --[is_a]--> Gender-Responsive Policy and Governance (taxonomy)
+- gender-responsive budgeting --[is_a]--> Gender-Responsive Programming (taxonomy)
+- bundled innovations --[uses]--> maize (extracted)
+- bundled innovations --[targets]--> smallholder farmers (extracted)
+- bundled innovations --[is_a]--> Precision and Digital Crop Management (taxonomy)
+- bundled innovations --[is_a]--> Smallholder Farming Systems (taxonomy)
+- bundled innovations --[is_a]--> Technology Adoption and Diffusion (taxonomy)
+- bundled innovations --[is_a]--> Innovation Assessment and Bundling (taxonomy)
+- bundled innovations --[is_a]--> Innovation Bundling and Packages (taxonomy)
+- family-based selection --[is_a]--> Advanced Breeding Techniques (taxonomy)
+- family-based selection --[is_a]--> Crop Genetic Improvement (taxonomy)
+- family-based selection --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- digital agricultural advisory --[targets]--> smallholder farmer (extracted)
+- digital agricultural advisory --[is_a]--> Agricultural Extension and Advisory Services (taxonomy)
+- digital agricultural advisory --[is_a]--> Core Digital Advisory Services (taxonomy)
+- digital agricultural advisory --[is_a]--> Digital Advisory and Extension Platforms (taxonomy)
+- digital agricultural advisory --[is_a]--> Digital Advisory and Extension Services (taxonomy)
+- digital agricultural advisory --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- digital agricultural advisory --[is_a]--> Digital Advisory and Extension (taxonomy)
+- location-specific recommendations --[is_a]--> Precision and Digital Crop Management (taxonomy)
+- diagnostic bootcamp --[located_in]--> Malawi (extracted)
+- diagnostic bootcamp --[located_in]--> Zambia (extracted)
+- diagnostic bootcamp --[is_a]--> Participatory and Community Learning Methods (taxonomy)
+- diagnostic bootcamp --[is_a]--> Qualitative and Social Research Techniques (taxonomy)
+- diagnostic bootcamp --[is_a]--> Training Modalities (taxonomy)
+- forage legume integration --[located_in]--> Kenya (extracted)
+- forage legume integration --[is_a]--> Feed and Forage Management (taxonomy)
+- improved seed adoption --[targets]--> smallholder farmers (extracted)
+- improved seed adoption --[is_a]--> Variety Adoption and Deployment (taxonomy)
+- improved seed adoption --[is_a]--> Technology Adoption and Diffusion (taxonomy)
+- drone-based monitoring --[uses]--> atmospheric dispersion modeling (extracted)
+- drone-based monitoring --[located_in]--> Kenya (extracted)
+- drone-based monitoring --[is_a]--> Satellite and Remote Sensing Applications (taxonomy)
+- drone-based monitoring --[is_a]--> Drone and UAV Applications (taxonomy)
+- drone-based monitoring --[is_a]--> Remote Sensing and Digital Monitoring (taxonomy)
+- drone-based monitoring --[is_a]--> Remote Sensing and Earth Observation (taxonomy)
+- enteric fermentation --[produces]--> greenhouse gas emissions (extracted)
+- enteric fermentation --[is_a]--> Livestock Methane and Emissions (taxonomy)
+- enteric fermentation --[is_a]--> Methane and Emission Reduction Practices (taxonomy)
+- enteric fermentation --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- greenhouse gas inventory --[uses]--> emission factors (extracted)
+- greenhouse gas inventory --[is_a]--> Carbon and Greenhouse Gas Management in Farming (taxonomy)
+- greenhouse gas inventory --[is_a]--> Greenhouse Gas Measurement and Monitoring (taxonomy)
+- greenhouse gas inventory --[is_a]--> Greenhouse Gas Measurement and Reporting (taxonomy)
+- peer learning networks --[is_a]--> Peer and Experiential Learning (taxonomy)
+- peer learning networks --[is_a]--> Knowledge Exchange and Policy Learning (taxonomy)
+- peer learning networks --[is_a]--> Training and Capacity Development (taxonomy)
+- peer learning networks --[is_a]--> Participatory Learning Methods (taxonomy)
+- food systems leadership --[is_a]--> Food System Frameworks and Approaches (taxonomy)
+- food systems leadership --[is_a]--> Miscellaneous Wellbeing Concepts (taxonomy)
+- food systems leadership --[is_a]--> Knowledge Exchange and Policy Learning (taxonomy)
+- food systems leadership --[is_a]--> Foresight and Strategic Planning Methods (taxonomy)
+- food systems leadership --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- food systems leadership --[is_a]--> Food Systems Transformation (taxonomy)
+- consumer preference mapping --[uses]--> cassava (extracted)
+- consumer preference mapping --[is_a]--> Consumer Preferences and Behavior (taxonomy)
+- consumer preference mapping --[is_a]--> Market Analysis and Assessment (taxonomy)
+- consumer preference mapping --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- quality assurance --[addresses]--> black soldier fly larvae (extracted)
+- quality assurance --[is_a]--> Post-Harvest and Food Loss Management (taxonomy)
+- quality assurance --[is_a]--> Food Safety Monitoring and Management (taxonomy)
+- quality assurance --[is_a]--> Supply Chain and Post-Harvest (taxonomy)
+- quality assurance --[is_a]--> Institutional and Organizational Development (taxonomy)
+- quality assurance --[is_a]--> Quality and Food Safety Standards (taxonomy)
+- quality assurance --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- quality assurance --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- usability testing --[uses]--> Bulletin Builder (extracted)
+- usability testing --[is_a]--> Co-Design and Co-Production (taxonomy)
+- usability testing --[is_a]--> Monitoring and Evaluation Frameworks (taxonomy)
+- usability testing --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- south-south collaboration --[collaborates_with]--> WorldFish (extracted)
+- south-south collaboration --[is_a]--> Knowledge Exchange and Sharing (taxonomy)
+- south-south collaboration --[is_a]--> Knowledge Exchange and Policy Learning (taxonomy)
+- south-south collaboration --[is_a]--> Knowledge Exchange and Dissemination (taxonomy)
+- south-south collaboration --[is_a]--> South-South and Knowledge Exchange (taxonomy)
+- low-carbon agriculture --[is_a]--> Climate-Smart Agriculture (taxonomy)
+- low-carbon agriculture --[is_a]--> Low-Carbon and Zero-Carbon Agriculture (taxonomy)
+- low-carbon agriculture --[is_a]--> Planetary and Environmental Sustainability (taxonomy)
+- digital extension services --[is_a]--> Agricultural Extension and Advisory Services (taxonomy)
+- digital extension services --[is_a]--> Core Digital Advisory Services (taxonomy)
+- digital extension services --[is_a]--> Digital Advisory and Extension Platforms (taxonomy)
+- digital extension services --[is_a]--> Digital Advisory and Extension Services (taxonomy)
+- digital extension services --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- digital extension services --[is_a]--> Digital Advisory and Extension (taxonomy)
+- yield projection --[is_a]--> Precision and Digital Crop Management (taxonomy)
+- yield projection --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- climate adaptation practices --[located_in]--> Bangladesh (extracted)
+- climate adaptation practices --[located_in]--> Kenya (extracted)
+- climate adaptation practices --[located_in]--> Zambia (extracted)
+- climate adaptation practices --[is_a]--> Adaptation Planning and Implementation (taxonomy)
+- fertilizer policy --[located_in]--> India (extracted)
+- fertilizer policy --[is_a]--> Policy and Enabling Environment (taxonomy)
+- fertilizer policy --[is_a]--> Core Policy Instruments (taxonomy)
+- nutrient management --[addresses]--> food security (inferred)
+- nutrient management --[is_a]--> Soil Health and Fertility Management (taxonomy)
+- environmental justice --[is_a]--> Climate Policy and Governance (taxonomy)
+- environmental justice --[is_a]--> Justice and Rights (taxonomy)
+- environmental justice --[is_a]--> Justice and Equity Frameworks (taxonomy)
+- environmental justice --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- agrobiodiversity monitoring --[is_a]--> Nature-Based and Ecosystem Approaches (taxonomy)
+- agrobiodiversity monitoring --[is_a]--> Biodiversity Conservation (taxonomy)
+- agrobiodiversity monitoring --[is_a]--> Early Warning and Monitoring Systems (taxonomy)
+- agrobiodiversity monitoring --[is_a]--> Remote Sensing and Digital Monitoring (taxonomy)
+- school meal diversification --[uses]--> agrobiodiversity monitoring (extracted)
+- school meal diversification --[is_a]--> Dietary Behavior and Interventions (taxonomy)
+- school meal diversification --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- cost-effectiveness analysis --[uses]--> methane emission reduction (extracted)
+- cost-effectiveness analysis --[is_a]--> Economic Analysis and Impact (taxonomy)
+- cost-effectiveness analysis --[is_a]--> Impact Evaluation and Assessment (taxonomy)
+- cost-effectiveness analysis --[is_a]--> Economic Modeling and Analysis (taxonomy)
+- cost-effectiveness analysis --[is_a]--> Experimental and Evaluation Methods (taxonomy)
+- eco-compensation --[addresses]--> climate change mitigation (extracted)
+- eco-compensation --[is_a]--> Landscape and Land Management (taxonomy)
+- eco-compensation --[is_a]--> Ecosystem Restoration and Services (taxonomy)
+- eco-compensation --[is_a]--> Climate Finance (taxonomy)
+- eco-compensation --[is_a]--> Investment and Finance Mechanisms (taxonomy)
+- eco-compensation --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- eco-compensation --[is_a]--> Payment for Ecosystem Services (taxonomy)
+- methane emission reduction --[is_a]--> Livestock Methane and Emissions (taxonomy)
+- methane emission reduction --[is_a]--> Methane and Emission Reduction Practices (taxonomy)
+- methane emission reduction --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- pastoral adaptation --[is_a]--> Pastoral and Rangeland Systems (taxonomy)
+- pastoral adaptation --[is_a]--> Landscape and Ecosystem Approaches (taxonomy)
+- climate justice --[targets]--> smallholder farmers (extracted)
+- climate justice --[is_a]--> Climate Policy and Governance (taxonomy)
+- climate justice --[is_a]--> Justice and Rights (taxonomy)
+- climate justice --[is_a]--> Justice and Equity Frameworks (taxonomy)
+- climate justice --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- farmer-led innovation --[uses]--> farmers handbook (extracted)
+- farmer-led innovation --[is_a]--> Technology Adoption and Diffusion (taxonomy)
+- farmer-led innovation --[is_a]--> Participatory Breeding and Variety Selection (taxonomy)
+- farmer-led innovation --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- nutritional status --[is_a]--> Nutrition-Sensitive Approaches (taxonomy)
+- nutritional status --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- value chain mapping --[targets]--> faba beans (extracted)
+- value chain mapping --[is_a]--> Value Chain Development (taxonomy)
+- value chain mapping --[is_a]--> Core Value Chain Concepts (taxonomy)
+- value chain mapping --[is_a]--> Statistical and Quantitative Methods (taxonomy)
+- livestock health extension --[targets]--> pastoralists (extracted)
+- livestock health extension --[is_a]--> Herd Health Management (taxonomy)
+- livestock health extension --[is_a]--> Digital Advisory and Extension Services (taxonomy)
+- rangeland governance --[part_of]--> pastoralist systems (inferred)
+- rangeland governance --[is_a]--> Pastoral and Rangeland Systems (taxonomy)
+- rangeland governance --[is_a]--> Sustainable Land Management (taxonomy)
+- rangeland governance --[is_a]--> Collective Action and Governance (taxonomy)
+- rangeland governance --[is_a]--> Participatory and Polycentric Governance (taxonomy)
+- rangeland governance --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- participatory methodology --[targets]--> smallholder farmer (extracted)
+- participatory methodology --[is_a]--> Participatory and Farmer-Centered Approaches (taxonomy)
+- participatory methodology --[is_a]--> Participatory Research Methods (taxonomy)
+- participatory methodology --[is_a]--> Participatory Learning Methods (taxonomy)
+- innovation package --[targets]--> smallholder farmer (extracted)
+- innovation package --[is_a]--> Precision and Digital Crop Management (taxonomy)
+- innovation package --[is_a]--> Smallholder Farming Systems (taxonomy)
+- innovation package --[is_a]--> Technology Adoption and Diffusion (taxonomy)
+- innovation package --[is_a]--> Innovation Assessment and Bundling (taxonomy)
+- innovation package --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- innovation package --[is_a]--> Innovation Bundling and Packages (taxonomy)
+- market systems development --[targets]--> pigs (extracted)
+- market systems development --[addresses]--> smallholder farmers (extracted)
+- market systems development --[is_a]--> Value Chain Development (taxonomy)
+- market systems development --[is_a]--> Market Analysis and Assessment (taxonomy)
+- gender-responsive research --[addresses]--> lentil (extracted)
+- gender-responsive research --[uses]--> integrated pest management (extracted)
+- gender-responsive research --[targets]--> smallholder farmers (inferred)
+- gender-responsive research --[is_a]--> Gender Mainstreaming and Programming (taxonomy)
+- gender-responsive research --[is_a]--> Gender-Transformative Approaches (taxonomy)
+- gender-responsive research --[is_a]--> Gender Research Methods (taxonomy)
+- gender-responsive research --[is_a]--> Gender-Responsive Programming (taxonomy)
+- biosecurity practices --[located_in]--> Kenya (extracted)
+- biosecurity practices --[is_a]--> Herd Health Management (taxonomy)
+- biosecurity practices --[is_a]--> Food Safety Monitoring and Management (taxonomy)
+- biosecurity practices --[is_a]--> Biosecurity and Disease Prevention (taxonomy)
+- food safety management --[addresses]--> Salmonella (extracted)
+- food safety management --[is_a]--> Post-Harvest and Food Loss Management (taxonomy)
+- food safety management --[is_a]--> Food Safety Monitoring and Management (taxonomy)
+- food safety management --[is_a]--> Supply Chain and Post-Harvest (taxonomy)
+- food safety management --[is_a]--> Quality and Food Safety Standards (taxonomy)
+- food safety management --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- farmer-led irrigation development --[located_in]--> Kenya (extracted)
+- farmer-led irrigation development --[is_a]--> Irrigation Systems and Technologies (taxonomy)
+- farmer-led irrigation development --[is_a]--> Irrigation and Water Infrastructure (taxonomy)
+- community engagement --[is_a]--> Collective Action and Governance (taxonomy)
+- community engagement --[is_a]--> Miscellaneous Wellbeing Concepts (taxonomy)
+- community engagement --[is_a]--> Participatory Governance and Rangeland Management (taxonomy)
+- community engagement --[is_a]--> Stakeholder Engagement and Consultation (taxonomy)
+- community engagement --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- community engagement --[is_a]--> Governance Frameworks (taxonomy)
+- sustainable agricultural mechanization --[located_in]--> Mexico (extracted)
+- sustainable agricultural mechanization --[is_a]--> Agricultural Mechanization (taxonomy)
+- sustainable agricultural mechanization --[is_a]--> Sustainable Intensification and Diversification (taxonomy)
+- sustainable agricultural mechanization --[is_a]--> Mechanization Technologies (taxonomy)
+- multistakeholder networks --[uses]--> innovation scaling (extracted)
+- multistakeholder networks --[is_a]--> Multi-Stakeholder Engagement (taxonomy)
+- multistakeholder networks --[is_a]--> Innovation Platforms and Networks (taxonomy)
+- multistakeholder networks --[is_a]--> Multi-Stakeholder Platforms and Partnerships (taxonomy)
+- multistakeholder networks --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- innovation hubs --[produces]--> regenerative agriculture (extracted)
+- innovation hubs --[is_a]--> Technology Adoption and Diffusion (taxonomy)
+- innovation hubs --[is_a]--> Business Models and Development (taxonomy)
+- innovation hubs --[is_a]--> Innovation Platforms and Networks (taxonomy)
+- innovation hubs --[is_a]--> Agricultural Innovation Systems (taxonomy)
+- innovation hubs --[is_a]--> Knowledge Exchange and Dissemination (taxonomy)
+- innovation hubs --[is_a]--> Communities of Practice and Networks (taxonomy)
+- youth empowerment --[is_a]--> Youth and Women's Economic Empowerment (taxonomy)
+- youth empowerment --[is_a]--> Youth and Marginalized Groups (taxonomy)
+- youth empowerment --[is_a]--> Women's Empowerment and Leadership (taxonomy)
+- youth empowerment --[is_a]--> Women's Empowerment (taxonomy)
+- adaptation planning --[uses]--> cost-benefit analysis (inferred)
+- adaptation planning --[located_in]--> The Gambia (extracted)
+- adaptation planning --[is_a]--> Adaptation Planning and Implementation (taxonomy)
+- adaptation planning --[is_a]--> Uncategorized (taxonomy)
+- earth observation integration --[located_in]--> Mozambique (extracted)
+- earth observation integration --[is_a]--> Satellite and Remote Sensing Applications (taxonomy)
+- earth observation integration --[is_a]--> Satellite-Based Monitoring (taxonomy)
+- earth observation integration --[is_a]--> Remote Sensing and Digital Monitoring (taxonomy)
+- earth observation integration --[is_a]--> Remote Sensing and Earth Observation (taxonomy)
+- floating agriculture --[located_in]--> Bangladesh (extracted)
+- floating agriculture --[is_a]--> Cropping Systems (taxonomy)
+- floating agriculture --[is_a]--> Specific Food System Interventions (taxonomy)
+- floating agriculture --[is_a]--> Urban Farming Systems (taxonomy)
+- sub-national implementation --[located_in]--> Dong Thap (extracted)
+- sub-national implementation --[located_in]--> Son La (extracted)
+- sub-national implementation --[is_a]--> Scaling and Innovation Miscellaneous (taxonomy)
+- sub-national implementation --[is_a]--> Participatory and Polycentric Governance (taxonomy)
+- sub-national implementation --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- sub-national implementation --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- zoonotic disease epidemiology --[is_a]--> Herd Health Management (taxonomy)
+- zoonotic disease epidemiology --[is_a]--> Zoonotic Disease Surveillance and Management (taxonomy)
+- zoonotic disease epidemiology --[is_a]--> Uncategorized (taxonomy)
+- forage production --[part_of]--> bundled csa practices (extracted)
+- forage production --[is_a]--> Feed and Forage Management (taxonomy)
+- climate-smart practices --[uses]--> pearl millet (extracted)
+- climate-smart practices --[is_a]--> Climate-Smart Agriculture (taxonomy)
+- climate-smart practices --[is_a]--> Climate-Smart Agriculture Approaches (taxonomy)
+- community-based breeding --[uses]--> goats (extracted)
+- community-based breeding --[uses]--> artificial insemination (extracted)
+- community-based breeding --[is_a]--> Participatory and Farmer-Centered Breeding (taxonomy)
+- community-based breeding --[is_a]--> Feed and Forage Management (taxonomy)
+- community-based breeding --[is_a]--> Participatory Breeding and Variety Selection (taxonomy)
+- environmental sampling --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- zoonotic disease management --[is_a]--> Herd Health Management (taxonomy)
+- zoonotic disease management --[is_a]--> Zoonotic Disease Surveillance and Management (taxonomy)
+- biosafety protocols --[is_a]--> Herd Health Management (taxonomy)
+- biosafety protocols --[is_a]--> Phytosanitary and Biosafety Regulation (taxonomy)
+- biosafety protocols --[is_a]--> Biosecurity and Disease Prevention (taxonomy)
+- agricultural data hubs --[located_in]--> Kenya (extracted)
+- agricultural data hubs --[located_in]--> Senegal (extracted)
+- agricultural data hubs --[located_in]--> Ethiopia (extracted)
+- agricultural data hubs --[is_a]--> Digital Platforms and Infrastructure (taxonomy)
+- agricultural data hubs --[is_a]--> Digital Agriculture Systems (taxonomy)
+- agricultural data hubs --[is_a]--> Knowledge Platforms and Systems (taxonomy)
+- agricultural data hubs --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- last-mile delivery --[targets]--> smallholder farmers (extracted)
+- last-mile delivery --[is_a]--> Agricultural Extension and Advisory Services (taxonomy)
+- last-mile delivery --[is_a]--> Agricultural Commercialization (taxonomy)
+- last-mile delivery --[is_a]--> Extension Approaches and Methods (taxonomy)
+- last-mile delivery --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- last-mile delivery --[is_a]--> Technology Adoption and Diffusion (taxonomy)
+- co-production --[produces]--> gender-responsive approaches (extracted)
+- co-production --[located_in]--> Senegal (extracted)
+- co-production --[is_a]--> Participatory and Farmer-Centered Approaches (taxonomy)
+- co-production --[is_a]--> Co-Design and Co-Production (taxonomy)
+- co-production --[is_a]--> Co-Design and Co-Creation Methods (taxonomy)
+- co-production --[is_a]--> Stakeholder Engagement Methods (taxonomy)
+- civil society engagement --[addresses]--> nationally determined contributions (extracted)
+- civil society engagement --[is_a]--> Multi-Stakeholder Engagement (taxonomy)
+- civil society engagement --[is_a]--> Miscellaneous Wellbeing Concepts (taxonomy)
+- civil society engagement --[is_a]--> Participatory Governance and Rangeland Management (taxonomy)
+- civil society engagement --[is_a]--> Stakeholder Engagement and Consultation (taxonomy)
+- civil society engagement --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- civil society engagement --[is_a]--> Multi-Stakeholder Platforms and Partnerships (taxonomy)
+- bias mitigation in ai --[is_a]--> AI Applications and Ethics (taxonomy)
+- bias mitigation in ai --[is_a]--> Core AI and ML Approaches (taxonomy)
+- bias mitigation in ai --[is_a]--> Responsible and Ethical Innovation (taxonomy)
+- sustainable rice cultivation --[uses]--> SRP Standard (extracted)
+- sustainable rice cultivation --[located_in]--> sub-Saharan Africa (extracted)
+- sustainable rice cultivation --[is_a]--> Cropping Systems (taxonomy)
+- sustainable rice cultivation --[is_a]--> Sustainable Intensification and Diversification (taxonomy)
+- digital monitoring systems --[is_a]--> Early Warning and Monitoring Systems (taxonomy)
+- digital monitoring systems --[is_a]--> Data Collection and Management for Extension (taxonomy)
+- digital monitoring systems --[is_a]--> Remote Sensing and Digital Monitoring (taxonomy)
+- digital monitoring systems --[is_a]--> Digital Platforms and Infrastructure (taxonomy)
+- stress tolerance indices --[uses]--> heat stress tolerance (extracted)
+- stress tolerance indices --[is_a]--> Stress Tolerance Screening (taxonomy)
+- stress tolerance indices --[is_a]--> Crop Genetic Improvement (taxonomy)
+- stress tolerance indices --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- nutritional quality assessment --[targets]--> lentil (extracted)
+- nutritional quality assessment --[is_a]--> Trait Characterization and Analysis (taxonomy)
+- nutritional quality assessment --[is_a]--> Nutrition-Sensitive Approaches (taxonomy)
+- nutritional quality assessment --[is_a]--> Statistical and Quantitative Methods (taxonomy)
+- molecular marker analysis --[is_a]--> Molecular Markers and Fingerprinting (taxonomy)
+- molecular marker analysis --[is_a]--> Crop Genetic Improvement (taxonomy)
+- molecular marker analysis --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- population genomics --[uses]--> quantitative trait loci mapping (extracted)
+- population genomics --[is_a]--> Sequencing and Genomic Analysis (taxonomy)
+- population genomics --[is_a]--> Crop Genetic Improvement (taxonomy)
+- population genomics --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- forage evaluation --[uses]--> Urochloa brizantha (extracted)
+- forage evaluation --[located_in]--> Bahir Dar University (extracted)
+- forage evaluation --[is_a]--> Feed and Forage Management (taxonomy)
+- forage evaluation --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- social inclusion --[is_a]--> Youth and Women's Economic Empowerment (taxonomy)
+- social inclusion --[is_a]--> Social Inclusion Frameworks (taxonomy)
+- social inclusion --[is_a]--> Social Inclusion and Intersectionality (taxonomy)
+- social inclusion --[is_a]--> Gender-Responsive Policy and Governance (taxonomy)
+- intersectionality --[is_a]--> Youth and Women's Economic Empowerment (taxonomy)
+- intersectionality --[is_a]--> Social Inclusion Frameworks (taxonomy)
+- intersectionality --[is_a]--> Social Inclusion and Intersectionality (taxonomy)
+- intersectionality --[is_a]--> Gender Research Methods (taxonomy)
+- fragile and conflict-affected systems --[is_a]--> Food Security in Fragile Contexts (taxonomy)
+- fragile and conflict-affected systems --[is_a]--> Conflict-Sensitive Programming (taxonomy)
+- fragile and conflict-affected systems --[is_a]--> Conflict-Sensitive Governance (taxonomy)
+- fragile and conflict-affected systems --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- fragile and conflict-affected systems --[is_a]--> Fragile and Conflict-Affected Settings (taxonomy)
+- humanitarian response --[is_a]--> Food Security in Fragile Contexts (taxonomy)
+- humanitarian response --[is_a]--> Humanitarian Response (taxonomy)
+- humanitarian response --[is_a]--> Disaster Risk and Humanitarian Governance (taxonomy)
+- humanitarian response --[is_a]--> Fragile and Conflict-Affected Settings (taxonomy)
+- displacement --[related_to]--> food security (extracted)
+- displacement --[is_a]--> Food Security in Fragile Contexts (taxonomy)
+- displacement --[is_a]--> Displacement and Migration (taxonomy)
+- displacement --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- participatory design --[is_a]--> Participatory and Farmer-Centered Approaches (taxonomy)
+- participatory design --[is_a]--> Co-Design and Co-Production (taxonomy)
+- participatory design --[is_a]--> Participatory Research Methods (taxonomy)
+- participatory design --[is_a]--> Participatory Learning Methods (taxonomy)
+- gender-responsive services --[addresses]--> food security (inferred)
+- gender-responsive services --[is_a]--> Gender Mainstreaming and Programming (taxonomy)
+- gender-responsive services --[is_a]--> Gender-Transformative Approaches (taxonomy)
+- gender-responsive services --[is_a]--> Gender-Responsive Programming (taxonomy)
+- contract farming --[located_in]--> Nigeria (extracted)
+- contract farming --[uses]--> Kobo Collect (extracted)
+- contract farming --[is_a]--> Smallholder and Community Farming (taxonomy)
+- contract farming --[is_a]--> Agricultural Commercialization (taxonomy)
+- contract farming --[is_a]--> Partnership Models (taxonomy)
+- soil fertility management --[part_of]--> sustainable intensification (extracted)
+- soil fertility management --[is_a]--> Soil Health and Fertility Management (taxonomy)
+- quality control --[targets]--> rice (extracted)
+- quality control --[is_a]--> Post-Harvest and Food Loss Management (taxonomy)
+- quality control --[is_a]--> Food Safety Monitoring and Management (taxonomy)
+- quality control --[is_a]--> Supply Chain and Post-Harvest (taxonomy)
+- quality control --[is_a]--> Quality and Food Safety Standards (taxonomy)
+- quality control --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- quality control --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- private sector engagement --[is_a]--> Private Sector and Partnerships (taxonomy)
+- private sector engagement --[is_a]--> Networking and Collaboration (taxonomy)
+- private sector engagement --[is_a]--> Partnership Models (taxonomy)
+- private sector engagement --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- private sector engagement --[is_a]--> Multi-Stakeholder Platforms and Partnerships (taxonomy)
+- baseline assessment --[uses]--> CSPro (extracted)
+- baseline assessment --[is_a]--> Monitoring and Evaluation Frameworks (taxonomy)
+- baseline assessment --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- baseline assessment --[is_a]--> Uncategorized (taxonomy)
+- mental health impacts --[is_a]--> Livelihoods and Wellbeing (taxonomy)
+- mental health impacts --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- mental health impacts --[is_a]--> Livelihoods and Social Welfare (taxonomy)
+- maladaptation --[targets]--> smallholder farmers (extracted)
+- maladaptation --[is_a]--> Adaptation Planning and Implementation (taxonomy)
+- maladaptation --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- maladaptation --[is_a]--> Vulnerability Assessment (taxonomy)
+- climate fragility --[located_in]--> Bouregreg Basin (extracted)
+- climate fragility --[is_a]--> Climate-Conflict and Displacement Nexus (taxonomy)
+- climate fragility --[is_a]--> Conflict-Sensitive Programming (taxonomy)
+- climate fragility --[is_a]--> Disaster Risk and Humanitarian Governance (taxonomy)
+- climate fragility --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- climate fragility --[is_a]--> Climate-Conflict Nexus (taxonomy)
+- machine learning algorithms --[uses]--> crop monitoring (extracted)
+- machine learning algorithms --[is_a]--> Core AI and ML Methods (taxonomy)
+- machine learning algorithms --[is_a]--> Core AI and ML Approaches (taxonomy)
+- machine learning algorithms --[is_a]--> Artificial Intelligence and Machine Learning (taxonomy)
+- crop monitoring --[is_a]--> Precision and Digital Crop Management (taxonomy)
+- crop monitoring --[is_a]--> Digital Farming Tools and Systems (taxonomy)
+- crop monitoring --[is_a]--> Remote Sensing and Digital Monitoring (taxonomy)
+- decolonial pedagogies --[uses]--> agroecological transitions (extracted)
+- decolonial pedagogies --[is_a]--> Community Engagement Methods (taxonomy)
+- decolonial pedagogies --[is_a]--> Social Inclusion and Intersectionality (taxonomy)
+- decolonial pedagogies --[is_a]--> Training and Capacity Development (taxonomy)
+- decolonial pedagogies --[is_a]--> Responsible and Ethical Innovation (taxonomy)
+- food crisis early warning --[addresses]--> Sahel (extracted)
+- food crisis early warning --[is_a]--> Climate Forecasting and Early Warning (taxonomy)
+- food crisis early warning --[is_a]--> Early Warning and Crisis Prediction (taxonomy)
+- food crisis early warning --[is_a]--> Early Warning and Monitoring Systems (taxonomy)
+- food crisis early warning --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- food crisis early warning --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- drought prediction --[uses]--> SADMS (extracted)
+- drought prediction --[is_a]--> Climate Forecasting and Early Warning (taxonomy)
+- drought prediction --[is_a]--> Predictive Modeling and Forecasting (taxonomy)
+- drought prediction --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- nutrition education --[is_a]--> Dietary Assessment and Quality (taxonomy)
+- nutrition education --[is_a]--> Curriculum and Skills Development (taxonomy)
+- institutional procurement --[is_a]--> Food Market Systems (taxonomy)
+- institutional procurement --[is_a]--> Social Protection and Safety Nets (taxonomy)
+- institutional procurement --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- business development services --[targets]--> youth-led enterprises (extracted)
+- business development services --[is_a]--> Business Models and Development (taxonomy)
+- business development services --[is_a]--> Business Development and Incubation (taxonomy)
+- investment readiness --[is_a]--> Agribusiness Training and Capacity (taxonomy)
+- investment readiness --[is_a]--> Business Development and Incubation (taxonomy)
+- investment readiness --[is_a]--> Investment and Finance Mechanisms (taxonomy)
+- investment readiness --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- investment readiness --[is_a]--> Blended Finance and Investment (taxonomy)
+- vulnerability analysis --[is_a]--> Food Security Measurement and Monitoring (taxonomy)
+- vulnerability analysis --[is_a]--> Monitoring and Evaluation Frameworks (taxonomy)
+- vulnerability analysis --[is_a]--> Vulnerability Assessment (taxonomy)
+- policy alignment --[located_in]--> Zambia (extracted)
+- policy alignment --[is_a]--> Policy and Enabling Environment (taxonomy)
+- policy alignment --[is_a]--> Policy Dialogue and Advocacy (taxonomy)
+- policy alignment --[is_a]--> Core Policy Instruments (taxonomy)
+- policy alignment --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- policy alignment --[is_a]--> Integrated and Adaptive Management (taxonomy)
+- forest restoration --[is_a]--> Landscape and Land Management (taxonomy)
+- forest restoration --[is_a]--> Sustainable Land Management (taxonomy)
+- agricultural innovation systems --[is_a]--> Technology Adoption and Diffusion (taxonomy)
+- agricultural innovation systems --[is_a]--> Innovation Platforms and Networks (taxonomy)
+- agricultural innovation systems --[is_a]--> Agricultural Innovation Systems (taxonomy)
+- agricultural innovation systems --[is_a]--> Communities of Practice and Networks (taxonomy)
+- climate impact projections --[targets]--> maize (extracted)
+- climate impact projections --[located_in]--> Sub-Saharan Africa (extracted)
+- climate impact projections --[is_a]--> Climate Risk Assessment and Vulnerability (taxonomy)
+- climate impact projections --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- multi-location testing --[uses]--> Breeding Management System (extracted)
+- multi-location testing --[is_a]--> Multi-Environment and Multi-Location Testing (taxonomy)
+- multi-location testing --[is_a]--> Seed Systems Development (taxonomy)
+- multi-location testing --[is_a]--> Field and On-Farm Trials (taxonomy)
+- post-harvest technology --[addresses]--> Tanzania (extracted)
+- post-harvest technology --[addresses]--> Kenya (extracted)
+- post-harvest technology --[is_a]--> Post-Harvest and Food Loss Management (taxonomy)
+- post-harvest technology --[is_a]--> Post-Harvest Technology and Storage (taxonomy)
+- post-harvest technology --[is_a]--> Supply Chain and Post-Harvest (taxonomy)
+- youth entrepreneurship --[is_a]--> Youth and Women's Economic Empowerment (taxonomy)
+- youth entrepreneurship --[is_a]--> Youth and Marginalized Groups (taxonomy)
+- youth entrepreneurship --[is_a]--> Business Development and Incubation (taxonomy)
+- youth entrepreneurship --[is_a]--> Women's Empowerment (taxonomy)
+- breeding data management --[uses]--> Breeding Management System (extracted)
+- breeding data management --[is_a]--> Breeding Program Design and Management (taxonomy)
+- breeding data management --[is_a]--> Crop Genetic Improvement (taxonomy)
+- breeding data management --[is_a]--> Data-Driven Agriculture (taxonomy)
+- breeding data management --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- mechanized agriculture services --[targets]--> smallholder farmers (extracted)
+- mechanized agriculture services --[is_a]--> Agricultural Mechanization (taxonomy)
+- mechanized agriculture services --[is_a]--> Mechanization Service Models (taxonomy)
+- gem parboiling technique --[targets]--> women farmers (extracted)
+- gem parboiling technique --[is_a]--> Post-Harvest and Food Loss Management (taxonomy)
+- gem parboiling technique --[is_a]--> Post-Harvest Technology and Storage (taxonomy)
+- water-efficient practices --[is_a]--> Water Productivity and Efficiency (taxonomy)
+- climate risk information --[uses]--> livelihood decisions (extracted)
+- climate risk information --[is_a]--> Climate Information Services (taxonomy)
+- climate risk information --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- water-efficient agriculture --[is_a]--> Water Productivity and Efficiency (taxonomy)
+- rice-fallow intensification --[uses]--> pulse crops (extracted)
+- rice-fallow intensification --[is_a]--> Cropping Systems (taxonomy)
+- rice-fallow intensification --[is_a]--> Uncategorized (taxonomy)
+- gas chromatography --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- gas chromatography --[is_a]--> Uncategorized (taxonomy)
+- satellite monitoring --[is_a]--> Satellite and Remote Sensing Applications (taxonomy)
+- satellite monitoring --[is_a]--> Satellite-Based Monitoring (taxonomy)
+- satellite monitoring --[is_a]--> Remote Sensing and Digital Monitoring (taxonomy)
+- satellite monitoring --[is_a]--> Remote Sensing and Earth Observation (taxonomy)
+- stewardship --[addresses]--> genome editing (extracted)
+- stewardship --[is_a]--> Planetary and Environmental Sustainability (taxonomy)
+- stewardship --[is_a]--> Uncategorized (taxonomy)
+- cassava production --[located_in]--> Nigeria (extracted)
+- cassava production --[located_in]--> DRC (extracted)
+- cassava production --[is_a]--> Crop Genetic Improvement (taxonomy)
+- cassava production --[is_a]--> Uncategorized (taxonomy)
+- good agronomic practices --[is_a]--> Climate-Smart Agriculture (taxonomy)
+- good agronomic practices --[is_a]--> Food Safety Monitoring and Management (taxonomy)
+- seed roadmap development --[located_in]--> Gabon (extracted)
+- seed roadmap development --[is_a]--> Seed System Development and Strengthening (taxonomy)
+- seed roadmap development --[is_a]--> Seed Systems Development (taxonomy)
+- zero tillage production --[uses]--> rice (extracted)
+- zero tillage production --[located_in]--> India (extracted)
+- zero tillage production --[is_a]--> Conservation Agriculture and Tillage (taxonomy)
+- zero tillage production --[is_a]--> Soil Health and Management (taxonomy)
+- data digitization --[uses]--> Musabase (extracted)
+- data digitization --[uses]--> BTracT (extracted)
+- data digitization --[is_a]--> Data Standards and Interoperability (taxonomy)
+- data digitization --[is_a]--> Data Collection and Management for Extension (taxonomy)
+- data digitization --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- data digitization --[is_a]--> Digital Platforms and Infrastructure (taxonomy)
+- gender-responsive extension services --[is_a]--> Gender Mainstreaming and Programming (taxonomy)
+- gender-responsive extension services --[is_a]--> Digital Advisory and Extension Services (taxonomy)
+- gender-responsive extension services --[is_a]--> Gender-Responsive Programming (taxonomy)
+- apical rooted cuttings propagation --[is_a]--> Vegetative Propagation and Tissue Culture (taxonomy)
+- apical rooted cuttings propagation --[is_a]--> Crop Genetic Improvement (taxonomy)
+- quality seed production --[is_a]--> Seed Production (taxonomy)
+- quality seed production --[is_a]--> Seed Systems Development (taxonomy)
+- pest and disease management --[located_in]--> Madagascar (extracted)
+- pest and disease management --[is_a]--> Integrated Pest Management (taxonomy)
+- pest and disease management --[is_a]--> Uncategorized (taxonomy)
+- capacity development training --[targets]--> plant breeders (inferred)
+- capacity development training --[is_a]--> Core Capacity Building (taxonomy)
+- capacity development training --[is_a]--> Capacity Building Programs (taxonomy)
+- capacity development training --[is_a]--> Training and Capacity Development (taxonomy)
+- capacity development training --[is_a]--> Capacity Building Approaches (taxonomy)
+- gene editing --[uses]--> CRISPR/Cas (extracted)
+- gene editing --[is_a]--> Genome Editing and Engineering (taxonomy)
+- gene editing --[is_a]--> Crop Genetic Improvement (taxonomy)
+- greenhouse gas emission reduction --[is_a]--> Carbon and Greenhouse Gas Management in Farming (taxonomy)
+- greenhouse gas emission reduction --[is_a]--> Greenhouse Gas Measurement and Monitoring (taxonomy)
+- greenhouse gas emission reduction --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- drought stress management --[targets]--> banana (extracted)
+- drought stress management --[is_a]--> Crop Genetic Improvement (taxonomy)
+- drought stress management --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- drought stress management --[is_a]--> Uncategorized (taxonomy)
+- climate adaptation indicators --[is_a]--> Adaptation Planning and Implementation (taxonomy)
+- climate adaptation indicators --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- greenhouse gas emissions measurement --[targets]--> coffee (extracted)
+- greenhouse gas emissions measurement --[is_a]--> Carbon and Greenhouse Gas Management in Farming (taxonomy)
+- greenhouse gas emissions measurement --[is_a]--> Greenhouse Gas Measurement and Monitoring (taxonomy)
+- greenhouse gas emissions measurement --[is_a]--> Greenhouse Gas Measurement and Reporting (taxonomy)
+- varietal demonstrations --[targets]--> self-help groups (extracted)
+- varietal demonstrations --[is_a]--> Variety Adoption and Deployment (taxonomy)
+- varietal demonstrations --[is_a]--> Precision and Digital Crop Management (taxonomy)
+- varietal demonstrations --[is_a]--> Participatory Breeding and Variety Selection (taxonomy)
+- herbicide tolerance --[addresses]--> weed control efficiency (extracted)
+- herbicide tolerance --[is_a]--> Trait Characterization and Analysis (taxonomy)
+- herbicide tolerance --[is_a]--> Integrated Pest Management (taxonomy)
+- tissue culture propagation --[produces]--> seed system strengthening (inferred)
+- tissue culture propagation --[located_in]--> Jalpaiguri (extracted)
+- tissue culture propagation --[is_a]--> Vegetative Propagation and Tissue Culture (taxonomy)
+- tissue culture propagation --[is_a]--> Crop Genetic Improvement (taxonomy)
+- technology dissemination --[targets]--> farmers (extracted)
+- technology dissemination --[located_in]--> DR Congo (extracted)
+- technology dissemination --[located_in]--> Malawi (extracted)
+- technology dissemination --[located_in]--> Tanzania (extracted)
+- technology dissemination --[located_in]--> Zambia (extracted)
+- technology dissemination --[is_a]--> Technology Adoption and Diffusion (taxonomy)
+- technology dissemination --[is_a]--> Knowledge Exchange and Sharing (taxonomy)
+- technology dissemination --[is_a]--> Knowledge Management and Dissemination (taxonomy)
+- technology dissemination --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- technology dissemination --[is_a]--> South-South and Knowledge Exchange (taxonomy)
+- seed distribution systems --[targets]--> smallholder farmers (inferred)
+- seed distribution systems --[is_a]--> Seed Distribution and Delivery (taxonomy)
+- seed distribution systems --[is_a]--> Seed Systems Development (taxonomy)
+- climate-resilient seed production --[targets]--> smallholder farmers (extracted)
+- climate-resilient seed production --[is_a]--> Climate Resilience Building (taxonomy)
+- triadic comparison of technologies --[uses]--> participatory variety selection (inferred)
+- triadic comparison of technologies --[is_a]--> Participatory and Farmer-Centered Approaches (taxonomy)
+- triadic comparison of technologies --[is_a]--> Citizen Science and Community-Based Research (taxonomy)
+- triadic comparison of technologies --[is_a]--> Experimental Preference and Valuation Methods (taxonomy)
+- triadic comparison of technologies --[is_a]--> Citizen Science and Crowdsourcing (taxonomy)
+- marker-assisted breeding --[uses]--> KASP markers (extracted)
+- marker-assisted breeding --[is_a]--> Crossing and Selection Methods (taxonomy)
+- marker-assisted breeding --[is_a]--> Crop Genetic Improvement (taxonomy)
+- digital phenotyping --[uses]--> drone-based imaging (extracted)
+- digital phenotyping --[is_a]--> Phenotyping Methods and Technologies (taxonomy)
+- digital phenotyping --[is_a]--> Crop Genetic Improvement (taxonomy)
+- digital phenotyping --[is_a]--> Computer Vision and Image Processing (taxonomy)
+- digital phenotyping --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- drought tolerance breeding --[is_a]--> Specific Breeding Targets (taxonomy)
+- drought tolerance breeding --[is_a]--> Crop Genetic Improvement (taxonomy)
+- data-driven breeding --[is_a]--> Breeding Program Design and Management (taxonomy)
+- data-driven breeding --[is_a]--> Crop Genetic Improvement (taxonomy)
+- data-driven breeding --[is_a]--> Data-Driven Agriculture (taxonomy)
+- data-driven breeding --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- participatory risk mapping --[is_a]--> Participatory Research Methods (taxonomy)
+- participatory risk mapping --[is_a]--> Participatory Learning Methods (taxonomy)
+- video-based product concept testing --[is_a]--> Consumer Preferences and Behavior (taxonomy)
+- video-based product concept testing --[is_a]--> Participatory and Community Learning Methods (taxonomy)
+- video-based product concept testing --[is_a]--> Monitoring and Evaluation Frameworks (taxonomy)
+- video-based product concept testing --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- scaling hubs --[located_in]--> Kenya (extracted)
+- scaling hubs --[is_a]--> Technology Adoption and Diffusion (taxonomy)
+- scaling hubs --[is_a]--> Scaling Approaches (taxonomy)
+- scaling hubs --[is_a]--> Scaling Strategies and Frameworks (taxonomy)
+- scaling hubs --[is_a]--> Scaling Frameworks and Approaches (taxonomy)
+- scaling hubs --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- scaling hubs --[is_a]--> Scaling Frameworks and Strategies (taxonomy)
+- rapid-cycle genomic selection --[produces]--> genetic gain assessment (inferred)
+- rapid-cycle genomic selection --[is_a]--> Advanced Breeding Techniques (taxonomy)
+- rapid-cycle genomic selection --[is_a]--> Crop Genetic Improvement (taxonomy)
+- rapid-cycle genomic selection --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- on-farm verification --[is_a]--> Multi-Environment and Multi-Location Testing (taxonomy)
+- on-farm verification --[is_a]--> Precision and Digital Crop Management (taxonomy)
+- on-farm verification --[is_a]--> Participatory and Farmer-Centered Approaches (taxonomy)
+- on-farm verification --[is_a]--> Participatory Breeding and Variety Selection (taxonomy)
+- on-farm verification --[is_a]--> Field and On-Farm Trials (taxonomy)
+- genetic gain assessment --[is_a]--> Genetic Gain and Performance Assessment (taxonomy)
+- genetic gain assessment --[is_a]--> Crop Genetic Improvement (taxonomy)
+- genetic gain assessment --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- partnership assessment framework --[is_a]--> Networking and Collaboration (taxonomy)
+- partnership assessment framework --[is_a]--> Stakeholder Engagement and Consultation (taxonomy)
+- partnership assessment framework --[is_a]--> Monitoring and Evaluation Frameworks (taxonomy)
+- partnership assessment framework --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- community-led water governance --[located_in]--> Bangladesh (extracted)
+- community-led water governance --[is_a]--> Agricultural Water Resources Management (taxonomy)
+- community-led water governance --[is_a]--> Water Governance and Management (taxonomy)
+- community-led water governance --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- artificial insemination protocols --[targets]--> cattle (extracted)
+- artificial insemination protocols --[is_a]--> Livestock Production and Management (taxonomy)
+- artificial insemination protocols --[is_a]--> Uncategorized (taxonomy)
+- rapid response modeling --[is_a]--> Predictive Modeling and Forecasting (taxonomy)
+- rapid response modeling --[is_a]--> Systems and Simulation Modeling (taxonomy)
+- rapid response modeling --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- high-performance computing --[is_a]--> Core AI and ML Approaches (taxonomy)
+- high-performance computing --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- high-performance computing --[is_a]--> Uncategorized (taxonomy)
+- artificial intelligence modeling --[is_a]--> Core AI and ML Methods (taxonomy)
+- artificial intelligence modeling --[is_a]--> Core AI and ML Approaches (taxonomy)
+- artificial intelligence modeling --[is_a]--> Artificial Intelligence and Machine Learning (taxonomy)
+- micronutrient contribution modeling --[is_a]--> Dietary Assessment and Quality (taxonomy)
+- micronutrient contribution modeling --[is_a]--> Economic and Impact Modeling (taxonomy)
+- micronutrient contribution modeling --[is_a]--> Systems and Simulation Modeling (taxonomy)
+- micronutrient contribution modeling --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- real-time monitoring system --[is_a]--> Early Warning and Monitoring Systems (taxonomy)
+- real-time monitoring system --[is_a]--> Remote Sensing and Digital Monitoring (taxonomy)
+- metadata mining --[is_a]--> Data Standards and Interoperability (taxonomy)
+- metadata mining --[is_a]--> Systematic Reviews and Evidence Synthesis (taxonomy)
+- metadata mining --[is_a]--> Digital Platforms and Infrastructure (taxonomy)
+- varietal turnover acceleration --[uses]--> market intelligence (extracted)
+- varietal turnover acceleration --[is_a]--> Variety Registration and Licensing (taxonomy)
+- varietal turnover acceleration --[is_a]--> Seed Systems Development (taxonomy)
+- evolutionary plant breeding --[targets]--> barley (extracted)
+- evolutionary plant breeding --[targets]--> wheat (extracted)
+- evolutionary plant breeding --[located_in]--> Ethiopia (extracted)
+- evolutionary plant breeding --[is_a]--> Advanced Breeding Techniques (taxonomy)
+- evolutionary plant breeding --[is_a]--> Crop Genetic Improvement (taxonomy)
+- thermotolerant vaccines --[targets]--> Peste des Petits Ruminants (extracted)
+- thermotolerant vaccines --[is_a]--> Herd Health Management (taxonomy)
+- thermotolerant vaccines --[is_a]--> Uncategorized (taxonomy)
+- fertility management --[targets]--> buffalo (extracted)
+- fertility management --[is_a]--> Uncategorized (taxonomy)
+- gender norms measurement --[is_a]--> Gender Mainstreaming and Programming (taxonomy)
+- gender norms measurement --[is_a]--> Social Inclusion and Intersectionality (taxonomy)
+- gender norms measurement --[is_a]--> Gender Research Methods (taxonomy)
+- gender norms measurement --[is_a]--> Gender Dynamics and Analysis (taxonomy)
+- breed evaluation --[targets]--> chickens (extracted)
+- breed evaluation --[is_a]--> Livestock Production and Management (taxonomy)
+- breed evaluation --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- breed evaluation --[is_a]--> Uncategorized (taxonomy)
+- drought adaptation --[targets]--> small ruminants (inferred)
+- drought adaptation --[is_a]--> Crop Genetic Improvement (taxonomy)
+- drought adaptation --[is_a]--> Uncategorized (taxonomy)
+- best-worst scaling --[is_a]--> Experimental Preference and Valuation Methods (taxonomy)
+- best-worst scaling --[is_a]--> Mixed Methods and Qualitative Approaches (taxonomy)
+- best-worst scaling --[is_a]--> Uncategorized (taxonomy)
+- payments for ecosystem services --[is_a]--> Nature-Based and Ecosystem Approaches (taxonomy)
+- payments for ecosystem services --[is_a]--> Ecosystem Restoration and Services (taxonomy)
+- payments for ecosystem services --[is_a]--> Climate Finance (taxonomy)
+- payments for ecosystem services --[is_a]--> Investment and Finance Mechanisms (taxonomy)
+- payments for ecosystem services --[is_a]--> Economic Modeling and Analysis (taxonomy)
+- payments for ecosystem services --[is_a]--> Payment for Ecosystem Services (taxonomy)
+- institutional learning --[uses]--> scaling champions (extracted)
+- institutional learning --[is_a]--> Institutional Learning and Adaptive Management (taxonomy)
+- institutional learning --[is_a]--> Institutional Coordination Mechanisms (taxonomy)
+- institutional learning --[is_a]--> Knowledge Exchange and Dissemination (taxonomy)
+- institutional learning --[is_a]--> Governance Frameworks (taxonomy)
+- policy practice index --[collaborates_with]--> ASARECA (extracted)
+- policy practice index --[is_a]--> Miscellaneous Agricultural Policy (taxonomy)
+- policy practice index --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- knowledge management system --[is_a]--> Digital Platforms and Infrastructure (taxonomy)
+- knowledge management system --[is_a]--> Knowledge Platforms and Systems (taxonomy)
+- knowledge management system --[is_a]--> Knowledge Management and Dissemination (taxonomy)
+- knowledge management system --[is_a]--> Knowledge Exchange and Dissemination (taxonomy)
+- knowledge management system --[is_a]--> South-South and Knowledge Exchange (taxonomy)
+- lean data collection --[part_of]--> LCAS-APT (extracted)
+- lean data collection --[is_a]--> Data Standards and Interoperability (taxonomy)
+- lean data collection --[is_a]--> Data Collection and Management for Extension (taxonomy)
+- lean data collection --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- lean data collection --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- participatory indicator selection --[uses]--> agroecological practices (extracted)
+- participatory indicator selection --[is_a]--> Participatory Research Methods (taxonomy)
+- participatory indicator selection --[is_a]--> Participatory Learning Methods (taxonomy)
+- nano-culture technology --[uses]--> cassava (extracted)
+- nano-culture technology --[is_a]--> Crop Genetic Improvement (taxonomy)
+- nano-culture technology --[is_a]--> Uncategorized (taxonomy)
+- seed certification regulations --[located_in]--> Kenya (extracted)
+- seed certification regulations --[is_a]--> Seed Quality and Certification (taxonomy)
+- seed certification regulations --[is_a]--> Seed Systems Development (taxonomy)
+- seed certification regulations --[is_a]--> Seed and Variety Regulation (taxonomy)
+- scaling fund --[uses]--> business incubation (extracted)
+- scaling fund --[is_a]--> Technology Adoption and Diffusion (taxonomy)
+- scaling fund --[is_a]--> Scaling Approaches (taxonomy)
+- scaling fund --[is_a]--> Scaling Strategies and Frameworks (taxonomy)
+- scaling fund --[is_a]--> Scaling Frameworks and Approaches (taxonomy)
+- scaling fund --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- scaling fund --[is_a]--> Scaling Frameworks and Strategies (taxonomy)
+- rapid diagnostic testing --[targets]--> african swine fever (extracted)
+- rapid diagnostic testing --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- rapid diagnostic testing --[is_a]--> Uncategorized (taxonomy)
+- area-based yield insurance --[uses]--> PRISM (extracted)
+- area-based yield insurance --[is_a]--> Agricultural Insurance (taxonomy)
+- area-based yield insurance --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- area-based yield insurance --[is_a]--> Insurance and Risk Finance (taxonomy)
+- rice-fish polyculture --[located_in]--> Myanmar (extracted)
+- rice-fish polyculture --[is_a]--> Integrated Rice-Fish and Aquatic Farming (taxonomy)
+- rice-fish polyculture --[is_a]--> Uncategorized (taxonomy)
+- co-production of knowledge --[located_in]--> Colombia (extracted)
+- co-production of knowledge --[is_a]--> Participatory and Farmer-Centered Approaches (taxonomy)
+- co-production of knowledge --[is_a]--> Co-Design and Co-Production (taxonomy)
+- co-production of knowledge --[is_a]--> Co-Design and Co-Creation Methods (taxonomy)
+- co-production of knowledge --[is_a]--> Stakeholder Engagement Methods (taxonomy)
+- fuzzy cognitive mapping --[located_in]--> China (extracted)
+- fuzzy cognitive mapping --[is_a]--> Qualitative and Social Research Techniques (taxonomy)
+- fuzzy cognitive mapping --[is_a]--> Mixed Methods and Qualitative Approaches (taxonomy)
+- fuzzy cognitive mapping --[is_a]--> Uncategorized (taxonomy)
+- sustainability assessment --[is_a]--> Ecosystem Restoration and Services (taxonomy)
+- sustainability assessment --[is_a]--> Life Cycle and Environmental Assessment (taxonomy)
+- sustainability assessment --[is_a]--> Experimental and Evaluation Methods (taxonomy)
+- systems-based theory of change --[located_in]--> Bangladesh (extracted)
+- systems-based theory of change --[is_a]--> Transdisciplinary and Systems Research (taxonomy)
+- systems-based theory of change --[is_a]--> Monitoring and Evaluation Frameworks (taxonomy)
+- systems-based theory of change --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- spatial production allocation modeling --[produces]--> SPAM (extracted)
+- spatial production allocation modeling --[is_a]--> Food System Analytics and Modeling (taxonomy)
+- spatial production allocation modeling --[is_a]--> Crop and Agricultural Modeling (taxonomy)
+- spatial production allocation modeling --[is_a]--> Systems and Simulation Modeling (taxonomy)
+- spatial production allocation modeling --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- indigenous food systems --[targets]--> Solomon Islands (extracted)
+- indigenous food systems --[is_a]--> Food System Frameworks and Approaches (taxonomy)
+- indigenous food systems --[is_a]--> Miscellaneous Wellbeing Concepts (taxonomy)
+- indigenous food systems --[is_a]--> Traditional and Indigenous Knowledge (taxonomy)
+- indigenous food systems --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- indigenous food systems --[is_a]--> Food Systems Transformation (taxonomy)
+- stage-gate framework --[targets]--> CGIAR (extracted)
+- stage-gate framework --[is_a]--> Breeding Program Design and Management (taxonomy)
+- stage-gate framework --[is_a]--> Foresight and Strategic Planning (taxonomy)
+- stage-gate framework --[is_a]--> Scaling Frameworks and Approaches (taxonomy)
+- stage-gate framework --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- reservoir forecasting --[uses]--> Digital Earth Africa (extracted)
+- reservoir forecasting --[is_a]--> Agricultural Water Resources Management (taxonomy)
+- reservoir forecasting --[is_a]--> Irrigation and Water Infrastructure (taxonomy)
+- reservoir forecasting --[is_a]--> Predictive Modeling and Forecasting (taxonomy)
+- reservoir forecasting --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- crop-livestock integration --[targets]--> smallholder farmers (extracted)
+- crop-livestock integration --[is_a]--> Livestock Production and Management (taxonomy)
+- crop-livestock integration --[is_a]--> Uncategorized (taxonomy)
+- energy insecurity measurement --[targets]--> rural households (extracted)
+- energy insecurity measurement --[is_a]--> Social Assessment Methods (taxonomy)
+- energy insecurity measurement --[is_a]--> Uncategorized (taxonomy)
+- multiple resistance gene deployment --[is_a]--> Crossing and Selection Methods (taxonomy)
+- multiple resistance gene deployment --[is_a]--> Disease Management (taxonomy)
+- agroecological business modeling --[is_a]--> Core Agroecological Approaches (taxonomy)
+- agroecological business modeling --[is_a]--> Business Models and Development (taxonomy)
+- agroecological business modeling --[is_a]--> Business Development and Incubation (taxonomy)
+- agroecological business modeling --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- agroecological business modeling --[is_a]--> Transformative Change (taxonomy)
+- open data cube architecture --[located_in]--> Limpopo River Basin (extracted)
+- open data cube architecture --[is_a]--> Satellite and Remote Sensing Applications (taxonomy)
+- open data cube architecture --[is_a]--> Geospatial Analysis and Mapping (taxonomy)
+- open data cube architecture --[is_a]--> Digital Tools and Decision Support (taxonomy)
+- open data cube architecture --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- open data cube architecture --[is_a]--> Digital Platforms and Infrastructure (taxonomy)
+- randomized survey methodology --[is_a]--> Statistical and Quantitative Methods (taxonomy)
+- randomized survey methodology --[is_a]--> Experimental and Evaluation Methods (taxonomy)
+- randomized survey methodology --[is_a]--> Uncategorized (taxonomy)
+- rapid multiplication technology --[produces]--> clean cassava plants (extracted)
+- rapid multiplication technology --[is_a]--> Vegetative Propagation and Tissue Culture (taxonomy)
+- rapid multiplication technology --[is_a]--> Crop Genetic Improvement (taxonomy)
+- multi-criteria analysis --[part_of]--> SWEET (extracted)
+- multi-criteria analysis --[is_a]--> Statistical and Quantitative Methods (taxonomy)
+- multi-criteria analysis --[is_a]--> Mixed Methods and Qualitative Approaches (taxonomy)
+- multi-criteria analysis --[is_a]--> Uncategorized (taxonomy)
+- biogas digester technology --[addresses]--> greenhouse gas emissions (extracted)
+- biogas digester technology --[is_a]--> Livestock Methane and Emissions (taxonomy)
+- biogas digester technology --[is_a]--> Biogas and Circular Bioeconomy (taxonomy)
+- biogas digester technology --[is_a]--> Biogas and Bioenergy (taxonomy)
+- glycemic index modification --[addresses]--> diabetes (extracted)
+- glycemic index modification --[is_a]--> Trait Characterization and Analysis (taxonomy)
+- glycemic index modification --[is_a]--> Crop Genetic Improvement (taxonomy)
+- glycemic index modification --[is_a]--> Dietary Assessment and Quality (taxonomy)
+- direct seeded rice breeding --[targets]--> drought-prone environments (extracted)
+- direct seeded rice breeding --[is_a]--> Specific Breeding Targets (taxonomy)
+- direct seeded rice breeding --[is_a]--> Cropping Systems (taxonomy)
+- direct seeded rice breeding --[is_a]--> Crop Genetic Improvement (taxonomy)
+- land tenure security --[produces]--> rangeland restoration (extracted)
+- land tenure security --[is_a]--> Landscape and Land Management (taxonomy)
+- land tenure security --[is_a]--> Sustainable Land Management (taxonomy)
+- land tenure security --[is_a]--> Policy and Enabling Environment (taxonomy)
+- land tenure security --[is_a]--> Justice and Rights (taxonomy)
+- land tenure security --[is_a]--> Justice and Equity Frameworks (taxonomy)
+- land tenure security --[is_a]--> Planetary and Environmental Sustainability (taxonomy)
+- seed delivery network --[targets]--> smallholder farmers (inferred)
+- seed delivery network --[is_a]--> Seed Distribution and Delivery (taxonomy)
+- seed delivery network --[is_a]--> Seed Systems Development (taxonomy)
+- seed delivery network --[is_a]--> Market-Oriented Seed Systems (taxonomy)
+- integrated water storage assessment --[located_in]--> Tana-Beles Sub-basin (extracted)
+- integrated water storage assessment --[is_a]--> Agricultural Water Resources Management (taxonomy)
+- integrated water storage assessment --[is_a]--> Irrigation and Water Infrastructure (taxonomy)
+- integrated water storage assessment --[is_a]--> Sensor and IoT Applications (taxonomy)
+- integrated water storage assessment --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- resource recovery and reuse --[is_a]--> Post-Harvest and Food Loss Management (taxonomy)
+- resource recovery and reuse --[is_a]--> Biogas and Circular Bioeconomy (taxonomy)
+- resource recovery and reuse --[is_a]--> Food Loss and Waste Reduction (taxonomy)
+- resource recovery and reuse --[is_a]--> Waste-to-Value and Resource Recovery (taxonomy)
+- no-till planting --[is_a]--> Conservation Agriculture and Tillage (taxonomy)
+- no-till planting --[is_a]--> Soil Health and Management (taxonomy)
+- rainfall forecasting --[produces]--> conservation agriculture (extracted)
+- rainfall forecasting --[is_a]--> Climate Forecasting and Early Warning (taxonomy)
+- rainfall forecasting --[is_a]--> Predictive Modeling and Forecasting (taxonomy)
+- rainfall forecasting --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- gender-responsive livestock breeding --[targets]--> smallholder farmers (extracted)
+- gender-responsive livestock breeding --[is_a]--> Gender Mainstreaming and Programming (taxonomy)
+- gender-responsive livestock breeding --[is_a]--> Gender-Transformative Approaches (taxonomy)
+- gender-responsive livestock breeding --[is_a]--> Gender-Responsive Programming (taxonomy)
+- biosecurity measures --[addresses]--> PRRS virus (extracted)
+- biosecurity measures --[is_a]--> Herd Health Management (taxonomy)
+- biosecurity measures --[is_a]--> Food Safety Monitoring and Management (taxonomy)
+- biosecurity measures --[is_a]--> Biosecurity and Disease Prevention (taxonomy)
+- soil bulk density measurement --[is_a]--> Soil Health and Fertility Management (taxonomy)
+- soil bulk density measurement --[is_a]--> Soil Health and Management (taxonomy)
+- soil bulk density measurement --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- spatial analytics --[targets]--> policymakers (extracted)
+- spatial analytics --[is_a]--> Satellite and Remote Sensing Applications (taxonomy)
+- spatial analytics --[is_a]--> Geospatial Analysis and Mapping (taxonomy)
+- spatial analytics --[is_a]--> Statistical and Quantitative Methods (taxonomy)
+- spatial analytics --[is_a]--> Remote Sensing and Earth Observation (taxonomy)
+- humanitarian-development nexus --[located_in]--> Sudan (extracted)
+- humanitarian-development nexus --[is_a]--> Food Security in Fragile Contexts (taxonomy)
+- humanitarian-development nexus --[is_a]--> Humanitarian Response (taxonomy)
+- humanitarian-development nexus --[is_a]--> Conflict-Sensitive Governance (taxonomy)
+- humanitarian-development nexus --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- humanitarian-development nexus --[is_a]--> Fragile and Conflict-Affected Settings (taxonomy)
+- participatory product design --[targets]--> value chain stakeholders (extracted)
+- participatory product design --[is_a]--> Co-Design and Co-Production (taxonomy)
+- participatory product design --[is_a]--> Stakeholder Engagement Methods (taxonomy)
+- named entity recognition --[is_a]--> Natural Language Processing (taxonomy)
+- named entity recognition --[is_a]--> Core AI and ML Approaches (taxonomy)
+- named entity recognition --[is_a]--> Artificial Intelligence and Machine Learning (taxonomy)
+- food quality assessment --[is_a]--> Traceability and Quality Assessment (taxonomy)
+- food quality assessment --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- stochastic frontier analysis --[targets]--> smallholder farmers (extracted)
+- stochastic frontier analysis --[is_a]--> Economic Analysis and Impact (taxonomy)
+- stochastic frontier analysis --[is_a]--> Economic Modeling and Analysis (taxonomy)
+- stochastic frontier analysis --[is_a]--> Mixed Methods and Qualitative Approaches (taxonomy)
+- spatial clustering --[uses]--> geospatial analysis (extracted)
+- spatial clustering --[is_a]--> Satellite and Remote Sensing Applications (taxonomy)
+- spatial clustering --[is_a]--> Geospatial Analysis and Mapping (taxonomy)
+- spatial clustering --[is_a]--> Statistical and Quantitative Methods (taxonomy)
+- spatial clustering --[is_a]--> Remote Sensing and Earth Observation (taxonomy)
+- action research --[is_a]--> Participatory and Farmer-Centered Approaches (taxonomy)
+- action research --[is_a]--> Participatory Research Methods (taxonomy)
+- action research --[is_a]--> Participatory Learning Methods (taxonomy)
+- climate governance --[targets]--> smallholder farmers (inferred)
+- climate governance --[is_a]--> Climate Policy and Governance (taxonomy)
+- climate governance --[is_a]--> Participatory and Polycentric Governance (taxonomy)
+- climate governance --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- agricultural distortions --[produces]--> international migration (extracted)
+- agricultural distortions --[is_a]--> Policy and Enabling Environment (taxonomy)
+- agricultural distortions --[is_a]--> Policy Harmonization and Coordination (taxonomy)
+- agricultural distortions --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- multidimensional resilience --[uses]--> Ethiopia (extracted)
+- multidimensional resilience --[is_a]--> Social Assessment Methods (taxonomy)
+- multidimensional resilience --[is_a]--> Resilience Frameworks (taxonomy)
+- multidimensional resilience --[is_a]--> Uncategorized (taxonomy)
+- vickrey auction --[targets]--> sweetpotato (extracted)
+- vickrey auction --[is_a]--> Consumer Preferences and Behavior (taxonomy)
+- vickrey auction --[is_a]--> Experimental Preference and Valuation Methods (taxonomy)
+- vickrey auction --[is_a]--> Mixed Methods and Qualitative Approaches (taxonomy)
+- phytosanitary regulation --[addresses]--> seed systems (extracted)
+- phytosanitary regulation --[is_a]--> Seed Quality and Certification (taxonomy)
+- phytosanitary regulation --[is_a]--> Disease Management (taxonomy)
+- phytosanitary regulation --[is_a]--> Food Safety Monitoring and Management (taxonomy)
+- phytosanitary regulation --[is_a]--> Policy and Enabling Environment (taxonomy)
+- phytosanitary regulation --[is_a]--> Phytosanitary and Biosafety Regulation (taxonomy)
+- direct seed marketing --[addresses]--> seed market access (extracted)
+- direct seed marketing --[is_a]--> Seed Distribution and Delivery (taxonomy)
+- direct seed marketing --[is_a]--> Seed Systems Development (taxonomy)
+- direct seed marketing --[is_a]--> Market-Oriented Seed Systems (taxonomy)
+- pricing strategy --[is_a]--> Price and Market Monitoring (taxonomy)
+- community seed schemes --[located_in]--> Nigeria (extracted)
+- community seed schemes --[is_a]--> Seed System Development and Strengthening (taxonomy)
+- community seed schemes --[is_a]--> Seed Systems Development (taxonomy)
+- dna fingerprinting --[addresses]--> varietal identification (extracted)
+- dna fingerprinting --[is_a]--> Molecular Markers and Fingerprinting (taxonomy)
+- dna fingerprinting --[is_a]--> Crop Genetic Improvement (taxonomy)
+- dna fingerprinting --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- environmental impact assessment --[is_a]--> Ecosystem Restoration and Services (taxonomy)
+- environmental impact assessment --[is_a]--> Life Cycle and Environmental Assessment (taxonomy)
+- environmental impact assessment --[is_a]--> Experimental and Evaluation Methods (taxonomy)
+- feed pellet production --[targets]--> smallholder farmer (extracted)
+- feed pellet production --[is_a]--> Feed and Forage Management (taxonomy)
+- feed pellet production --[is_a]--> Food Processing and Value Addition (taxonomy)
+- financial innovation --[targets]--> smallholder farmer (extracted)
+- financial innovation --[is_a]--> Finance and Investment Mechanisms (taxonomy)
+- financial innovation --[is_a]--> Investment and Finance Mechanisms (taxonomy)
+- financial innovation --[is_a]--> Blended Finance and Investment (taxonomy)
+- food loss and waste reduction --[is_a]--> Post-Harvest and Food Loss Management (taxonomy)
+- food loss and waste reduction --[is_a]--> Food Loss and Waste Reduction (taxonomy)
+- food loss and waste reduction --[is_a]--> Waste-to-Value and Resource Recovery (taxonomy)
+- hybrid adoption --[is_a]--> Variety Adoption and Deployment (taxonomy)
+- hybrid adoption --[is_a]--> Technology Adoption and Diffusion (taxonomy)
+- gender action learning system --[addresses]--> conservation agriculture (extracted)
+- gender action learning system --[targets]--> smallholder farmers (extracted)
+- gender action learning system --[is_a]--> Gender Mainstreaming and Programming (taxonomy)
+- gender action learning system --[is_a]--> Women's Empowerment and Leadership (taxonomy)
+- gender action learning system --[is_a]--> Gender Research Methods (taxonomy)
+- gender action learning system --[is_a]--> Gender Dynamics and Analysis (taxonomy)
+- carrying capacity --[is_a]--> Pastoral and Rangeland Systems (taxonomy)
+- carrying capacity --[is_a]--> Landscape and Ecosystem Approaches (taxonomy)
+- agricultural water insecurity --[targets]--> smallholder farmers (extracted)
+- agricultural water insecurity --[is_a]--> Uncategorized (taxonomy)
+- polycentric governance --[addresses]--> transformative adaptation (extracted)
+- polycentric governance --[is_a]--> Water Governance and Management (taxonomy)
+- polycentric governance --[is_a]--> Collective Action and Governance (taxonomy)
+- polycentric governance --[is_a]--> Participatory and Polycentric Governance (taxonomy)
+- polycentric governance --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- polycentric governance --[is_a]--> Governance Frameworks (taxonomy)
+- polycentric governance --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- digital marketing regulation --[targets]--> smallholder farmers (inferred)
+- digital marketing regulation --[is_a]--> Policy and Enabling Environment (taxonomy)
+- digital marketing regulation --[is_a]--> Miscellaneous Agricultural Policy (taxonomy)
+- digital marketing regulation --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- alternative flour blending --[produces]--> nutritional enhancement (extracted)
+- alternative flour blending --[is_a]--> Dietary Behavior and Interventions (taxonomy)
+- sensory evaluation --[uses]--> Honduras (extracted)
+- sensory evaluation --[is_a]--> Traceability and Quality Assessment (taxonomy)
+- sensory evaluation --[is_a]--> Consumer Preferences and Behavior (taxonomy)
+- sensory evaluation --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- aflatoxin contamination --[located_in]--> Kenya (extracted)
+- aflatoxin contamination --[is_a]--> Disease Management (taxonomy)
+- aflatoxin contamination --[is_a]--> Post-Harvest and Food Loss Management (taxonomy)
+- aflatoxin contamination --[is_a]--> Contaminant and Residue Management (taxonomy)
+- life cycle assessment --[uses]--> carbon footprint assessment (extracted)
+- life cycle assessment --[is_a]--> Carbon and Greenhouse Gas Management in Farming (taxonomy)
+- life cycle assessment --[is_a]--> Low-Carbon and Zero-Carbon Agriculture (taxonomy)
+- life cycle assessment --[is_a]--> Food System Analytics and Modeling (taxonomy)
+- life cycle assessment --[is_a]--> Life Cycle and Environmental Assessment (taxonomy)
+- life cycle assessment --[is_a]--> Experimental and Evaluation Methods (taxonomy)
+- livestock intensification --[located_in]--> Vietnam (extracted)
+- livestock intensification --[is_a]--> Livestock Production and Management (taxonomy)
+- livestock intensification --[is_a]--> Uncategorized (taxonomy)
+- behavioral analysis --[is_a]--> Social Assessment Methods (taxonomy)
+- behavioral analysis --[is_a]--> Behavior Change Approaches (taxonomy)
+- behavioral analysis --[is_a]--> Uncategorized (taxonomy)
+- water justice --[uses]--> distributive justice (extracted)
+- water justice --[uses]--> procedural justice (extracted)
+- water justice --[is_a]--> Agricultural Water Resources Management (taxonomy)
+- water justice --[is_a]--> Water Governance and Management (taxonomy)
+- water justice --[is_a]--> Justice and Rights (taxonomy)
+- water justice --[is_a]--> Justice and Equity Frameworks (taxonomy)
+- water justice --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- distributive justice --[is_a]--> Justice and Rights (taxonomy)
+- distributive justice --[is_a]--> Justice and Equity Frameworks (taxonomy)
+- distributive justice --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- procedural justice --[is_a]--> Justice and Rights (taxonomy)
+- procedural justice --[is_a]--> Justice and Equity Frameworks (taxonomy)
+- procedural justice --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- subsidy repurposing --[addresses]--> agricultural productivity (extracted)
+- subsidy repurposing --[is_a]--> Social Protection and Transfers (taxonomy)
+- subsidy repurposing --[is_a]--> Subsidy and Finance Reform (taxonomy)
+- subsidy repurposing --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- subsidy repurposing --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- conjunctive water use --[is_a]--> Agricultural Water Resources Management (taxonomy)
+- conjunctive water use --[is_a]--> Irrigation and Water Infrastructure (taxonomy)
+- game-based learning --[targets]--> smallholder farmers (inferred)
+- game-based learning --[is_a]--> E-Learning and Virtual Training (taxonomy)
+- game-based learning --[is_a]--> Virtual and Digital Learning (taxonomy)
+- game-based learning --[is_a]--> Training and Capacity Development (taxonomy)
+- game-based learning --[is_a]--> Training Modalities (taxonomy)
+- greenhouse gas budgets --[is_a]--> Carbon and Greenhouse Gas Management in Farming (taxonomy)
+- greenhouse gas budgets --[is_a]--> Greenhouse Gas Measurement and Monitoring (taxonomy)
+- greenhouse gas budgets --[is_a]--> Greenhouse Gas Measurement and Reporting (taxonomy)
+- water footprint assessment --[addresses]--> water productivity (inferred)
+- water footprint assessment --[is_a]--> Carbon and Greenhouse Gas Management in Farming (taxonomy)
+- water footprint assessment --[is_a]--> Water Productivity and Efficiency (taxonomy)
+- water footprint assessment --[is_a]--> Life Cycle and Environmental Assessment (taxonomy)
+- biophysical simulation modeling --[is_a]--> Crop and Agricultural Modeling (taxonomy)
+- biophysical simulation modeling --[is_a]--> Systems and Simulation Modeling (taxonomy)
+- biophysical simulation modeling --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- indicator framework monitoring --[is_a]--> Monitoring, Reporting and Verification (taxonomy)
+- indicator framework monitoring --[is_a]--> Monitoring and Evaluation Frameworks (taxonomy)
+- indicator framework monitoring --[is_a]--> MRV Frameworks (taxonomy)
+- planetary boundaries --[is_a]--> Ecosystem Restoration and Services (taxonomy)
+- planetary boundaries --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- planetary boundaries --[is_a]--> Transformative Change (taxonomy)
+- geospatial data analysis --[targets]--> Ghana (extracted)
+- geospatial data analysis --[is_a]--> Satellite and Remote Sensing Applications (taxonomy)
+- geospatial data analysis --[is_a]--> Geospatial Analysis and Mapping (taxonomy)
+- geospatial data analysis --[is_a]--> Statistical and Quantitative Methods (taxonomy)
+- geospatial data analysis --[is_a]--> Remote Sensing and Earth Observation (taxonomy)
+- gender-inclusive water management --[located_in]--> Okara District (extracted)
+- gender-inclusive water management --[is_a]--> Agricultural Water Resources Management (taxonomy)
+- gender-inclusive water management --[is_a]--> Water Governance and Management (taxonomy)
+- gender-inclusive water management --[is_a]--> Gender Mainstreaming and Programming (taxonomy)
+- gender-inclusive water management --[is_a]--> Gender Inclusion and Equity (taxonomy)
+- gender-inclusive water management --[is_a]--> Gender Dynamics and Analysis (taxonomy)
+- curriculum institutionalization --[is_a]--> Curriculum and Skills Development (taxonomy)
+- curriculum institutionalization --[is_a]--> Capacity Building Programs (taxonomy)
+- curriculum institutionalization --[is_a]--> Training and Capacity Development (taxonomy)
+- curriculum institutionalization --[is_a]--> Training Modalities (taxonomy)
+- planetary health diet --[is_a]--> Dietary Assessment and Quality (taxonomy)
+- planetary health diet --[is_a]--> Transformative Change (taxonomy)
+- participatory technology development --[uses]--> human-centered design (extracted)
+- participatory technology development --[is_a]--> Participatory and Farmer-Centered Approaches (taxonomy)
+- participatory technology development --[is_a]--> Co-Design and Co-Production (taxonomy)
+- participatory technology development --[is_a]--> Participatory Research Methods (taxonomy)
+- participatory technology development --[is_a]--> Participatory Learning Methods (taxonomy)
+- biodiversity nexus --[is_a]--> Landscape and Land Management (taxonomy)
+- biodiversity nexus --[is_a]--> Biodiversity Conservation (taxonomy)
+- biodiversity nexus --[is_a]--> Nexus Frameworks (taxonomy)
+- regulatory oversight --[is_a]--> Policy and Enabling Environment (taxonomy)
+- regulatory oversight --[is_a]--> Phytosanitary and Biosafety Regulation (taxonomy)
+- regulatory oversight --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- acaricide resistance --[addresses]--> Uganda (extracted)
+- acaricide resistance --[is_a]--> Herd Health Management (taxonomy)
+- acaricide resistance --[is_a]--> Uncategorized (taxonomy)
+- community-led governance --[is_a]--> Collective Action and Governance (taxonomy)
+- community-led governance --[is_a]--> Participatory and Polycentric Governance (taxonomy)
+- community-led governance --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- community-led governance --[is_a]--> Locally Led Approaches (taxonomy)
+- intra-household allocation --[is_a]--> Food System Analytics and Modeling (taxonomy)
+- intra-household allocation --[is_a]--> Intra-household and Community Dynamics (taxonomy)
+- intra-household allocation --[is_a]--> Gender Research Methods (taxonomy)
+- intra-household allocation --[is_a]--> Social Inclusion and Intersectionality (taxonomy)
+- minimum dietary diversity --[is_a]--> Dietary Assessment and Quality (taxonomy)
+- minimum dietary diversity --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- shop-along methodology --[uses]--> dietary assessment (extracted)
+- shop-along methodology --[is_a]--> Consumer Preferences and Behavior (taxonomy)
+- shop-along methodology --[is_a]--> Qualitative and Social Research Techniques (taxonomy)
+- shop-along methodology --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- participatory theatre --[located_in]--> Morocco (extracted)
+- participatory theatre --[is_a]--> Community Engagement Methods (taxonomy)
+- participatory theatre --[is_a]--> Behavior Change Communication (taxonomy)
+- participatory theatre --[is_a]--> Training Modalities (taxonomy)
+- artificial intelligence ethics --[addresses]--> equity and inclusion (extracted)
+- artificial intelligence ethics --[is_a]--> AI Applications and Ethics (taxonomy)
+- artificial intelligence ethics --[is_a]--> Core AI and ML Approaches (taxonomy)
+- artificial intelligence ethics --[is_a]--> Responsible and Ethical Innovation (taxonomy)
+- mobile phone-delivered training --[targets]--> pig producers (extracted)
+- mobile phone-delivered training --[is_a]--> E-Learning and Virtual Training (taxonomy)
+- mobile phone-delivered training --[is_a]--> Digital Advisory and Extension Platforms (taxonomy)
+- mobile phone-delivered training --[is_a]--> Virtual and Digital Learning (taxonomy)
+- mobile phone-delivered training --[is_a]--> Training and Capacity Development (taxonomy)
+- mobile phone-delivered training --[is_a]--> Training Modalities (taxonomy)
+- water consumption mapping --[produces]--> spatial data (inferred)
+- water consumption mapping --[is_a]--> Agricultural Water Resources Management (taxonomy)
+- water consumption mapping --[is_a]--> Water Productivity and Efficiency (taxonomy)
+- water consumption mapping --[is_a]--> Geospatial Analysis and Mapping (taxonomy)
+- water consumption mapping --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- conflict classification --[addresses]--> humanitarian responses (extracted)
+- conflict classification --[is_a]--> Climate-Conflict Nexus (taxonomy)
+- conflict classification --[is_a]--> Social Assessment Methods (taxonomy)
+- farmer-herder conflict --[located_in]--> Nigeria (extracted)
+- farmer-herder conflict --[is_a]--> Pastoral and Rangeland Systems (taxonomy)
+- farmer-herder conflict --[is_a]--> Climate-Conflict Nexus (taxonomy)
+- political violence analysis --[uses]--> ACLED (extracted)
+- political violence analysis --[located_in]--> G5 Sahel (extracted)
+- political violence analysis --[is_a]--> Climate-Conflict Nexus (taxonomy)
+- political violence analysis --[is_a]--> Social Assessment Methods (taxonomy)
+- tapered cash transfers --[is_a]--> Food Access and Social Protection (taxonomy)
+- tapered cash transfers --[is_a]--> Social Protection and Transfers (taxonomy)
+- tapered cash transfers --[is_a]--> Cash and Financial Transfers (taxonomy)
+- tapered cash transfers --[is_a]--> Social Protection and Safety Nets (taxonomy)
+- tapered cash transfers --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- tapered cash transfers --[is_a]--> Social Protection in Fragile Contexts (taxonomy)
+- traditional extension --[is_a]--> Agricultural Extension and Advisory Services (taxonomy)
+- traditional extension --[is_a]--> Extension Approaches and Methods (taxonomy)
+- traditional extension --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- cluster randomized control trial --[located_in]--> Narayanganj block (extracted)
+- cluster randomized control trial --[is_a]--> Randomized and Controlled Trials (taxonomy)
+- cluster randomized control trial --[is_a]--> Experimental and Evaluation Methods (taxonomy)
+- cluster randomized control trial --[is_a]--> Uncategorized (taxonomy)
+- community-based aquaculture --[located_in]--> Mandla district (extracted)
+- community-based aquaculture --[is_a]--> Aquaculture Systems (taxonomy)
+- community-based aquaculture --[is_a]--> Uncategorized (taxonomy)
+- knowledge exchange sessions --[located_in]--> Nepal (extracted)
+- knowledge exchange sessions --[is_a]--> Mentorship and Accompaniment (taxonomy)
+- knowledge exchange sessions --[is_a]--> Knowledge Exchange and Dissemination (taxonomy)
+- knowledge exchange sessions --[is_a]--> South-South and Knowledge Exchange (taxonomy)
+- food subsidies --[located_in]--> Dar es Salaam (extracted)
+- food subsidies --[is_a]--> Food Market Systems (taxonomy)
+- food subsidies --[is_a]--> Food System Analytics and Modeling (taxonomy)
+- food subsidies --[is_a]--> Social Protection and Transfers (taxonomy)
+- food subsidies --[is_a]--> Subsidy and Finance Reform (taxonomy)
+- food subsidies --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- food subsidies --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- biosecurity assessment --[targets]--> smallholder farmers (inferred)
+- biosecurity assessment --[is_a]--> Herd Health Management (taxonomy)
+- biosecurity assessment --[is_a]--> Food Safety Monitoring and Management (taxonomy)
+- biosecurity assessment --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- biosecurity assessment --[is_a]--> Biosecurity and Disease Prevention (taxonomy)
+- estrus detection --[uses]--> buffalo (extracted)
+- estrus detection --[is_a]--> Livestock Production and Management (taxonomy)
+- estrus detection --[is_a]--> Uncategorized (taxonomy)
+- animal welfare assessment --[is_a]--> Livestock Production and Management (taxonomy)
+- animal welfare assessment --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- animal welfare assessment --[is_a]--> Uncategorized (taxonomy)
+- vaccine wastage --[related_to]--> cold chain management (extracted)
+- vaccine wastage --[is_a]--> Herd Health Management (taxonomy)
+- vaccine wastage --[is_a]--> Uncategorized (taxonomy)
+- cold chain management --[is_a]--> Herd Health Management (taxonomy)
+- cold chain management --[is_a]--> Post-Harvest Technology and Storage (taxonomy)
+- cold chain management --[is_a]--> Supply Chain and Post-Harvest (taxonomy)
+- pangenome construction --[uses]--> wheat (extracted)
+- pangenome construction --[is_a]--> Sequencing and Genomic Analysis (taxonomy)
+- pangenome construction --[is_a]--> Crop Genetic Improvement (taxonomy)
+- pangenome construction --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- mobile-based extension --[targets]--> smallholder farmer (extracted)
+- mobile-based extension --[is_a]--> Agricultural Extension and Advisory Services (taxonomy)
+- mobile-based extension --[is_a]--> Mobile and Interactive Advisory Tools (taxonomy)
+- mobile-based extension --[is_a]--> Digital Advisory and Extension Platforms (taxonomy)
+- mobile-based extension --[is_a]--> Extension Approaches and Methods (taxonomy)
+- mobile-based extension --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- mobile-based extension --[is_a]--> Digital Advisory and Extension (taxonomy)
+- participatory action research --[uses]--> mobile-based extension (extracted)
+- participatory action research --[is_a]--> Participatory and Farmer-Centered Approaches (taxonomy)
+- participatory action research --[is_a]--> Participatory Research Methods (taxonomy)
+- participatory action research --[is_a]--> Participatory Learning Methods (taxonomy)
+- quantitative trait nucleotides --[related_to]--> genomic prediction (extracted)
+- quantitative trait nucleotides --[is_a]--> Marker-Assisted Selection and QTL (taxonomy)
+- quantitative trait nucleotides --[is_a]--> Crop Genetic Improvement (taxonomy)
+- quantitative trait nucleotides --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- reseeding --[uses]--> Lygos raetam (extracted)
+- reseeding --[is_a]--> Pastoral and Rangeland Systems (taxonomy)
+- reseeding --[is_a]--> Uncategorized (taxonomy)
+- vendor neighborhood analysis --[uses]--> built food environment (extracted)
+- vendor neighborhood analysis --[is_a]--> Food Environment Assessment (taxonomy)
+- wastewater aquaculture --[located_in]--> East Kolkata Wetlands (extracted)
+- wastewater aquaculture --[is_a]--> Aquaculture Systems (taxonomy)
+- wastewater aquaculture --[is_a]--> Uncategorized (taxonomy)
+- livestock waste recovery --[is_a]--> Livestock Methane and Emissions (taxonomy)
+- livestock waste recovery --[is_a]--> Waste-to-Value and Resource Recovery (taxonomy)
+- livestock waste recovery --[is_a]--> Uncategorized (taxonomy)
+- crop-aquaculture farming --[located_in]--> Myanmar (extracted)
+- crop-aquaculture farming --[is_a]--> Integrated Rice-Fish and Aquatic Farming (taxonomy)
+- crop-aquaculture farming --[is_a]--> Uncategorized (taxonomy)
+- eat-lancet diet --[uses]--> IMPACT model (extracted)
+- eat-lancet diet --[is_a]--> Dietary Assessment and Quality (taxonomy)
+- malnutrition burden --[is_a]--> Nutrition-Sensitive Approaches (taxonomy)
+- malnutrition burden --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- malnutrition burden --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- hydrological modelling --[collaborates_with]--> IWMI (extracted)
+- hydrological modelling --[is_a]--> Agricultural Water Resources Management (taxonomy)
+- hydrological modelling --[is_a]--> Hydrological Modeling and Analysis (taxonomy)
+- hydrological modelling --[is_a]--> Crop and Agricultural Modeling (taxonomy)
+- hydrological modelling --[is_a]--> Systems and Simulation Modeling (taxonomy)
+- push-pull technology --[uses]--> Desmodium (extracted)
+- push-pull technology --[uses]--> Brachiaria (extracted)
+- push-pull technology --[is_a]--> Integrated Pest Management (taxonomy)
+- push-pull technology --[is_a]--> Uncategorized (taxonomy)
+- post-mined land restoration --[is_a]--> Landscape and Land Management (taxonomy)
+- post-mined land restoration --[is_a]--> Sustainable Land Management (taxonomy)
+- price transmission --[targets]--> agro-dealer (extracted)
+- price transmission --[is_a]--> Food System Analytics and Modeling (taxonomy)
+- price transmission --[is_a]--> Price and Market Monitoring (taxonomy)
+- price transmission --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- seed system development --[addresses]--> gender-responsive breeding (extracted)
+- seed system development --[is_a]--> Seed System Development and Strengthening (taxonomy)
+- seed system development --[is_a]--> Seed Systems Development (taxonomy)
+- behavioral interventions --[targets]--> smallholder farmer (extracted)
+- behavioral interventions --[is_a]--> Dietary Behavior and Interventions (taxonomy)
+- behavioral interventions --[is_a]--> Behavior Change Approaches (taxonomy)
+- behavioral interventions --[is_a]--> Social Assessment Methods (taxonomy)
+- product concept testing --[targets]--> plant breeder (extracted)
+- product concept testing --[is_a]--> Consumer Preferences and Behavior (taxonomy)
+- product concept testing --[is_a]--> Participatory and Community Learning Methods (taxonomy)
+- product concept testing --[is_a]--> Monitoring and Evaluation Frameworks (taxonomy)
+- product concept testing --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- sparse phenotyping --[addresses]--> breeding costs (extracted)
+- sparse phenotyping --[is_a]--> Phenotyping Methods and Technologies (taxonomy)
+- sparse phenotyping --[is_a]--> Crop Genetic Improvement (taxonomy)
+- sparse phenotyping --[is_a]--> Digital Farming Tools and Systems (taxonomy)
+- sparse phenotyping --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- transfer learning --[uses]--> genomic prediction (extracted)
+- transfer learning --[is_a]--> Core AI and ML Methods (taxonomy)
+- transfer learning --[is_a]--> Core AI and ML Approaches (taxonomy)
+- transfer learning --[is_a]--> Artificial Intelligence and Machine Learning (taxonomy)
+- minimum tillage --[part_of]--> conservation agriculture (extracted)
+- minimum tillage --[is_a]--> Conservation Agriculture and Tillage (taxonomy)
+- minimum tillage --[is_a]--> Soil Health and Management (taxonomy)
+- near-infrared spectroscopy --[addresses]--> grain quality assessment (extracted)
+- near-infrared spectroscopy --[is_a]--> Phenotyping Methods and Technologies (taxonomy)
+- near-infrared spectroscopy --[is_a]--> Crop Genetic Improvement (taxonomy)
+- near-infrared spectroscopy --[is_a]--> Traceability and Quality Assessment (taxonomy)
+- near-infrared spectroscopy --[is_a]--> Precision Farming Technologies (taxonomy)
+- near-infrared spectroscopy --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- agropastoralism --[addresses]--> climate adaptation (inferred)
+- agropastoralism --[is_a]--> Pastoral and Rangeland Systems (taxonomy)
+- agropastoralism --[is_a]--> Landscape and Ecosystem Approaches (taxonomy)
+- gender productivity gap --[located_in]--> Sub-Saharan Africa (extracted)
+- gender productivity gap --[is_a]--> Gender Mainstreaming and Programming (taxonomy)
+- gender productivity gap --[is_a]--> Gender Research Methods (taxonomy)
+- gender productivity gap --[is_a]--> Gender Dynamics and Analysis (taxonomy)
+- land reclamation --[uses]--> olive (extracted)
+- land reclamation --[is_a]--> Landscape and Land Management (taxonomy)
+- land reclamation --[is_a]--> Sustainable Land Management (taxonomy)
+- aquaponics --[is_a]--> Aquaculture Systems (taxonomy)
+- aquaponics --[is_a]--> Uncategorized (taxonomy)
+- germplasm repatriation --[involves]--> ILRI (extracted)
+- germplasm repatriation --[involves]--> CIP (extracted)
+- germplasm repatriation --[targets]--> Ethiopia (extracted)
+- germplasm repatriation --[is_a]--> Germplasm Conservation and Management (taxonomy)
+- germplasm repatriation --[is_a]--> Crop Genetic Improvement (taxonomy)
+- cost-recovery system --[is_a]--> Uncategorized (taxonomy)
+- phytosanitary testing --[uses]--> cost-recovery system (extracted)
+- phytosanitary testing --[is_a]--> Seed Quality and Certification (taxonomy)
+- phytosanitary testing --[is_a]--> Disease Management (taxonomy)
+- phytosanitary testing --[is_a]--> Food Safety Monitoring and Management (taxonomy)
+- phytosanitary testing --[is_a]--> Phytosanitary and Biosafety Regulation (taxonomy)
+- phytosanitary testing --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- flood modeling --[uses]--> digital twin (extracted)
+- flood modeling --[located_in]--> Dolo Ado (extracted)
+- flood modeling --[is_a]--> Agricultural Water Resources Management (taxonomy)
+- flood modeling --[is_a]--> Hydrological Modeling and Analysis (taxonomy)
+- flood modeling --[is_a]--> Crop and Agricultural Modeling (taxonomy)
+- flood modeling --[is_a]--> Systems and Simulation Modeling (taxonomy)
+- flood modeling --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- farmer group model --[targets]--> smallholder farmers (inferred)
+- farmer group model --[located_in]--> Son La Province (extracted)
+- farmer group model --[is_a]--> Technology Adoption and Diffusion (taxonomy)
+- farmer group model --[is_a]--> Smallholder Farming Systems (taxonomy)
+- farmer group model --[is_a]--> Participatory and Community Learning Methods (taxonomy)
+- grain quality assessment --[targets]--> rice (extracted)
+- grain quality assessment --[is_a]--> Trait Characterization and Analysis (taxonomy)
+- grain quality assessment --[is_a]--> Crop Genetic Improvement (taxonomy)
+- grain quality assessment --[is_a]--> Traceability and Quality Assessment (taxonomy)
+- grain quality assessment --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- testcross evaluation --[is_a]--> Crossing and Selection Methods (taxonomy)
+- testcross evaluation --[is_a]--> Crop Genetic Improvement (taxonomy)
+- testcross evaluation --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- multi-trait selection index --[produces]--> genetic gain (extracted)
+- multi-trait selection index --[is_a]--> Genetic Gain and Performance Assessment (taxonomy)
+- multi-trait selection index --[is_a]--> Crop Genetic Improvement (taxonomy)
+- multi-trait selection index --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- pollen tube growth analysis --[addresses]--> female sterility (extracted)
+- pollen tube growth analysis --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- pollen tube growth analysis --[is_a]--> Uncategorized (taxonomy)
+- knowledge attitudes practices survey --[is_a]--> Specific Food System Interventions (taxonomy)
+- knowledge attitudes practices survey --[is_a]--> Participatory and Community Learning Methods (taxonomy)
+- knowledge attitudes practices survey --[is_a]--> Qualitative and Social Research Techniques (taxonomy)
+- knowledge attitudes practices survey --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- multi-trait genomic selection --[produces]--> rice (extracted)
+- multi-trait genomic selection --[is_a]--> Genomic Selection and Prediction (taxonomy)
+- multi-trait genomic selection --[is_a]--> Crop Genetic Improvement (taxonomy)
+- multi-trait genomic selection --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- complementary input use --[related_to]--> maize (extracted)
+- complementary input use --[is_a]--> Uncategorized (taxonomy)
+- on-farm seed storage --[located_in]--> Central Ethiopia (extracted)
+- on-farm seed storage --[is_a]--> Seed Distribution and Delivery (taxonomy)
+- on-farm seed storage --[is_a]--> Seed Systems Development (taxonomy)
+- on-farm seed storage --[is_a]--> Post-Harvest and Food Loss Management (taxonomy)
+- on-farm seed storage --[is_a]--> Post-Harvest Technology and Storage (taxonomy)
+- genetic variance partitioning --[targets]--> banana (extracted)
+- genetic variance partitioning --[is_a]--> Sequencing and Genomic Analysis (taxonomy)
+- genetic variance partitioning --[is_a]--> Crop Genetic Improvement (taxonomy)
+- genetic variance partitioning --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- rhizosphere microbiome analysis --[uses]--> 16S rRNA sequencing (extracted)
+- rhizosphere microbiome analysis --[is_a]--> Multi-Omics and Bioinformatics (taxonomy)
+- rhizosphere microbiome analysis --[is_a]--> Crop Genetic Improvement (taxonomy)
+- rhizosphere microbiome analysis --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- computer vision phenotyping --[is_a]--> Phenotyping Methods and Technologies (taxonomy)
+- computer vision phenotyping --[is_a]--> Crop Genetic Improvement (taxonomy)
+- computer vision phenotyping --[is_a]--> Computer Vision and Image Processing (taxonomy)
+- computer vision phenotyping --[is_a]--> Core AI and ML Approaches (taxonomy)
+- migration policy --[is_a]--> Labor and Migration (taxonomy)
+- migration policy --[is_a]--> Displacement and Migration (taxonomy)
+- migration policy --[is_a]--> Core Policy Instruments (taxonomy)
+- migration policy --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- choice experiment --[addresses]--> food safety (extracted)
+- choice experiment --[is_a]--> Consumer Preferences and Behavior (taxonomy)
+- choice experiment --[is_a]--> Experimental Preference and Valuation Methods (taxonomy)
+- choice experiment --[is_a]--> Mixed Methods and Qualitative Approaches (taxonomy)
+- multi-stakeholder approaches --[is_a]--> Networking and Collaboration (taxonomy)
+- multi-stakeholder approaches --[is_a]--> Multi-Stakeholder Platforms and Partnerships (taxonomy)
+- multi-stakeholder approaches --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- agroecological change --[located_in]--> Kenya (extracted)
+- agroecological change --[is_a]--> Agroecological Approaches to Adaptation (taxonomy)
+- agroecological change --[is_a]--> Planetary and Environmental Sustainability (taxonomy)
+- compound risk assessment --[addresses]--> food system transformation (extracted)
+- compound risk assessment --[is_a]--> Climate Risk Assessment and Vulnerability (taxonomy)
+- compound risk assessment --[is_a]--> Social Assessment Methods (taxonomy)
+- compound risk assessment --[is_a]--> Vulnerability Assessment (taxonomy)
+- participatory rural appraisal --[addresses]--> gender dynamics (extracted)
+- participatory rural appraisal --[is_a]--> Participatory and Farmer-Centered Approaches (taxonomy)
+- participatory rural appraisal --[is_a]--> Participatory Research Methods (taxonomy)
+- participatory rural appraisal --[is_a]--> Participatory Learning Methods (taxonomy)
+- soil quality index --[located_in]--> Nile River Basin (extracted)
+- soil quality index --[is_a]--> Soil Health and Fertility Management (taxonomy)
+- soil quality index --[is_a]--> Soil Health and Management (taxonomy)
+- soil quality index --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- integrated nutrient management --[is_a]--> Soil Health and Fertility Management (taxonomy)
+- integrated nutrient management --[is_a]--> Uncategorized (taxonomy)
+- women's business skills training --[is_a]--> Agribusiness Training and Capacity (taxonomy)
+- women's business skills training --[is_a]--> Women's Empowerment (taxonomy)
+- women's business skills training --[is_a]--> Curriculum and Skills Development (taxonomy)
+- savings and lending groups --[is_a]--> Finance and Investment Mechanisms (taxonomy)
+- savings and lending groups --[is_a]--> Cash and Financial Transfers (taxonomy)
+- savings and lending groups --[is_a]--> Institutional and Organizational Development (taxonomy)
+- savings and lending groups --[is_a]--> Livelihoods and Social Welfare (taxonomy)
+- women's land ownership --[is_a]--> Youth and Women's Economic Empowerment (taxonomy)
+- women's land ownership --[is_a]--> Women's Empowerment (taxonomy)
+- women's land ownership --[is_a]--> Gender-Responsive Policy and Governance (taxonomy)
+- host plant resistance --[addresses]--> Helicoverpa armigera (extracted)
+- host plant resistance --[is_a]--> Stress Tolerance Screening (taxonomy)
+- host plant resistance --[is_a]--> Biological Control (taxonomy)
+- meta-qtl analysis --[uses]--> peanut (extracted)
+- meta-qtl analysis --[is_a]--> Marker-Assisted Selection and QTL (taxonomy)
+- meta-qtl analysis --[is_a]--> Crop Genetic Improvement (taxonomy)
+- meta-qtl analysis --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- protein digestibility --[related_to]--> soybean (extracted)
+- protein digestibility --[is_a]--> Trait Characterization and Analysis (taxonomy)
+- protein digestibility --[is_a]--> Crop Genetic Improvement (taxonomy)
+- protein digestibility --[is_a]--> Dietary Assessment and Quality (taxonomy)
+- protein digestibility --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- cyanogenesis --[produces]--> sorghum (extracted)
+- cyanogenesis --[is_a]--> Trait Characterization and Analysis (taxonomy)
+- cyanogenesis --[is_a]--> Crop Genetic Improvement (taxonomy)
+- community theater --[is_a]--> Community Engagement Methods (taxonomy)
+- community theater --[is_a]--> Behavior Change Communication (taxonomy)
+- community theater --[is_a]--> Training Modalities (taxonomy)
+- genomics training --[is_a]--> Curriculum and Skills Development (taxonomy)
+- genomics training --[is_a]--> Training and Capacity Development (taxonomy)
+- waste-to-value technologies --[addresses]--> organic waste management (extracted)
+- waste-to-value technologies --[is_a]--> Post-Harvest and Food Loss Management (taxonomy)
+- waste-to-value technologies --[is_a]--> Food Loss and Waste Reduction (taxonomy)
+- waste-to-value technologies --[is_a]--> Waste-to-Value and Resource Recovery (taxonomy)
+- two-step drying --[targets]--> soybean (extracted)
+- two-step drying --[is_a]--> Post-Harvest and Food Loss Management (taxonomy)
+- two-step drying --[is_a]--> Post-Harvest Technology and Storage (taxonomy)
+- proximity to natural habitat hypothesis --[related_to]--> pollination services (extracted)
+- proximity to natural habitat hypothesis --[is_a]--> Landscape and Ecosystem Approaches (taxonomy)
+- proximity to natural habitat hypothesis --[is_a]--> Uncategorized (taxonomy)
+- market information systems --[is_a]--> Food Market Systems (taxonomy)
+- market information systems --[is_a]--> Digital Platforms and Infrastructure (taxonomy)
+- market information systems --[is_a]--> Price and Market Monitoring (taxonomy)
+- market information systems --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- climate-smart interventions --[targets]--> agricultural productivity (extracted)
+- climate-smart interventions --[is_a]--> Climate-Smart Agriculture (taxonomy)
+- climate-smart interventions --[is_a]--> Climate-Smart Agriculture Approaches (taxonomy)
+- qtl pyramiding --[uses]--> marker-assisted selection (extracted)
+- qtl pyramiding --[is_a]--> Crossing and Selection Methods (taxonomy)
+- qtl pyramiding --[is_a]--> Crop Genetic Improvement (taxonomy)
+- qtl pyramiding --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- rapid generation advancement --[is_a]--> Advanced Breeding Techniques (taxonomy)
+- rapid generation advancement --[is_a]--> Crop Genetic Improvement (taxonomy)
+- haplotype analysis --[is_a]--> Marker-Assisted Selection and QTL (taxonomy)
+- haplotype analysis --[is_a]--> Crop Genetic Improvement (taxonomy)
+- haplotype analysis --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- trait development pipeline --[uses]--> marker-assisted selection (extracted)
+- trait development pipeline --[is_a]--> Trait Characterization and Analysis (taxonomy)
+- trait development pipeline --[is_a]--> Crop Genetic Improvement (taxonomy)
+- gluten-free products --[is_a]--> Dietary Behavior and Interventions (taxonomy)
+- cultural heritage preservation --[located_in]--> Cordillera Administrative Region (extracted)
+- cultural heritage preservation --[is_a]--> Miscellaneous Wellbeing Concepts (taxonomy)
+- cultural heritage preservation --[is_a]--> Traditional and Indigenous Knowledge (taxonomy)
+- food environment --[is_a]--> Food Environment Assessment (taxonomy)
+- fertilizer adoption --[located_in]--> Ethiopia (extracted)
+- fertilizer adoption --[is_a]--> Technology Adoption and Diffusion (taxonomy)
+- quality testing --[targets]--> common bean (extracted)
+- quality testing --[is_a]--> Traceability and Quality Assessment (taxonomy)
+- quality testing --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- agroecological performance --[uses]--> TAPE (extracted)
+- agroecological performance --[is_a]--> Core Agroecological Approaches (taxonomy)
+- agroecological performance --[is_a]--> Life Cycle and Environmental Assessment (taxonomy)
+- agroecological performance --[is_a]--> Planetary and Environmental Sustainability (taxonomy)
+- agroecological performance --[is_a]--> Uncategorized (taxonomy)
+- digital inclusiveness --[is_a]--> Digital Extension Integration and Literacy (taxonomy)
+- digital inclusiveness --[is_a]--> Digital Agriculture Systems (taxonomy)
+- digital inclusiveness --[is_a]--> Digital Literacy and Inclusion (taxonomy)
+- digital inclusiveness --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- digital inclusiveness --[is_a]--> Digital Platforms and Infrastructure (taxonomy)
+- tree-based restoration --[uses]--> seed systems (extracted)
+- tree-based restoration --[is_a]--> Agroforestry Systems (taxonomy)
+- tree-based restoration --[is_a]--> Sustainable Land Management (taxonomy)
+- hydro-economic modeling --[targets]--> policymakers (extracted)
+- hydro-economic modeling --[is_a]--> Agricultural Water Resources Management (taxonomy)
+- hydro-economic modeling --[is_a]--> Hydrological Modeling and Analysis (taxonomy)
+- hydro-economic modeling --[is_a]--> Crop and Agricultural Modeling (taxonomy)
+- hydro-economic modeling --[is_a]--> Systems and Simulation Modeling (taxonomy)
+- hydro-economic modeling --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- transformational agroecology --[targets]--> smallholder farmers (extracted)
+- transformational agroecology --[is_a]--> Core Agroecological Approaches (taxonomy)
+- transformational agroecology --[is_a]--> Agroecological Approaches to Adaptation (taxonomy)
+- transformational agroecology --[is_a]--> Transformative Change (taxonomy)
+- multifunctional landscape interventions --[is_a]--> Landscape and Land Management (taxonomy)
+- multifunctional landscape interventions --[is_a]--> Sustainable Land Management (taxonomy)
+- behaviour change wheel --[is_a]--> Consumer Preferences and Behavior (taxonomy)
+- behaviour change wheel --[is_a]--> Behavior Change Approaches (taxonomy)
+- behaviour change wheel --[is_a]--> Social Assessment Methods (taxonomy)
+- vermicompost production --[uses]--> earthworms (extracted)
+- vermicompost production --[is_a]--> Organic and Circular Farming (taxonomy)
+- vermicompost production --[is_a]--> Composting and Organic Inputs (taxonomy)
+- vermicompost production --[is_a]--> Waste-to-Value and Resource Recovery (taxonomy)
+- climate-resilient livestock management --[is_a]--> Climate Resilience Building (taxonomy)
+- agricultural integrated assessment models --[addresses]--> food security (extracted)
+- agricultural integrated assessment models --[is_a]--> Crop and Agricultural Modeling (taxonomy)
+- agricultural integrated assessment models --[is_a]--> Systems and Simulation Modeling (taxonomy)
+- agricultural integrated assessment models --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- time poverty --[related_to]--> climate change (extracted)
+- time poverty --[is_a]--> Labor and Migration (taxonomy)
+- time poverty --[is_a]--> Intra-household and Community Dynamics (taxonomy)
+- time poverty --[is_a]--> Social Inclusion and Intersectionality (taxonomy)
+- water governance --[is_a]--> Agricultural Water Resources Management (taxonomy)
+- water governance --[is_a]--> Water Governance and Management (taxonomy)
+- water governance --[is_a]--> Participatory and Polycentric Governance (taxonomy)
+- water governance --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- green manuring --[addresses]--> soil fertility (extracted)
+- green manuring --[is_a]--> Organic and Circular Farming (taxonomy)
+- green manuring --[is_a]--> Composting and Organic Inputs (taxonomy)
+- score-on-doors rating --[targets]--> meat vendors (extracted)
+- score-on-doors rating --[is_a]--> Traceability and Quality Assessment (taxonomy)
+- climate hazard mapping --[is_a]--> Climate Risk Assessment and Vulnerability (taxonomy)
+- climate hazard mapping --[is_a]--> Geospatial Analysis and Mapping (taxonomy)
+- climate hazard mapping --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- no-tillage farming --[produces]--> soil moisture monitoring (extracted)
+- no-tillage farming --[is_a]--> Conservation Agriculture and Tillage (taxonomy)
+- no-tillage farming --[is_a]--> Soil Health and Management (taxonomy)
+- conventional tillage --[is_a]--> Conservation Agriculture and Tillage (taxonomy)
+- conventional tillage --[is_a]--> Uncategorized (taxonomy)
+- impact-based forecasting --[targets]--> climate adaptation (inferred)
+- impact-based forecasting --[is_a]--> Climate Forecasting and Early Warning (taxonomy)
+- impact-based forecasting --[is_a]--> Early Warning and Crisis Prediction (taxonomy)
+- impact-based forecasting --[is_a]--> Predictive Modeling and Forecasting (taxonomy)
+- impact-based forecasting --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- impact-based forecasting --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- shock-responsive social protection --[addresses]--> climate resilience (inferred)
+- shock-responsive social protection --[is_a]--> Food Access and Social Protection (taxonomy)
+- shock-responsive social protection --[is_a]--> Social Protection and Transfers (taxonomy)
+- shock-responsive social protection --[is_a]--> Social Protection Systems (taxonomy)
+- shock-responsive social protection --[is_a]--> Social Protection and Safety Nets (taxonomy)
+- shock-responsive social protection --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- shock-responsive social protection --[is_a]--> Social Protection in Fragile Contexts (taxonomy)
+- multi-criteria decision-making --[uses]--> TOPSIS (extracted)
+- multi-criteria decision-making --[is_a]--> Statistical and Quantitative Methods (taxonomy)
+- multi-criteria decision-making --[is_a]--> Mixed Methods and Qualitative Approaches (taxonomy)
+- multi-criteria decision-making --[is_a]--> Uncategorized (taxonomy)
+- gender-responsive scaling --[is_a]--> Technology Adoption and Diffusion (taxonomy)
+- gender-responsive scaling --[is_a]--> Scaling Approaches (taxonomy)
+- gender-responsive scaling --[is_a]--> Gender Mainstreaming and Programming (taxonomy)
+- gender-responsive scaling --[is_a]--> Scaling Strategies and Frameworks (taxonomy)
+- gender-responsive scaling --[is_a]--> Gender-Transformative Approaches (taxonomy)
+- gender-responsive scaling --[is_a]--> Scaling Frameworks and Approaches (taxonomy)
+- gender-responsive scaling --[is_a]--> Gender-Responsive Programming (taxonomy)
+- social protection systems --[uses]--> climate risk data (extracted)
+- social protection systems --[is_a]--> Food Access and Social Protection (taxonomy)
+- social protection systems --[is_a]--> Social Protection and Transfers (taxonomy)
+- social protection systems --[is_a]--> Social Protection Systems (taxonomy)
+- social protection systems --[is_a]--> Social Protection and Safety Nets (taxonomy)
+- social protection systems --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- social protection systems --[is_a]--> Social Protection in Fragile Contexts (taxonomy)
+- livelihood cooperation --[addresses]--> climate resilience (extracted)
+- livelihood cooperation --[is_a]--> Livelihood Approaches (taxonomy)
+- livelihood cooperation --[is_a]--> Livelihoods and Wellbeing (taxonomy)
+- livelihood cooperation --[is_a]--> Livelihoods and Social Welfare (taxonomy)
+- seed treatment protocols --[is_a]--> Seed Quality and Certification (taxonomy)
+- seed treatment protocols --[is_a]--> Seed Systems Development (taxonomy)
+- drone-based crop monitoring --[uses]--> NDVI analysis (extracted)
+- drone-based crop monitoring --[is_a]--> Precision and Digital Crop Management (taxonomy)
+- drone-based crop monitoring --[is_a]--> Drone and UAV Applications (taxonomy)
+- drone-based crop monitoring --[is_a]--> Remote Sensing and Digital Monitoring (taxonomy)
+- digital transfer systems --[is_a]--> Digital Platforms and Infrastructure (taxonomy)
+- automated dna extraction --[is_a]--> Molecular Markers and Fingerprinting (taxonomy)
+- stakeholder mapping --[targets]--> Sudan (extracted)
+- stakeholder mapping --[is_a]--> Multi-Stakeholder Engagement (taxonomy)
+- stakeholder mapping --[is_a]--> Participatory Governance and Rangeland Management (taxonomy)
+- stakeholder mapping --[is_a]--> Stakeholder Engagement and Consultation (taxonomy)
+- stakeholder mapping --[is_a]--> Qualitative and Social Research Techniques (taxonomy)
+- stakeholder mapping --[is_a]--> Stakeholder Engagement Methods (taxonomy)
+- spatial analysis --[uses]--> market segmentation (extracted)
+- spatial analysis --[is_a]--> Satellite and Remote Sensing Applications (taxonomy)
+- spatial analysis --[is_a]--> Geospatial Analysis and Mapping (taxonomy)
+- spatial analysis --[is_a]--> Statistical and Quantitative Methods (taxonomy)
+- spatial analysis --[is_a]--> Remote Sensing and Earth Observation (taxonomy)
+- e-learning --[addresses]--> soil health (extracted)
+- e-learning --[is_a]--> E-Learning and Virtual Training (taxonomy)
+- e-learning --[is_a]--> Virtual and Digital Learning (taxonomy)
+- e-learning --[is_a]--> Training and Capacity Development (taxonomy)
+- e-learning --[is_a]--> Training Modalities (taxonomy)
+- zoonotic disease transmission --[is_a]--> Herd Health Management (taxonomy)
+- zoonotic disease transmission --[is_a]--> Zoonotic Disease Surveillance and Management (taxonomy)
+- zoonotic disease transmission --[is_a]--> Uncategorized (taxonomy)
+- seed tracking --[is_a]--> Seed Distribution and Delivery (taxonomy)
+- seed tracking --[is_a]--> Seed Systems Development (taxonomy)
+- participatory scenario development --[is_a]--> Participatory and Farmer-Centered Approaches (taxonomy)
+- participatory scenario development --[is_a]--> Participatory Research Methods (taxonomy)
+- participatory scenario development --[is_a]--> Foresight and Strategic Planning (taxonomy)
+- participatory scenario development --[is_a]--> Participatory Learning Methods (taxonomy)
+- food systems foresight --[located_in]--> Tunisia (extracted)
+- food systems foresight --[is_a]--> Food System Frameworks and Approaches (taxonomy)
+- food systems foresight --[is_a]--> Foresight and Strategic Planning (taxonomy)
+- food systems foresight --[is_a]--> Foresight and Strategic Planning Methods (taxonomy)
+- food systems foresight --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- food systems foresight --[is_a]--> Food Systems Transformation (taxonomy)
+- difference-in-differences analysis --[located_in]--> Guatemala (extracted)
+- difference-in-differences analysis --[is_a]--> Randomized and Controlled Trials (taxonomy)
+- difference-in-differences analysis --[is_a]--> Experimental and Evaluation Methods (taxonomy)
+- difference-in-differences analysis --[is_a]--> Uncategorized (taxonomy)
+- forage adoption --[is_a]--> Feed and Forage Management (taxonomy)
+- forage adoption --[is_a]--> Technology Adoption and Diffusion (taxonomy)
+- climate-linked credit scoring --[targets]--> microfinance institutions (extracted)
+- climate-linked credit scoring --[located_in]--> Guatemala (extracted)
+- climate-linked credit scoring --[is_a]--> Climate Risk Finance and Insurance (taxonomy)
+- climate-linked credit scoring --[is_a]--> Agricultural Insurance (taxonomy)
+- climate-linked credit scoring --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- climate-linked credit scoring --[is_a]--> Insurance and Risk Finance (taxonomy)
+- hydroponic forage production --[produces]--> livestock feed (inferred)
+- hydroponic forage production --[is_a]--> Feed and Forage Management (taxonomy)
+- protein consumption adequacy --[located_in]--> semi-arid tropics (extracted)
+- protein consumption adequacy --[is_a]--> Dietary Assessment and Quality (taxonomy)
+- protein consumption adequacy --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- social valuation --[addresses]--> climate mitigation (extracted)
+- social valuation --[is_a]--> Miscellaneous Wellbeing Concepts (taxonomy)
+- social valuation --[is_a]--> Statistical and Quantitative Methods (taxonomy)
+- social valuation --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- ecosystem service valuation --[located_in]--> Medjerda watershed (extracted)
+- ecosystem service valuation --[is_a]--> Nature-Based and Ecosystem Approaches (taxonomy)
+- ecosystem service valuation --[is_a]--> Ecosystem Restoration and Services (taxonomy)
+- ecosystem service valuation --[is_a]--> Economic Modeling and Analysis (taxonomy)
+- ecosystem service valuation --[is_a]--> Payment for Ecosystem Services (taxonomy)
+- agroforestry co-design --[targets]--> smallholder farmer (extracted)
+- agroforestry co-design --[is_a]--> Agroforestry Systems (taxonomy)
+- agroforestry co-design --[is_a]--> Agroforestry and Silvopastoral Systems (taxonomy)
+- agroforestry co-design --[is_a]--> Co-Design and Co-Production (taxonomy)
+- fertilizer deep placement --[is_a]--> Soil Health and Fertility Management (taxonomy)
+- fertilizer deep placement --[is_a]--> Uncategorized (taxonomy)
+- geographical indications --[addresses]--> olive (extracted)
+- geographical indications --[is_a]--> Food Processing and Value Addition (taxonomy)
+- geographical indications --[is_a]--> Geographical Indications and Certification (taxonomy)
+- geographical indications --[is_a]--> Miscellaneous Regulatory Concepts (taxonomy)
+- geographical indications --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- mechanization hire services --[targets]--> smallholder farmer (extracted)
+- mechanization hire services --[is_a]--> Agricultural Mechanization (taxonomy)
+- mechanization hire services --[is_a]--> Mechanization Service Models (taxonomy)
+- service delivery integration --[addresses]--> cacao (extracted)
+- service delivery integration --[is_a]--> Agricultural Extension and Advisory Services (taxonomy)
+- service delivery integration --[is_a]--> Institutional and Organizational Development (taxonomy)
+- service delivery integration --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- service delivery integration --[is_a]--> Technology Adoption and Diffusion (taxonomy)
+- business plan development --[targets]--> smallholder farmers (extracted)
+- business plan development --[is_a]--> Business Models and Development (taxonomy)
+- business plan development --[is_a]--> Business Development and Incubation (taxonomy)
+- randomized evaluation --[is_a]--> Randomized and Controlled Trials (taxonomy)
+- randomized evaluation --[is_a]--> Experimental and Evaluation Methods (taxonomy)
+- randomized evaluation --[is_a]--> Uncategorized (taxonomy)
+- pollination services --[is_a]--> Biodiversity Conservation (taxonomy)
+- forest management practices --[produces]--> pollination services (extracted)
+- forest management practices --[is_a]--> Landscape and Land Management (taxonomy)
+- forest management practices --[is_a]--> Uncategorized (taxonomy)
+- participatory scaling --[located_in]--> Senegal (extracted)
+- participatory scaling --[is_a]--> Technology Adoption and Diffusion (taxonomy)
+- participatory scaling --[is_a]--> Scaling Approaches (taxonomy)
+- participatory scaling --[is_a]--> Scaling Strategies and Frameworks (taxonomy)
+- participatory scaling --[is_a]--> Scaling Frameworks and Approaches (taxonomy)
+- participatory scaling --[is_a]--> Scaling Frameworks and Strategies (taxonomy)
+- value chain coordination --[is_a]--> Value Chain Development (taxonomy)
+- value chain coordination --[is_a]--> Core Value Chain Concepts (taxonomy)
+- biodiversity integration --[located_in]--> Kenya (extracted)
+- biodiversity integration --[is_a]--> Nature-Based and Ecosystem Approaches (taxonomy)
+- biodiversity integration --[is_a]--> Biodiversity Conservation (taxonomy)
+- climate-food nexus --[located_in]--> Pacific Islands (extracted)
+- climate-food nexus --[is_a]--> Nexus Frameworks (taxonomy)
+- climate-food nexus --[is_a]--> Uncategorized (taxonomy)
+- hygiene oversight --[located_in]--> Kenya (extracted)
+- hygiene oversight --[is_a]--> Food Safety Monitoring and Management (taxonomy)
+- social protection policy --[is_a]--> Food Access and Social Protection (taxonomy)
+- social protection policy --[is_a]--> Social Protection and Transfers (taxonomy)
+- social protection policy --[is_a]--> Social Protection Systems (taxonomy)
+- social protection policy --[is_a]--> Core Policy Instruments (taxonomy)
+- social protection policy --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- social protection policy --[is_a]--> Social Protection in Fragile Contexts (taxonomy)
+- single nucleotide polymorphisms --[uses]--> genomic selection (extracted)
+- single nucleotide polymorphisms --[is_a]--> Molecular Markers and Fingerprinting (taxonomy)
+- single nucleotide polymorphisms --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- polymorphism information content --[part_of]--> single nucleotide polymorphisms (extracted)
+- polymorphism information content --[is_a]--> Molecular Markers and Fingerprinting (taxonomy)
+- polymorphism information content --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- forecast-based advisory --[is_a]--> Agricultural Extension and Advisory Services (taxonomy)
+- forecast-based advisory --[is_a]--> Climate Forecasting and Early Warning (taxonomy)
+- forecast-based advisory --[is_a]--> Climate and Agro-Advisory Services (taxonomy)
+- forecast-based advisory --[is_a]--> Agroclimatic Advisory Services (taxonomy)
+- forecast-based advisory --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- gender-sensitive measurement --[is_a]--> Gender Mainstreaming and Programming (taxonomy)
+- gender-sensitive measurement --[is_a]--> Gender Inclusion and Equity (taxonomy)
+- gender-sensitive measurement --[is_a]--> Gender Research Methods (taxonomy)
+- gender-sensitive measurement --[is_a]--> Gender-Responsive Programming (taxonomy)
+- vulnerability indexing --[part_of]--> systems approach (extracted)
+- vulnerability indexing --[is_a]--> Food Security Measurement and Monitoring (taxonomy)
+- vulnerability indexing --[is_a]--> Monitoring and Evaluation Frameworks (taxonomy)
+- vulnerability indexing --[is_a]--> Vulnerability Assessment (taxonomy)
+- bio-economic modeling --[part_of]--> systems approach (extracted)
+- bio-economic modeling --[is_a]--> Food System Analytics and Modeling (taxonomy)
+- bio-economic modeling --[is_a]--> Crop and Agricultural Modeling (taxonomy)
+- bio-economic modeling --[is_a]--> Economic Modeling and Analysis (taxonomy)
+- agri-voltaic systems --[part_of]--> integrated farming systems (extracted)
+- agri-voltaic systems --[is_a]--> Irrigation Systems and Technologies (taxonomy)
+- agri-voltaic systems --[is_a]--> Uncategorized (taxonomy)
+- science-policy interface --[is_a]--> Policy Dialogue and Advocacy (taxonomy)
+- science-policy interface --[is_a]--> Evidence-Based Policy Processes (taxonomy)
+- science-policy interface --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- science-policy interface --[is_a]--> Integrated and Adaptive Management (taxonomy)
+- nutritional adequacy ratio --[targets]--> Bangladesh (extracted)
+- nutritional adequacy ratio --[is_a]--> Dietary Assessment and Quality (taxonomy)
+- nutritional adequacy ratio --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- digital water body inventory --[is_a]--> Agricultural Water Resources Management (taxonomy)
+- digital water body inventory --[is_a]--> Irrigation and Water Infrastructure (taxonomy)
+- digital water body inventory --[is_a]--> Digital Platforms and Infrastructure (taxonomy)
+- digital water body inventory --[is_a]--> Digital Tools and Decision Support (taxonomy)
+- integrated herd health packages --[uses]--> one health approach (extracted)
+- integrated herd health packages --[is_a]--> Herd Health Management (taxonomy)
+- integrated herd health packages --[is_a]--> Uncategorized (taxonomy)
+- random forest classification --[is_a]--> Core AI and ML Methods (taxonomy)
+- random forest classification --[is_a]--> Core AI and ML Approaches (taxonomy)
+- random forest classification --[is_a]--> Artificial Intelligence and Machine Learning (taxonomy)
+- hydrological resilience --[is_a]--> Agricultural Water Resources Management (taxonomy)
+- hydrological resilience --[is_a]--> Climate Resilience Building (taxonomy)
+- hydrological resilience --[is_a]--> Resilience Frameworks (taxonomy)
+- constructed wetlands --[produces]--> hydrological resilience (inferred)
+- constructed wetlands --[is_a]--> Agricultural Water Resources Management (taxonomy)
+- constructed wetlands --[is_a]--> Irrigation and Water Infrastructure (taxonomy)
+- floodwater management --[located_in]--> Bangladesh (extracted)
+- floodwater management --[is_a]--> Agricultural Water Resources Management (taxonomy)
+- floodwater management --[is_a]--> Irrigation and Water Infrastructure (taxonomy)
+- climate finance taxonomy --[is_a]--> Climate Finance (taxonomy)
+- climate finance taxonomy --[is_a]--> Investment and Finance Mechanisms (taxonomy)
+- climate finance taxonomy --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- water quality monitoring --[is_a]--> Agricultural Water Resources Management (taxonomy)
+- water quality monitoring --[is_a]--> Irrigation and Water Infrastructure (taxonomy)
+- water quality monitoring --[is_a]--> Sensor and IoT Applications (taxonomy)
+- water quality monitoring --[is_a]--> Remote Sensing and Digital Monitoring (taxonomy)
+- renewable energy solutions --[addresses]--> water scarcity (extracted)
+- renewable energy solutions --[is_a]--> Uncategorized (taxonomy)
+- breeding objective --[targets]--> smallholder farmer (extracted)
+- breeding objective --[targets]--> large commercial farm (extracted)
+- breeding objective --[is_a]--> Breeding Program Design and Management (taxonomy)
+- breeding objective --[is_a]--> Crop Genetic Improvement (taxonomy)
+- trait preference ranking --[uses]--> multinomial ordered logit regression (extracted)
+- trait preference ranking --[is_a]--> Trait Characterization and Analysis (taxonomy)
+- trait preference ranking --[is_a]--> Crop Genetic Improvement (taxonomy)
+- trait preference ranking --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- multinomial ordered logit regression --[is_a]--> Statistical and Quantitative Methods (taxonomy)
+- multinomial ordered logit regression --[is_a]--> Uncategorized (taxonomy)
+- selective scaling --[is_a]--> Technology Adoption and Diffusion (taxonomy)
+- selective scaling --[is_a]--> Scaling Approaches (taxonomy)
+- selective scaling --[is_a]--> Scaling Strategies and Frameworks (taxonomy)
+- selective scaling --[is_a]--> Scaling Frameworks and Approaches (taxonomy)
+- selective scaling --[is_a]--> Scaling Frameworks and Strategies (taxonomy)
+- single-step genome-wide association study --[targets]--> dairy cattle (extracted)
+- single-step genome-wide association study --[is_a]--> Genomic Selection and Prediction (taxonomy)
+- single-step genome-wide association study --[is_a]--> Crop Genetic Improvement (taxonomy)
+- single-step genome-wide association study --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- somatic cell score --[related_to]--> dairy cattle (extracted)
+- somatic cell score --[is_a]--> Uncategorized (taxonomy)
+- flood prediction --[is_a]--> Agricultural Water Resources Management (taxonomy)
+- flood prediction --[is_a]--> Climate Forecasting and Early Warning (taxonomy)
+- flood prediction --[is_a]--> Predictive Modeling and Forecasting (taxonomy)
+- flood prediction --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- seasonal climate forecast --[is_a]--> Climate Forecasting and Early Warning (taxonomy)
+- seasonal climate forecast --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- rapid stem multiplication --[targets]--> cassava (extracted)
+- rapid stem multiplication --[is_a]--> Vegetative Propagation and Tissue Culture (taxonomy)
+- rapid stem multiplication --[is_a]--> Crop Genetic Improvement (taxonomy)
+- satellite-based crop insurance --[targets]--> smallholder farmer (extracted)
+- satellite-based crop insurance --[is_a]--> Climate Risk Finance and Insurance (taxonomy)
+- satellite-based crop insurance --[is_a]--> Satellite-Based Monitoring (taxonomy)
+- satellite-based crop insurance --[is_a]--> Agricultural Insurance (taxonomy)
+- satellite-based crop insurance --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- satellite-based crop insurance --[is_a]--> Insurance and Risk Finance (taxonomy)
+- data interoperability --[is_a]--> Data Standards and Interoperability (taxonomy)
+- data interoperability --[is_a]--> Systematic Reviews and Evidence Synthesis (taxonomy)
+- data interoperability --[is_a]--> Digital Platforms and Infrastructure (taxonomy)
+- data interoperability --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- seed requirement estimation --[is_a]--> Seed Distribution and Delivery (taxonomy)
+- seed requirement estimation --[is_a]--> Seed Systems Development (taxonomy)
+- climate disinformation monitoring --[is_a]--> Climate Risk Assessment and Vulnerability (taxonomy)
+- climate disinformation monitoring --[is_a]--> Early Warning and Monitoring Systems (taxonomy)
+- climate disinformation monitoring --[is_a]--> Remote Sensing and Digital Monitoring (taxonomy)
+- climate disinformation monitoring --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- flood tolerance --[is_a]--> Stress Tolerance Screening (taxonomy)
+- flood tolerance --[is_a]--> Crop Genetic Improvement (taxonomy)
+- adaptive social protection --[is_a]--> Food Access and Social Protection (taxonomy)
+- adaptive social protection --[is_a]--> Social Protection and Transfers (taxonomy)
+- adaptive social protection --[is_a]--> Social Protection Systems (taxonomy)
+- adaptive social protection --[is_a]--> Social Protection and Safety Nets (taxonomy)
+- adaptive social protection --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- adaptive social protection --[is_a]--> Social Protection in Fragile Contexts (taxonomy)
+- high-performance liquid chromatography --[uses]--> phenolic compound extraction (extracted)
+- high-performance liquid chromatography --[is_a]--> Crop Genetic Improvement (taxonomy)
+- high-performance liquid chromatography --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- high-performance liquid chromatography --[is_a]--> Uncategorized (taxonomy)
+- phenolic compound extraction --[is_a]--> Crop Genetic Improvement (taxonomy)
+- phenolic compound extraction --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- phenolic compound extraction --[is_a]--> Uncategorized (taxonomy)
+- blanket fertilizer recommendation --[is_a]--> Soil Health and Fertility Management (taxonomy)
+- blanket fertilizer recommendation --[is_a]--> Uncategorized (taxonomy)
+- population genetics analysis --[uses]--> Phytophthora infestans (extracted)
+- population genetics analysis --[is_a]--> Sequencing and Genomic Analysis (taxonomy)
+- population genetics analysis --[is_a]--> Crop Genetic Improvement (taxonomy)
+- population genetics analysis --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- payments for environmental services --[targets]--> smallholder farmer (inferred)
+- payments for environmental services --[is_a]--> Nature-Based and Ecosystem Approaches (taxonomy)
+- payments for environmental services --[is_a]--> Ecosystem Restoration and Services (taxonomy)
+- payments for environmental services --[is_a]--> Climate Finance (taxonomy)
+- payments for environmental services --[is_a]--> Investment and Finance Mechanisms (taxonomy)
+- payments for environmental services --[is_a]--> Economic Modeling and Analysis (taxonomy)
+- payments for environmental services --[is_a]--> Payment for Ecosystem Services (taxonomy)
+- landscape performance indicators --[located_in]--> Tunisia (extracted)
+- landscape performance indicators --[is_a]--> Landscape and Land Management (taxonomy)
+- landscape performance indicators --[is_a]--> Sustainable Land Management (taxonomy)
+- landscape performance indicators --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- disaster impact assessment --[uses]--> Cyclone Idai (extracted)
+- disaster impact assessment --[is_a]--> Social Assessment Methods (taxonomy)
+- disaster impact assessment --[is_a]--> Experimental and Evaluation Methods (taxonomy)
+- disaster impact assessment --[is_a]--> Uncategorized (taxonomy)
+- genetic fingerprinting --[uses]--> Phureja (extracted)
+- genetic fingerprinting --[is_a]--> Molecular Markers and Fingerprinting (taxonomy)
+- genetic fingerprinting --[is_a]--> Crop Genetic Improvement (taxonomy)
+- genetic fingerprinting --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- zero deforestation monitoring --[located_in]--> Colombia (extracted)
+- zero deforestation monitoring --[is_a]--> Landscape and Land Management (taxonomy)
+- zero deforestation monitoring --[is_a]--> Sustainable Land Management (taxonomy)
+- zero deforestation monitoring --[is_a]--> Early Warning and Monitoring Systems (taxonomy)
+- zero deforestation monitoring --[is_a]--> Remote Sensing and Digital Monitoring (taxonomy)
+- farmer-managed natural regeneration --[addresses]--> ecosystem restoration (extracted)
+- farmer-managed natural regeneration --[is_a]--> Agroforestry Systems (taxonomy)
+- farmer-managed natural regeneration --[is_a]--> Sustainable Land Management (taxonomy)
+- soil organic carbon mapping --[is_a]--> Soil Health and Fertility Management (taxonomy)
+- soil organic carbon mapping --[is_a]--> Soil Health and Management (taxonomy)
+- soil organic carbon mapping --[is_a]--> Geospatial Analysis and Mapping (taxonomy)
+- soil organic carbon mapping --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- vision-language models --[uses]--> YOLOv8 (extracted)
+- vision-language models --[is_a]--> Computer Vision and Image Processing (taxonomy)
+- vision-language models --[is_a]--> Core AI and ML Approaches (taxonomy)
+- vision-language models --[is_a]--> Artificial Intelligence and Machine Learning (taxonomy)
+- nutrition-sensitive markets --[is_a]--> Food Market Systems (taxonomy)
+- line × tester analysis --[uses]--> combining ability (extracted)
+- line × tester analysis --[is_a]--> Crossing and Selection Methods (taxonomy)
+- line × tester analysis --[is_a]--> Crop Genetic Improvement (taxonomy)
+- line × tester analysis --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- combining ability --[is_a]--> Crossing and Selection Methods (taxonomy)
+- combining ability --[is_a]--> Crop Genetic Improvement (taxonomy)
+- combining ability --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- realized genetic gain --[is_a]--> Genetic Gain and Performance Assessment (taxonomy)
+- realized genetic gain --[is_a]--> Crop Genetic Improvement (taxonomy)
+- realized genetic gain --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- participatory assessment --[located_in]--> Ghana (extracted)
+- participatory assessment --[is_a]--> Participatory and Farmer-Centered Approaches (taxonomy)
+- participatory assessment --[is_a]--> Participatory Research Methods (taxonomy)
+- participatory assessment --[is_a]--> Participatory Learning Methods (taxonomy)
+- technology bundling --[part_of]--> solar irrigation (extracted)
+- technology bundling --[is_a]--> Precision and Digital Crop Management (taxonomy)
+- technology bundling --[is_a]--> Smallholder Farming Systems (taxonomy)
+- technology bundling --[is_a]--> Technology Adoption and Diffusion (taxonomy)
+- technology bundling --[is_a]--> Innovation Assessment and Bundling (taxonomy)
+- technology bundling --[is_a]--> Innovation Bundling and Packages (taxonomy)
+- seed demand projection --[is_a]--> Seed Distribution and Delivery (taxonomy)
+- seed demand projection --[is_a]--> Seed Systems Development (taxonomy)
+- digital cash transfers --[located_in]--> Sudan (extracted)
+- digital cash transfers --[is_a]--> Food Access and Social Protection (taxonomy)
+- digital cash transfers --[is_a]--> Digital Platforms and Infrastructure (taxonomy)
+- digital cash transfers --[is_a]--> Finance and Investment Mechanisms (taxonomy)
+- digital cash transfers --[is_a]--> Cash and Financial Transfers (taxonomy)
+- digital cash transfers --[is_a]--> Social Protection and Safety Nets (taxonomy)
+- digital cash transfers --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- digital cash transfers --[is_a]--> Social Protection in Fragile Contexts (taxonomy)
+- livestock mobility --[located_in]--> Kenya (extracted)
+- livestock mobility --[is_a]--> Livestock Production and Management (taxonomy)
+- livestock mobility --[is_a]--> Pastoral and Rangeland Systems (taxonomy)
+- livestock mobility --[is_a]--> Uncategorized (taxonomy)
+- conditional subsidies --[is_a]--> Social Protection and Transfers (taxonomy)
+- conditional subsidies --[is_a]--> Cash and Financial Transfers (taxonomy)
+- conditional subsidies --[is_a]--> Subsidy and Finance Reform (taxonomy)
+- conditional subsidies --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- conditional subsidies --[is_a]--> Social Protection in Fragile Contexts (taxonomy)
+- metatranscriptomics --[uses]--> Oxford Nanopore Technology (extracted)
+- metatranscriptomics --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- metatranscriptomics --[is_a]--> Uncategorized (taxonomy)
+- web-gis platform --[located_in]--> MENA region (extracted)
+- web-gis platform --[located_in]--> Uzbekistan (extracted)
+- web-gis platform --[is_a]--> Geospatial Analysis and Mapping (taxonomy)
+- web-gis platform --[is_a]--> Digital Tools and Decision Support (taxonomy)
+- web-gis platform --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- web-gis platform --[is_a]--> Digital Platforms and Infrastructure (taxonomy)
+- traceability systems --[addresses]--> EU Deforestation Regulation (extracted)
+- traceability systems --[is_a]--> Post-Harvest and Food Loss Management (taxonomy)
+- traceability systems --[is_a]--> Traceability and Quality Assessment (taxonomy)
+- traceability systems --[is_a]--> Digital Platforms and Infrastructure (taxonomy)
+- traceability systems --[is_a]--> Supply Chain and Post-Harvest (taxonomy)
+- traceability systems --[is_a]--> Quality and Food Safety Standards (taxonomy)
+- traceability systems --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- traceability systems --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- push-pull system --[uses]--> Desmodium spp. (extracted)
+- push-pull system --[is_a]--> Integrated Pest Management (taxonomy)
+- push-pull system --[is_a]--> Uncategorized (taxonomy)
+- oviposition repellency --[is_a]--> Integrated Pest Management (taxonomy)
+- oviposition repellency --[is_a]--> Uncategorized (taxonomy)
+- macro-propagation --[produces]--> disease-free planting materials (extracted)
+- macro-propagation --[is_a]--> Vegetative Propagation and Tissue Culture (taxonomy)
+- macro-propagation --[is_a]--> Crop Genetic Improvement (taxonomy)
+- herbicide injection --[targets]--> Banana Bunchy Top Virus (extracted)
+- herbicide injection --[is_a]--> Integrated Pest Management (taxonomy)
+- herbicide injection --[is_a]--> Uncategorized (taxonomy)
+- agricultural support repurposing --[is_a]--> Social Protection and Transfers (taxonomy)
+- agricultural support repurposing --[is_a]--> Subsidy and Finance Reform (taxonomy)
+- agricultural support repurposing --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- agricultural support repurposing --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- social transfer programs --[is_a]--> Food Access and Social Protection (taxonomy)
+- social transfer programs --[is_a]--> Social Protection and Transfers (taxonomy)
+- social transfer programs --[is_a]--> Social Protection Systems (taxonomy)
+- social transfer programs --[is_a]--> Social Protection and Safety Nets (taxonomy)
+- social transfer programs --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- social transfer programs --[is_a]--> Social Protection in Fragile Contexts (taxonomy)
+- community health worker model --[located_in]--> Mali (extracted)
+- community health worker model --[is_a]--> Specific Food System Interventions (taxonomy)
+- community health worker model --[is_a]--> Institutional and Organizational Development (taxonomy)
+- lean season assistance --[located_in]--> Sahel (extracted)
+- lean season assistance --[is_a]--> Food Access and Social Protection (taxonomy)
+- lean season assistance --[is_a]--> Social Protection and Transfers (taxonomy)
+- lean season assistance --[is_a]--> Social Protection Systems (taxonomy)
+- lean season assistance --[is_a]--> Social Protection and Safety Nets (taxonomy)
+- lean season assistance --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- lean season assistance --[is_a]--> Social Protection in Fragile Contexts (taxonomy)
+- variety positioning --[targets]--> yam (extracted)
+- variety positioning --[is_a]--> Variety Registration and Licensing (taxonomy)
+- variety positioning --[is_a]--> Seed Systems Development (taxonomy)
+- greenhouse gas emissions quantification --[addresses]--> climate-smart agriculture (extracted)
+- greenhouse gas emissions quantification --[is_a]--> Carbon and Greenhouse Gas Management in Farming (taxonomy)
+- greenhouse gas emissions quantification --[is_a]--> Greenhouse Gas Measurement and Monitoring (taxonomy)
+- greenhouse gas emissions quantification --[is_a]--> Greenhouse Gas Measurement and Reporting (taxonomy)
+- mineral-associated organic carbon --[is_a]--> Soil Health and Fertility Management (taxonomy)
+- mineral-associated organic carbon --[is_a]--> Soil Health and Management (taxonomy)
+- mineral-associated organic carbon --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- environmental flows --[addresses]--> river health (extracted)
+- environmental flows --[is_a]--> Agricultural Water Resources Management (taxonomy)
+- environmental flows --[is_a]--> Ecosystem Restoration and Services (taxonomy)
+- digital compliance assessment --[is_a]--> Digital Platforms and Infrastructure (taxonomy)
+- digital compliance assessment --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- digital compliance assessment --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- rice straw transformation --[located_in]--> Mekong River Delta (extracted)
+- rice straw transformation --[is_a]--> Conservation Agriculture and Tillage (taxonomy)
+- rice straw transformation --[is_a]--> Composting and Organic Inputs (taxonomy)
+- rice straw transformation --[is_a]--> Post-Harvest Technology and Storage (taxonomy)
+- circular economy principles --[addresses]--> greenhouse gas measurement (extracted)
+- circular economy principles --[is_a]--> Organic and Circular Farming (taxonomy)
+- circular economy principles --[is_a]--> Biogas and Circular Bioeconomy (taxonomy)
+- circular economy principles --[is_a]--> Food Loss and Waste Reduction (taxonomy)
+- circular economy principles --[is_a]--> Circular Economy Principles (taxonomy)
+- grassland restoration --[is_a]--> Pastoral and Rangeland Systems (taxonomy)
+- grassland restoration --[is_a]--> Sustainable Land Management (taxonomy)
+- regenerative agricultural practices --[uses]--> Black Soldier Fly (extracted)
+- regenerative agricultural practices --[is_a]--> Core Agroecological Approaches (taxonomy)
+- regenerative agricultural practices --[is_a]--> Sustainable Intensification and Diversification (taxonomy)
+- regenerative agricultural practices --[is_a]--> Planetary and Environmental Sustainability (taxonomy)
+- black soldier fly larvae composting --[is_a]--> Livestock Production and Management (taxonomy)
+- black soldier fly larvae composting --[is_a]--> Composting and Organic Inputs (taxonomy)
+- black soldier fly larvae composting --[is_a]--> Waste-to-Value and Resource Recovery (taxonomy)
+- eddy covariance --[produces]--> carbon uptake (extracted)
+- eddy covariance --[is_a]--> Carbon and Greenhouse Gas Management in Farming (taxonomy)
+- eddy covariance --[is_a]--> Greenhouse Gas Measurement and Monitoring (taxonomy)
+- eddy covariance --[is_a]--> Greenhouse Gas Measurement and Reporting (taxonomy)
+- carbon uptake --[is_a]--> Carbon and Greenhouse Gas Management in Farming (taxonomy)
+- carbon uptake --[is_a]--> Carbon Sequestration and Carbon Markets (taxonomy)
+- carbon uptake --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- drought experiments --[targets]--> yam (extracted)
+- drought experiments --[is_a]--> Stress Tolerance Screening (taxonomy)
+- drought experiments --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- bundled livestock insurance --[targets]--> pastoralist (extracted)
+- bundled livestock insurance --[is_a]--> Livestock Value Chains and Services (taxonomy)
+- bundled livestock insurance --[is_a]--> Climate Risk Finance and Insurance (taxonomy)
+- bundled livestock insurance --[is_a]--> Agricultural Insurance (taxonomy)
+- bundled livestock insurance --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- bundled livestock insurance --[is_a]--> Insurance and Risk Finance (taxonomy)
+- photoperiod effects --[targets]--> plant breeder (inferred)
+- photoperiod effects --[is_a]--> Trait Characterization and Analysis (taxonomy)
+- photoperiod effects --[is_a]--> Crop Genetic Improvement (taxonomy)
+- farmer-to-farmer learning --[located_in]--> North Shewa Zone (extracted)
+- farmer-to-farmer learning --[is_a]--> Agricultural Extension and Advisory Services (taxonomy)
+- farmer-to-farmer learning --[is_a]--> Extension Approaches and Methods (taxonomy)
+- farmer-to-farmer learning --[is_a]--> Knowledge Exchange and Dissemination (taxonomy)
+- farmer-to-farmer learning --[is_a]--> Participatory Learning Methods (taxonomy)
+- seed system modernization --[is_a]--> Seed System Development and Strengthening (taxonomy)
+- seed system modernization --[is_a]--> Seed Systems Development (taxonomy)
+- trait introgression --[uses]--> wild yam species (extracted)
+- trait introgression --[is_a]--> Crossing and Selection Methods (taxonomy)
+- trait introgression --[is_a]--> Crop Genetic Improvement (taxonomy)
+- flow cytometry --[is_a]--> Genetic Diversity Assessment (taxonomy)
+- flow cytometry --[is_a]--> Crop Genetic Improvement (taxonomy)
+- flow cytometry --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- bioslurry application --[produces]--> greenhouse gas emission reduction (extracted)
+- bioslurry application --[is_a]--> Organic and Circular Farming (taxonomy)
+- bioslurry application --[is_a]--> Biogas and Circular Bioeconomy (taxonomy)
+- bioslurry application --[is_a]--> Biogas and Bioenergy (taxonomy)
+- low-emission rice production --[uses]--> monitoring reporting verification (extracted)
+- low-emission rice production --[is_a]--> Cropping Systems (taxonomy)
+- low-emission rice production --[is_a]--> Methane and Emission Reduction Practices (taxonomy)
+- polder zone management --[located_in]--> coastal polder zone (extracted)
+- polder zone management --[is_a]--> Agricultural Water Resources Management (taxonomy)
+- polder zone management --[is_a]--> Irrigation and Water Infrastructure (taxonomy)
+- community-engaged sluice gate operation --[addresses]--> water management challenges (extracted)
+- community-engaged sluice gate operation --[is_a]--> Agricultural Water Resources Management (taxonomy)
+- community-engaged sluice gate operation --[is_a]--> Irrigation and Water Infrastructure (taxonomy)
+- wife-husband model --[targets]--> resource-poor women and youth (extracted)
+- wife-husband model --[is_a]--> Intra-household and Community Dynamics (taxonomy)
+- wife-husband model --[is_a]--> Participatory and Community Learning Methods (taxonomy)
+- seed system innovations --[is_a]--> Seed System Development and Strengthening (taxonomy)
+- seed system innovations --[is_a]--> Seed Systems Development (taxonomy)
+- genomic diversity analysis --[targets]--> yam (extracted)
+- genomic diversity analysis --[is_a]--> Sequencing and Genomic Analysis (taxonomy)
+- genomic diversity analysis --[is_a]--> Crop Genetic Improvement (taxonomy)
+- genomic diversity analysis --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- groundwater recharge schemes --[is_a]--> Agricultural Water Resources Management (taxonomy)
+- groundwater recharge schemes --[is_a]--> Irrigation and Water Infrastructure (taxonomy)
+- evidence-based water resource management --[is_a]--> Agricultural Water Resources Management (taxonomy)
+- evidence-based water resource management --[is_a]--> Water Governance and Management (taxonomy)
+- evidence-based water resource management --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- water productivity optimization --[is_a]--> Water Productivity and Efficiency (taxonomy)
+- water productivity optimization --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- spatiotemporal climate analysis --[uses]--> rotated empirical orthogonal functions (extracted)
+- spatiotemporal climate analysis --[is_a]--> Climate Risk Assessment and Vulnerability (taxonomy)
+- spatiotemporal climate analysis --[is_a]--> Geospatial Analysis and Mapping (taxonomy)
+- spatiotemporal climate analysis --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- rotated empirical orthogonal functions --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- rotated empirical orthogonal functions --[is_a]--> Uncategorized (taxonomy)
+- drainage infrastructure --[addresses]--> waterlogging (extracted)
+- drainage infrastructure --[is_a]--> Agricultural Water Resources Management (taxonomy)
+- drainage infrastructure --[is_a]--> Irrigation and Water Infrastructure (taxonomy)
+- policy coherence analysis --[uses]--> five-step process (extracted)
+- policy coherence analysis --[is_a]--> Policy and Enabling Environment (taxonomy)
+- policy coherence analysis --[is_a]--> Policy Dialogue and Advocacy (taxonomy)
+- policy coherence analysis --[is_a]--> Policy Harmonization and Coordination (taxonomy)
+- policy coherence analysis --[is_a]--> Statistical and Quantitative Methods (taxonomy)
+- policy coherence analysis --[is_a]--> Integrated and Adaptive Management (taxonomy)
+- intrahousehold decision-making --[addresses]--> humanitarian assistance preferences (extracted)
+- intrahousehold decision-making --[is_a]--> Food System Analytics and Modeling (taxonomy)
+- intrahousehold decision-making --[is_a]--> Gender Research Methods (taxonomy)
+- intrahousehold decision-making --[is_a]--> Social Inclusion and Intersectionality (taxonomy)
+- fisheries subsidies --[addresses]--> overfishing (extracted)
+- fisheries subsidies --[is_a]--> Fisheries and Aquatic Food Systems (taxonomy)
+- fisheries subsidies --[is_a]--> Policy and Enabling Environment (taxonomy)
+- fisheries subsidies --[is_a]--> Subsidy and Finance Reform (taxonomy)
+- fisheries subsidies --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- fisheries subsidies --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- pesticide residue detection --[uses]--> HPLC (extracted)
+- pesticide residue detection --[located_in]--> Ghana (extracted)
+- pesticide residue detection --[located_in]--> Benin (extracted)
+- pesticide residue detection --[is_a]--> Post-Harvest and Food Loss Management (taxonomy)
+- pesticide residue detection --[is_a]--> Contaminant and Residue Management (taxonomy)
+- pesticide residue detection --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- economywide modeling --[addresses]--> conflict impact assessment (extracted)
+- economywide modeling --[is_a]--> Food Security Measurement and Monitoring (taxonomy)
+- economywide modeling --[is_a]--> Economic and Impact Modeling (taxonomy)
+- economywide modeling --[is_a]--> Economic Modeling and Analysis (taxonomy)
+- solar-powered aquaculture --[targets]--> smallholder farmers (extracted)
+- solar-powered aquaculture --[is_a]--> Aquaculture Systems (taxonomy)
+- solar-powered aquaculture --[is_a]--> Uncategorized (taxonomy)
+- agroforestry systems --[located_in]--> Pucallpa (extracted)
+- agroforestry systems --[is_a]--> Agroforestry Systems (taxonomy)
+- agroforestry systems --[is_a]--> Agroforestry and Silvopastoral Systems (taxonomy)
+- fertilizer subsidy reform --[addresses]--> agricultural support repurposing (extracted)
+- fertilizer subsidy reform --[is_a]--> Social Protection and Transfers (taxonomy)
+- fertilizer subsidy reform --[is_a]--> Subsidy and Finance Reform (taxonomy)
+- fertilizer subsidy reform --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- fertilizer subsidy reform --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- conflict diffusion analysis --[uses]--> ACLED (extracted)
+- conflict diffusion analysis --[located_in]--> G5 Sahel countries (extracted)
+- conflict diffusion analysis --[is_a]--> Climate-Conflict Nexus (taxonomy)
+- conflict diffusion analysis --[is_a]--> Social Assessment Methods (taxonomy)
+- hyperspectral remote sensing --[is_a]--> Satellite and Remote Sensing Applications (taxonomy)
+- hyperspectral remote sensing --[is_a]--> Spectral and Imaging Technologies (taxonomy)
+- hyperspectral remote sensing --[is_a]--> Remote Sensing and Digital Monitoring (taxonomy)
+- hyperspectral remote sensing --[is_a]--> Remote Sensing and Earth Observation (taxonomy)
+- participatory action learning --[uses]--> local knowledge (extracted)
+- participatory action learning --[is_a]--> Participatory and Farmer-Centered Approaches (taxonomy)
+- participatory action learning --[is_a]--> Peer and Experiential Learning (taxonomy)
+- participatory action learning --[is_a]--> Participatory Research Methods (taxonomy)
+- participatory action learning --[is_a]--> Participatory Learning Methods (taxonomy)
+- water-as-a-service --[located_in]--> Nepal (extracted)
+- water-as-a-service --[is_a]--> Irrigation Systems and Technologies (taxonomy)
+- water-as-a-service --[is_a]--> Irrigation and Water Infrastructure (taxonomy)
+- water-as-a-service --[is_a]--> Mechanization Service Models (taxonomy)
+- hidden hunger --[is_a]--> Nutrition-Sensitive Approaches (taxonomy)
+- hidden hunger --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- hidden hunger --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- blue carbon opportunities --[is_a]--> Landscape and Land Management (taxonomy)
+- blue carbon opportunities --[is_a]--> Carbon Sequestration and Carbon Markets (taxonomy)
+- blue carbon opportunities --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- circular economy approaches --[is_a]--> Organic and Circular Farming (taxonomy)
+- circular economy approaches --[is_a]--> Biogas and Circular Bioeconomy (taxonomy)
+- circular economy approaches --[is_a]--> Food Loss and Waste Reduction (taxonomy)
+- circular economy approaches --[is_a]--> Circular Economy Principles (taxonomy)
+- soil diagnostics --[is_a]--> Soil Health and Fertility Management (taxonomy)
+- soil diagnostics --[is_a]--> Soil Health and Management (taxonomy)
+- soil diagnostics --[is_a]--> Sensor and IoT Applications (taxonomy)
+- soil diagnostics --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- market-driven seed production --[targets]--> beans (extracted)
+- market-driven seed production --[is_a]--> Seed Production (taxonomy)
+- market-driven seed production --[is_a]--> Seed Systems Development (taxonomy)
+- market-driven seed production --[is_a]--> Market-Oriented Seed Systems (taxonomy)
+- gender-responsive delivery --[is_a]--> Gender Mainstreaming and Programming (taxonomy)
+- gender-responsive delivery --[is_a]--> Gender-Transformative Approaches (taxonomy)
+- gender-responsive delivery --[is_a]--> Gender-Responsive Programming (taxonomy)
+- climate risk perception --[related_to]--> sustainable agricultural practices (extracted)
+- climate risk perception --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- climate risk perception --[is_a]--> Uncategorized (taxonomy)
+- trader-centered seed systems --[produces]--> beans (extracted)
+- trader-centered seed systems --[is_a]--> Seed System Development and Strengthening (taxonomy)
+- trader-centered seed systems --[is_a]--> Seed Systems Development (taxonomy)
+- trader-centered seed systems --[is_a]--> Market-Oriented Seed Systems (taxonomy)
+- rice-based diversification --[located_in]--> Cambodia (extracted)
+- rice-based diversification --[is_a]--> Cropping Systems (taxonomy)
+- rice-based diversification --[is_a]--> Uncategorized (taxonomy)
+- multiplex pcr --[targets]--> Pantoea (extracted)
+- multiplex pcr --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- multiplex pcr --[is_a]--> Uncategorized (taxonomy)
+- behavioral nudges --[addresses]--> multifunctional forest landscapes (extracted)
+- behavioral nudges --[is_a]--> Dietary Behavior and Interventions (taxonomy)
+- behavioral nudges --[is_a]--> Behavior Change Approaches (taxonomy)
+- behavioral nudges --[is_a]--> Social Assessment Methods (taxonomy)
+- multifunctional forest landscapes --[is_a]--> Landscape and Land Management (taxonomy)
+- multifunctional forest landscapes --[is_a]--> Sustainable Land Management (taxonomy)
+- machine learning workflows --[is_a]--> Core AI and ML Methods (taxonomy)
+- machine learning workflows --[is_a]--> Core AI and ML Approaches (taxonomy)
+- machine learning workflows --[is_a]--> Artificial Intelligence and Machine Learning (taxonomy)
+- sustainable rangeland management --[produces]--> ecosystem services (extracted)
+- sustainable rangeland management --[is_a]--> Pastoral and Rangeland Systems (taxonomy)
+- sustainable rangeland management --[is_a]--> Sustainable Land Management (taxonomy)
+- no-till conservation agriculture --[part_of]--> Generation Green (extracted)
+- no-till conservation agriculture --[is_a]--> Conservation Agriculture and Tillage (taxonomy)
+- no-till conservation agriculture --[is_a]--> Soil Health and Management (taxonomy)
+- agrosilvopastoral systems --[uses]--> olive (extracted)
+- agrosilvopastoral systems --[is_a]--> Agroforestry Systems (taxonomy)
+- agrosilvopastoral systems --[is_a]--> Agroforestry and Silvopastoral Systems (taxonomy)
+- gender norms analysis --[is_a]--> Gender Mainstreaming and Programming (taxonomy)
+- gender norms analysis --[is_a]--> Social Inclusion and Intersectionality (taxonomy)
+- gender norms analysis --[is_a]--> Gender Research Methods (taxonomy)
+- gender norms analysis --[is_a]--> Gender Dynamics and Analysis (taxonomy)
+- community-based seed systems --[targets]--> smallholder farmers (extracted)
+- community-based seed systems --[is_a]--> Seed System Development and Strengthening (taxonomy)
+- community-based seed systems --[is_a]--> Seed Systems Development (taxonomy)
+- demand signaling --[is_a]--> Market Analysis and Assessment (taxonomy)
+- demand signaling --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- zero deforestation --[addresses]--> climate-smart agriculture (inferred)
+- zero deforestation --[is_a]--> Landscape and Land Management (taxonomy)
+- zero deforestation --[is_a]--> Sustainable Land Management (taxonomy)
+- market-driven seed delivery --[is_a]--> Seed Distribution and Delivery (taxonomy)
+- market-driven seed delivery --[is_a]--> Seed Systems Development (taxonomy)
+- market-driven seed delivery --[is_a]--> Market-Oriented Seed Systems (taxonomy)
+- precision farming --[is_a]--> Precision and Digital Crop Management (taxonomy)
+- precision farming --[is_a]--> Precision Farming Technologies (taxonomy)
+- climate loss and damage --[is_a]--> Climate Policy and Governance (taxonomy)
+- climate loss and damage --[is_a]--> Climate Action Governance (taxonomy)
+- climate loss and damage --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- partnership health assessment --[is_a]--> Networking and Collaboration (taxonomy)
+- partnership health assessment --[is_a]--> Stakeholder Engagement and Consultation (taxonomy)
+- partnership health assessment --[is_a]--> Monitoring and Evaluation Frameworks (taxonomy)
+- partnership health assessment --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- image analysis --[targets]--> rice (extracted)
+- image analysis --[is_a]--> Spectral and Imaging Technologies (taxonomy)
+- image analysis --[is_a]--> Digital Farming Tools and Systems (taxonomy)
+- image analysis --[is_a]--> Core AI and ML Approaches (taxonomy)
+- heat stress monitoring --[located_in]--> Kenya (extracted)
+- heat stress monitoring --[is_a]--> Early Warning and Monitoring Systems (taxonomy)
+- heat stress monitoring --[is_a]--> Remote Sensing and Digital Monitoring (taxonomy)
+- desert farming --[located_in]--> Egypt (extracted)
+- desert farming --[is_a]--> Cropping Systems (taxonomy)
+- desert farming --[is_a]--> Urban Farming Systems (taxonomy)
+- desert farming --[is_a]--> Uncategorized (taxonomy)
+- adoption dynamics --[is_a]--> Technology Adoption and Diffusion (taxonomy)
+- adoption dynamics --[is_a]--> Monitoring and Evaluation Frameworks (taxonomy)
+- agricultural research for development --[produces]--> sustainable intensification (extracted)
+- agricultural research for development --[is_a]--> Institutional and Organizational Development (taxonomy)
+- agricultural research for development --[is_a]--> Agricultural Innovation Systems (taxonomy)
+- agricultural research for development --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- agricultural research for development --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- droplet vitrification --[is_a]--> Germplasm Conservation and Management (taxonomy)
+- droplet vitrification --[is_a]--> Crop Genetic Improvement (taxonomy)
+- cluster randomized controlled trial --[uses]--> gender transformative approaches (extracted)
+- cluster randomized controlled trial --[is_a]--> Randomized and Controlled Trials (taxonomy)
+- cluster randomized controlled trial --[is_a]--> Experimental and Evaluation Methods (taxonomy)
+- cluster randomized controlled trial --[is_a]--> Uncategorized (taxonomy)
+- food insecurity experience scale --[uses]--> FAO (extracted)
+- food insecurity experience scale --[is_a]--> Food Security Measurement and Monitoring (taxonomy)
+- food insecurity experience scale --[is_a]--> Social Assessment Methods (taxonomy)
+- food insecurity experience scale --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- picture-based insurance --[uses]--> smartphone (extracted)
+- picture-based insurance --[addresses]--> asymmetric information (extracted)
+- picture-based insurance --[is_a]--> Climate Risk Finance and Insurance (taxonomy)
+- picture-based insurance --[is_a]--> Agricultural Insurance (taxonomy)
+- picture-based insurance --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- picture-based insurance --[is_a]--> Insurance and Risk Finance (taxonomy)
+- weather index-based insurance --[is_a]--> Climate Risk Finance and Insurance (taxonomy)
+- weather index-based insurance --[is_a]--> Agricultural Insurance (taxonomy)
+- weather index-based insurance --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- weather index-based insurance --[is_a]--> Insurance and Risk Finance (taxonomy)
+- viral disease surveillance --[uses]--> phylogenetic analysis (extracted)
+- viral disease surveillance --[is_a]--> Herd Health Management (taxonomy)
+- viral disease surveillance --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- viral disease surveillance --[is_a]--> Zoonotic Disease Surveillance and Management (taxonomy)
+- viral disease surveillance --[is_a]--> Uncategorized (taxonomy)
+- phylogenetic analysis --[is_a]--> Genetic Diversity Assessment (taxonomy)
+- phylogenetic analysis --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- iso/iec 17025 --[targets]--> laboratory quality (extracted)
+- iso/iec 17025 --[is_a]--> Traceability and Quality Assessment (taxonomy)
+- iso/iec 17025 --[is_a]--> Quality and Food Safety Standards (taxonomy)
+- iso/iec 17025 --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- iso/iec 17025 --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- transdisciplinary research --[is_a]--> Participatory and Farmer-Centered Approaches (taxonomy)
+- transdisciplinary research --[is_a]--> Transdisciplinary and Systems Research (taxonomy)
+- transdisciplinary research --[is_a]--> Mixed Methods and Interdisciplinary Approaches (taxonomy)
+- transdisciplinary research --[is_a]--> Systems and Transdisciplinary Research (taxonomy)
+- demand signalling --[is_a]--> Market Analysis and Assessment (taxonomy)
+- demand signalling --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- decentralized service delivery --[uses]--> local service providers (extracted)
+- decentralized service delivery --[is_a]--> Agricultural Extension and Advisory Services (taxonomy)
+- decentralized service delivery --[is_a]--> Extension Approaches and Methods (taxonomy)
+- decentralized service delivery --[is_a]--> Participatory and Polycentric Governance (taxonomy)
+- decentralized service delivery --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- decentralized service delivery --[is_a]--> Technology Adoption and Diffusion (taxonomy)
+- on-farm trials --[uses]--> co-design (extracted)
+- on-farm trials --[is_a]--> Multi-Environment and Multi-Location Testing (taxonomy)
+- on-farm trials --[is_a]--> Precision and Digital Crop Management (taxonomy)
+- on-farm trials --[is_a]--> Participatory and Farmer-Centered Approaches (taxonomy)
+- on-farm trials --[is_a]--> Participatory Breeding and Variety Selection (taxonomy)
+- on-farm trials --[is_a]--> Field and On-Farm Trials (taxonomy)
+- mentorship program --[targets]--> smallholder farmers (inferred)
+- mentorship program --[is_a]--> Mentorship and Accompaniment (taxonomy)
+- mentorship program --[is_a]--> Training Modalities (taxonomy)
+- standard operating procedures --[is_a]--> Institutional and Organizational Development (taxonomy)
+- standard operating procedures --[is_a]--> Quality and Food Safety Standards (taxonomy)
+- standard operating procedures --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- standard operating procedures --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- micronutrient fortification --[is_a]--> Nutrition-Sensitive Approaches (taxonomy)
+- fish value addition --[addresses]--> post-harvest losses (extracted)
+- fish value addition --[is_a]--> Aquaculture Systems (taxonomy)
+- fish value addition --[is_a]--> Food Processing and Value Addition (taxonomy)
+- technology assessment --[is_a]--> Monitoring and Evaluation Frameworks (taxonomy)
+- technology assessment --[is_a]--> Uncategorized (taxonomy)
+- mobile application --[is_a]--> Agricultural Extension and Advisory Services (taxonomy)
+- mobile application --[is_a]--> Mobile and Interactive Advisory Tools (taxonomy)
+- mobile application --[is_a]--> Digital Advisory and Extension Platforms (taxonomy)
+- mobile application --[is_a]--> Digital Advisory and Extension Services (taxonomy)
+- mobile application --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- mobile application --[is_a]--> Digital Advisory and Extension (taxonomy)
+- climate-resilient irrigation --[located_in]--> Kenya (extracted)
+- climate-resilient irrigation --[is_a]--> Irrigation Systems and Technologies (taxonomy)
+- climate-resilient irrigation --[is_a]--> Climate Resilience Building (taxonomy)
+- targeted sequencing --[targets]--> Ceratobasidium theobromae (extracted)
+- targeted sequencing --[is_a]--> Sequencing and Genomic Analysis (taxonomy)
+- targeted sequencing --[is_a]--> Crop Genetic Improvement (taxonomy)
+- targeted sequencing --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- population dynamics --[is_a]--> Crop Genetic Improvement (taxonomy)
+- population dynamics --[is_a]--> Uncategorized (taxonomy)
+- varietal registration --[uses]--> maize (extracted)
+- varietal registration --[is_a]--> Variety Registration and Licensing (taxonomy)
+- varietal registration --[is_a]--> Seed Systems Development (taxonomy)
+- varietal registration --[is_a]--> Seed and Variety Regulation (taxonomy)
+- true cost accounting --[located_in]--> Kenya (extracted)
+- true cost accounting --[is_a]--> Carbon and Greenhouse Gas Management in Farming (taxonomy)
+- true cost accounting --[is_a]--> Low-Carbon and Zero-Carbon Agriculture (taxonomy)
+- true cost accounting --[is_a]--> Food System Analytics and Modeling (taxonomy)
+- true cost accounting --[is_a]--> Economic Analysis and Impact (taxonomy)
+- true cost accounting --[is_a]--> Economic Modeling and Analysis (taxonomy)
+- true cost accounting --[is_a]--> Payment for Ecosystem Services (taxonomy)
+- low trophic aquaculture --[uses]--> bioinformatics analysis (inferred)
+- low trophic aquaculture --[is_a]--> Aquaculture Systems (taxonomy)
+- low trophic aquaculture --[is_a]--> Uncategorized (taxonomy)
+- informal food vendors --[located_in]--> Dhaka (extracted)
+- informal food vendors --[located_in]--> Quezon City (extracted)
+- informal food vendors --[is_a]--> Food Environment Assessment (taxonomy)
+- water monitoring system --[located_in]--> Uzbekistan (extracted)
+- water monitoring system --[is_a]--> Agricultural Water Resources Management (taxonomy)
+- water monitoring system --[is_a]--> Irrigation and Water Infrastructure (taxonomy)
+- water monitoring system --[is_a]--> Early Warning and Monitoring Systems (taxonomy)
+- perennial vegetable production --[part_of]--> urban agriculture (extracted)
+- perennial vegetable production --[is_a]--> Cropping Systems (taxonomy)
+- perennial vegetable production --[is_a]--> Specific Food System Interventions (taxonomy)
+- home gardening --[located_in]--> Dhaka (extracted)
+- home gardening --[is_a]--> Cropping Systems (taxonomy)
+- home gardening --[is_a]--> Dietary Behavior and Interventions (taxonomy)
+- home gardening --[is_a]--> Urban Farming Systems (taxonomy)
+- bioinformatics analysis --[located_in]--> CIAT (extracted)
+- bioinformatics analysis --[is_a]--> Multi-Omics and Bioinformatics (taxonomy)
+- bioinformatics analysis --[is_a]--> Crop Genetic Improvement (taxonomy)
+- bioinformatics analysis --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- sustainable business model --[targets]--> bean (extracted)
+- sustainable business model --[located_in]--> Putumayo (extracted)
+- sustainable business model --[is_a]--> Business Models and Development (taxonomy)
+- sustainable business model --[is_a]--> Business Development and Incubation (taxonomy)
+- sustainable business model --[is_a]--> Partnership Models (taxonomy)
+- sustainable business model --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- sustainable business model --[is_a]--> Blended Finance and Investment (taxonomy)
+- water harvesting --[located_in]--> Totonicapán (extracted)
+- water harvesting --[is_a]--> Agricultural Water Resources Management (taxonomy)
+- water harvesting --[is_a]--> Irrigation and Water Infrastructure (taxonomy)
+- food sovereignty --[is_a]--> Food System Frameworks and Approaches (taxonomy)
+- food sovereignty --[is_a]--> Justice and Rights (taxonomy)
+- food sovereignty --[is_a]--> Justice and Equity Frameworks (taxonomy)
+- balanced nutrient management --[is_a]--> Soil Health and Fertility Management (taxonomy)
+- balanced nutrient management --[is_a]--> Uncategorized (taxonomy)
+- fair data principles --[addresses]--> data management (extracted)
+- fair data principles --[is_a]--> Data Standards and Interoperability (taxonomy)
+- fair data principles --[is_a]--> Data Collection and Management for Extension (taxonomy)
+- fair data principles --[is_a]--> Systematic Reviews and Evidence Synthesis (taxonomy)
+- fair data principles --[is_a]--> Responsible and Ethical Innovation (taxonomy)
+- fair data principles --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- digital agricultural advisory services --[targets]--> smallholder farmers (extracted)
+- digital agricultural advisory services --[is_a]--> Agricultural Extension and Advisory Services (taxonomy)
+- digital agricultural advisory services --[is_a]--> Core Digital Advisory Services (taxonomy)
+- digital agricultural advisory services --[is_a]--> Digital Advisory and Extension Platforms (taxonomy)
+- digital agricultural advisory services --[is_a]--> Digital Advisory and Extension Services (taxonomy)
+- digital agricultural advisory services --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- digital agricultural advisory services --[is_a]--> Digital Advisory and Extension (taxonomy)
+- transabdominal ultrasonography --[uses]--> artificial insemination (extracted)
+- transabdominal ultrasonography --[is_a]--> Livestock Production and Management (taxonomy)
+- transabdominal ultrasonography --[is_a]--> Uncategorized (taxonomy)
+- livestock early warning systems --[uses]--> seasonal forage forecasting (extracted)
+- livestock early warning systems --[targets]--> pastoralists (extracted)
+- livestock early warning systems --[is_a]--> Herd Health Management (taxonomy)
+- livestock early warning systems --[is_a]--> Climate Forecasting and Early Warning (taxonomy)
+- livestock early warning systems --[is_a]--> Early Warning and Crisis Prediction (taxonomy)
+- livestock early warning systems --[is_a]--> Early Warning and Monitoring Systems (taxonomy)
+- livestock early warning systems --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- seasonal forage forecasting --[is_a]--> Feed and Forage Management (taxonomy)
+- seasonal forage forecasting --[is_a]--> Climate Forecasting and Early Warning (taxonomy)
+- livestock-based lending --[located_in]--> Oromia Region (extracted)
+- livestock-based lending --[targets]--> smallholder farmers (extracted)
+- livestock-based lending --[is_a]--> Livestock Value Chains and Services (taxonomy)
+- livestock-based lending --[is_a]--> Finance and Investment Mechanisms (taxonomy)
+- livestock-based lending --[is_a]--> Insurance and Risk Finance (taxonomy)
+- post-harvest management --[uses]--> hermetic storage (extracted)
+- post-harvest management --[located_in]--> Huehuetenango (extracted)
+- post-harvest management --[is_a]--> Post-Harvest and Food Loss Management (taxonomy)
+- post-harvest management --[is_a]--> Post-Harvest Technology and Storage (taxonomy)
+- post-harvest management --[is_a]--> Supply Chain and Post-Harvest (taxonomy)
+- hermetic storage --[is_a]--> Post-Harvest and Food Loss Management (taxonomy)
+- hermetic storage --[is_a]--> Post-Harvest Technology and Storage (taxonomy)
+- agroclimatic intelligence --[is_a]--> Climate Information Services (taxonomy)
+- agroclimatic intelligence --[is_a]--> Climate and Agro-Advisory Services (taxonomy)
+- agroclimatic intelligence --[is_a]--> Agroclimatic Advisory Services (taxonomy)
+- double haploid breeding --[uses]--> rice (extracted)
+- double haploid breeding --[is_a]--> Advanced Breeding Techniques (taxonomy)
+- double haploid breeding --[is_a]--> Crop Genetic Improvement (taxonomy)
+- community-based communication --[targets]--> smallholder farmers (extracted)
+- community-based communication --[is_a]--> Participatory and Community Learning Methods (taxonomy)
+- community-based communication --[is_a]--> Communication and Outreach (taxonomy)
+- digital agriculture assessment --[is_a]--> Digital Extension Integration and Literacy (taxonomy)
+- digital agriculture assessment --[is_a]--> Digital Agriculture Systems (taxonomy)
+- digital agriculture assessment --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- digital agriculture assessment --[is_a]--> Digital Advisory and Extension (taxonomy)
+- climate-conflict analysis --[uses]--> Climate Security Observatory (extracted)
+- climate-conflict analysis --[is_a]--> Climate-Conflict and Displacement Nexus (taxonomy)
+- climate-conflict analysis --[is_a]--> Climate-Conflict Nexus (taxonomy)
+- climate-conflict analysis --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- cropping systems design --[uses]--> APSIM (extracted)
+- cropping systems design --[is_a]--> Cropping Systems (taxonomy)
+- cropping systems design --[is_a]--> Uncategorized (taxonomy)
+- process-based simulation --[is_a]--> Crop and Agricultural Modeling (taxonomy)
+- process-based simulation --[is_a]--> Systems and Simulation Modeling (taxonomy)
+- process-based simulation --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- supplementary irrigation --[addresses]--> yield variability (extracted)
+- supplementary irrigation --[is_a]--> Irrigation Systems and Technologies (taxonomy)
+- supplementary irrigation --[is_a]--> Irrigation and Water Infrastructure (taxonomy)
+- purse seine fisheries --[located_in]--> Abu Qir Bay (extracted)
+- purse seine fisheries --[targets]--> Engraulis encrasicolus (extracted)
+- purse seine fisheries --[targets]--> Sardinella aurita (extracted)
+- purse seine fisheries --[is_a]--> Fisheries and Aquatic Food Systems (taxonomy)
+- purse seine fisheries --[is_a]--> Uncategorized (taxonomy)
+- ecosystem-based management --[is_a]--> Landscape and Land Management (taxonomy)
+- ecosystem-based management --[is_a]--> Ecosystem Restoration and Services (taxonomy)
+- equilibrium displacement modeling --[uses]--> IRRI (extracted)
+- equilibrium displacement modeling --[is_a]--> Food Security Measurement and Monitoring (taxonomy)
+- equilibrium displacement modeling --[is_a]--> Economic and Impact Modeling (taxonomy)
+- equilibrium displacement modeling --[is_a]--> Economic Analysis and Impact (taxonomy)
+- equilibrium displacement modeling --[is_a]--> Economic Modeling and Analysis (taxonomy)
+- equilibrium displacement modeling --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- supply chain mapping --[uses]--> IFPRI (extracted)
+- supply chain mapping --[is_a]--> Value Chain Development (taxonomy)
+- supply chain mapping --[is_a]--> Supply Chain and Post-Harvest (taxonomy)
+- supply chain mapping --[is_a]--> Statistical and Quantitative Methods (taxonomy)
+- biological inputs --[addresses]--> climate change mitigation (extracted)
+- biological inputs --[is_a]--> Organic and Circular Farming (taxonomy)
+- biological inputs --[is_a]--> Uncategorized (taxonomy)
+- blended financing --[targets]--> climate resilience (extracted)
+- blended financing --[is_a]--> Finance and Investment Mechanisms (taxonomy)
+- blended financing --[is_a]--> Investment and Finance Mechanisms (taxonomy)
+- blended financing --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- blended financing --[is_a]--> Blended Finance and Investment (taxonomy)
+- digital data capture --[is_a]--> Data Standards and Interoperability (taxonomy)
+- digital data capture --[is_a]--> Remote Sensing and Digital Monitoring (taxonomy)
+- digital data capture --[is_a]--> Digital Platforms and Infrastructure (taxonomy)
+- cold chain transportation --[targets]--> tomatoes (extracted)
+- cold chain transportation --[addresses]--> post-harvest loss reduction (extracted)
+- cold chain transportation --[is_a]--> Post-Harvest and Food Loss Management (taxonomy)
+- cold chain transportation --[is_a]--> Post-Harvest Technology and Storage (taxonomy)
+- cold chain transportation --[is_a]--> Supply Chain and Post-Harvest (taxonomy)
+- economic surplus modeling --[targets]--> cassava (extracted)
+- economic surplus modeling --[is_a]--> Food Security Measurement and Monitoring (taxonomy)
+- economic surplus modeling --[is_a]--> Economic and Impact Modeling (taxonomy)
+- economic surplus modeling --[is_a]--> Economic Analysis and Impact (taxonomy)
+- economic surplus modeling --[is_a]--> Economic Modeling and Analysis (taxonomy)
+- economic surplus modeling --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- trust in extension systems --[related_to]--> conservation agriculture (extracted)
+- trust in extension systems --[is_a]--> Extension Approaches and Methods (taxonomy)
+- edutainment --[uses]--> Munda Makeover (extracted)
+- edutainment --[is_a]--> E-Learning and Virtual Training (taxonomy)
+- edutainment --[is_a]--> Community Engagement Methods (taxonomy)
+- edutainment --[is_a]--> Virtual and Digital Learning (taxonomy)
+- edutainment --[is_a]--> Training and Capacity Development (taxonomy)
+- edutainment --[is_a]--> Training Modalities (taxonomy)
+- south-south cooperation --[uses]--> capacity building (extracted)
+- south-south cooperation --[is_a]--> Knowledge Exchange and Sharing (taxonomy)
+- south-south cooperation --[is_a]--> Knowledge Exchange and Policy Learning (taxonomy)
+- south-south cooperation --[is_a]--> Knowledge Exchange and Dissemination (taxonomy)
+- south-south cooperation --[is_a]--> South-South and Knowledge Exchange (taxonomy)
+- post-harvest loss reduction --[is_a]--> Post-Harvest and Food Loss Management (taxonomy)
+- post-harvest loss reduction --[is_a]--> Post-Harvest Technology and Storage (taxonomy)
+- post-harvest loss reduction --[is_a]--> Supply Chain and Post-Harvest (taxonomy)
+- intra-household information sharing --[related_to]--> gender roles (extracted)
+- intra-household information sharing --[is_a]--> Intra-household and Community Dynamics (taxonomy)
+- intra-household information sharing --[is_a]--> Participatory and Community Learning Methods (taxonomy)
+- intra-household information sharing --[is_a]--> Gender Research Methods (taxonomy)
+- intra-household information sharing --[is_a]--> Social Inclusion and Intersectionality (taxonomy)
+- water-saving technologies --[targets]--> smallholder farmer (extracted)
+- water-saving technologies --[is_a]--> Irrigation Systems and Technologies (taxonomy)
+- water-saving technologies --[is_a]--> Water Productivity and Efficiency (taxonomy)
+- genomic profiling --[uses]--> whole-genome sequencing (extracted)
+- genomic profiling --[is_a]--> Genetic Diversity Assessment (taxonomy)
+- genomic profiling --[is_a]--> Crop Genetic Improvement (taxonomy)
+- genomic profiling --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- whole-genome sequencing --[is_a]--> Sequencing and Genomic Analysis (taxonomy)
+- whole-genome sequencing --[is_a]--> Crop Genetic Improvement (taxonomy)
+- whole-genome sequencing --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- science of scaling --[addresses]--> agricultural innovation (extracted)
+- science of scaling --[is_a]--> Technology Adoption and Diffusion (taxonomy)
+- science of scaling --[is_a]--> Scaling Approaches (taxonomy)
+- science of scaling --[is_a]--> Scaling Strategies and Frameworks (taxonomy)
+- science of scaling --[is_a]--> Scaling Frameworks and Approaches (taxonomy)
+- science of scaling --[is_a]--> Foresight and Strategic Planning Methods (taxonomy)
+- science of scaling --[is_a]--> Scaling Frameworks and Strategies (taxonomy)
+- hyperspectral imaging --[addresses]--> seed health assessment (extracted)
+- hyperspectral imaging --[is_a]--> Phenotyping Methods and Technologies (taxonomy)
+- hyperspectral imaging --[is_a]--> Spectral and Imaging Technologies (taxonomy)
+- hyperspectral imaging --[is_a]--> Remote Sensing and Digital Monitoring (taxonomy)
+- digital soil sensing --[located_in]--> India (extracted)
+- digital soil sensing --[is_a]--> Soil Health and Fertility Management (taxonomy)
+- digital soil sensing --[is_a]--> Soil Health and Management (taxonomy)
+- digital soil sensing --[is_a]--> Precision Farming Technologies (taxonomy)
+- digital soil sensing --[is_a]--> Digital Tools and Decision Support (taxonomy)
+- last-mile distribution --[is_a]--> Seed Distribution and Delivery (taxonomy)
+- last-mile distribution --[is_a]--> Agricultural Extension and Advisory Services (taxonomy)
+- last-mile distribution --[is_a]--> Agricultural Commercialization (taxonomy)
+- last-mile distribution --[is_a]--> Digital Advisory and Extension Platforms (taxonomy)
+- last-mile distribution --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- last-mile distribution --[is_a]--> Technology Adoption and Diffusion (taxonomy)
+- agent network optimization --[addresses]--> last-mile distribution (extracted)
+- agent network optimization --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- agent network optimization --[is_a]--> Uncategorized (taxonomy)
+- village-led action research --[addresses]--> multifunctional landscapes (extracted)
+- village-led action research --[is_a]--> Participatory and Farmer-Centered Approaches (taxonomy)
+- village-led action research --[is_a]--> Participatory Research Methods (taxonomy)
+- village-led action research --[is_a]--> Locally Led Approaches (taxonomy)
+- optimal contribution selection --[is_a]--> Advanced Breeding Techniques (taxonomy)
+- optimal contribution selection --[is_a]--> Crop Genetic Improvement (taxonomy)
+- optimal contribution selection --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- fish genetic improvement --[targets]--> tilapia (extracted)
+- fish genetic improvement --[is_a]--> Aquaculture Systems (taxonomy)
+- fish genetic improvement --[is_a]--> Uncategorized (taxonomy)
+- soil and water conservation --[is_a]--> Soil Health and Fertility Management (taxonomy)
+- soil and water conservation --[is_a]--> Soil Health and Management (taxonomy)
+- solar pump irrigation --[is_a]--> Irrigation Systems and Technologies (taxonomy)
+- solar pump irrigation --[is_a]--> Irrigation and Water Infrastructure (taxonomy)
+- agroecological products --[located_in]--> Lao PDR (extracted)
+- agroecological products --[is_a]--> Planetary and Environmental Sustainability (taxonomy)
+- agroecological products --[is_a]--> Uncategorized (taxonomy)
+- bankable investment projects --[is_a]--> Agribusiness Training and Capacity (taxonomy)
+- bankable investment projects --[is_a]--> Business Development and Incubation (taxonomy)
+- bankable investment projects --[is_a]--> Investment and Finance Mechanisms (taxonomy)
+- bankable investment projects --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- bankable investment projects --[is_a]--> Blended Finance and Investment (taxonomy)
+- rapid cycle recurrent selection --[uses]--> rice (extracted)
+- rapid cycle recurrent selection --[is_a]--> Advanced Breeding Techniques (taxonomy)
+- rapid cycle recurrent selection --[is_a]--> Crop Genetic Improvement (taxonomy)
+- rapid cycle recurrent selection --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- innovation validation --[is_a]--> Technology Adoption and Diffusion (taxonomy)
+- innovation validation --[is_a]--> Agricultural Innovation Systems (taxonomy)
+- innovation validation --[is_a]--> Monitoring and Evaluation Frameworks (taxonomy)
+- innovation validation --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- agroclimatic information --[located_in]--> Guatemala (extracted)
+- agroclimatic information --[is_a]--> Climate Information Services (taxonomy)
+- seed sector development --[is_a]--> Seed System Development and Strengthening (taxonomy)
+- seed sector development --[is_a]--> Seed Systems Development (taxonomy)
+- gender-sensitive programming --[is_a]--> Gender Mainstreaming and Programming (taxonomy)
+- gender-sensitive programming --[is_a]--> Gender Inclusion and Equity (taxonomy)
+- gender-sensitive programming --[is_a]--> Gender-Responsive Programming (taxonomy)
+- scoping review --[produces]--> evidence base (extracted)
+- scoping review --[is_a]--> Systematic Reviews and Evidence Synthesis (taxonomy)
+- scoping review --[is_a]--> Uncategorized (taxonomy)
+- participatory validation --[located_in]--> India (extracted)
+- participatory validation --[is_a]--> Participatory and Farmer-Centered Approaches (taxonomy)
+- participatory validation --[is_a]--> Participatory Research Methods (taxonomy)
+- participatory validation --[is_a]--> Participatory Learning Methods (taxonomy)
+- participatory validation --[is_a]--> Uncategorized (taxonomy)
+- bodyweight estimation --[targets]--> smallholder farmers (extracted)
+- bodyweight estimation --[is_a]--> Livestock Production and Management (taxonomy)
+- bodyweight estimation --[is_a]--> Uncategorized (taxonomy)
+- segmented regression --[produces]--> improved prediction accuracy (extracted)
+- segmented regression --[is_a]--> Statistical and Quantitative Methods (taxonomy)
+- segmented regression --[is_a]--> Uncategorized (taxonomy)
+- bayesian inference --[produces]--> emission factors (extracted)
+- bayesian inference --[is_a]--> Statistical and Quantitative Methods (taxonomy)
+- bayesian inference --[is_a]--> Uncategorized (taxonomy)
+- atmospheric dispersion modeling --[is_a]--> Crop and Agricultural Modeling (taxonomy)
+- atmospheric dispersion modeling --[is_a]--> Systems and Simulation Modeling (taxonomy)
+- atmospheric dispersion modeling --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- crop failure --[located_in]--> Sub-Saharan Africa (extracted)
+- crop failure --[is_a]--> Uncategorized (taxonomy)
+- anaerobic digestion --[produces]--> biomethane potential (extracted)
+- anaerobic digestion --[addresses]--> circular bioeconomy (extracted)
+- anaerobic digestion --[is_a]--> Livestock Methane and Emissions (taxonomy)
+- anaerobic digestion --[is_a]--> Biogas and Circular Bioeconomy (taxonomy)
+- anaerobic digestion --[is_a]--> Biogas and Bioenergy (taxonomy)
+- biomethane potential --[is_a]--> Livestock Methane and Emissions (taxonomy)
+- biomethane potential --[is_a]--> Biogas and Circular Bioeconomy (taxonomy)
+- biomethane potential --[is_a]--> Biogas and Bioenergy (taxonomy)
+- co-digestion --[part_of]--> anaerobic digestion (extracted)
+- co-digestion --[is_a]--> Livestock Methane and Emissions (taxonomy)
+- co-digestion --[is_a]--> Biogas and Circular Bioeconomy (taxonomy)
+- co-digestion --[is_a]--> Biogas and Bioenergy (taxonomy)
+- integrated catchment management --[part_of]--> whole-farm innovation bundles (extracted)
+- integrated catchment management --[is_a]--> Agricultural Water Resources Management (taxonomy)
+- integrated catchment management --[is_a]--> Hydrological Modeling and Analysis (taxonomy)
+- irrigation demand management --[uses]--> Soil Moisture Sensors (extracted)
+- irrigation demand management --[is_a]--> Agricultural Water Resources Management (taxonomy)
+- irrigation demand management --[is_a]--> Irrigation and Water Infrastructure (taxonomy)
+- financial management training --[targets]--> smallholder farmers (extracted)
+- financial management training --[is_a]--> Agribusiness Training and Capacity (taxonomy)
+- financial management training --[is_a]--> Cash and Financial Transfers (taxonomy)
+- financial management training --[is_a]--> Curriculum and Skills Development (taxonomy)
+- financial management training --[is_a]--> Training and Capacity Development (taxonomy)
+- financial management training --[is_a]--> Training Modalities (taxonomy)
+- farmer segmentation --[uses]--> RHoMIS (extracted)
+- farmer segmentation --[is_a]--> Smallholder Farming Systems (taxonomy)
+- farmer segmentation --[is_a]--> Innovation Assessment and Bundling (taxonomy)
+- fairification --[uses]--> CIP (extracted)
+- fairification --[is_a]--> Data Standards and Interoperability (taxonomy)
+- fairification --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- fairification --[is_a]--> Responsible and Ethical Innovation (taxonomy)
+- crop residue management --[is_a]--> Conservation Agriculture and Tillage (taxonomy)
+- crop residue management --[is_a]--> Soil Health and Management (taxonomy)
+- plant phenotyping --[uses]--> computer vision (extracted)
+- plant phenotyping --[is_a]--> Phenotyping Methods and Technologies (taxonomy)
+- plant phenotyping --[is_a]--> Crop Genetic Improvement (taxonomy)
+- plant phenotyping --[is_a]--> Digital Farming Tools and Systems (taxonomy)
+- plant phenotyping --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- acoustic sensing --[is_a]--> Precision Farming Technologies (taxonomy)
+- acoustic sensing --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- interactive voice response --[targets]--> smallholder farmers (extracted)
+- interactive voice response --[is_a]--> Agricultural Extension and Advisory Services (taxonomy)
+- interactive voice response --[is_a]--> Mobile and Interactive Advisory Tools (taxonomy)
+- interactive voice response --[is_a]--> Digital Advisory and Extension Platforms (taxonomy)
+- interactive voice response --[is_a]--> Digital Advisory and Extension Services (taxonomy)
+- interactive voice response --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- interactive voice response --[is_a]--> Digital Advisory and Extension (taxonomy)
+- soil fertility assessment --[uses]--> portable sensors (inferred)
+- soil fertility assessment --[is_a]--> Soil Health and Fertility Management (taxonomy)
+- soil fertility assessment --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- soil fertility assessment --[is_a]--> Uncategorized (taxonomy)
+- hydrological monitoring --[uses]--> computer vision (extracted)
+- hydrological monitoring --[is_a]--> Agricultural Water Resources Management (taxonomy)
+- hydrological monitoring --[is_a]--> Irrigation and Water Infrastructure (taxonomy)
+- hydrological monitoring --[is_a]--> Early Warning and Monitoring Systems (taxonomy)
+- hydrological monitoring --[is_a]--> Remote Sensing and Digital Monitoring (taxonomy)
+- gender-inclusive strategies --[targets]--> smallholder farmers (inferred)
+- gender-inclusive strategies --[is_a]--> Gender Mainstreaming and Programming (taxonomy)
+- gender-inclusive strategies --[is_a]--> Gender Inclusion and Equity (taxonomy)
+- gender-inclusive strategies --[is_a]--> Gender Transformative Approaches (taxonomy)
+- livelihood capitals --[is_a]--> Livelihood Approaches (taxonomy)
+- livelihood capitals --[is_a]--> Livelihoods and Wellbeing (taxonomy)
+- livelihood capitals --[is_a]--> Livelihoods and Social Welfare (taxonomy)
+- resilience science --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- resilience science --[is_a]--> Resilience Frameworks (taxonomy)
+- resilience science --[is_a]--> Uncategorized (taxonomy)
+- biofuel production --[uses]--> soybean (inferred)
+- biofuel production --[is_a]--> Biogas and Bioenergy (taxonomy)
+- biofuel production --[is_a]--> Uncategorized (taxonomy)
+- extreme weather events --[addresses]--> soybean (extracted)
+- extreme weather events --[is_a]--> Climate Risk Assessment and Vulnerability (taxonomy)
+- global agricultural modeling --[is_a]--> Crop and Agricultural Modeling (taxonomy)
+- global agricultural modeling --[is_a]--> Systems and Simulation Modeling (taxonomy)
+- global agricultural modeling --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- home garden intensification --[targets]--> smallholder farmers (extracted)
+- home garden intensification --[is_a]--> Cropping Systems (taxonomy)
+- home garden intensification --[is_a]--> Dietary Behavior and Interventions (taxonomy)
+- home garden intensification --[is_a]--> Urban Farming Systems (taxonomy)
+- multicrop land suitability --[uses]--> GIS-based multi-criteria decision analysis (extracted)
+- multicrop land suitability --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- multicrop land suitability --[is_a]--> Uncategorized (taxonomy)
+- participatory guarantee systems --[located_in]--> Peru (extracted)
+- participatory guarantee systems --[is_a]--> Participatory and Farmer-Centered Approaches (taxonomy)
+- participatory guarantee systems --[is_a]--> Miscellaneous Regulatory Concepts (taxonomy)
+- participatory guarantee systems --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- rotational fallow practices --[located_in]--> Diohine (extracted)
+- rotational fallow practices --[is_a]--> Cropping Systems (taxonomy)
+- rotational fallow practices --[is_a]--> Uncategorized (taxonomy)
+- agricultural innovation --[is_a]--> Technology Adoption and Diffusion (taxonomy)
+- agricultural innovation --[is_a]--> Communities of Practice and Networks (taxonomy)
+- agricultural innovation --[is_a]--> Uncategorized (taxonomy)
+- bamboo carbon sink --[is_a]--> Landscape and Land Management (taxonomy)
+- bamboo carbon sink --[is_a]--> Carbon Sequestration and Carbon Markets (taxonomy)
+- bamboo carbon sink --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- direct seeding --[produces]--> methane emission reduction (extracted)
+- direct seeding --[is_a]--> Cropping Systems (taxonomy)
+- direct seeding --[is_a]--> Uncategorized (taxonomy)
+- experimental gaming --[is_a]--> Participatory and Community Learning Methods (taxonomy)
+- experimental gaming --[is_a]--> Training Modalities (taxonomy)
+- forest-to-pasture conversion --[located_in]--> Brazil (extracted)
+- forest-to-pasture conversion --[is_a]--> Uncategorized (taxonomy)
+- process-based modeling --[is_a]--> Crop and Agricultural Modeling (taxonomy)
+- process-based modeling --[is_a]--> Systems and Simulation Modeling (taxonomy)
+- straw management --[is_a]--> Conservation Agriculture and Tillage (taxonomy)
+- straw management --[is_a]--> Composting and Organic Inputs (taxonomy)
+- supply chain analysis --[addresses]--> forest-to-pasture conversion (extracted)
+- supply chain analysis --[is_a]--> Value Chain Development (taxonomy)
+- supply chain analysis --[is_a]--> Supply Chain and Post-Harvest (taxonomy)
+- supply chain analysis --[is_a]--> Statistical and Quantitative Methods (taxonomy)
+- positive deviance --[targets]--> smallholder farmers (extracted)
+- positive deviance --[is_a]--> Participatory and Farmer-Centered Approaches (taxonomy)
+- positive deviance --[is_a]--> Social Norms (taxonomy)
+- positive deviance --[is_a]--> Citizen Science and Community-Based Research (taxonomy)
+- positive deviance --[is_a]--> Qualitative and Social Research Techniques (taxonomy)
+- positive deviance --[is_a]--> Citizen Science and Crowdsourcing (taxonomy)
+- community-led innovation --[addresses]--> climate adaptation (extracted)
+- community-led innovation --[is_a]--> Technology Adoption and Diffusion (taxonomy)
+- community-led innovation --[is_a]--> Participatory Governance and Rangeland Management (taxonomy)
+- community-led innovation --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- community-led innovation --[is_a]--> Locally Led Approaches (taxonomy)
+- heat stress --[is_a]--> Crop Genetic Improvement (taxonomy)
+- heat stress --[is_a]--> Uncategorized (taxonomy)
+- rural revitalization --[is_a]--> Livelihood Approaches (taxonomy)
+- rural revitalization --[is_a]--> Livelihoods and Social Welfare (taxonomy)
+- carbon neutrality --[is_a]--> Carbon and Greenhouse Gas Management in Farming (taxonomy)
+- carbon neutrality --[is_a]--> Carbon Sequestration and Carbon Markets (taxonomy)
+- carbon neutrality --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- carbon neutrality --[is_a]--> Planetary and Environmental Sustainability (taxonomy)
+- zero-carbon villages --[addresses]--> carbon neutrality (extracted)
+- zero-carbon villages --[located_in]--> Yangtze River Delta (extracted)
+- zero-carbon villages --[is_a]--> Low-Carbon and Zero-Carbon Agriculture (taxonomy)
+- zero-carbon villages --[is_a]--> Planetary and Environmental Sustainability (taxonomy)
+- agro-advisories --[is_a]--> Agricultural Extension and Advisory Services (taxonomy)
+- agro-advisories --[is_a]--> Climate Information Services (taxonomy)
+- agro-advisories --[is_a]--> Climate and Agro-Advisory Services (taxonomy)
+- agro-advisories --[is_a]--> Agroclimatic Advisory Services (taxonomy)
+- climate negotiations --[addresses]--> food security (extracted)
+- climate negotiations --[is_a]--> Climate Policy and Governance (taxonomy)
+- climate negotiations --[is_a]--> Climate Action Governance (taxonomy)
+- climate negotiations --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- emission intensity --[is_a]--> Carbon and Greenhouse Gas Management in Farming (taxonomy)
+- emission intensity --[is_a]--> Greenhouse Gas Measurement and Monitoring (taxonomy)
+- emission intensity --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- resilience assessment --[is_a]--> Monitoring and Evaluation Frameworks (taxonomy)
+- resilience assessment --[is_a]--> Resilience Frameworks (taxonomy)
+- resilience assessment --[is_a]--> Uncategorized (taxonomy)
+- participatory geographic information systems --[uses]--> traditional ecological knowledge (extracted)
+- participatory geographic information systems --[is_a]--> Participatory and Farmer-Centered Approaches (taxonomy)
+- participatory geographic information systems --[is_a]--> Geospatial Analysis and Mapping (taxonomy)
+- participatory geographic information systems --[is_a]--> Participatory Research Methods (taxonomy)
+- participatory geographic information systems --[is_a]--> Participatory Learning Methods (taxonomy)
+- traditional ecological knowledge --[is_a]--> Landscape and Ecosystem Approaches (taxonomy)
+- traditional ecological knowledge --[is_a]--> Traditional and Indigenous Knowledge (taxonomy)
+- localization --[uses]--> capacity sharing (extracted)
+- localization --[is_a]--> Miscellaneous Wellbeing Concepts (taxonomy)
+- localization --[is_a]--> Networking and Collaboration (taxonomy)
+- localization --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- localization --[is_a]--> South-South and Knowledge Exchange (taxonomy)
+- drought risk management --[located_in]--> East Africa (extracted)
+- drought risk management --[is_a]--> Climate Risk Assessment and Vulnerability (taxonomy)
+- application programming interface --[is_a]--> Digital Platforms and Infrastructure (taxonomy)
+- application programming interface --[is_a]--> Digital Tools and Decision Support (taxonomy)
+- application programming interface --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- weather-informed agro-advisories --[is_a]--> Agricultural Extension and Advisory Services (taxonomy)
+- weather-informed agro-advisories --[is_a]--> Climate Information Services (taxonomy)
+- weather-informed agro-advisories --[is_a]--> Climate and Agro-Advisory Services (taxonomy)
+- weather-informed agro-advisories --[is_a]--> Agroclimatic Advisory Services (taxonomy)
+- drought risk assessment --[is_a]--> Climate Risk Assessment and Vulnerability (taxonomy)
+- flood risk mapping --[is_a]--> Agricultural Water Resources Management (taxonomy)
+- flood risk mapping --[is_a]--> Climate Risk Assessment and Vulnerability (taxonomy)
+- flood risk mapping --[is_a]--> Geospatial Analysis and Mapping (taxonomy)
+- flood risk mapping --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- climate-resilient water infrastructure --[located_in]--> India (extracted)
+- climate-resilient water infrastructure --[is_a]--> Agricultural Water Resources Management (taxonomy)
+- climate-resilient water infrastructure --[is_a]--> Irrigation and Water Infrastructure (taxonomy)
+- catchment risk and resilience index --[uses]--> Godavari Basin (extracted)
+- catchment risk and resilience index --[is_a]--> Agricultural Water Resources Management (taxonomy)
+- catchment risk and resilience index --[is_a]--> Uncategorized (taxonomy)
+- behavior change communication --[targets]--> livestock champion (extracted)
+- behavior change communication --[is_a]--> Dietary Behavior and Interventions (taxonomy)
+- behavior change communication --[is_a]--> Behavior Change Approaches (taxonomy)
+- behavior change communication --[is_a]--> Behavior Change Communication (taxonomy)
+- behavior change communication --[is_a]--> Social Assessment Methods (taxonomy)
+- soil erosion risk mapping --[is_a]--> Soil Health and Fertility Management (taxonomy)
+- soil erosion risk mapping --[is_a]--> Soil Health and Management (taxonomy)
+- soil erosion risk mapping --[is_a]--> Geospatial Analysis and Mapping (taxonomy)
+- soil erosion risk mapping --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- integrated technology package --[is_a]--> Precision and Digital Crop Management (taxonomy)
+- integrated technology package --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- integrated technology package --[is_a]--> Innovation Bundling and Packages (taxonomy)
+- integrated technology package --[is_a]--> Uncategorized (taxonomy)
+- multi-site validation --[is_a]--> Multi-Environment and Multi-Location Testing (taxonomy)
+- multi-site validation --[is_a]--> Seed Systems Development (taxonomy)
+- multi-site validation --[is_a]--> Field and On-Farm Trials (taxonomy)
+- digital decision-support tools --[is_a]--> Agricultural Extension and Advisory Services (taxonomy)
+- digital decision-support tools --[is_a]--> Decision Support Systems (taxonomy)
+- digital decision-support tools --[is_a]--> Knowledge Platforms and Systems (taxonomy)
+- digital decision-support tools --[is_a]--> Digital Tools and Decision Support (taxonomy)
+- community-driven extension --[is_a]--> Agricultural Extension and Advisory Services (taxonomy)
+- community-driven extension --[is_a]--> Extension Approaches and Methods (taxonomy)
+- community-driven extension --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- behavior change model --[addresses]--> technology adoption (extracted)
+- behavior change model --[is_a]--> Consumer Preferences and Behavior (taxonomy)
+- behavior change model --[is_a]--> Behavior Change Approaches (taxonomy)
+- behavior change model --[is_a]--> Social Assessment Methods (taxonomy)
+- agrobiodiversity mainstreaming --[addresses]--> food security (extracted)
+- agrobiodiversity mainstreaming --[is_a]--> Nature-Based and Ecosystem Approaches (taxonomy)
+- agrobiodiversity mainstreaming --[is_a]--> Biodiversity Conservation (taxonomy)
+- recommendation domains --[is_a]--> Target Population and Market Segmentation (taxonomy)
+- recommendation domains --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- haplotype stacking --[uses]--> chickpea (extracted)
+- haplotype stacking --[is_a]--> Marker-Assisted Selection and QTL (taxonomy)
+- haplotype stacking --[is_a]--> Crop Genetic Improvement (taxonomy)
+- genome-wide association analysis --[uses]--> chickpea (extracted)
+- genome-wide association analysis --[is_a]--> Genomic Selection and Prediction (taxonomy)
+- genome-wide association analysis --[is_a]--> Crop Genetic Improvement (taxonomy)
+- genome-wide association analysis --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- climate variability adaptation --[is_a]--> Climate Risk Assessment and Vulnerability (taxonomy)
+- enteric methane reduction --[is_a]--> Livestock Methane and Emissions (taxonomy)
+- enteric methane reduction --[is_a]--> Methane and Emission Reduction Practices (taxonomy)
+- enteric methane reduction --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- low-methane forage breeding --[addresses]--> enteric methane reduction (extracted)
+- low-methane forage breeding --[is_a]--> Specific Breeding Targets (taxonomy)
+- low-methane forage breeding --[is_a]--> Feed and Forage Management (taxonomy)
+- low-methane forage breeding --[is_a]--> Crop Genetic Improvement (taxonomy)
+- low-methane forage breeding --[is_a]--> Methane and Emission Reduction Practices (taxonomy)
+- three-legged stool approach --[is_a]--> Technology Adoption and Diffusion (taxonomy)
+- three-legged stool approach --[is_a]--> Institutional and Organizational Development (taxonomy)
+- three-legged stool approach --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- three-legged stool approach --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- animal health loss envelope --[uses]--> stochastic dynamic population modeling (extracted)
+- animal health loss envelope --[targets]--> cattle (extracted)
+- animal health loss envelope --[targets]--> sheep (extracted)
+- animal health loss envelope --[targets]--> goats (extracted)
+- animal health loss envelope --[located_in]--> Ethiopia (extracted)
+- animal health loss envelope --[is_a]--> Herd Health Management (taxonomy)
+- animal health loss envelope --[is_a]--> Uncategorized (taxonomy)
+- stochastic dynamic population modeling --[is_a]--> Herd Health Management (taxonomy)
+- stochastic dynamic population modeling --[is_a]--> Systems and Simulation Modeling (taxonomy)
+- stochastic dynamic population modeling --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- stochastic dynamic population modeling --[is_a]--> Uncategorized (taxonomy)
+- microbial diversity assessment --[located_in]--> India (extracted)
+- microbial diversity assessment --[is_a]--> Crop Genetic Improvement (taxonomy)
+- microbial diversity assessment --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- microbial diversity assessment --[is_a]--> Uncategorized (taxonomy)
+- germplasm conservation --[uses]--> Oryza glaberrima (extracted)
+- germplasm conservation --[is_a]--> Germplasm Conservation and Management (taxonomy)
+- germplasm conservation --[is_a]--> Crop Genetic Improvement (taxonomy)
+- remote sensing pest detection --[uses]--> Sentinel-1 (extracted)
+- remote sensing pest detection --[uses]--> Sentinel-2 (extracted)
+- remote sensing pest detection --[is_a]--> Integrated Pest Management (taxonomy)
+- remote sensing pest detection --[is_a]--> Spectral and Imaging Technologies (taxonomy)
+- causal loop diagrams --[is_a]--> Foresight and Strategic Planning (taxonomy)
+- causal loop diagrams --[is_a]--> Qualitative and Social Research Techniques (taxonomy)
+- causal loop diagrams --[is_a]--> Systems and Transdisciplinary Research (taxonomy)
+- scaling scan tool --[targets]--> maize (extracted)
+- scaling scan tool --[is_a]--> Technology Adoption and Diffusion (taxonomy)
+- scaling scan tool --[is_a]--> Scaling Approaches (taxonomy)
+- scaling scan tool --[is_a]--> Scaling Strategies and Frameworks (taxonomy)
+- scaling scan tool --[is_a]--> Scaling Frameworks and Approaches (taxonomy)
+- scaling scan tool --[is_a]--> Scaling Frameworks and Strategies (taxonomy)
+- integrated rice-shrimp systems --[located_in]--> Mekong Delta (extracted)
+- integrated rice-shrimp systems --[is_a]--> Integrated Rice-Fish and Aquatic Farming (taxonomy)
+- parboiling --[targets]--> rice parboilers (extracted)
+- parboiling --[is_a]--> Post-Harvest and Food Loss Management (taxonomy)
+- parboiling --[is_a]--> Post-Harvest Technology and Storage (taxonomy)
+- smart valley farming --[targets]--> smallholder farmers (extracted)
+- smart valley farming --[located_in]--> Sierra Leone (extracted)
+- smart valley farming --[is_a]--> Precision and Digital Crop Management (taxonomy)
+- smart valley farming --[is_a]--> Digital Farming Tools and Systems (taxonomy)
+- technical accompaniment --[targets]--> technical advisors (extracted)
+- technical accompaniment --[is_a]--> Mentorship and Accompaniment (taxonomy)
+- bundled financial services --[addresses]--> climate risk management (inferred)
+- bundled financial services --[located_in]--> Meru County (extracted)
+- bundled financial services --[is_a]--> Finance and Investment Mechanisms (taxonomy)
+- bundled financial services --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- accelerator programs --[targets]--> women entrepreneurs (extracted)
+- accelerator programs --[is_a]--> Business Models and Development (taxonomy)
+- accelerator programs --[is_a]--> Business Development and Incubation (taxonomy)
+- accelerator programs --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- accelerator programs --[is_a]--> Blended Finance and Investment (taxonomy)
+- migration monitoring --[uses]--> Migration Propensity Index (extracted)
+- migration monitoring --[located_in]--> Guatemala (extracted)
+- migration monitoring --[is_a]--> Early Warning and Monitoring Systems (taxonomy)
+- migration monitoring --[is_a]--> Displacement and Migration (taxonomy)
+- migration monitoring --[is_a]--> Remote Sensing and Digital Monitoring (taxonomy)
+- climate policy coordination --[is_a]--> Climate Policy and Governance (taxonomy)
+- climate policy coordination --[is_a]--> Policy Harmonization and Coordination (taxonomy)
+- climate policy coordination --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- gender-responsive artificial intelligence --[targets]--> smallholder farmers (extracted)
+- gender-responsive artificial intelligence --[is_a]--> AI Applications and Ethics (taxonomy)
+- gender-responsive artificial intelligence --[is_a]--> Gender Mainstreaming and Programming (taxonomy)
+- gender-responsive artificial intelligence --[is_a]--> Gender-Transformative Approaches (taxonomy)
+- gender-responsive artificial intelligence --[is_a]--> Responsible and Ethical Innovation (taxonomy)
+- bias detection and mitigation --[addresses]--> gender-responsive artificial intelligence (extracted)
+- bias detection and mitigation --[is_a]--> AI Applications and Ethics (taxonomy)
+- bias detection and mitigation --[is_a]--> Core AI and ML Approaches (taxonomy)
+- bias detection and mitigation --[is_a]--> Responsible and Ethical Innovation (taxonomy)
+- malnutrition forecasting --[is_a]--> Nutrition-Sensitive Approaches (taxonomy)
+- malnutrition forecasting --[is_a]--> Early Warning and Crisis Prediction (taxonomy)
+- malnutrition forecasting --[is_a]--> Predictive Modeling and Forecasting (taxonomy)
+- malnutrition forecasting --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- malnutrition forecasting --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- biodiversity-positive financing --[is_a]--> Biodiversity Conservation (taxonomy)
+- biodiversity-positive financing --[is_a]--> Climate Finance (taxonomy)
+- biodiversity-positive financing --[is_a]--> Investment and Finance Mechanisms (taxonomy)
+- biodiversity-positive financing --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- impact measurement --[targets]--> agribusiness leaders (extracted)
+- impact measurement --[is_a]--> Scaling and Innovation Miscellaneous (taxonomy)
+- impact measurement --[is_a]--> Impact Evaluation and Assessment (taxonomy)
+- impact measurement --[is_a]--> Monitoring and Evaluation Frameworks (taxonomy)
+- impact measurement --[is_a]--> MRV Frameworks (taxonomy)
+- cost of healthy diet analysis --[is_a]--> Dietary Assessment and Quality (taxonomy)
+- cost of healthy diet analysis --[is_a]--> Economic Analysis and Impact (taxonomy)
+- cost of healthy diet analysis --[is_a]--> Statistical and Quantitative Methods (taxonomy)
+- longitudinal impact assessment --[located_in]--> Western Highlands of Guatemala (extracted)
+- longitudinal impact assessment --[is_a]--> Impact Evaluation and Assessment (taxonomy)
+- longitudinal impact assessment --[is_a]--> Monitoring and Evaluation Frameworks (taxonomy)
+- longitudinal impact assessment --[is_a]--> Experimental and Evaluation Methods (taxonomy)
+- federated data sharing --[collaborates_with]--> CGIAR (extracted)
+- federated data sharing --[is_a]--> Data Standards and Interoperability (taxonomy)
+- federated data sharing --[is_a]--> Systematic Reviews and Evidence Synthesis (taxonomy)
+- federated data sharing --[is_a]--> Digital Platforms and Infrastructure (taxonomy)
+- environmental dna monitoring --[is_a]--> Fisheries and Aquatic Food Systems (taxonomy)
+- environmental dna monitoring --[is_a]--> Biodiversity Conservation (taxonomy)
+- environmental dna monitoring --[is_a]--> Early Warning and Monitoring Systems (taxonomy)
+- environmental dna monitoring --[is_a]--> Remote Sensing and Digital Monitoring (taxonomy)
+- artificial intelligence famine forecasting --[is_a]--> Early Warning and Crisis Prediction (taxonomy)
+- artificial intelligence famine forecasting --[is_a]--> Core AI and ML Methods (taxonomy)
+- artificial intelligence famine forecasting --[is_a]--> Core AI and ML Approaches (taxonomy)
+- artificial intelligence famine forecasting --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- artificial intelligence famine forecasting --[is_a]--> Artificial Intelligence and Machine Learning (taxonomy)
+- artificial intelligence famine forecasting --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- multimodal advisory services --[is_a]--> Agricultural Extension and Advisory Services (taxonomy)
+- multimodal advisory services --[is_a]--> Mobile and Interactive Advisory Tools (taxonomy)
+- multimodal advisory services --[is_a]--> Digital Advisory and Extension Services (taxonomy)
+- multimodal advisory services --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- multimodal advisory services --[is_a]--> Digital Advisory and Extension (taxonomy)
+- micronutrient adequacy projection --[is_a]--> Dietary Assessment and Quality (taxonomy)
+- micronutrient adequacy projection --[is_a]--> Economic and Impact Modeling (taxonomy)
+- micronutrient adequacy projection --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- socio-environmental monitoring --[is_a]--> Early Warning and Monitoring Systems (taxonomy)
+- socio-environmental monitoring --[is_a]--> Remote Sensing and Digital Monitoring (taxonomy)
+- socio-environmental monitoring --[is_a]--> MRV Frameworks (taxonomy)
+- transdisciplinary approaches --[is_a]--> Participatory and Farmer-Centered Approaches (taxonomy)
+- transdisciplinary approaches --[is_a]--> Transdisciplinary and Systems Research (taxonomy)
+- transdisciplinary approaches --[is_a]--> Mixed Methods and Interdisciplinary Approaches (taxonomy)
+- transdisciplinary approaches --[is_a]--> Systems and Transdisciplinary Research (taxonomy)
+- global water governance --[is_a]--> Agricultural Water Resources Management (taxonomy)
+- global water governance --[is_a]--> Water Governance and Management (taxonomy)
+- global water governance --[is_a]--> Participatory and Polycentric Governance (taxonomy)
+- global water governance --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- climate-resilient wash --[uses]--> groundwater integration (extracted)
+- climate-resilient wash --[is_a]--> Climate Resilience Building (taxonomy)
+- groundwater integration --[is_a]--> Agricultural Water Resources Management (taxonomy)
+- groundwater integration --[is_a]--> Irrigation and Water Infrastructure (taxonomy)
+- bankable project development --[located_in]--> ASALs (extracted)
+- bankable project development --[is_a]--> Agribusiness Training and Capacity (taxonomy)
+- bankable project development --[is_a]--> Business Development and Incubation (taxonomy)
+- bankable project development --[is_a]--> Investment and Finance Mechanisms (taxonomy)
+- bankable project development --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- bankable project development --[is_a]--> Blended Finance and Investment (taxonomy)
+- climate finance mobilization --[is_a]--> Climate Finance (taxonomy)
+- climate finance mobilization --[is_a]--> Investment and Finance Mechanisms (taxonomy)
+- climate finance mobilization --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- social-ecological systems --[addresses]--> agri-food system governance (extracted)
+- social-ecological systems --[is_a]--> Ecosystem Restoration and Services (taxonomy)
+- social-ecological systems --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- social-ecological systems --[is_a]--> Systems and Transdisciplinary Research (taxonomy)
+- feminist political ecology --[related_to]--> gender-transformative approaches (extracted)
+- feminist political ecology --[is_a]--> Community Engagement Methods (taxonomy)
+- feminist political ecology --[is_a]--> Social Inclusion and Intersectionality (taxonomy)
+- feminist political ecology --[is_a]--> Gender Research Methods (taxonomy)
+- feminist political ecology --[is_a]--> Responsible and Ethical Innovation (taxonomy)
+- spatiotemporal asset catalog --[is_a]--> Satellite and Remote Sensing Applications (taxonomy)
+- spatiotemporal asset catalog --[is_a]--> Geospatial Analysis and Mapping (taxonomy)
+- spatiotemporal asset catalog --[is_a]--> Digital Tools and Decision Support (taxonomy)
+- spatiotemporal asset catalog --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- spatiotemporal asset catalog --[is_a]--> Digital Platforms and Infrastructure (taxonomy)
+- participatory foresight --[produces]--> future scenarios (extracted)
+- participatory foresight --[is_a]--> Participatory and Farmer-Centered Approaches (taxonomy)
+- participatory foresight --[is_a]--> Participatory Research Methods (taxonomy)
+- participatory foresight --[is_a]--> Foresight and Strategic Planning (taxonomy)
+- participatory foresight --[is_a]--> Foresight and Strategic Planning Methods (taxonomy)
+- participatory foresight --[is_a]--> Integrated and Adaptive Management (taxonomy)
+- pan-genomics --[targets]--> soybean (extracted)
+- pan-genomics --[targets]--> groundnut (extracted)
+- pan-genomics --[targets]--> sunflower (extracted)
+- pan-genomics --[targets]--> sesame (extracted)
+- pan-genomics --[is_a]--> Sequencing and Genomic Analysis (taxonomy)
+- pan-genomics --[is_a]--> Crop Genetic Improvement (taxonomy)
+- pan-genomics --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- systems science --[is_a]--> Participatory and Farmer-Centered Approaches (taxonomy)
+- systems science --[is_a]--> Foresight and Strategic Planning (taxonomy)
+- systems science --[is_a]--> Mixed Methods and Interdisciplinary Approaches (taxonomy)
+- systems science --[is_a]--> Systems and Transdisciplinary Research (taxonomy)
+- long-term experiments --[is_a]--> Soil Health and Fertility Management (taxonomy)
+- long-term experiments --[is_a]--> Field and On-Farm Trials (taxonomy)
+- long-term experiments --[is_a]--> Uncategorized (taxonomy)
+- gender inclusivity --[located_in]--> Lake Victoria (extracted)
+- gender inclusivity --[is_a]--> Gender Mainstreaming and Programming (taxonomy)
+- gender inclusivity --[is_a]--> Gender Transformative Approaches (taxonomy)
+- bioconversion --[located_in]--> Kisumu County (extracted)
+- bioconversion --[is_a]--> Livestock Production and Management (taxonomy)
+- bioconversion --[is_a]--> Waste-to-Value and Resource Recovery (taxonomy)
+- bioconversion --[is_a]--> Uncategorized (taxonomy)
+- superabsorbent hydrogels --[uses]--> sugarcane bagasse (extracted)
+- superabsorbent hydrogels --[uses]--> rice straw (extracted)
+- superabsorbent hydrogels --[uses]--> coconut husks (extracted)
+- superabsorbent hydrogels --[is_a]--> Uncategorized (taxonomy)
+- digital public infrastructure --[located_in]--> India (extracted)
+- digital public infrastructure --[is_a]--> Digital Platforms and Infrastructure (taxonomy)
+- digital public infrastructure --[is_a]--> Digital Agriculture Systems (taxonomy)
+- digital public infrastructure --[is_a]--> Knowledge Platforms and Systems (taxonomy)
+- digital public infrastructure --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- aerobic composting --[produces]--> circular economy (extracted)
+- aerobic composting --[is_a]--> Organic and Circular Farming (taxonomy)
+- aerobic composting --[is_a]--> Composting and Organic Inputs (taxonomy)
+- aerobic composting --[is_a]--> Waste-to-Value and Resource Recovery (taxonomy)
+- scaling assessment --[uses]--> Scaling Scan tool (extracted)
+- scaling assessment --[is_a]--> Technology Adoption and Diffusion (taxonomy)
+- scaling assessment --[is_a]--> Scaling Approaches (taxonomy)
+- scaling assessment --[is_a]--> Scaling Strategies and Frameworks (taxonomy)
+- scaling assessment --[is_a]--> Scaling Frameworks and Approaches (taxonomy)
+- scaling assessment --[is_a]--> Monitoring and Evaluation Frameworks (taxonomy)
+- scaling assessment --[is_a]--> Scaling Frameworks and Strategies (taxonomy)
+- radio-based extension --[is_a]--> Agricultural Extension and Advisory Services (taxonomy)
+- radio-based extension --[is_a]--> Mobile and Interactive Advisory Tools (taxonomy)
+- radio-based extension --[is_a]--> Digital Advisory and Extension Platforms (taxonomy)
+- radio-based extension --[is_a]--> Extension Approaches and Methods (taxonomy)
+- radio-based extension --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- radio-based extension --[is_a]--> Digital Advisory and Extension (taxonomy)
+- crowdsourcing --[uses]--> digital platforms (inferred)
+- crowdsourcing --[is_a]--> Crowdsourcing and Citizen Science (taxonomy)
+- crowdsourcing --[is_a]--> Citizen Science and Community-Based Research (taxonomy)
+- crowdsourcing --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- crowdsourcing --[is_a]--> Citizen Science and Crowdsourcing (taxonomy)
+- randomized control trial --[uses]--> KAZNET (extracted)
+- randomized control trial --[is_a]--> Randomized and Controlled Trials (taxonomy)
+- randomized control trial --[is_a]--> Experimental and Evaluation Methods (taxonomy)
+- randomized control trial --[is_a]--> Uncategorized (taxonomy)
+- food safety training --[uses]--> curriculum development (extracted)
+- food safety training --[is_a]--> Post-Harvest and Food Loss Management (taxonomy)
+- food safety training --[is_a]--> Food Safety Monitoring and Management (taxonomy)
+- food safety training --[is_a]--> Supply Chain and Post-Harvest (taxonomy)
+- food safety training --[is_a]--> Curriculum and Skills Development (taxonomy)
+- food safety training --[is_a]--> Quality and Food Safety Standards (taxonomy)
+- food safety training --[is_a]--> Training and Capacity Development (taxonomy)
+- food safety training --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- seed quality testing --[is_a]--> Seed Quality and Certification (taxonomy)
+- seed quality testing --[is_a]--> Seed Systems Development (taxonomy)
+- seed quality testing --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- market linkages --[is_a]--> Food Market Systems (taxonomy)
+- market linkages --[is_a]--> Agricultural Commercialization (taxonomy)
+- disease outbreak management --[is_a]--> Herd Health Management (taxonomy)
+- disease outbreak management --[is_a]--> Uncategorized (taxonomy)
+- enteric methane measurement --[targets]--> pastoral cattle (extracted)
+- enteric methane measurement --[is_a]--> Livestock Methane and Emissions (taxonomy)
+- enteric methane measurement --[is_a]--> Greenhouse Gas Measurement and Monitoring (taxonomy)
+- enteric methane measurement --[is_a]--> Greenhouse Gas Measurement and Reporting (taxonomy)
+- bundled csa practices --[produces]--> landscape restoration (extracted)
+- bundled csa practices --[is_a]--> Climate-Smart Agriculture (taxonomy)
+- bundled csa practices --[is_a]--> Climate-Smart Agriculture Approaches (taxonomy)
+- bundled csa practices --[is_a]--> Smallholder Farming Systems (taxonomy)
+- bundled csa practices --[is_a]--> Technology Adoption and Diffusion (taxonomy)
+- bundled csa practices --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- bundled csa practices --[is_a]--> Innovation Bundling and Packages (taxonomy)
+- sub-seasonal forecasting --[part_of]--> climate information services (inferred)
+- sub-seasonal forecasting --[is_a]--> Climate Forecasting and Early Warning (taxonomy)
+- sub-seasonal forecasting --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- networking support --[is_a]--> Networking and Collaboration (taxonomy)
+- vulnerability hotspot mapping --[located_in]--> Kenya (extracted)
+- vulnerability hotspot mapping --[is_a]--> Climate Risk Assessment and Vulnerability (taxonomy)
+- vulnerability hotspot mapping --[is_a]--> Geospatial Analysis and Mapping (taxonomy)
+- vulnerability hotspot mapping --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- vulnerability hotspot mapping --[is_a]--> Vulnerability Assessment (taxonomy)
+- serosurvey --[targets]--> Coxiella burnetii (extracted)
+- serosurvey --[is_a]--> Herd Health Management (taxonomy)
+- serosurvey --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- serosurvey --[is_a]--> Uncategorized (taxonomy)
+- risk mapping --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- risk mapping --[is_a]--> Uncategorized (taxonomy)
+- data integration platform --[located_in]--> Ethiopia (extracted)
+- data integration platform --[is_a]--> Data Standards and Interoperability (taxonomy)
+- data integration platform --[is_a]--> Systematic Reviews and Evidence Synthesis (taxonomy)
+- data integration platform --[is_a]--> Digital Platforms and Infrastructure (taxonomy)
+- mass vaccination campaign --[targets]--> rabies (extracted)
+- mass vaccination campaign --[is_a]--> Herd Health Management (taxonomy)
+- mass vaccination campaign --[is_a]--> Uncategorized (taxonomy)
+- co-creation approach --[produces]--> vaccination announcement posters (extracted)
+- co-creation approach --[is_a]--> Participatory and Farmer-Centered Approaches (taxonomy)
+- co-creation approach --[is_a]--> Co-Design and Co-Production (taxonomy)
+- co-creation approach --[is_a]--> Stakeholder Engagement Methods (taxonomy)
+- yield prediction modeling --[is_a]--> Precision and Digital Crop Management (taxonomy)
+- yield prediction modeling --[is_a]--> Predictive Modeling and Forecasting (taxonomy)
+- yield prediction modeling --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- livestock nutrition management --[is_a]--> Feed and Forage Management (taxonomy)
+- livestock nutrition management --[is_a]--> Uncategorized (taxonomy)
+- social network analysis --[located_in]--> Senegal (extracted)
+- social network analysis --[is_a]--> Qualitative and Social Research Techniques (taxonomy)
+- social network analysis --[is_a]--> Mixed Methods and Qualitative Approaches (taxonomy)
+- social network analysis --[is_a]--> Uncategorized (taxonomy)
+- carbon market readiness --[targets]--> Turkana County (extracted)
+- carbon market readiness --[is_a]--> Carbon and Greenhouse Gas Management in Farming (taxonomy)
+- carbon market readiness --[is_a]--> Carbon Sequestration and Carbon Markets (taxonomy)
+- carbon market readiness --[is_a]--> Climate Finance (taxonomy)
+- carbon market readiness --[is_a]--> Investment and Finance Mechanisms (taxonomy)
+- carbon market readiness --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- community seed systems --[produces]--> improved varieties (extracted)
+- community seed systems --[is_a]--> Seed System Development and Strengthening (taxonomy)
+- community seed systems --[is_a]--> Seed Systems Development (taxonomy)
+- foresight analysis --[addresses]--> investment planning (extracted)
+- foresight analysis --[is_a]--> Foresight and Strategic Planning (taxonomy)
+- foresight analysis --[is_a]--> Foresight and Strategic Planning Methods (taxonomy)
+- foresight analysis --[is_a]--> Integrated and Adaptive Management (taxonomy)
+- artificial intelligence integration --[uses]--> iShamba (extracted)
+- artificial intelligence integration --[is_a]--> Core AI and ML Methods (taxonomy)
+- artificial intelligence integration --[is_a]--> Core AI and ML Approaches (taxonomy)
+- artificial intelligence integration --[is_a]--> Artificial Intelligence and Machine Learning (taxonomy)
+- family-led learning --[targets]--> pastoralists (extracted)
+- family-led learning --[is_a]--> Peer and Experiential Learning (taxonomy)
+- family-led learning --[is_a]--> Knowledge Exchange and Dissemination (taxonomy)
+- family-led learning --[is_a]--> Participatory Learning Methods (taxonomy)
+- pastoral resource management --[addresses]--> climate-smart agriculture (inferred)
+- pastoral resource management --[is_a]--> Pastoral and Rangeland Systems (taxonomy)
+- pastoral resource management --[is_a]--> Landscape and Ecosystem Approaches (taxonomy)
+- adaptation tracking --[uses]--> causal chain analysis (extracted)
+- adaptation tracking --[is_a]--> Adaptation Planning and Implementation (taxonomy)
+- adaptation tracking --[is_a]--> Monitoring, Reporting and Verification (taxonomy)
+- adaptation tracking --[is_a]--> Monitoring and Evaluation Frameworks (taxonomy)
+- adaptation tracking --[is_a]--> MRV Frameworks (taxonomy)
+- digital agriculture ecosystem --[uses]--> climate information services (inferred)
+- digital agriculture ecosystem --[is_a]--> Digital Extension Integration and Literacy (taxonomy)
+- digital agriculture ecosystem --[is_a]--> Digital Agriculture Systems (taxonomy)
+- digital agriculture ecosystem --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- causal chain analysis --[is_a]--> Foresight and Strategic Planning (taxonomy)
+- causal chain analysis --[is_a]--> Qualitative and Social Research Techniques (taxonomy)
+- causal chain analysis --[is_a]--> Mixed Methods and Qualitative Approaches (taxonomy)
+- machine learning phenotyping --[uses]--> uav-based remote sensing (extracted)
+- machine learning phenotyping --[is_a]--> Phenotyping Methods and Technologies (taxonomy)
+- machine learning phenotyping --[is_a]--> Crop Genetic Improvement (taxonomy)
+- machine learning phenotyping --[is_a]--> Computer Vision and Image Processing (taxonomy)
+- machine learning phenotyping --[is_a]--> Core AI and ML Approaches (taxonomy)
+- uav-based remote sensing --[is_a]--> Satellite and Remote Sensing Applications (taxonomy)
+- uav-based remote sensing --[is_a]--> Satellite-Based Monitoring (taxonomy)
+- uav-based remote sensing --[is_a]--> Remote Sensing and Digital Monitoring (taxonomy)
+- uav-based remote sensing --[is_a]--> Remote Sensing and Earth Observation (taxonomy)
+- salinity tolerance --[targets]--> grasspea (extracted)
+- salinity tolerance --[is_a]--> Stress Tolerance Screening (taxonomy)
+- salinity tolerance --[is_a]--> Crop Genetic Improvement (taxonomy)
+- pathotype screening --[uses]--> molecular marker analysis (extracted)
+- pathotype screening --[is_a]--> Stress Tolerance Screening (taxonomy)
+- pathotype screening --[is_a]--> Disease Management (taxonomy)
+- pathotype screening --[is_a]--> Crop Genetic Improvement (taxonomy)
+- pathotype screening --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- watershed modeling --[is_a]--> Agricultural Water Resources Management (taxonomy)
+- watershed modeling --[is_a]--> Hydrological Modeling and Analysis (taxonomy)
+- watershed modeling --[is_a]--> Crop and Agricultural Modeling (taxonomy)
+- watershed modeling --[is_a]--> Systems and Simulation Modeling (taxonomy)
+- watershed modeling --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- variety trial --[uses]--> Cenchrus purpureus (extracted)
+- variety trial --[located_in]--> Ethiopia (extracted)
+- variety trial --[is_a]--> Multi-Environment and Multi-Location Testing (taxonomy)
+- variety trial --[is_a]--> Variety Adoption and Deployment (taxonomy)
+- variety trial --[is_a]--> Seed Systems Development (taxonomy)
+- variety trial --[is_a]--> Field and On-Farm Trials (taxonomy)
+- dignified work --[addresses]--> youth (extracted)
+- dignified work --[is_a]--> Livelihood Approaches (taxonomy)
+- dignified work --[is_a]--> Intra-household and Community Dynamics (taxonomy)
+- dignified work --[is_a]--> Justice and Equity Frameworks (taxonomy)
+- forum theatre --[addresses]--> gender equality (extracted)
+- forum theatre --[is_a]--> Community Engagement Methods (taxonomy)
+- forum theatre --[is_a]--> Behavior Change Communication (taxonomy)
+- forum theatre --[is_a]--> Training Modalities (taxonomy)
+- metadata standardization --[is_a]--> Data Standards and Interoperability (taxonomy)
+- metadata standardization --[is_a]--> Systematic Reviews and Evidence Synthesis (taxonomy)
+- metadata standardization --[is_a]--> Digital Platforms and Infrastructure (taxonomy)
+- digital water innovations --[uses]--> earth observation (extracted)
+- digital water innovations --[uses]--> machine learning (extracted)
+- digital water innovations --[is_a]--> Agricultural Water Resources Management (taxonomy)
+- digital water innovations --[is_a]--> Irrigation and Water Infrastructure (taxonomy)
+- digital water innovations --[is_a]--> Digital Platforms and Infrastructure (taxonomy)
+- bush encroachment --[is_a]--> Pastoral and Rangeland Systems (taxonomy)
+- bush encroachment --[is_a]--> Landscape and Ecosystem Approaches (taxonomy)
+- seed dormancy breaking --[uses]--> Oryza glaberrima (extracted)
+- seed dormancy breaking --[is_a]--> Seed Quality and Certification (taxonomy)
+- seed dormancy breaking --[is_a]--> Seed Systems Development (taxonomy)
+- business-to-business discussion tools --[targets]--> pastoralist (extracted)
+- business-to-business discussion tools --[is_a]--> Business Models and Development (taxonomy)
+- business-to-business discussion tools --[is_a]--> Networking and Collaboration (taxonomy)
+- agroecological solutions --[uses]--> crop rotation (extracted)
+- agroecological solutions --[is_a]--> Core Agroecological Approaches (taxonomy)
+- agroecological solutions --[is_a]--> Agroecological Approaches to Adaptation (taxonomy)
+- agroecological solutions --[is_a]--> Planetary and Environmental Sustainability (taxonomy)
+- crop rotation --[is_a]--> Cropping Systems (taxonomy)
+- crop rotation --[is_a]--> Sustainable Intensification and Diversification (taxonomy)
+- economic inclusion --[targets]--> smallholder farmer (inferred)
+- economic inclusion --[is_a]--> Food Access and Social Protection (taxonomy)
+- economic inclusion --[is_a]--> Livelihood Approaches (taxonomy)
+- economic inclusion --[is_a]--> Social Inclusion Frameworks (taxonomy)
+- economic inclusion --[is_a]--> Social Inclusion and Intersectionality (taxonomy)
+- economic inclusion --[is_a]--> Livelihoods and Social Welfare (taxonomy)
+- human capital development --[is_a]--> Miscellaneous Wellbeing Concepts (taxonomy)
+- human capital development --[is_a]--> Core Capacity Building (taxonomy)
+- human capital development --[is_a]--> Capacity Building Approaches (taxonomy)
+- frontier food systems --[includes]--> fragile and conflict-affected systems (extracted)
+- frontier food systems --[includes]--> urban and peri-urban environments (extracted)
+- frontier food systems --[includes]--> small island states (extracted)
+- frontier food systems --[is_a]--> Food System Frameworks and Approaches (taxonomy)
+- frontier food systems --[is_a]--> Food Systems Transformation (taxonomy)
+- concentrate supplementation --[produces]--> average daily gain (extracted)
+- concentrate supplementation --[reduces]--> methane emissions (extracted)
+- concentrate supplementation --[is_a]--> Feed and Forage Management (taxonomy)
+- concentrate supplementation --[is_a]--> Uncategorized (taxonomy)
+- methane emissions --[is_a]--> Livestock Methane and Emissions (taxonomy)
+- methane emissions --[is_a]--> Methane and Emission Reduction Practices (taxonomy)
+- methane emissions --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- average daily gain --[is_a]--> Livestock Production and Management (taxonomy)
+- average daily gain --[is_a]--> Uncategorized (taxonomy)
+- dry matter production --[is_a]--> Livestock Production and Management (taxonomy)
+- dry matter production --[is_a]--> Uncategorized (taxonomy)
+- emission intensity per weight gain --[is_a]--> Livestock Methane and Emissions (taxonomy)
+- emission intensity per weight gain --[is_a]--> Methane and Emission Reduction Practices (taxonomy)
+- emission intensity per weight gain --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- knowledge sharing --[is_a]--> Knowledge Exchange and Sharing (taxonomy)
+- knowledge sharing --[is_a]--> Knowledge Management and Dissemination (taxonomy)
+- knowledge sharing --[is_a]--> Knowledge Exchange and Dissemination (taxonomy)
+- knowledge sharing --[is_a]--> South-South and Knowledge Exchange (taxonomy)
+- agricultural sustainability --[is_a]--> Planetary and Environmental Sustainability (taxonomy)
+- agricultural sustainability --[is_a]--> Uncategorized (taxonomy)
+- biocontrol --[is_a]--> Biological Control (taxonomy)
+- biocontrol --[is_a]--> Uncategorized (taxonomy)
+- metabolomics-assisted breeding --[uses]--> genomic selection (extracted)
+- metabolomics-assisted breeding --[is_a]--> Multi-Omics and Bioinformatics (taxonomy)
+- metabolomics-assisted breeding --[is_a]--> Crop Genetic Improvement (taxonomy)
+- metabolomics-assisted breeding --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- loss and damage assessment --[is_a]--> Climate Policy and Governance (taxonomy)
+- loss and damage assessment --[is_a]--> Climate Action Governance (taxonomy)
+- loss and damage assessment --[is_a]--> Social Assessment Methods (taxonomy)
+- loss and damage assessment --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- scaling readiness assessment --[uses]--> Aflasafe (extracted)
+- scaling readiness assessment --[is_a]--> Technology Adoption and Diffusion (taxonomy)
+- scaling readiness assessment --[is_a]--> Scaling Approaches (taxonomy)
+- scaling readiness assessment --[is_a]--> Scaling Strategies and Frameworks (taxonomy)
+- scaling readiness assessment --[is_a]--> Scaling Frameworks and Approaches (taxonomy)
+- scaling readiness assessment --[is_a]--> Monitoring and Evaluation Frameworks (taxonomy)
+- scaling readiness assessment --[is_a]--> Scaling Frameworks and Strategies (taxonomy)
+- multilateral system --[is_a]--> Miscellaneous Regulatory Concepts (taxonomy)
+- multilateral system --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- policy harmonization --[is_a]--> Policy and Enabling Environment (taxonomy)
+- policy harmonization --[is_a]--> Policy Harmonization and Coordination (taxonomy)
+- policy harmonization --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- policy harmonization --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- waste hierarchy --[is_a]--> Food Loss and Waste Reduction (taxonomy)
+- waste hierarchy --[is_a]--> Circular Economy Principles (taxonomy)
+- zero deforestation agreements --[targets]--> cacao (extracted)
+- zero deforestation agreements --[is_a]--> Landscape and Land Management (taxonomy)
+- zero deforestation agreements --[is_a]--> Sustainable Land Management (taxonomy)
+- managed resettlement --[addresses]--> climate vulnerability (extracted)
+- managed resettlement --[is_a]--> Displacement and Migration (taxonomy)
+- managed resettlement --[is_a]--> Disaster Risk and Humanitarian Governance (taxonomy)
+- managed resettlement --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- genetic parameter estimation --[uses]--> marker-assisted selection (inferred)
+- genetic parameter estimation --[is_a]--> Sequencing and Genomic Analysis (taxonomy)
+- genetic parameter estimation --[is_a]--> Crop Genetic Improvement (taxonomy)
+- genetic parameter estimation --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- anti-methanogenic compounds --[is_a]--> Livestock Methane and Emissions (taxonomy)
+- anti-methanogenic compounds --[is_a]--> Methane and Emission Reduction Practices (taxonomy)
+- hdp nexus --[is_a]--> Humanitarian Response (taxonomy)
+- hdp nexus --[is_a]--> Conflict-Sensitive Governance (taxonomy)
+- hdp nexus --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- hdp nexus --[is_a]--> Fragile and Conflict-Affected Settings (taxonomy)
+- digital methods --[targets]--> Philippines (extracted)
+- digital methods --[is_a]--> Digital Agriculture Systems (taxonomy)
+- digital methods --[is_a]--> Digital Literacy and Inclusion (taxonomy)
+- digital methods --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- digital methods --[is_a]--> Digital Platforms and Infrastructure (taxonomy)
+- spatial effects --[related_to]--> smallholder farmers (extracted)
+- spatial effects --[is_a]--> Geospatial Analysis and Mapping (taxonomy)
+- spatial effects --[is_a]--> Statistical and Quantitative Methods (taxonomy)
+- spatial effects --[is_a]--> Remote Sensing and Earth Observation (taxonomy)
+- post-harvest food loss --[addresses]--> food security (inferred)
+- post-harvest food loss --[is_a]--> Post-Harvest and Food Loss Management (taxonomy)
+- post-harvest food loss --[is_a]--> Post-Harvest Technology and Storage (taxonomy)
+- germplasm screening --[uses]--> in vitro methods (extracted)
+- germplasm screening --[is_a]--> Germplasm Conservation and Management (taxonomy)
+- germplasm screening --[is_a]--> Crop Genetic Improvement (taxonomy)
+- germplasm screening --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- spatial prioritization --[is_a]--> Satellite and Remote Sensing Applications (taxonomy)
+- spatial prioritization --[is_a]--> Geospatial Analysis and Mapping (taxonomy)
+- spatial prioritization --[is_a]--> Statistical and Quantitative Methods (taxonomy)
+- spatial prioritization --[is_a]--> Remote Sensing and Earth Observation (taxonomy)
+- anti-methanogenic screening --[uses]--> metabolomic analysis (extracted)
+- anti-methanogenic screening --[is_a]--> Livestock Methane and Emissions (taxonomy)
+- anti-methanogenic screening --[is_a]--> Methane and Emission Reduction Practices (taxonomy)
+- anti-methanogenic screening --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- metabolomic analysis --[uses]--> iOMICAS-PiMoP (extracted)
+- metabolomic analysis --[is_a]--> Multi-Omics and Bioinformatics (taxonomy)
+- metabolomic analysis --[is_a]--> Crop Genetic Improvement (taxonomy)
+- metabolomic analysis --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- heterotic pattern integration --[uses]--> purple corn (extracted)
+- heterotic pattern integration --[is_a]--> Advanced Breeding Techniques (taxonomy)
+- heterotic pattern integration --[is_a]--> Crop Genetic Improvement (taxonomy)
+- heterotic pattern integration --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- anthocyanin content evaluation --[uses]--> purple corn (extracted)
+- anthocyanin content evaluation --[is_a]--> Trait Characterization and Analysis (taxonomy)
+- anthocyanin content evaluation --[is_a]--> Crop Genetic Improvement (taxonomy)
+- anthocyanin content evaluation --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- reproductive biotechnology --[targets]--> sheep (extracted)
+- reproductive biotechnology --[targets]--> goats (extracted)
+- reproductive biotechnology --[is_a]--> Livestock Production and Management (taxonomy)
+- reproductive biotechnology --[is_a]--> Uncategorized (taxonomy)
+- system dynamics modeling --[targets]--> olive (extracted)
+- system dynamics modeling --[produces]--> socio-ecological gains (extracted)
+- system dynamics modeling --[is_a]--> Crop and Agricultural Modeling (taxonomy)
+- system dynamics modeling --[is_a]--> Systems and Simulation Modeling (taxonomy)
+- system dynamics modeling --[is_a]--> Systems and Transdisciplinary Research (taxonomy)
+- socio-ecological gains --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- socio-ecological gains --[is_a]--> Resilience Frameworks (taxonomy)
+- socio-ecological gains --[is_a]--> Uncategorized (taxonomy)
+- target population of environments --[uses]--> common bean (extracted)
+- target population of environments --[is_a]--> Target Population and Market Segmentation (taxonomy)
+- product design teams --[targets]--> common bean (extracted)
+- product design teams --[is_a]--> Target Population and Market Segmentation (taxonomy)
+- breeding cost analysis --[targets]--> plant breeders (extracted)
+- breeding cost analysis --[is_a]--> Breeding Program Design and Management (taxonomy)
+- breeding cost analysis --[is_a]--> Crop Genetic Improvement (taxonomy)
+- breeding cost analysis --[is_a]--> Economic Modeling and Analysis (taxonomy)
+- crop suitability modeling --[is_a]--> Crop and Agricultural Modeling (taxonomy)
+- crop suitability modeling --[is_a]--> Systems and Simulation Modeling (taxonomy)
+- crop suitability modeling --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- machine learning integration --[uses]--> crop suitability modeling (extracted)
+- machine learning integration --[is_a]--> Core AI and ML Methods (taxonomy)
+- machine learning integration --[is_a]--> Core AI and ML Approaches (taxonomy)
+- machine learning integration --[is_a]--> Artificial Intelligence and Machine Learning (taxonomy)
+- value chain governance --[located_in]--> Benin (extracted)
+- value chain governance --[is_a]--> Value Chain Development (taxonomy)
+- value chain governance --[is_a]--> Core Value Chain Concepts (taxonomy)
+- biodiversity restoration --[is_a]--> Nature-Based and Ecosystem Approaches (taxonomy)
+- biodiversity restoration --[is_a]--> Biodiversity Conservation (taxonomy)
+- economic return analysis --[is_a]--> Economic Analysis and Impact (taxonomy)
+- economic return analysis --[is_a]--> Economic Modeling and Analysis (taxonomy)
+- gender-responsive adaptation --[is_a]--> Gender Mainstreaming and Programming (taxonomy)
+- gender-responsive adaptation --[is_a]--> Gender-Transformative Approaches (taxonomy)
+- gender-responsive adaptation --[is_a]--> Gender-Responsive Programming (taxonomy)
+- canopy height modeling --[is_a]--> Satellite and Remote Sensing Applications (taxonomy)
+- canopy height modeling --[is_a]--> Spectral and Imaging Technologies (taxonomy)
+- canopy height modeling --[is_a]--> Remote Sensing and Digital Monitoring (taxonomy)
+- spatiotemporal data cataloging --[is_a]--> Geospatial Analysis and Mapping (taxonomy)
+- spatiotemporal data cataloging --[is_a]--> Digital Tools and Decision Support (taxonomy)
+- spatiotemporal data cataloging --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- spatiotemporal data cataloging --[is_a]--> Digital Platforms and Infrastructure (taxonomy)
+- digital seed inventory management --[uses]--> Breeding Management System (extracted)
+- digital seed inventory management --[is_a]--> Seed Distribution and Delivery (taxonomy)
+- digital seed inventory management --[is_a]--> Seed Systems Development (taxonomy)
+- digital seed inventory management --[is_a]--> Digital Platforms and Infrastructure (taxonomy)
+- digital seed inventory management --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- multispectral image analysis --[uses]--> machine learning classification (extracted)
+- multispectral image analysis --[is_a]--> Spectral and Imaging Technologies (taxonomy)
+- multispectral image analysis --[is_a]--> Remote Sensing and Digital Monitoring (taxonomy)
+- machine learning classification --[uses]--> Random Forest classifier (extracted)
+- machine learning classification --[is_a]--> Core AI and ML Methods (taxonomy)
+- machine learning classification --[is_a]--> Core AI and ML Approaches (taxonomy)
+- machine learning classification --[is_a]--> Artificial Intelligence and Machine Learning (taxonomy)
+- integrated rice-fish farming --[addresses]--> soil fertility (extracted)
+- integrated rice-fish farming --[is_a]--> Integrated Rice-Fish and Aquatic Farming (taxonomy)
+- integrated rice-fish farming --[is_a]--> Uncategorized (taxonomy)
+- kitchen gardening --[targets]--> women farmers (extracted)
+- kitchen gardening --[targets]--> youth (extracted)
+- kitchen gardening --[is_a]--> Cropping Systems (taxonomy)
+- kitchen gardening --[is_a]--> Dietary Behavior and Interventions (taxonomy)
+- kitchen gardening --[is_a]--> Urban Farming Systems (taxonomy)
+- inland valley suitability assessment --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- inland valley suitability assessment --[is_a]--> Uncategorized (taxonomy)
+- agro-advisory provision --[is_a]--> Agricultural Extension and Advisory Services (taxonomy)
+- agro-advisory provision --[is_a]--> Agroclimatic Advisory Services (taxonomy)
+- monitoring reporting and verification --[is_a]--> Carbon and Greenhouse Gas Management in Farming (taxonomy)
+- monitoring reporting and verification --[is_a]--> Greenhouse Gas Measurement and Monitoring (taxonomy)
+- monitoring reporting and verification --[is_a]--> Monitoring Reporting and Verification (taxonomy)
+- monitoring reporting and verification --[is_a]--> Data Collection and Management for Extension (taxonomy)
+- monitoring reporting and verification --[is_a]--> Monitoring, Reporting and Verification (taxonomy)
+- monitoring reporting and verification --[is_a]--> Greenhouse Gas Measurement and Reporting (taxonomy)
+- monitoring reporting and verification --[is_a]--> MRV Frameworks (taxonomy)
+- saving for change --[targets]--> women farmers (extracted)
+- saving for change --[is_a]--> Livelihood Approaches (taxonomy)
+- saving for change --[is_a]--> Cash and Financial Transfers (taxonomy)
+- pay-as-you-go system --[is_a]--> Finance and Investment Mechanisms (taxonomy)
+- pay-as-you-go system --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- aquifer recharge zone mapping --[addresses]--> water-efficient practices (inferred)
+- aquifer recharge zone mapping --[is_a]--> Agricultural Water Resources Management (taxonomy)
+- aquifer recharge zone mapping --[is_a]--> Irrigation and Water Infrastructure (taxonomy)
+- aquifer recharge zone mapping --[is_a]--> Geospatial Analysis and Mapping (taxonomy)
+- aquifer recharge zone mapping --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- inclusive climate planning --[is_a]--> Adaptation Planning and Implementation (taxonomy)
+- inclusive climate planning --[is_a]--> Gender-Responsive Policy and Governance (taxonomy)
+- iron-coated seed technology --[addresses]--> methane mitigation (extracted)
+- iron-coated seed technology --[is_a]--> Crop Genetic Improvement (taxonomy)
+- iron-coated seed technology --[is_a]--> Uncategorized (taxonomy)
+- drip irrigation --[is_a]--> sustainable agricultural practices (extracted)
+- drip irrigation --[part_of]--> water-efficient agriculture (inferred)
+- drip irrigation --[is_a]--> Irrigation Systems and Technologies (taxonomy)
+- drip irrigation --[is_a]--> Irrigation and Water Infrastructure (taxonomy)
+- soil spectroscopy --[produces]--> rapid soil assessment (extracted)
+- soil spectroscopy --[is_a]--> Soil Health and Fertility Management (taxonomy)
+- soil spectroscopy --[is_a]--> Soil Health and Management (taxonomy)
+- soil spectroscopy --[is_a]--> Precision Farming Technologies (taxonomy)
+- soil spectroscopy --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- cropping system diversification --[located_in]--> Odisha (extracted)
+- cropping system diversification --[is_a]--> Cropping Systems (taxonomy)
+- cropping system diversification --[is_a]--> Uncategorized (taxonomy)
+- skim-sequencing --[uses]--> cloud-based bioinformatics pipeline (extracted)
+- skim-sequencing --[is_a]--> Sequencing and Genomic Analysis (taxonomy)
+- skim-sequencing --[is_a]--> Crop Genetic Improvement (taxonomy)
+- skim-sequencing --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- water-saving irrigation --[addresses]--> climate change mitigation (extracted)
+- water-saving irrigation --[is_a]--> Irrigation Systems and Technologies (taxonomy)
+- water-saving irrigation --[is_a]--> Water Productivity and Efficiency (taxonomy)
+- climate risk mapping --[produces]--> hazard maps (extracted)
+- climate risk mapping --[is_a]--> Climate Risk Assessment and Vulnerability (taxonomy)
+- climate risk mapping --[is_a]--> Geospatial Analysis and Mapping (taxonomy)
+- participatory framework --[addresses]--> climate-smart agriculture (extracted)
+- participatory framework --[is_a]--> Participatory and Farmer-Centered Approaches (taxonomy)
+- participatory framework --[is_a]--> Participatory Research Methods (taxonomy)
+- participatory framework --[is_a]--> Participatory Learning Methods (taxonomy)
+- pest management --[targets]--> kitchen gardens (inferred)
+- pest management --[is_a]--> Integrated Pest Management (taxonomy)
+- pest management --[is_a]--> Uncategorized (taxonomy)
+- composting --[located_in]--> Red River Delta (extracted)
+- composting --[is_a]--> Organic and Circular Farming (taxonomy)
+- composting --[is_a]--> Composting and Organic Inputs (taxonomy)
+- composting --[is_a]--> Waste-to-Value and Resource Recovery (taxonomy)
+- rust resistance --[is_a]--> Trait Characterization and Analysis (taxonomy)
+- rust resistance --[is_a]--> Disease Management (taxonomy)
+- agroforestry monitoring --[is_a]--> Agroforestry Systems (taxonomy)
+- agroforestry monitoring --[is_a]--> Agroforestry and Silvopastoral Systems (taxonomy)
+- agroforestry monitoring --[is_a]--> Remote Sensing and Digital Monitoring (taxonomy)
+- black soldier fly farming --[targets]--> smallholder farmers (extracted)
+- black soldier fly farming --[is_a]--> Livestock Production and Management (taxonomy)
+- black soldier fly farming --[is_a]--> Waste-to-Value and Resource Recovery (taxonomy)
+- black soldier fly farming --[is_a]--> Uncategorized (taxonomy)
+- in vitro culture --[is_a]--> Vegetative Propagation and Tissue Culture (taxonomy)
+- in vitro culture --[is_a]--> Crop Genetic Improvement (taxonomy)
+- vegetable production --[targets]--> tomatoes (extracted)
+- vegetable production --[is_a]--> Cropping Systems (taxonomy)
+- vegetable production --[is_a]--> Specific Food System Interventions (taxonomy)
+- dairy production --[targets]--> smallholder farmers (extracted)
+- dairy production --[is_a]--> Livestock Production and Management (taxonomy)
+- dairy production --[is_a]--> Uncategorized (taxonomy)
+- quality declared seed --[produces]--> maize (extracted)
+- quality declared seed --[is_a]--> Seed Quality and Certification (taxonomy)
+- quality declared seed --[is_a]--> Seed Systems Development (taxonomy)
+- quality declared seed --[is_a]--> Food Processing and Value Addition (taxonomy)
+- quality declared seed --[is_a]--> Seed and Variety Regulation (taxonomy)
+- leaf-bud cutting propagation --[targets]--> yam (extracted)
+- leaf-bud cutting propagation --[is_a]--> Vegetative Propagation and Tissue Culture (taxonomy)
+- leaf-bud cutting propagation --[is_a]--> Crop Genetic Improvement (taxonomy)
+- malting quality breeding --[produces]--> RD-3064 (extracted)
+- malting quality breeding --[is_a]--> Specific Breeding Targets (taxonomy)
+- malting quality breeding --[is_a]--> Crop Genetic Improvement (taxonomy)
+- business investment decision tools --[is_a]--> Business Models and Development (taxonomy)
+- aquaculture production --[located_in]--> Nigeria (extracted)
+- aquaculture production --[is_a]--> Aquaculture Systems (taxonomy)
+- aquaculture production --[is_a]--> Uncategorized (taxonomy)
+- feed formulation --[part_of]--> aquaculture production (extracted)
+- feed formulation --[is_a]--> Feed and Forage Management (taxonomy)
+- feed formulation --[is_a]--> Aquaculture Systems (taxonomy)
+- feed formulation --[is_a]--> Food Processing and Value Addition (taxonomy)
+- quality management systems --[targets]--> cassava (extracted)
+- quality management systems --[is_a]--> Post-Harvest and Food Loss Management (taxonomy)
+- quality management systems --[is_a]--> Food Safety Monitoring and Management (taxonomy)
+- quality management systems --[is_a]--> Geographical Indications and Certification (taxonomy)
+- quality management systems --[is_a]--> Institutional and Organizational Development (taxonomy)
+- quality management systems --[is_a]--> Quality and Food Safety Standards (taxonomy)
+- macro-propagation techniques --[produces]--> banana (inferred)
+- macro-propagation techniques --[is_a]--> Vegetative Propagation and Tissue Culture (taxonomy)
+- macro-propagation techniques --[is_a]--> Crop Genetic Improvement (taxonomy)
+- community-based extension --[is_a]--> Agricultural Extension and Advisory Services (taxonomy)
+- community-based extension --[is_a]--> Extension Approaches and Methods (taxonomy)
+- community-based extension --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- waste-to-feed conversion --[uses]--> cassava (extracted)
+- waste-to-feed conversion --[is_a]--> Livestock Production and Management (taxonomy)
+- waste-to-feed conversion --[is_a]--> Food Loss and Waste Reduction (taxonomy)
+- waste-to-feed conversion --[is_a]--> Waste-to-Value and Resource Recovery (taxonomy)
+- market linkage facilitation --[is_a]--> Food Market Systems (taxonomy)
+- market linkage facilitation --[is_a]--> Agricultural Commercialization (taxonomy)
+- demonstration plot training --[is_a]--> Agricultural Extension and Advisory Services (taxonomy)
+- demonstration plot training --[is_a]--> Extension Approaches and Methods (taxonomy)
+- demonstration plot training --[is_a]--> Training and Capacity Development (taxonomy)
+- multilocation trials --[located_in]--> Madagascar (extracted)
+- multilocation trials --[is_a]--> Multi-Environment and Multi-Location Testing (taxonomy)
+- multilocation trials --[is_a]--> Seed Systems Development (taxonomy)
+- multilocation trials --[is_a]--> Field and On-Farm Trials (taxonomy)
+- integrated pathogen screening --[is_a]--> Disease Management (taxonomy)
+- integrated pathogen screening --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- integrated pathogen screening --[is_a]--> Uncategorized (taxonomy)
+- sustainable production practices --[uses]--> mulch (extracted)
+- sustainable production practices --[is_a]--> Climate-Smart Agriculture (taxonomy)
+- sustainable production practices --[is_a]--> Sustainable Intensification and Diversification (taxonomy)
+- zero tillage cultivation --[targets]--> smallholder farmers (extracted)
+- zero tillage cultivation --[is_a]--> Conservation Agriculture and Tillage (taxonomy)
+- zero tillage cultivation --[is_a]--> Soil Health and Management (taxonomy)
+- gender-responsive technical assistance --[is_a]--> Gender Mainstreaming and Programming (taxonomy)
+- gender-responsive technical assistance --[is_a]--> Gender-Transformative Approaches (taxonomy)
+- gender-responsive technical assistance --[is_a]--> Gender-Responsive Programming (taxonomy)
+- mass awareness programs --[produces]--> technology adoption (inferred)
+- mass awareness programs --[is_a]--> Behavior Change Communication (taxonomy)
+- mass awareness programs --[is_a]--> Communication and Outreach (taxonomy)
+- genetic engineering --[uses]--> potato (extracted)
+- genetic engineering --[is_a]--> Genome Editing and Engineering (taxonomy)
+- genetic engineering --[is_a]--> Crop Genetic Improvement (taxonomy)
+- biosafety regulatory compliance --[is_a]--> Herd Health Management (taxonomy)
+- biosafety regulatory compliance --[is_a]--> Phytosanitary and Biosafety Regulation (taxonomy)
+- biosafety regulatory compliance --[is_a]--> Biosecurity and Disease Prevention (taxonomy)
+- transcriptome analysis --[uses]--> potato (extracted)
+- transcriptome analysis --[is_a]--> Multi-Omics and Bioinformatics (taxonomy)
+- transcriptome analysis --[is_a]--> Crop Genetic Improvement (taxonomy)
+- transcriptome analysis --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- loop-mediated isothermal amplification --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- loop-mediated isothermal amplification --[is_a]--> Uncategorized (taxonomy)
+- chromatin accessibility mapping --[uses]--> potato (extracted)
+- chromatin accessibility mapping --[is_a]--> Multi-Omics and Bioinformatics (taxonomy)
+- chromatin accessibility mapping --[is_a]--> Crop Genetic Improvement (taxonomy)
+- chromatin accessibility mapping --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- comparative genomic analysis --[uses]--> potato (extracted)
+- comparative genomic analysis --[is_a]--> Sequencing and Genomic Analysis (taxonomy)
+- comparative genomic analysis --[is_a]--> Crop Genetic Improvement (taxonomy)
+- comparative genomic analysis --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- seed certification system --[uses]--> virus indexing (extracted)
+- seed certification system --[is_a]--> Seed Quality and Certification (taxonomy)
+- seed certification system --[is_a]--> Seed Systems Development (taxonomy)
+- virus indexing --[is_a]--> Seed Quality and Certification (taxonomy)
+- virus indexing --[is_a]--> Disease Management (taxonomy)
+- virus indexing --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- impact accelerator --[is_a]--> Scaling Approaches (taxonomy)
+- impact accelerator --[is_a]--> Institutional and Organizational Development (taxonomy)
+- impact accelerator --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- impact accelerator --[is_a]--> Blended Finance and Investment (taxonomy)
+- puddled transplanted rice --[produces]--> higher greenhouse gas emissions (extracted)
+- puddled transplanted rice --[is_a]--> Cropping Systems (taxonomy)
+- puddled transplanted rice --[is_a]--> Uncategorized (taxonomy)
+- clustered randomized control trial --[is_a]--> Randomized and Controlled Trials (taxonomy)
+- clustered randomized control trial --[is_a]--> Experimental and Evaluation Methods (taxonomy)
+- clustered randomized control trial --[is_a]--> Uncategorized (taxonomy)
+- seed priming --[addresses]--> disease development (extracted)
+- seed priming --[is_a]--> Seed Quality and Certification (taxonomy)
+- seed priming --[is_a]--> Seed Systems Development (taxonomy)
+- precision nitrogen management --[addresses]--> nitrogen pollution (extracted)
+- precision nitrogen management --[is_a]--> Soil Health and Fertility Management (taxonomy)
+- precision nitrogen management --[is_a]--> Precision Farming Technologies (taxonomy)
+- alternative polyadenylation --[related_to]--> salt stress (extracted)
+- alternative polyadenylation --[is_a]--> Multi-Omics and Bioinformatics (taxonomy)
+- alternative polyadenylation --[is_a]--> Crop Genetic Improvement (taxonomy)
+- gender-responsive business planning --[is_a]--> Gender Mainstreaming and Programming (taxonomy)
+- gender-responsive business planning --[is_a]--> Gender-Transformative Approaches (taxonomy)
+- gender-responsive business planning --[is_a]--> Gender-Responsive Programming (taxonomy)
+- digital mrv platform --[is_a]--> Early Warning and Monitoring Systems (taxonomy)
+- digital mrv platform --[is_a]--> Digital Tools and Decision Support (taxonomy)
+- digital mrv platform --[is_a]--> MRV Frameworks (taxonomy)
+- late blight resistance --[addresses]--> yield losses (extracted)
+- late blight resistance --[is_a]--> Trait Characterization and Analysis (taxonomy)
+- late blight resistance --[is_a]--> Disease Management (taxonomy)
+- unmanned aerial vehicles --[uses]--> herbicide application (extracted)
+- unmanned aerial vehicles --[is_a]--> Drone and UAV Applications (taxonomy)
+- unmanned aerial vehicles --[is_a]--> Remote Sensing and Earth Observation (taxonomy)
+- elevated temperature stress --[is_a]--> Crop Genetic Improvement (taxonomy)
+- elevated temperature stress --[is_a]--> Uncategorized (taxonomy)
+- rooted apical cuttings --[produces]--> disease-free seed (extracted)
+- rooted apical cuttings --[is_a]--> Vegetative Propagation and Tissue Culture (taxonomy)
+- rooted apical cuttings --[is_a]--> Crop Genetic Improvement (taxonomy)
+- collaborative crop improvement networks --[located_in]--> Sub-Saharan Africa (extracted)
+- collaborative crop improvement networks --[is_a]--> Breeding Program Design and Management (taxonomy)
+- collaborative crop improvement networks --[is_a]--> Crop Genetic Improvement (taxonomy)
+- global goal on adaptation --[part_of]--> UNFCCC (extracted)
+- global goal on adaptation --[is_a]--> Adaptation Planning and Implementation (taxonomy)
+- global goal on adaptation --[is_a]--> Climate Action Governance (taxonomy)
+- global goal on adaptation --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- global goal on adaptation --[is_a]--> Miscellaneous Methods and Approaches (taxonomy)
+- indicator repository --[addresses]--> climate change adaptation (extracted)
+- indicator repository --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- indicator repository --[is_a]--> MRV Frameworks (taxonomy)
+- indicator repository --[is_a]--> Uncategorized (taxonomy)
+- impact pathway assessment --[is_a]--> Scaling and Innovation Miscellaneous (taxonomy)
+- impact pathway assessment --[is_a]--> Impact Evaluation and Assessment (taxonomy)
+- impact pathway assessment --[is_a]--> Monitoring and Evaluation Frameworks (taxonomy)
+- impact pathway assessment --[is_a]--> MRV Frameworks (taxonomy)
+- soil health diagnostics --[is_a]--> Soil Health and Fertility Management (taxonomy)
+- soil health diagnostics --[is_a]--> Soil Health and Management (taxonomy)
+- soil health diagnostics --[is_a]--> Sensor and IoT Applications (taxonomy)
+- seasonal rainfall forecasting --[uses]--> AClimate (extracted)
+- seasonal rainfall forecasting --[is_a]--> Climate Forecasting and Early Warning (taxonomy)
+- seasonal rainfall forecasting --[is_a]--> Predictive Modeling and Forecasting (taxonomy)
+- seasonal rainfall forecasting --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- multi-stress phenotyping --[targets]--> rice (extracted)
+- multi-stress phenotyping --[is_a]--> Phenotyping Methods and Technologies (taxonomy)
+- multi-stress phenotyping --[is_a]--> Crop Genetic Improvement (taxonomy)
+- multi-stress phenotyping --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- sustainable cattle ranching --[uses]--> rotational grazing (extracted)
+- sustainable cattle ranching --[is_a]--> Livestock Production and Management (taxonomy)
+- sustainable cattle ranching --[is_a]--> Sustainable Intensification and Diversification (taxonomy)
+- post-entry quarantine --[targets]--> banana (extracted)
+- post-entry quarantine --[is_a]--> Disease Management (taxonomy)
+- post-entry quarantine --[is_a]--> Phytosanitary and Biosafety Regulation (taxonomy)
+- micro-drip irrigation --[is_a]--> Irrigation Systems and Technologies (taxonomy)
+- micro-drip irrigation --[is_a]--> Irrigation and Water Infrastructure (taxonomy)
+- stewardship guidelines --[targets]--> herbicide tolerance (extracted)
+- stewardship guidelines --[is_a]--> Miscellaneous Regulatory Concepts (taxonomy)
+- precision seeding --[produces]--> weed control efficiency (inferred)
+- precision seeding --[is_a]--> Cropping Systems (taxonomy)
+- precision seeding --[is_a]--> Precision Farming Technologies (taxonomy)
+- precision seeding --[is_a]--> Mechanization Technologies (taxonomy)
+- unmanned aerial vehicle application --[addresses]--> weed control efficiency (extracted)
+- unmanned aerial vehicle application --[is_a]--> Drone and UAV Applications (taxonomy)
+- weed control efficiency --[is_a]--> Integrated Pest Management (taxonomy)
+- weed control efficiency --[is_a]--> Uncategorized (taxonomy)
+- resilience capacity index --[measures]--> climate resilience (extracted)
+- resilience capacity index --[is_a]--> Social Assessment Methods (taxonomy)
+- resilience capacity index --[is_a]--> Resilience Frameworks (taxonomy)
+- resilience capacity index --[is_a]--> Uncategorized (taxonomy)
+- knowledge diffusion --[uses]--> extension agents (inferred)
+- knowledge diffusion --[is_a]--> Knowledge Exchange and Sharing (taxonomy)
+- knowledge diffusion --[is_a]--> Knowledge Management and Dissemination (taxonomy)
+- knowledge diffusion --[is_a]--> Knowledge Exchange and Dissemination (taxonomy)
+- knowledge diffusion --[is_a]--> Communication and Outreach (taxonomy)
+- variety demonstration --[targets]--> smallholder farmers (extracted)
+- variety demonstration --[is_a]--> Variety Adoption and Deployment (taxonomy)
+- variety demonstration --[is_a]--> Precision and Digital Crop Management (taxonomy)
+- variety demonstration --[is_a]--> Participatory Breeding and Variety Selection (taxonomy)
+- multi-location trials --[uses]--> striga resistance (extracted)
+- multi-location trials --[is_a]--> Multi-Environment and Multi-Location Testing (taxonomy)
+- multi-location trials --[is_a]--> Seed Systems Development (taxonomy)
+- multi-location trials --[is_a]--> Crop Genetic Improvement (taxonomy)
+- multi-location trials --[is_a]--> Field and On-Farm Trials (taxonomy)
+- striga resistance --[is_a]--> Trait Characterization and Analysis (taxonomy)
+- striga resistance --[is_a]--> Integrated Pest Management (taxonomy)
+- demand-led breeding --[produces]--> variety registration (inferred)
+- demand-led breeding --[is_a]--> Participatory and Farmer-Centered Breeding (taxonomy)
+- demand-led breeding --[is_a]--> Crop Genetic Improvement (taxonomy)
+- demand-led breeding --[is_a]--> Participatory Breeding and Variety Selection (taxonomy)
+- chemical control trials --[located_in]--> Hubei (extracted)
+- chemical control trials --[located_in]--> Yunnan (extracted)
+- chemical control trials --[located_in]--> Beijing (extracted)
+- chemical control trials --[targets]--> farmers (extracted)
+- chemical control trials --[is_a]--> Integrated Pest Management (taxonomy)
+- chemical control trials --[is_a]--> Uncategorized (taxonomy)
+- gender-inclusive planning --[addresses]--> climate-resilient agriculture (inferred)
+- gender-inclusive planning --[is_a]--> Gender Mainstreaming and Programming (taxonomy)
+- gender-inclusive planning --[is_a]--> Gender Inclusion and Equity (taxonomy)
+- gender-inclusive planning --[is_a]--> Gender-Responsive Policy and Governance (taxonomy)
+- gender-inclusive planning --[is_a]--> Gender Transformative Approaches (taxonomy)
+- willingness to pay assessment --[is_a]--> Consumer Preferences and Behavior (taxonomy)
+- willingness to pay assessment --[is_a]--> Market Analysis and Assessment (taxonomy)
+- willingness to pay assessment --[is_a]--> Experimental Preference and Valuation Methods (taxonomy)
+- willingness to pay assessment --[is_a]--> Mixed Methods and Qualitative Approaches (taxonomy)
+- experimental auctions --[uses]--> willingness to pay assessment (extracted)
+- experimental auctions --[is_a]--> Consumer Preferences and Behavior (taxonomy)
+- experimental auctions --[is_a]--> Experimental Preference and Valuation Methods (taxonomy)
+- experimental auctions --[is_a]--> Mixed Methods and Qualitative Approaches (taxonomy)
+- multi-stress tolerance --[addresses]--> smallholder farmers (inferred)
+- multi-stress tolerance --[is_a]--> Stress Tolerance Screening (taxonomy)
+- multi-stress tolerance --[is_a]--> Crop Genetic Improvement (taxonomy)
+- impact assessment --[located_in]--> Zambia (extracted)
+- impact assessment --[is_a]--> Institutional Learning and Adaptive Management (taxonomy)
+- impact assessment --[is_a]--> Impact Evaluation and Assessment (taxonomy)
+- impact assessment --[is_a]--> Monitoring and Evaluation Frameworks (taxonomy)
+- impact assessment --[is_a]--> Experimental and Evaluation Methods (taxonomy)
+- genomic marker development --[targets]--> common bean (extracted)
+- genomic marker development --[is_a]--> Molecular Markers and Fingerprinting (taxonomy)
+- genomic marker development --[is_a]--> Crop Genetic Improvement (taxonomy)
+- varietal tracking --[located_in]--> Tanzania (extracted)
+- varietal tracking --[is_a]--> Variety Adoption and Deployment (taxonomy)
+- varietal tracking --[is_a]--> Seed Systems Development (taxonomy)
+- target product profile development --[targets]--> cowpea (extracted)
+- target product profile development --[is_a]--> Breeding Program Design and Management (taxonomy)
+- target product profile development --[is_a]--> Crop Genetic Improvement (taxonomy)
+- target product profile development --[is_a]--> Participatory Breeding and Variety Selection (taxonomy)
+- target product profile development --[is_a]--> Innovation Assessment and Bundling (taxonomy)
+- population improvement --[targets]--> groundnut (extracted)
+- population improvement --[is_a]--> Advanced Breeding Techniques (taxonomy)
+- population improvement --[is_a]--> Crop Genetic Improvement (taxonomy)
+- population improvement --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- regional variety trials --[located_in]--> West Africa (extracted)
+- regional variety trials --[is_a]--> Multi-Environment and Multi-Location Testing (taxonomy)
+- regional variety trials --[is_a]--> Seed Systems Development (taxonomy)
+- regional variety trials --[is_a]--> Field and On-Farm Trials (taxonomy)
+- gender equality integration --[located_in]--> Nepal (extracted)
+- gender equality integration --[is_a]--> Gender Mainstreaming and Programming (taxonomy)
+- gender equality integration --[is_a]--> Gender Inclusion and Equity (taxonomy)
+- gender equality integration --[is_a]--> Gender Transformative Approaches (taxonomy)
+- heterotic group development --[uses]--> multi-environment trial evaluation (extracted)
+- heterotic group development --[is_a]--> Advanced Breeding Techniques (taxonomy)
+- heterotic group development --[is_a]--> Crop Genetic Improvement (taxonomy)
+- heterotic group development --[is_a]--> Specialized Analytical Techniques (taxonomy)
+- soil nutrient management --[addresses]--> chickpea (extracted)
+- soil nutrient management --[is_a]--> Uncategorized (taxonomy)
+- pollinator protection --[is_a]--> Nature-Based and Ecosystem Approaches (taxonomy)
+- pollinator protection --[is_a]--> Biodiversity Conservation (taxonomy)
+- habitat enhancement --[addresses]--> pollinator protection (extracted)
+- habitat enhancement --[is_a]--> Nature-Based and Ecosystem Approaches (taxonomy)
+- habitat enhancement --[is_a]--> Biodiversity Conservation (taxonomy)
+- IITA --[collaborates_with]--> national yam breeding programs (extracted)
+- IITA --[collaborates_with]--> CIMMYT (extracted)
+- IITA --[collaborates_with]--> TARI (extracted)
+- IITA --[located_in]--> Nigeria (extracted)
+- IITA --[uses]--> Seed Tracker (extracted)
+- IITA --[collaborates_with]--> IWMI (extracted)
+- IITA --[collaborates_with]--> São Tomé and Príncipe (extracted)
+- IITA --[uses]--> SAH system (extracted)
+- IITA --[produces]--> Cassava Seed System Toolkit (extracted)
+- IITA --[located_in]--> Cameroon (extracted)
+- IITA --[located_in]--> West Africa (extracted)
+- IITA --[collaborates_with]--> ISABU (extracted)
+- IITA --[collaborates_with]--> CNRA (extracted)
+- IITA --[collaborates_with]--> NRCRI (extracted)
+- IITA --[collaborates_with]--> Niger (extracted)
+- IITA --[uses]--> climate-smart agriculture (extracted)
+- IITA --[collaborates_with]--> Global Stewardship Group (extracted)
+- IITA --[targets]--> African scientists (extracted)
+- IITA --[uses]--> Bioflow (extracted)
+- IITA --[uses]--> biofortification (inferred)
+- CIMMYT --[collaborates_with]--> ICARDA (extracted)
+- CIMMYT --[produces]--> Breeding Portal (extracted)
+- CIMMYT --[collaborates_with]--> Ingredion Mexico (extracted)
+- CIMMYT --[collaborates_with]--> IFPRI (extracted)
+- CIMMYT --[located_in]--> Zimbabwe (extracted)
+- CIMMYT --[uses]--> doubled haploid breeding (extracted)
+- CIMMYT --[located_in]--> lowland tropics (inferred)
+- CIMMYT --[uses]--> University of Queensland costing tool (extracted)
+- CIMMYT --[collaborates_with]--> TARI (extracted)
+- CIMMYT --[uses]--> shared services (extracted)
+- CIMMYT --[collaborates_with]--> multifunctional landscapes (extracted)
+- CIMMYT --[produces]--> e-Agrology (extracted)
+- CIMMYT --[produces]--> Tractilus (extracted)
+- CIMMYT --[produces]--> improved varieties (extracted)
+- CIMMYT --[produces]--> maize (extracted)
+- CIMMYT --[collaborates_with]--> Alliance of Biodiversity and CIAT (extracted)
+- CIMMYT --[collaborates_with]--> Bangladesh Agricultural Research Institute (extracted)
+- CIMMYT --[collaborates_with]--> IWMI (extracted)
+- CIMMYT --[uses]--> innovation hubs (extracted)
+- CIMMYT --[collaborates_with]--> IITA (extracted)
+- CIMMYT --[collaborates_with]--> breeding pipeline development (extracted)
+- CIMMYT --[collaborates_with]--> SARI (extracted)
+- CIMMYT --[uses]--> genomic selection (inferred)
+- ICARDA --[collaborates_with]--> Tunisia (extracted)
+- ICARDA --[collaborates_with]--> Direction Générale des Forêts (extracted)
+- ICARDA --[addresses]--> yield gap closure (extracted)
+- ICARDA --[uses]--> genomics training (extracted)
+- ICARDA --[uses]--> PCR-based detection (extracted)
+- ICARDA --[uses]--> participatory scenario development (extracted)
+- ICARDA --[collaborates_with]--> RTTA (extracted)
+- ICARDA --[located_in]--> Syria (extracted)
+- ICARDA --[collaborates_with]--> CIMMYT (extracted)
+- ICARDA --[uses]--> randomized controlled trial (extracted)
+- ICARDA --[collaborates_with]--> EIAR (extracted)
+- ICARDA --[collaborates_with]--> Arba Minch Agricultural Research Center (extracted)
+- ICARDA --[produces]--> chickpea (extracted)
+- ICARDA --[collaborates_with]--> ASARECA (extracted)
+- ICARDA --[collaborates_with]--> CGIAR (inferred)
+- ICARDA --[uses]--> disease resistance breeding (extracted)
+- ICARDA --[located_in]--> Pakistan (extracted)
+- IRRI --[addresses]--> greenhouse gas emissions (extracted)
+- IRRI --[produces]--> market intelligence (extracted)
+- IRRI --[collaborates_with]--> Kenya (extracted)
+- IRRI --[uses]--> direct seeded rice breeding (extracted)
+- IRRI --[collaborates_with]--> National Seed Research and Training Centre (extracted)
+- IRRI --[located_in]--> Asia (inferred)
+- IRRI --[produces]--> trait development pipeline (extracted)
+- IRRI --[targets]--> smallholder farmers (extracted)
+- IRRI --[part_of]--> CGIAR (inferred)
+- IRRI --[uses]--> Direct Seeded Rice (extracted)
+- IRRI --[collaborates_with]--> World Bank (extracted)
+- IRRI --[uses]--> alternate wetting and drying (inferred)
+- IRRI --[collaborates_with]--> CIMMYT (extracted)
+- IRRI --[uses]--> scaling pathways (extracted)
+- IRRI --[located_in]--> Bangladesh (extracted)
+- IRRI --[produces]--> seed health testing (extracted)
+- IRRI --[produces]--> monitoring reporting verification (extracted)
+- IRRI --[uses]--> low-emission rice production (extracted)
+- IRRI --[collaborates_with]--> BRAC (extracted)
+- IRRI --[located_in]--> Philippines (inferred)
+- IRRI --[located_in]--> Vietnam (inferred)
+- IRRI --[produces]--> digital extension platforms (extracted)
+- IRRI --[collaborates_with]--> extension officers (extracted)
+- IRRI --[produces]--> data catalog (extracted)
+- IRRI --[uses]--> iso/iec 17025 (extracted)
+- IRRI --[collaborates_with]--> TARI (extracted)
+- IRRI --[collaborates_with]--> PAGASA (extracted)
+- IRRI --[uses]--> public-private partnerships (extracted)
+- IRRI --[located_in]--> Southeast Asia (extracted)
+- IRRI --[collaborates_with]--> Thailand Rice Department (extracted)
+- IRRI --[collaborates_with]--> GISTDA (extracted)
+- IRRI --[located_in]--> Thailand (extracted)
+- AfricaRice --[uses]--> indigenous germplasm (extracted)
+- AfricaRice --[located_in]--> West Africa (extracted)
+- AfricaRice --[uses]--> participatory varietal selection (extracted)
+- AfricaRice --[uses]--> satellite-based crop monitoring (extracted)
+- AfricaRice --[produces]--> bankable investment projects (extracted)
+- AfricaRice --[collaborates_with]--> African Development Bank (extracted)
+- AfricaRice --[produces]--> GEM system (extracted)
+- AfricaRice --[located_in]--> Côte d'Ivoire (extracted)
+- AfricaRice --[collaborates_with]--> Syngenta Foundation (extracted)
+- AfricaRice --[uses]--> marker-assisted selection (inferred)
+- Alliance of Bioversity and CIAT --[collaborates_with]--> KALRO (extracted)
+- Alliance of Bioversity and CIAT --[uses]--> participatory product design (extracted)
+- Alliance of Bioversity and CIAT --[collaborates_with]--> SABREN (extracted)
+- Alliance of Bioversity and CIAT --[develops]--> Eolo platform (extracted)
+- Alliance of Bioversity and CIAT --[produces]--> early warning system (extracted)
+- Alliance of Bioversity and CIAT --[collaborates_with]--> International Institute of Tropical Agriculture (extracted)
+- Alliance of Bioversity and CIAT --[collaborates_with]--> EMBRAPA (extracted)
+- Alliance of Bioversity and CIAT --[located_in]--> Uganda (extracted)
+- Alliance of Bioversity and CIAT --[uses]--> germplasm utilization (inferred)
+- CIP --[collaborates_with]--> HZPC Holland B.V. (extracted)
+- CIP --[provides]--> integrated crop management (extracted)
+- CIP --[collaborates_with]--> EMBRAPA (extracted)
+- CIP --[collaborates_with]--> AGROSAVIA (extracted)
+- CIP --[uses]--> capacity building (extracted)
+- CIP --[collaborates_with]--> KEPHIS (extracted)
+- CIP --[collaborates_with]--> NARO (extracted)
+- CIP --[produces]--> potato (extracted)
+- CIP --[collaborates_with]--> seed producers (inferred)
+- CIP --[uses]--> biofortification (inferred)
+- IWMI --[produces]--> open data cube architecture (extracted)
+- IWMI --[uses]--> hydrological modeling (extracted)
+- IWMI --[collaborates_with]--> WorldFish (extracted)
+- IWMI --[collaborates_with]--> Global Water Partnership (extracted)
+- IWMI --[collaborates_with]--> Pakistan Institute of Development Economics (extracted)
+- IWMI --[part_of]--> CGIAR (extracted)
+- IWMI --[collaborates_with]--> IFPRI (extracted)
+- IWMI --[produces]--> Ghana (extracted)
+- IWMI --[collaborates_with]--> World Food Programme (extracted)
+- IWMI --[located_in]--> Tajikistan (extracted)
+- IWMI --[produces]--> Water Productivity Atlas (extracted)
+- IWMI --[located_in]--> Nepal (extracted)
+- IWMI --[located_in]--> Sudan (extracted)
+- IWMI --[produces]--> GMIS (extracted)
+- IWMI --[produces]--> Climate Risk Intelligence Assistant (extracted)
+- IWMI --[produces]--> climate advisory services (extracted)
+- IWMI --[uses]--> multi-stakeholder platforms (extracted)
+- IWMI --[collaborates_with]--> Bank of Agriculture Limited Nigeria (extracted)
+- IWMI --[uses]--> co-creation (extracted)
+- IWMI --[collaborates_with]--> Ethiopia (extracted)
+- IWMI --[collaborates_with]--> Kenya (extracted)
+- IWMI --[produces]--> SukhaRakshak (extracted)
+- IWMI --[produces]--> flood risk mapping (extracted)
+- IWMI --[collaborates_with]--> LIMCOM (extracted)
+- IWMI --[collaborates_with]--> Department of Agriculture Sri Lanka (extracted)
+- IWMI --[collaborates_with]--> UNRWA (extracted)
+- IWMI --[collaborates_with]--> Sri Lanka Red Cross Society (extracted)
+- IWMI --[produces]--> water-efficient agriculture (extracted)
+- IWMI --[uses]--> water accounting (inferred)
+- wheat --[located_in]--> Morocco (extracted)
+- wheat --[related_to]--> rhizosphere microbiome analysis (extracted)
+- wheat --[located_in]--> Egypt (extracted)
+- wheat --[part_of]--> cereal-forage cropping systems (extracted)
+- wheat --[located_in]--> Ethiopia (extracted)
+- wheat --[targets]--> Puccinia striiformis (extracted)
+- wheat --[related_to]--> rust resistance (extracted)
+- maize --[located_in]--> Kenya (extracted)
+- maize --[located_in]--> Guatemala (extracted)
+- maize --[located_in]--> Laos (extracted)
+- maize --[uses]--> drought tolerance (extracted)
+- maize --[located_in]--> Uganda (extracted)
+- maize --[located_in]--> Ethiopia (extracted)
+- maize --[located_in]--> Nigeria (extracted)
+- maize --[related_to]--> aflatoxin contamination (extracted)
+- maize --[produces]--> provitamin A (extracted)
+- maize --[located_in]--> Rwanda (extracted)
+- maize --[located_in]--> West Africa (extracted)
+- maize --[part_of]--> community-based seed systems (inferred)
+- maize --[uses]--> precision farming (inferred)
+- maize --[located_in]--> Chiapas (extracted)
+- maize --[located_in]--> Malawi (extracted)
+- maize --[targets]--> smallholder farmers (extracted)
+- maize --[located_in]--> Western Terai (extracted)
+- maize --[uses]--> biofortification (extracted)
+- maize --[targets]--> biocontrol (extracted)
+- maize --[is_a]--> biofortified crops (extracted)
+- maize --[part_of]--> technology dissemination (extracted)
+- rice --[located_in]--> Mekong River Delta (extracted)
+- rice --[located_in]--> Indonesia (extracted)
+- rice --[part_of]--> integrated rice-fish systems (extracted)
+- rice --[uses]--> agroecological practices (extracted)
+- rice --[produces]--> irrigation water productivity (extracted)
+- rice --[uses]--> water productivity (extracted)
+- rice --[produces]--> greenhouse gas emissions (extracted)
+- rice --[part_of]--> mechanized direct seeding (extracted)
+- rice --[supports]--> smallholder farmers (extracted)
+- rice --[uses]--> alternate wetting and drying (extracted)
+- rice --[located_in]--> Philippines (extracted)
+- rice --[part_of]--> mixed farming systems (inferred)
+- rice --[located_in]--> Mekong Delta (extracted)
+- rice --[located_in]--> South Asia (extracted)
+- rice --[part_of]--> rice-wheat system (extracted)
+- rice --[located_in]--> West Africa (extracted)
+- rice --[part_of]--> digital extension platforms (extracted)
+- rice --[uses]--> mechanization services (extracted)
+- rice --[located_in]--> Latin America (extracted)
+- rice --[produces]--> methane emission reduction (extracted)
+- rice --[part_of]--> integrated rice-shrimp systems (extracted)
+- rice --[located_in]--> Cambodia (extracted)
+- rice --[located_in]--> Liberia (extracted)
+- rice --[part_of]--> integrated rice-fish system (extracted)
+- rice --[located_in]--> Mali (extracted)
+- yam --[located_in]--> Côte d'Ivoire (extracted)
+- yam --[is_a]--> staple crop (extracted)
+- yam --[located_in]--> Nigeria (extracted)
+- yam --[located_in]--> West Africa (extracted)
+- cassava --[targets]--> cassava mosaic virus (extracted)
+- cassava --[located_in]--> Sub-Saharan Africa (extracted)
+- cassava --[located_in]--> Vietnam (extracted)
+- cassava --[located_in]--> Tanzania (extracted)
+- cassava --[part_of]--> cryopreservation (extracted)
+- cassava --[produces]--> FeedCalculator (extracted)
+- cassava --[uses]--> participatory variety selection (extracted)
+- cassava --[located_in]--> Southeast Asia (extracted)
+- cassava --[part_of]--> agricultural value chains (extracted)
+- cassava --[located_in]--> Liberia (extracted)
+- cassava --[located_in]--> Nigeria (extracted)
+- potato --[part_of]--> integrated crop management (extracted)
+- potato --[located_in]--> Kenya (extracted)
+- potato --[located_in]--> Cumbal Indigenous Reserve (extracted)
+- potato --[located_in]--> Peru (extracted)
+- potato --[uses]--> quality seed production (extracted)
+- potato --[located_in]--> Rwanda (extracted)
+- potato --[related_to]--> variety registration (extracted)
+- sweetpotato --[located_in]--> Uganda (extracted)
+- sweetpotato --[located_in]--> Africa (extracted)
+- common bean --[provides]--> nutrition (extracted)
+- common bean --[located_in]--> Eastern Africa (extracted)
+- common bean --[located_in]--> Ethiopia (extracted)
+- common bean --[located_in]--> Tanzania (extracted)
+- common bean --[located_in]--> Uganda (extracted)
+- common bean --[related_to]--> anthracnose (extracted)
+- common bean --[related_to]--> angular leaf spot (extracted)
+- banana --[addresses]--> food security (extracted)
+- banana --[uses]--> conjunctive water use (extracted)
+- banana --[located_in]--> Northwest Vietnam (extracted)
+- South Asia --[produces]--> greenhouse gas budgets (extracted)
+- Sub-Saharan Africa --[uses]--> market-driven seed delivery (extracted)
+- Southeast Asia --[addresses]--> postharvest loss reduction (inferred)
+- Nigeria --[addresses]--> violent conflict (extracted)
+- Nigeria --[located_in]--> Sub-Saharan Africa (inferred)
+- Nigeria --[uses]--> human-centered design (extracted)
+- Ghana --[addresses]--> double burden of malnutrition (extracted)
+- Ethiopia --[located_in]--> tomato transportation study (extracted)
+- Ethiopia --[uses]--> site-specific fertilizer advisories (extracted)
+- Ethiopia --[uses]--> ISAT (extracted)
+- Ethiopia --[addresses]--> climate loss and damage (extracted)
+- Ethiopia --[uses]--> multicrop land suitability (extracted)
+- Ethiopia --[produces]--> digital advisories (extracted)
+- Vietnam --[uses]--> agroecological practices (extracted)
+- Vietnam --[uses]--> alternate wetting and drying (extracted)
+- Cambodia --[uses]--> climate-smart agriculture (extracted)
+- Cambodia --[uses]--> multi-stakeholder platforms (inferred)
+- Colombia --[uses]--> power probe method (extracted)
+- Colombia --[uses]--> incentive mechanisms (extracted)
+- fall armyworm --[targets]--> maize (extracted)
+- striga --[targets]--> maize (extracted)
+- striga --[is_a]--> parasitic weed (extracted)
+- late blight --[targets]--> potato (extracted)
+- fusarium wilt --[targets]--> banana (extracted)
+- smallholder farmer --[uses]--> climate-smart agriculture (extracted)
+- smallholder farmer --[targets]--> gender-transformative intervention (inferred)
+- smallholder farmer --[uses]--> digital farming tools (inferred)
+- smallholder farmer --[uses]--> sustainable intensification (extracted)
+- smallholder farmer --[uses]--> seed production (inferred)
+- plant breeder --[uses]--> marker-assisted selection (inferred)
+- plant breeder --[uses]--> combining ability (extracted)
+- extension agent --[uses]--> market facilitation (extracted)
+- extension agent --[uses]--> capacity building (extracted)
+- breeding scheme manager --[uses]--> target product profile (extracted)
+- Bangladesh --[located_in]--> Transfer Modality Research Initiative (extracted)
+- Bangladesh --[related_to]--> food security (extracted)
+- Bangladesh --[located_in]--> livestock production (extracted)
+- Bangladesh --[uses]--> direct seeded rice (extracted)
+- Bangladesh --[uses]--> stakeholder engagement (extracted)
+- sorghum --[located_in]--> Tanzania (extracted)
+- sorghum --[located_in]--> Benin (extracted)
+- sorghum --[is_a]--> organism (extracted)
+- Kenya --[addresses]--> double burden of malnutrition (extracted)
+- Kenya --[uses]--> drought tolerance (extracted)
+- Kenya --[uses]--> gender-responsive programming (extracted)
+- Kenya --[implements]--> participatory rangeland management (extracted)
+- Kenya --[uses]--> nature-based solutions (extracted)
+- Kenya --[uses]--> picture-based insurance (extracted)
+- Kenya --[produces]--> dairy farming (inferred)
+- Uganda --[uses]--> biosecurity measures (extracted)
+- CGIAR --[produces]--> scaling hubs (extracted)
+- CGIAR --[produces]--> AgriLLM (extracted)
+- CGIAR --[uses]--> scaling readiness (extracted)
+- CGIAR --[collaborates_with]--> university researchers (extracted)
+- CGIAR --[collaborates_with]--> AI71 (extracted)
+- CGIAR --[collaborates_with]--> Nepal (extracted)
+- CGIAR --[collaborates_with]--> FAO (extracted)
+- CGIAR --[uses]--> WEAI (extracted)
+- CGIAR --[collaborates_with]--> International Water Management Institute (extracted)
+- CGIAR --[located_in]--> Zimbabwe (extracted)
+- CGIAR --[uses]--> capacity building (extracted)
+- CGIAR --[uses]--> gender-responsive scaling (extracted)
+- CGIAR --[uses]--> market intelligence (extracted)
+- CGIAR --[collaborates_with]--> International Institute of Tropical Agriculture (extracted)
+- CGIAR --[produces]--> economic impact assessment (extracted)
+- CGIAR --[collaborates_with]--> Peru (extracted)
+- CGIAR --[influences]--> climate policy (extracted)
+- CGIAR --[collaborates_with]--> Cambodia (extracted)
+- CGIAR --[collaborates_with]--> OPAPRU (extracted)
+- CGIAR --[uses]--> market-driven seed delivery (extracted)
+- CGIAR --[uses]--> country convener (extracted)
+- CGIAR --[uses]--> transdisciplinary research (extracted)
+- CGIAR --[uses]--> artificial intelligence hub (extracted)
+- CGIAR --[uses]--> scaling for impact (extracted)
+- CGIAR --[uses]--> locally led climate adaptation (extracted)
+- CGIAR --[produces]--> agricultural innovation (extracted)
+- CGIAR --[produces]--> Climate Insights (extracted)
+- CGIAR --[collaborates_with]--> Bonn Climate Conference (extracted)
+- CGIAR --[collaborates_with]--> UNFCCC (extracted)
+- CGIAR --[uses]--> innovation scaling (extracted)
+- CGIAR --[collaborates_with]--> COP30 (extracted)
+- CGIAR --[uses]--> Crop Observatories platform (extracted)
+- CGIAR --[collaborates_with]--> African Union (extracted)
+- CGIAR --[collaborates_with]--> WFP (extracted)
+- CGIAR --[produces]--> climate-resilient varieties (extracted)
+- CGIAR --[uses]--> impact pathway assessment (extracted)
+- CGIAR --[produces]--> maize (extracted)
+- CGIAR --[uses]--> target product profiles (inferred)
+- Breeding Portal --[uses]--> genetic gain assessment (extracted)
+- CS-MAP --[uses]--> participatory risk mapping (extracted)
+- CS-MAP --[targets]--> rice (extracted)
+- CS-MAP --[addresses]--> climate-smart agriculture (extracted)
+- CS-MAP --[uses]--> participatory mapping (extracted)
+- VPCT --[uses]--> video-based product concept testing (extracted)
+- VPCT --[targets]--> smallholder farmers (extracted)
+- smallholder farmers --[located_in]--> Rwanda (extracted)
+- smallholder farmers --[targets]--> participatory research (inferred)
+- smallholder farmers --[located_in]--> Sub-Saharan Africa (inferred)
+- smallholder farmers --[uses]--> agroecology (extracted)
+- smallholder farmers --[located_in]--> tropical regions (inferred)
+- smallholder farmers --[located_in]--> Odisha (extracted)
+- smallholder farmers --[uses]--> climate-informed decision-making (inferred)
+- smallholder farmers --[uses]--> traditional knowledge systems (inferred)
+- smallholder farmers --[uses]--> integrated rice-field pond systems (extracted)
+- smallholder farmers --[located_in]--> Kenya (inferred)
+- smallholder farmers --[targets]--> participatory variety selection (extracted)
+- smallholder farmers --[located_in]--> Taijiang (extracted)
+- smallholder farmers --[located_in]--> Mashan (extracted)
+- smallholder farmers --[uses]--> pigs (extracted)
+- smallholder farmers --[located_in]--> South Asia (extracted)
+- smallholder farmers --[uses]--> forage-based feeds (inferred)
+- smallholder farmers --[uses]--> climate information services (extracted)
+- smallholder farmers --[uses]--> sustainable rice cultivation (extracted)
+- smallholder farmers --[uses]--> climate-smart agriculture (inferred)
+- smallholder farmers --[uses]--> demonstration plot training (extracted)
+- smallholder farmers --[located_in]--> Cambodia (extracted)
+- smallholder farmers --[located_in]--> Peru (extracted)
+- plant breeders --[uses]--> on-farm verification (extracted)
+- plant breeders --[uses]--> market intelligence (extracted)
+- plant breeders --[uses]--> trait preferences (extracted)
+- plant breeders --[uses]--> disease resistance breeding (extracted)
+- extension agents --[uses]--> AADGG-Dairy app (extracted)
+- extension agents --[located_in]--> Ghana (extracted)
+- extension agents --[uses]--> RiceAdvice Lite (extracted)
+- extension agents --[uses]--> digital advisory services (inferred)
+- extension agents --[targets]--> smallholder farmers (inferred)
+- extension agents --[addresses]--> solar irrigation (extracted)
+- extension agents --[uses]--> triadic comparisons of technology options (extracted)
+- extension agents --[uses]--> agroecological practices (inferred)
+- extension agents --[uses]--> agroclimatic forecasting (extracted)
+- extension agents --[uses]--> integrated pest management (inferred)
+- sheep --[located_in]--> Ethiopia (extracted)
+- sheep --[produces]--> greenhouse gas emissions (extracted)
+- goats --[located_in]--> Uganda (extracted)
+- cattle --[produces]--> enteric fermentation (extracted)
+- cattle --[part_of]--> livestock production (extracted)
+- cattle --[located_in]--> Kenya (extracted)
+- East Coast Fever --[targets]--> cattle (extracted)
+- FARRMS --[uses]--> rapid response modeling (extracted)
+- CG Labs --[uses]--> high-performance computing (extracted)
+- CG Labs --[targets]--> data scientists (extracted)
+- PeskAAS --[uses]--> micronutrient contribution modeling (extracted)
+- PeskAAS --[located_in]--> Timor-Leste (extracted)
+- FishBase --[collaborates_with]--> University of British Columbia (extracted)
+- WorldFish --[collaborates_with]--> FAO (extracted)
+- WorldFish --[located_in]--> Solomon Islands (extracted)
+- WorldFish --[collaborates_with]--> IWMI (extracted)
+- WorldFish --[collaborates_with]--> EMEDO (extracted)
+- WorldFish --[collaborates_with]--> Timor-Leste (extracted)
+- WorldFish --[develops]--> AMR AquaShield (extracted)
+- WorldFish --[uses]--> community fish refuge management (extracted)
+- WorldFish --[located_in]--> Bangladesh (inferred)
+- WorldFish --[collaborates_with]--> Cambodia (extracted)
+- WorldFish --[uses]--> climate policy integration (extracted)
+- WorldFish --[located_in]--> Kenya (extracted)
+- WorldFish --[uses]--> genetic improvement program (extracted)
+- WorldFish --[uses]--> training needs assessment (extracted)
+- WorldFish --[uses]--> local service providers (extracted)
+- WorldFish --[located_in]--> Lake Victoria (extracted)
+- WorldFish --[collaborates_with]--> Egypt (extracted)
+- WorldFish --[collaborates_with]--> International Water Management Institute (extracted)
+- WorldFish --[uses]--> Kobo Collect (extracted)
+- WorldFish --[uses]--> integrated rice-fish systems (inferred)
+- FAO --[produces]--> integrated herd health packages (extracted)
+- FAO --[collaborates_with]--> Alliance of Bioversity and CIAT (extracted)
+- FAO --[produces]--> cryopreservation (extracted)
+- FAO --[collaborates_with]--> IWMI (extracted)
+- Zambia --[uses]--> forage evaluation protocol (extracted)
+- Zambia --[uses]--> sustainable restoration (extracted)
+- Zambia --[uses]--> risk contingent credit (extracted)
+- tilapia --[located_in]--> Bangladesh (extracted)
+- GIFT --[located_in]--> Nigeria (extracted)
+- barley --[located_in]--> India (extracted)
+- CSISA-MEA --[collaborates_with]--> ABLE firms (extracted)
+- ABLE firms --[located_in]--> Bangladesh (extracted)
+- Gender and Plant Health Global Research Network --[uses]--> interdisciplinary research (extracted)
+- ILRI --[produces]--> pig weigh band (extracted)
+- ILRI --[collaborates_with]--> Hester Biosciences Ltd (extracted)
+- ILRI --[uses]--> one health approach (inferred)
+- ILRI --[collaborates_with]--> Baringo County (extracted)
+- ILRI --[collaborates_with]--> IFPRI (extracted)
+- ILRI --[produces]--> gender-responsive approaches (extracted)
+- ILRI --[located_in]--> Kenya (extracted)
+- ILRI --[addresses]--> water productivity (extracted)
+- ILRI --[implements]--> positive deviance approach (extracted)
+- ILRI --[uses]--> circular economy principles (extracted)
+- ILRI --[uses]--> gender-transformative approaches (extracted)
+- ILRI --[produces]--> feed composition databases (extracted)
+- ILRI --[uses]--> gender transformative approaches (extracted)
+- ILRI --[produces]--> chicken strains (extracted)
+- ILRI --[uses]--> soil health assessment (extracted)
+- ILRI --[uses]--> pioneer positive deviance (extracted)
+- ILRI --[collaborates_with]--> STELARR (extracted)
+- CGIAR Gender Equality Initiative --[produces]--> gender norms measurement (extracted)
+- Nepal --[located_in]--> Hindu Kush Himalaya (extracted)
+- Mali --[produces]--> small ruminants (extracted)
+- Mali --[located_in]--> West Africa (inferred)
+- veterinarians --[uses]--> rapid diagnostic testing (extracted)
+- village livestock promoters --[targets]--> smallholder farmers (extracted)
+- pigs --[located_in]--> Uganda (extracted)
+- Brachiaria --[targets]--> buffalo (extracted)
+- Brachiaria --[addresses]--> soil erosion (extracted)
+- pig weigh band --[targets]--> smallholder farmers (extracted)
+- pig weigh band --[targets]--> pigs (extracted)
+- Pig Profit app --[addresses]--> business model development (inferred)
+- PigSmart platform --[uses]--> digital extension (extracted)
+- Tropical Forages Selection Tool --[uses]--> participatory evaluation (extracted)
+- TAFSSA --[collaborates_with]--> CSISA (extracted)
+- ASARECA --[collaborates_with]--> Alliance Bioversity & CIAT (extracted)
+- ASARECA --[collaborates_with]--> IFPRI (extracted)
+- EncontrAR Platform --[targets]--> smallholder farmers (inferred)
+- begomovirus --[targets]--> okra (extracted)
+- World Vegetable Center --[uses]--> disease resistance screening (extracted)
+- World Vegetable Center --[located_in]--> Tanzania (extracted)
+- LCAS-APT --[targets]--> smallholder farmers (extracted)
+- AADGG-Dairy app --[targets]--> smallholder farmers (extracted)
+- yellow jacaranda --[targets]--> banana (extracted)
+- CIAT --[uses]--> nano-culture technology (extracted)
+- CIAT --[collaborates_with]--> national research institutes (extracted)
+- CIAT --[produces]--> Urochloa (extracted)
+- CIAT --[uses]--> PowderBot (extracted)
+- CIAT --[uses]--> vision-to-action approach (extracted)
+- CIAT --[part_of]--> CGIAR (extracted)
+- CIAT --[uses]--> blended finance (extracted)
+- CIAT --[uses]--> cryopreservation (extracted)
+- CIAT --[targets]--> indigenous communities (extracted)
+- CIAT --[uses]--> Leucaena diversifolia (extracted)
+- Limpopo River Basin --[located_in]--> Botswana (extracted)
+- Limpopo River Basin --[located_in]--> Mozambique (extracted)
+- Limpopo River Basin --[located_in]--> South Africa (extracted)
+- Limpopo River Basin --[located_in]--> Zimbabwe (extracted)
+- Limpopo River Basin --[uses]--> digital twins (extracted)
+- Tumaini app --[targets]--> banana (extracted)
+- banana xanthomonas wilt --[targets]--> banana (extracted)
+- RIICE --[uses]--> satellite remote sensing (extracted)
+- RIICE --[targets]--> rice (extracted)
+- RIICE --[uses]--> satellite monitoring (extracted)
+- milk collection centers --[located_in]--> Uganda (extracted)
+- cacao --[located_in]--> Peru (extracted)
+- cacao --[uses]--> agroecological practices (extracted)
+- cacao --[part_of]--> agroforestry co-design (extracted)
+- cacao --[related_to]--> blended finance (extracted)
+- cacao --[located_in]--> Colombia (extracted)
+- Philippines --[uses]--> satellite-based crop insurance (extracted)
+- Philippines --[uses]--> CS-MAP (extracted)
+- Philippines --[uses]--> alternate wetting and drying (extracted)
+- PRISM --[uses]--> satellite remote sensing (extracted)
+- India --[located_in]--> Ramganga Basin (extracted)
+- India --[uses]--> game-based learning (extracted)
+- India --[located_in]--> forest-dependent communities (extracted)
+- India --[uses]--> circular economy (extracted)
+- Rwanda --[uses]--> vickrey auction (extracted)
+- Rwanda --[targets]--> site-specific fertilizer recommendations (extracted)
+- tomato --[uses]--> water-use efficiency (extracted)
+- China --[uses]--> soybean (extracted)
+- IFPRI --[produces]--> Rural Energy Insecurity Experiences Scale (inferred)
+- IFPRI --[uses]--> computable general equilibrium modeling (extracted)
+- IFPRI --[collaborates_with]--> USAID (extracted)
+- IFPRI --[part_of]--> CGIAR (inferred)
+- IFPRI --[uses]--> OlmoEarth (extracted)
+- IFPRI --[uses]--> market monitoring (extracted)
+- IFPRI --[collaborates_with]--> government migration officials (extracted)
+- IFPRI --[collaborates_with]--> KIPPRA (extracted)
+- IFPRI --[uses]--> advocacy training (extracted)
+- IFPRI --[uses]--> randomized evaluation (extracted)
+- IFPRI --[uses]--> capacity building (extracted)
+- IFPRI --[produces]--> gender-sensitive measurement (extracted)
+- IFPRI --[supports]--> climate finance taxonomy (extracted)
+- IFPRI --[uses]--> water-energy-food-ecosystems nexus (extracted)
+- IFPRI --[collaborates_with]--> Ethiopia (extracted)
+- IFPRI --[produces]--> policy evidence (extracted)
+- IFPRI --[collaborates_with]--> IRRI (extracted)
+- IFPRI --[collaborates_with]--> Kenya Agricultural Insurance Program (extracted)
+- IFPRI --[collaborates_with]--> CAADP (extracted)
+- IFPRI --[produces]--> Fairgrounds (extracted)
+- IFPRI --[uses]--> risk contingent credit (extracted)
+- IFPRI --[collaborates_with]--> CIMMYT (extracted)
+- IFPRI --[collaborates_with]--> FSIN (extracted)
+- IFPRI --[uses]--> stakeholder engagement (extracted)
+- IFPRI --[collaborates_with]--> Environmental Care Foundation (extracted)
+- IFPRI --[uses]--> artificial intelligence famine forecasting (extracted)
+- IFPRI --[collaborates_with]--> IPAR (extracted)
+- IFPRI --[collaborates_with]--> Gender Resource Cell (extracted)
+- IFPRI --[addresses]--> fragile and conflict-affected settings (extracted)
+- Ministry of Agriculture and Rural Development --[collaborates_with]--> IRRI (extracted)
+- Digital Earth Africa --[part_of]--> digital twins (extracted)
+- APFORGEN --[collaborates_with]--> CGIAR (inferred)
+- International Potato Center --[uses]--> prime editing (extracted)
+- International Potato Center --[collaborates_with]--> International Rice Research Institute (extracted)
+- International Potato Center --[uses]--> machine learning modeling (extracted)
+- International Potato Center --[located_in]--> Peru (extracted)
+- International Potato Center --[collaborates_with]--> AGROSAVIA (extracted)
+- International Potato Center --[part_of]--> CGIAR (inferred)
+- International Potato Center --[produces]--> Ask-the-Data (extracted)
+- International Potato Center --[collaborates_with]--> FIFAMANOR (extracted)
+- rice yellow mottle virus --[located_in]--> Africa (extracted)
+- ISAT Climate Information Services --[targets]--> smallholder farmers (extracted)
+- ICRISAT --[produces]--> MSOIL (extracted)
+- ICRISAT --[produces]--> smallholder farmers (extracted)
+- ICRISAT --[uses]--> carbon footprint assessment (extracted)
+- ICRISAT --[uses]--> line × tester analysis (extracted)
+- ICRISAT --[collaborates_with]--> AfricaRice (extracted)
+- ICRISAT --[collaborates_with]--> Zimbabwe (extracted)
+- ICRISAT --[uses]--> participatory research (inferred)
+- ICRISAT --[collaborates_with]--> Telangana (extracted)
+- ICRISAT --[located_in]--> Ethiopia (extracted)
+- ICRISAT --[collaborates_with]--> Malawi Government (extracted)
+- Simcast --[addresses]--> late blight (extracted)
+- EcoFarm App --[uses]--> artificial intelligence (extracted)
+- Rice Crop Manager Advisory Service --[uses]--> human-centered design (extracted)
+- Layanan Konsultasi Padi --[produces]--> field-specific nutrient management (extracted)
+- pro-WEAI --[uses]--> women's empowerment (extracted)
+- AgWISE --[addresses]--> water management (extracted)
+- AgWISE --[uses]--> seasonal climate forecast (extracted)
+- AgWISE --[located_in]--> Ethiopia (extracted)
+- AgWISE --[located_in]--> Kenya (extracted)
+- Mekong Farm App --[located_in]--> Cambodia (extracted)
+- PigSmart --[targets]--> smallholder farmers (extracted)
+- PigSmart --[located_in]--> Uganda (extracted)
+- PigSmart --[targets]--> extension agents (extracted)
+- AADGG platform --[uses]--> genetic improvement (extracted)
+- International Rice Research Institute --[uses]--> participatory technology development (extracted)
+- International Rice Research Institute --[collaborates_with]--> Vietnam (extracted)
+- International Rice Research Institute --[produces]--> FarMoRE (extracted)
+- International Rice Research Institute --[collaborates_with]--> Department of Agriculture Philippines (extracted)
+- International Rice Research Institute --[collaborates_with]--> Alliance of Bioversity International and CIAT (extracted)
+- International Rice Research Institute --[uses]--> capacity building (extracted)
+- Philippine Rice Research Institute --[collaborates_with]--> International Rice Research Institute (extracted)
+- Ministry of Agriculture --[located_in]--> Indonesia (extracted)
+- Guatemala --[uses]--> agricultural distortions (extracted)
+- Guatemala --[located_in]--> climate-migration nexus (extracted)
+- Guatemala --[located_in]--> drone monitoring pilot (extracted)
+- Guatemala --[located_in]--> dry corridor (inferred)
+- Peru --[uses]--> agroecological practices (extracted)
+- Makueni --[located_in]--> Kenya (extracted)
+- beans --[addresses]--> food security (extracted)
+- beans --[uses]--> biofortification (extracted)
+- beans --[is_a]--> biofortified crops (extracted)
+- extension workers --[uses]--> Layanan Konsultasi Padi (extracted)
+- extension workers --[uses]--> climate information services (extracted)
+- extension workers --[uses]--> good agricultural practices (extracted)
+- women farmers --[uses]--> social equity integration (extracted)
+- Wajir County --[located_in]--> Kenya (extracted)
+- Indus Basin --[located_in]--> Pakistan (extracted)
+- mechanization service providers --[uses]--> two-wheel tractor (extracted)
+- two-wheel tractor --[uses]--> maize sheller (extracted)
+- coffee --[located_in]--> Uganda (extracted)
+- fish --[part_of]--> integrated rice-fish systems (extracted)
+- fish --[part_of]--> integrated rice-fish system (extracted)
+- Quezon City --[targets]--> informal food vendors (extracted)
+- International Institute of Tropical Agriculture --[located_in]--> Nigeria (extracted)
+- KALRO --[produces]--> early generation seed supply (extracted)
+- KALRO --[collaborates_with]--> Makueni County (extracted)
+- KALRO --[collaborates_with]--> Alliance of Bioversity International and CIAT (extracted)
+- ISABU --[located_in]--> Burundi (extracted)
+- Sudan --[addresses]--> food insecurity (extracted)
+- PRRS virus --[targets]--> smallholder farmers (extracted)
+- Enterococcus --[related_to]--> antimicrobial resistance (extracted)
+- Carob --[uses]--> data standardization (extracted)
+- haveli system --[produces]--> groundwater recharge (extracted)
+- power probe method --[addresses]--> soil bulk density measurement (extracted)
+- Metrics Library --[targets]--> policymakers (extracted)
+- Uzbekistan --[uses]--> CGIAR wheat varieties (extracted)
+- Aegilops tauschii --[produces]--> disease resistance breeding (extracted)
+- Aegilops tauschii --[related_to]--> wheat (extracted)
+- wheat blast --[located_in]--> Bolivia (extracted)
+- wheat blast --[located_in]--> Bangladesh (extracted)
+- Cassava Brown Streak Disease --[targets]--> cassava (extracted)
+- RoBERTa --[uses]--> named entity recognition (extracted)
+- Jordan --[targets]--> refugees (extracted)
+- Morocco --[located_in]--> MENA region (extracted)
+- Morocco --[uses]--> digital soil mapping (extracted)
+- Sudanese Armed Forces --[located_in]--> Sudan (extracted)
+- World Vision Somalia --[located_in]--> Baidoa (extracted)
+- cowpea --[located_in]--> Sahel (extracted)
+- cowpea --[uses]--> biofortification (extracted)
+- cowpea --[uses]--> early generation seed production (extracted)
+- cowpea --[targets]--> smallholder farmers (extracted)
+- USAID --[collaborates_with]--> Tanzania (extracted)
+- chickpea --[located_in]--> Lebanon (extracted)
+- soybean --[part_of]--> value chain development (extracted)
+- soybean --[produces]--> global food security (inferred)
+- soybean --[uses]--> triadic comparisons of technology options (extracted)
+- soybean --[located_in]--> Zambia (extracted)
+- soybean --[located_in]--> Uganda (extracted)
+- AgriLLM --[targets]--> smallholder farmer (extracted)
+- AgriLLM --[targets]--> extension agent (extracted)
+- CLEANED --[addresses]--> environmental impact assessment (extracted)
+- CLEANED --[uses]--> carbon footprint assessment (extracted)
+- TerminAg --[uses]--> data standardization (extracted)
+- Open Data Kit --[uses]--> TerminAg (extracted)
+- Urochloa --[is_a]--> forage grass (extracted)
+- Urochloa --[produces]--> methane mitigation (extracted)
+- Honduras --[uses]--> adaptive social protection (extracted)
+- Honduras --[located_in]--> dry corridor (extracted)
+- Honduras --[located_in]--> Central American Dry Corridor (extracted)
+- Heifer International --[uses]--> sustainable livestock practices (extracted)
+- Thailand --[located_in]--> Asia-Pacific (extracted)
+- Urochloa humidicola --[located_in]--> Orinoquía (extracted)
+- livestock producers --[uses]--> sustainable livestock practices (extracted)
+- Northwestern University --[collaborates_with]--> Bangladesh (extracted)
+- Mozambique --[located_in]--> climate security challenges (extracted)
+- OlmoEarth --[uses]--> crop type mapping (extracted)
+- XGBoost --[is_a]--> machine learning models (extracted)
+- chia --[produces]--> nutritional enhancement (extracted)
+- groundnut --[located_in]--> Tanzania (extracted)
+- groundnut --[uses]--> realized genetic gain (extracted)
+- groundnut --[part_of]--> community seed systems (extracted)
+- groundnut --[uses]--> climate-smart agriculture (extracted)
+- Tunisia --[uses]--> agrosilvopastoral systems (extracted)
+- women of reproductive age --[targets]--> fruit and vegetable promotion (extracted)
+- FRESH --[uses]--> end-to-end approach (extracted)
+- FRESH --[targets]--> fruit and vegetable promotion (extracted)
+- 24-hour dietary recall --[uses]--> dietary assessment (extracted)
+- HCES --[uses]--> dietary assessment (extracted)
+- honeybees --[related_to]--> behavioral analysis (extracted)
+- beef cattle --[located_in]--> Colombia (extracted)
+- Lao PDR --[uses]--> policy coherence (extracted)
+- Malawi --[located_in]--> market monitoring (extracted)
+- Egypt --[uses]--> water justice (extracted)
+- Egypt --[uses]--> conservation agriculture (extracted)
+- Pakistan --[uses]--> conjunctive water use (extracted)
+- Pakistan --[uses]--> Groundwater Management Information System (extracted)
+- Pakistan --[related_to]--> climate adaptation (extracted)
+- Pakistan --[uses]--> digital water body inventory (extracted)
+- Water Users Associations --[uses]--> procedural justice (extracted)
+- Ramganga Basin --[uses]--> managed aquifer recharge (extracted)
+- Incomati Basin --[uses]--> multistakeholder platforms (extracted)
+- policymakers --[uses]--> Climate Risk Intelligence Assistant (extracted)
+- SWAT --[uses]--> biophysical simulation modeling (extracted)
+- cotton --[located_in]--> Chirakchi Watershed (extracted)
+- Food Systems Countdown Initiative --[uses]--> indicator framework monitoring (extracted)
+- GBIF --[uses]--> edible plant species (extracted)
+- Bhutan --[addresses]--> groundwater governance (inferred)
+- Atal Bhujal Yojana --[addresses]--> groundwater governance (extracted)
+- Ganga River Basin --[addresses]--> nexus approach (extracted)
+- Water User Associations --[addresses]--> gender-inclusive water management (extracted)
+- Barahathawa Municipality --[located_in]--> Nepal (extracted)
+- Tribhuvan University --[uses]--> curriculum institutionalization (extracted)
+- EAT-Lancet Consumption Frequency Index --[uses]--> dietary assessment (extracted)
+- Nature Futures Framework --[addresses]--> biodiversity nexus (extracted)
+- Papua New Guinea --[addresses]--> intra-household allocation (extracted)
+- Viet Nam --[uses]--> food systems transformation (extracted)
+- Groundwater Management Information System --[addresses]--> groundwater management (extracted)
+- International Water Management Institute --[produces]--> Groundwater Management Information System (extracted)
+- International Water Management Institute --[collaborates_with]--> WorldFish (extracted)
+- International Water Management Institute --[collaborates_with]--> International Rice Research Institute (extracted)
+- International Water Management Institute --[collaborates_with]--> Ethiopia (extracted)
+- Diet Quality Questionnaire --[uses]--> minimum dietary diversity (extracted)
+- Transfer Modality Research Initiative --[uses]--> cash transfers (extracted)
+- meat inspectors --[uses]--> regulatory oversight (extracted)
+- meat inspectors --[uses]--> hygiene oversight (extracted)
+- women leaders --[addresses]--> climate adaptation (extracted)
+- women leaders --[uses]--> community-led governance (extracted)
+- World Vision --[uses]--> tapered cash transfers (extracted)
+- WELI --[uses]--> women's empowerment (extracted)
+- Narayanganj block --[located_in]--> Mandla district (extracted)
+- Mandla district --[located_in]--> Madhya Pradesh (extracted)
+- International Food Policy Research Institute --[collaborates_with]--> Global Alliance for Improved Nutrition (extracted)
+- AKILIMO --[targets]--> extension agents (extracted)
+- AKILIMO --[located_in]--> Nigeria (extracted)
+- AKILIMO --[targets]--> smallholder farmers (extracted)
+- AKILIMO --[uses]--> digital extension integration (extracted)
+- Department of Water Resources and Irrigation --[uses]--> integrated monitoring systems (extracted)
+- International Organization for Migration --[collaborates_with]--> CIAT (extracted)
+- lentil --[uses]--> integrated pathogen screening (extracted)
+- stripe rust --[targets]--> wheat (extracted)
+- septoria tritici blotch --[targets]--> wheat (extracted)
+- Lygos raetam --[located_in]--> Tunisia (extracted)
+- carob --[located_in]--> Tunisia (extracted)
+- Makueni County --[uses]--> gender transformative approaches (extracted)
+- Department of Fisheries --[uses]--> Aqua-DST (extracted)
+- Council for Agricultural and Rural Development --[uses]--> district working groups (extracted)
+- Southern Research Institute of Agriculture --[located_in]--> Kashkadarya region (extracted)
+- Aqua-DST --[targets]--> Upper Ayeyarwady (extracted)
+- livestock farmer --[located_in]--> Uttarakhand (extracted)
+- WorldVeg --[uses]--> demand-driven breeding (extracted)
+- pigeonpea --[located_in]--> Sub-Saharan Africa (extracted)
+- pigeonpea --[part_of]--> crop diversification (extracted)
+- oil palm --[addresses]--> post-mined land restoration (extracted)
+- rohu --[located_in]--> Bangladesh (extracted)
+- rohu --[part_of]--> genetic improvement program (extracted)
+- Septoria nodorum --[targets]--> wheat (extracted)
+- Rhynchosporium graminicola --[targets]--> barley (extracted)
+- Bipolaris maydis --[targets]--> maize (extracted)
+- Puccinia striiformis --[targets]--> wheat (extracted)
+- Sesamum indicum --[located_in]--> arid regions (extracted)
+- Leymus racemosus --[produces]--> biological nitrification inhibition (extracted)
+- Zymoseptoria tritici --[produces]--> septoria tritici blotch (extracted)
+- Eleusine coracana --[located_in]--> Ethiopia (extracted)
+- Fusarium graminearum --[produces]--> fusarium head blight (extracted)
+- bambara groundnut --[located_in]--> Eastern Africa (extracted)
+- olive --[located_in]--> Tunisia (extracted)
+- 3R-gene potato --[addresses]--> late blight (extracted)
+- Breeding for Tomorrow --[part_of]--> CGIAR (extracted)
+- silage wrapping machine --[addresses]--> post-harvest losses (extracted)
+- Nusatupe Innovation Hub --[located_in]--> Solomon Islands (extracted)
+- black soldier fly --[produces]--> bioconversion (extracted)
+- Crops-to-Go --[uses]--> artificial intelligence (extracted)
+- Crops-to-Go --[targets]--> plant breeders (inferred)
+- AGX platform --[targets]--> smallholder farmers (extracted)
+- Africa Dryland Crops Improvement Network --[targets]--> smallholder farmers (inferred)
+- Kenya Breweries Limited --[uses]--> sorghum (extracted)
+- groundnuts --[targets]--> biocontrol (extracted)
+- Oryza glaberrima --[is_a]--> African rice (extracted)
+- Oryza glaberrima --[is_a]--> rice (extracted)
+- Fusarium head blight --[targets]--> wheat (extracted)
+- Striga hermonthica --[targets]--> maize (extracted)
+- wildlife farmers --[located_in]--> Vietnam (extracted)
+- BrRacemeCounter --[uses]--> deep learning (extracted)
+- SNP markers --[uses]--> varietal tracking (extracted)
+- pearl millet --[uses]--> speed breeding (extracted)
+- pearl millet --[targets]--> smallholder farmer (extracted)
+- pearl millet --[located_in]--> Senegal (extracted)
+- pearl millet --[uses]--> biofortification (extracted)
+- pearl millet --[addresses]--> downy mildew (extracted)
+- pearl millet --[located_in]--> West and Central Africa (extracted)
+- Maharashtra --[located_in]--> India (inferred)
+- WFP --[uses]--> humanitarian-development-peace nexus (extracted)
+- WFP --[collaborates_with]--> IFPRI (extracted)
+- UNHCR --[uses]--> capacity building (extracted)
+- UNHCR --[targets]--> Rohingya refugees (extracted)
+- REDOPA --[located_in]--> Lima (extracted)
+- Soil Health Explorer --[produces]--> CGIAR (extracted)
+- DSSAT --[targets]--> smallholder farmers (extracted)
+- B-REAL Project --[collaborates_with]--> Alliance of Bioversity International and CIAT (extracted)
+- Alliance of Bioversity International and CIAT --[collaborates_with]--> Ethiopia (extracted)
+- Alliance of Bioversity International and CIAT --[uses]--> soil diagnostics (extracted)
+- Alliance of Bioversity International and CIAT --[collaborates_with]--> World Food Programme (extracted)
+- Alliance of Bioversity International and CIAT --[located_in]--> Valle del Cauca (extracted)
+- Alliance of Bioversity International and CIAT --[collaborates_with]--> CGIAR (extracted)
+- Alliance of Bioversity International and CIAT --[uses]--> agroecosystem living labs (extracted)
+- Alliance of Bioversity International and CIAT --[uses]--> zero deforestation (extracted)
+- Alliance of Bioversity International and CIAT --[uses]--> environmental peacebuilding (extracted)
+- Alliance of Bioversity International and CIAT --[uses]--> regenerative agriculture (extracted)
+- Alliance of Bioversity International and CIAT --[collaborates_with]--> ISEAL (extracted)
+- Alliance of Bioversity International and CIAT --[collaborates_with]--> National Institute of Nutrition (extracted)
+- Alliance of Bioversity International and CIAT --[uses]--> diagnostic bootcamp (extracted)
+- Alliance of Bioversity International and CIAT --[produces]--> agrobiodiversity monitoring (extracted)
+- Alliance of Bioversity International and CIAT --[collaborates_with]--> iShamba (extracted)
+- Alliance of Bioversity International and CIAT --[collaborates_with]--> Amazon Biodiversity Fund (extracted)
+- Alliance of Bioversity International and CIAT --[collaborates_with]--> AGNES (extracted)
+- Alliance of Bioversity International and CIAT --[collaborates_with]--> Ministry of Agriculture, Food Sovereignty, and Livestock (extracted)
+- Alliance of Bioversity International and CIAT --[collaborates_with]--> PABRA (extracted)
+- Alliance of Bioversity International and CIAT --[produces]--> MyFarmTrees (inferred)
+- Hatiya Island --[located_in]--> Bangladesh (extracted)
+- legumes --[produces]--> nitrogen use efficiency (extracted)
+- legumes --[addresses]--> grassland restoration (extracted)
+- legumes --[part_of]--> technology dissemination (extracted)
+- IOM --[collaborates_with]--> CGIAR (extracted)
+- ORYZA --[produces]--> crop simulation modeling (extracted)
+- Random Forest --[is_a]--> machine learning models (extracted)
+- Random Forest --[is_a]--> machine learning (extracted)
+- Random Forest --[uses]--> remote sensing pest detection (extracted)
+- faba bean --[produces]--> nitrogen fixation (extracted)
+- Aspergillus flavus --[targets]--> peanut (extracted)
+- University of Ibadan --[located_in]--> Nigeria (extracted)
+- RECA --[uses]--> market information systems (extracted)
+- Argentina --[part_of]--> ABPU bloc (extracted)
+- Brazil --[part_of]--> ABPU bloc (extracted)
+- Brazil --[uses]--> climate disinformation monitoring (extracted)
+- Brazil --[uses]--> local public procurement (extracted)
+- amarante --[located_in]--> Burkina Faso (extracted)
+- FABLE Calculator --[uses]--> agroecology module (extracted)
+- FABLE Calculator --[uses]--> agroecology (extracted)
+- FABLE Calculator --[analyzes]--> sustainable food systems (extracted)
+- HER+ initiative --[targets]--> gender equality (extracted)
+- BRRI dhan67 --[is_a]--> rice (extracted)
+- Magnaporthe oryzae --[targets]--> rice (extracted)
+- TAPE --[produces]--> agroecological performance (extracted)
+- CGIAR Sustainable Farming Science Program --[collaborates_with]--> Bangladesh Agricultural Research Institute (extracted)
+- Municipality of Pachacamac --[uses]--> participatory governance (extracted)
+- MDII Data Collection Tools --[produces]--> digital inclusiveness (extracted)
+- NEXAR-Egypt --[addresses]--> water scarcity (extracted)
+- Tensift Watershed --[located_in]--> Morocco (inferred)
+- local service providers --[uses]--> two-wheel power tiller-operated seeder (extracted)
+- nursery managers --[produces]--> tree species (extracted)
+- NEXAR --[uses]--> water accounting (extracted)
+- Community Fish Refuges --[uses]--> community-based governance (extracted)
+- Vietnam Women's Academy --[located_in]--> Vietnam (extracted)
+- Sentinel-1 SAR --[uses]--> Google Earth Engine (extracted)
+- Google Earth Engine --[uses]--> machine learning forecasting (extracted)
+- Google Earth Engine --[uses]--> earth observation (extracted)
+- DpRVIc --[part_of]--> soil moisture monitoring (extracted)
+- SuLMER --[located_in]--> Cox's Bazar (extracted)
+- Water Management Groups --[located_in]--> Bangladesh (extracted)
+- IGAD --[adopts]--> participatory rangeland management (extracted)
+- Somalia --[located_in]--> climate-conflict nexus (extracted)
+- Al-Shabaab --[uses]--> climate vulnerabilities (extracted)
+- Sidama Region --[located_in]--> Ethiopia (inferred)
+- AgWISE Platform --[uses]--> MODIS (extracted)
+- AgWISE Platform --[uses]--> VIIRS (extracted)
+- pastoralists --[uses]--> livestock mobility (inferred)
+- pastoralists --[uses]--> pastoral adaptation (extracted)
+- pastoralists --[located_in]--> Dassenech Woreda (extracted)
+- pastoralists --[uses]--> livestock value chains (extracted)
+- pastoralists --[uses]--> concentrate supplementation (extracted)
+- pastoralists --[uses]--> participatory mapping (extracted)
+- PowderBot --[uses]--> automated dna extraction (extracted)
+- PowderBot --[produces]--> marker-assisted selection (extracted)
+- FAO-ICARDA --[collaborates_with]--> CactusNet (extracted)
+- CactusNet --[uses]--> knowledge dissemination (extracted)
+- GloMIP --[produces]--> market intelligence (extracted)
+- GloMIP --[produces]--> CGIAR (extracted)
+- HingaSmart --[uses]--> climate-informed decision-making (extracted)
+- HingaSmart --[targets]--> Ghana (extracted)
+- Tropical Resilience Fund --[uses]--> blended finance (extracted)
+- humanitarian practitioners --[uses]--> early warning systems (inferred)
+- pastoralist communities --[located_in]--> Ethiopia (extracted)
+- pastoralist communities --[located_in]--> Kenya (extracted)
+- Seed Tracker --[targets]--> seed companies (extracted)
+- Urochloa hybrids --[targets]--> smallholder farmers (inferred)
+- Forager system --[uses]--> barley (extracted)
+- World Bank --[located_in]--> Philippines (extracted)
+- World Bank --[provides]--> climate finance (inferred)
+- World Bank --[located_in]--> Ethiopia (extracted)
+- CacaoDiversity --[supports]--> agroforestry co-design (extracted)
+- gPM+ --[targets]--> Ethiopia (extracted)
+- Banana Bunchy Top Disease --[targets]--> banana (extracted)
+- Kiambu --[located_in]--> Kenya (extracted)
+- SPC --[produces]--> island food systems (extracted)
+- SPC --[uses]--> CePaCT (extracted)
+- Directorate of Social Development --[uses]--> social protection policy (extracted)
+- enumerators --[located_in]--> Ethiopia (extracted)
+- Arachis hypogaea --[uses]--> marker-assisted selection (extracted)
+- CGIAR Scaling Fund --[uses]--> responsible scaling (extracted)
+- CGIAR Scaling Fund --[collaborates_with]--> ENABEL (extracted)
+- CGIAR Scaling Fund --[uses]--> scaling for impact (extracted)
+- Western Rajasthan --[uses]--> integrated farming systems (extracted)
+- African Fertilizer and Soil Health Action Plan --[targets]--> smallholder farmers (inferred)
+- Bioversity International --[collaborates_with]--> Ethiopian Biodiversity Institute (extracted)
+- Direct Seeded Rice --[produces]--> water productivity (extracted)
+- e-Agrology --[targets]--> smallholder farmers (inferred)
+- Water Productivity Atlas --[addresses]--> water productivity optimization (extracted)
+- IPCC --[uses]--> climate adaptation indicators (extracted)
+- AgroTutor GenAI --[enables]--> digital advisory services (extracted)
+- CS-PAT --[strengthens]--> climate services (extracted)
+- MapAWD --[produces]--> International Rice Research Institute (extracted)
+- SECTOR --[produces]--> International Rice Research Institute (extracted)
+- PaddyWA+ --[is_a]--> water balance model (extracted)
+- dairy cattle --[located_in]--> Ethiopia (extracted)
+- Rice Crop Manager --[targets]--> Vietnam (extracted)
+- Rice Crop Manager --[produces]--> digital decision-support tools (extracted)
+- Lúa Việt --[located_in]--> Mekong River Delta (extracted)
+- Lúa Việt --[uses]--> Rice Crop Manager (extracted)
+- SRE Tool --[targets]--> cassava (extracted)
+- Mindanao --[part_of]--> Philippines (extracted)
+- FOFIFA 198 --[produces]--> flood tolerance (extracted)
+- agrodealers --[uses]--> technology diffusion (extracted)
+- Phytophthora infestans --[targets]--> potato (extracted)
+- Phytophthora infestans --[produces]--> late blight disease (extracted)
+- common bunt --[targets]--> wheat (extracted)
+- Cyclone Idai --[targets]--> Mozambique (extracted)
+- Phureja --[located_in]--> Colombia (extracted)
+- RiceAdvice Lite --[produces]--> site-specific fertilizer recommendations (extracted)
+- RiceAdvice Lite --[produces]--> location-specific recommendations (extracted)
+- RiceAdvice Lite --[located_in]--> Mali (extracted)
+- Green Climate Fund --[produces]--> DaIMA (extracted)
+- YAPU Solutions --[collaborates_with]--> CGIAR (extracted)
+- lablab --[part_of]--> cereal-forage cropping systems (extracted)
+- lablab --[located_in]--> Ethiopia (extracted)
+- Fusarium --[is_a]--> soil-borne pathogen (extracted)
+- Pythium --[is_a]--> soil-borne pathogen (extracted)
+- AgDataHub --[part_of]--> digital advisory platforms (inferred)
+- Smart Nkunganire System --[located_in]--> Rwanda (extracted)
+- Digital Agroclimatic Plot --[located_in]--> Guatemala (extracted)
+- Vendor Business School --[targets]--> food vendor (extracted)
+- enumerator --[uses]--> Smart Nkunganire System (extracted)
+- CSA Knowledge Hub --[targets]--> smallholder farmers (extracted)
+- Seed Requirement Estimation tool --[produces]--> seed demand projection (extracted)
+- AICCRA --[collaborates_with]--> Kenya (extracted)
+- AICCRA --[collaborates_with]--> Eastern Africa Farmers Federation (extracted)
+- AICCRA --[located_in]--> Mali (extracted)
+- AICCRA --[promotes]--> climate-smart agriculture (extracted)
+- AICCRA --[collaborates_with]--> CORAF (extracted)
+- AICCRA --[located_in]--> Makueni County (extracted)
+- AICCRA --[uses]--> climate information services (extracted)
+- AICCRA --[uses]--> climate-smart village approach (extracted)
+- AICCRA --[located_in]--> Ghana (extracted)
+- AICCRA --[collaborates_with]--> Alliance of Bioversity International and CIAT (extracted)
+- AICCRA --[uses]--> human-centered design (extracted)
+- AICCRA --[targets]--> smallholder farmers (extracted)
+- Tanzania Agricultural Research Institute --[located_in]--> Tanzania (extracted)
+- Ceratobasisium theobromae --[targets]--> cassava (extracted)
+- torradovirus --[targets]--> cassava (extracted)
+- Aphelenchoides besseyi --[targets]--> rice (extracted)
+- Desmodium spp. --[produces]--> oviposition repellency (extracted)
+- Telenomus remus --[targets]--> Fall Armyworm (extracted)
+- Banana Bunchy Top Virus --[uses]--> Pentalonia nigronervosa (extracted)
+- Fusarium verticillioides --[produces]--> ginger blight (extracted)
+- Lantana camara --[located_in]--> India (extracted)
+- Tuta absoluta --[targets]--> tomato (extracted)
+- Spodoptera frugiperda --[targets]--> maize (extracted)
+- COSTECH --[located_in]--> Tanzania (extracted)
+- MAAIF --[located_in]--> Uganda (extracted)
+- Ukerewe Island --[located_in]--> Tanzania (extracted)
+- Kaduna State --[located_in]--> Nigeria (extracted)
+- Ogun State --[located_in]--> Nigeria (extracted)
+- Democratic Republic of Congo --[located_in]--> Africa (inferred)
+- bakers --[located_in]--> Democratic Republic of Congo (extracted)
+- Ucayali --[located_in]--> Peru (extracted)
+- SEWA --[located_in]--> India (extracted)
+- Fulani pastoralists --[related_to]--> herder-farmer conflict (extracted)
+- PaddyMitra --[uses]--> WhatsApp (extracted)
+- PaddyMitra --[targets]--> rice (extracted)
+- VIETRISA --[collaborates_with]--> World Bank (extracted)
+- Sri Lanka --[uses]--> food insecurity experience scale (extracted)
+- ViRiCert --[located_in]--> Vietnam (extracted)
+- DigiFeed360 --[targets]--> smallholder farmers (extracted)
+- LERSHA --[uses]--> bundled advisory services (extracted)
+- International Livestock Research Institute --[uses]--> greenhouse gas emissions (extracted)
+- International Livestock Research Institute --[uses]--> co-design (extracted)
+- International Livestock Research Institute --[uses]--> digital data capture (extracted)
+- International Livestock Research Institute --[located_in]--> Uganda (extracted)
+- Calliandra calothyrsus --[produces]--> greenhouse gas emissions (extracted)
+- Agricultural Information Service --[uses]--> Cluster Farmer Field School (extracted)
+- CGIAR Breeding for Tomorrow --[targets]--> smallholder farmer (inferred)
+- Cassava Seed System Toolkit --[targets]--> cassava (extracted)
+- GMIS --[produces]--> groundwater recharge schemes (extracted)
+- Pywr model --[addresses]--> evidence-based water resource management (extracted)
+- PhD student --[located_in]--> Nigeria (extracted)
+- MSc student --[uses]--> genomic diversity analysis (extracted)
+- Alliance Bioversity & CIAT --[collaborates_with]--> Centro ISA (extracted)
+- sweet potato weevil --[targets]--> sweet potato (extracted)
+- internally displaced households --[located_in]--> Sudan (extracted)
+- WTO --[produces]--> Agreement on Fisheries Subsidies (extracted)
+- INIAP --[uses]--> cryopreservation (extracted)
+- FENBPP --[targets]--> CGIAR (extracted)
+- Asian Development Bank --[collaborates_with]--> IRRI (extracted)
+- VISIPRAST --[uses]--> zero deforestation compliance (extracted)
+- Digital Twin Platform --[uses]--> transboundary water management (extracted)
+- PRIME --[addresses]--> pest risk identification (extracted)
+- local government officials --[uses]--> locally-led climate adaptation (extracted)
+- Homa Bay County --[located_in]--> Kenya (extracted)
+- Lake Victoria --[part_of]--> Homa Bay County (extracted)
+- AWARE platform --[addresses]--> disaster risk management (extracted)
+- Blue Resilience --[located_in]--> Zambia (extracted)
+- Blue Resilience --[located_in]--> Malawi (extracted)
+- climate monitors --[uses]--> community-based climate observation (inferred)
+- climate monitors --[produces]--> agroclimatic forecasting (extracted)
+- QGIS --[uses]--> drought risk assessment (extracted)
+- Giza 111 --[is_a]--> soybean (extracted)
+- FLAR --[targets]--> rice (extracted)
+- Rwanda Agriculture and Animal Resources Development Board --[collaborates_with]--> One Acre Fund (extracted)
+- Pantoea --[related_to]--> rice (extracted)
+- Fusarium fujikuroi --[related_to]--> rice (extracted)
+- OEP --[collaborates_with]--> ICARDA (extracted)
+- Caquetá --[located_in]--> Colombia (extracted)
+- AGNES --[uses]--> climate information services (extracted)
+- tef --[located_in]--> Ethiopia (extracted)
+- HaFAS --[uses]--> LAFA (extracted)
+- HaFAS --[uses]--> NextGen Decision Support Tool (extracted)
+- GeoAgro-Misr --[located_in]--> Egypt (extracted)
+- Kano State --[uses]--> gender-responsive policy (extracted)
+- GCAN --[collaborates_with]--> IFPRI (extracted)
+- GCAN --[addresses]--> gender-responsive agriculture (inferred)
+- GCAN --[collaborates_with]--> ICCASA (extracted)
+- GCAN --[collaborates_with]--> Climate Change Sector Working Group (extracted)
+- GCAN --[located_in]--> Ethiopia (extracted)
+- GCAN --[located_in]--> India (extracted)
+- GCAN --[located_in]--> Nigeria (extracted)
+- Pesira --[targets]--> East Africa (extracted)
+- Pesira --[uses]--> multi-stakeholder platforms (extracted)
+- jamun leaf --[uses]--> soil health monitoring (ambiguous)
+- ISAT --[uses]--> data harmonization (extracted)
+- Pumptech --[uses]--> adaptive scaling (extracted)
+- Pumptech --[targets]--> smallholder farmers (extracted)
+- Plant Production and Protection Department --[collaborates_with]--> International Center for Tropical Agriculture (extracted)
+- AWARD --[uses]--> WEAGov (extracted)
+- WEAGov --[targets]--> policy stakeholder (extracted)
+- Youth and Women Quality Centre --[located_in]--> Uganda (extracted)
+- Youth and Women Quality Centre --[targets]--> smallholder farmer (inferred)
+- IPADT --[located_in]--> Jordan (extracted)
+- orange-fleshed sweetpotato --[located_in]--> Rwanda (extracted)
+- passion fruit --[located_in]--> Kenya (extracted)
+- country convener --[collaborates_with]--> CGIAR (extracted)
+- Ugandan passiflora virus --[targets]--> passion fruit (extracted)
+- Kajiado --[located_in]--> Kenya (extracted)
+- PM-KUSUM --[uses]--> solar irrigation pumps (extracted)
+- genebanks --[uses]--> standard operating procedures (extracted)
+- millet --[uses]--> scaling (inferred)
+- millet --[part_of]--> community seed systems (extracted)
+- millet --[located_in]--> Bihar (extracted)
+- multipurpose trees --[part_of]--> agroecological stewardship (extracted)
+- INCAP --[located_in]--> Guatemala (inferred)
+- Nile tilapia --[part_of]--> integrated aquaculture agriculture (extracted)
+- Nile tilapia --[is_a]--> Oreochromis niloticus (extracted)
+- Bioflow --[addresses]--> genomic prediction (extracted)
+- Htwet Toe --[produces]--> digital climate advisory services (extracted)
+- Village Link Limited --[produces]--> Htwet Toe (extracted)
+- Ask-the-Data --[targets]--> agricultural researchers (extracted)
+- FemiWash Network --[uses]--> training manual on mainstreaming gender (extracted)
+- TechnoServe --[collaborates_with]--> HarvestPlus (extracted)
+- Digital Agroclimatic Plots --[uses]--> satellite imagery analysis (extracted)
+- Digital Agroclimatic Plots --[located_in]--> Colombia (extracted)
+- Alliance of Biodiversity and CIAT --[uses]--> PICSA (extracted)
+- PICSA --[targets]--> smallholder farmers (extracted)
+- PICSA --[uses]--> participatory design (extracted)
+- AClimate --[targets]--> smallholder farmers (extracted)
+- AClimate --[uses]--> crop modeling (extracted)
+- carp --[uses]--> nursery management (extracted)
+- enset --[located_in]--> Ethiopia (extracted)
+- enset --[uses]--> drought tolerance (extracted)
+- Local Technical Agroclimatic Committees --[uses]--> participatory climate services (extracted)
+- Local Technical Agroclimatic Committees --[produces]--> agroclimatic information services (extracted)
+- Local Technical Agroclimatic Committees --[located_in]--> Guatemala (extracted)
+- HarvestPlus --[collaborates_with]--> CIMMYT (extracted)
+- HarvestPlus --[targets]--> Democratic Republic of Congo (extracted)
+- HarvestPlus --[collaborates_with]--> INERA (extracted)
+- SukhaRakshak --[addresses]--> drought management (extracted)
+- Meghdoot --[provides]--> digital advisory services (extracted)
+- Meghdoot --[located_in]--> India (extracted)
+- AgDx --[uses]--> digital agriculture assessment (extracted)
+- FEAST --[uses]--> participatory research (extracted)
+- GIANT strain --[is_a]--> Oreochromis niloticus (extracted)
+- RIAPA model --[located_in]--> Rwanda (extracted)
+- silver carp --[part_of]--> genetic improvement program (extracted)
+- Agent Bi --[targets]--> field agent (extracted)
+- Enterotoxigenic Escherichia coli --[located_in]--> Kenya (extracted)
+- Alternaria padwickii --[targets]--> rice (extracted)
+- ICTA --[produces]--> biofortification (extracted)
+- Machakos --[located_in]--> Kenya (extracted)
+- Crotalaria juncea --[is_a]--> forage legume integration (extracted)
+- Lablab purpureus --[is_a]--> forage legume integration (extracted)
+- mola carplet --[is_a]--> nutrition-sensitive aquaculture (extracted)
+- Amblypharyngodon mola --[is_a]--> mola carplet (extracted)
+- Prey Veng --[located_in]--> Cambodia (extracted)
+- Kampong Thom --[located_in]--> Cambodia (extracted)
+- SADC --[uses]--> fish genetic improvement (extracted)
+- eLandCare --[provides]--> soil and water conservation (extracted)
+- eLandCare --[targets]--> extension agents (extracted)
+- African Development Bank --[collaborates_with]--> Global Center on Adaptation (extracted)
+- rice millers --[located_in]--> Tanzania (extracted)
+- school meal programs --[addresses]--> gender equality (extracted)
+- Panicum maximum --[located_in]--> Ethiopia (extracted)
+- CLEANED tool --[located_in]--> Northern Ghana (extracted)
+- Embu --[located_in]--> Kenya (extracted)
+- Bomet County --[located_in]--> Kenya (extracted)
+- University of Liberia --[collaborates_with]--> International Institute of Tropical Agriculture (extracted)
+- water hyacinth --[addresses]--> Nigeria (extracted)
+- MaliDMS --[uses]--> WaPOR (extracted)
+- R-Instat --[uses]--> triadic comparisons of technology options (extracted)
+- 1000FARMS --[uses]--> triadic comparisons of technology options (extracted)
+- RUNRES --[targets]--> smallholder farmers (extracted)
+- Genesys --[uses]--> data curation (extracted)
+- ASORECH --[located_in]--> Guatemala (inferred)
+- Bulletin Builder --[produces]--> agroclimatic information services (extracted)
+- MODIS NDVI --[uses]--> Bangladesh (extracted)
+- CGIAR AI Hub --[collaborates_with]--> Alliance of Bioversity International and CIAT (extracted)
+- Digital Transformation Accelerator --[part_of]--> Alliance of Bioversity International and CIAT (extracted)
+- Longa --[uses]--> automatic speech recognition (extracted)
+- Vision2Biomass --[uses]--> computer vision (extracted)
+- EPADDY --[uses]--> acoustic sensing (extracted)
+- MarketVision --[uses]--> computer vision (extracted)
+- Environmental Care Foundation --[located_in]--> Adamawa state (extracted)
+- Qingshan Village --[located_in]--> Zhejiang Province (extracted)
+- Qingshan Village --[located_in]--> China (extracted)
+- RiceAdvice --[targets]--> smallholder farmers (extracted)
+- RiceAdvice --[produces]--> site-specific recommendations (extracted)
+- RiceAdvice --[located_in]--> Senegal River Valley (extracted)
+- RiceAdvice --[produces]--> site-specific fertilizer recommendations (extracted)
+- Borana communities --[located_in]--> Sub-Saharan Africa (inferred)
+- bamboo --[produces]--> carbon sequestration (extracted)
+- Moso bamboo --[is_a]--> bamboo (extracted)
+- Sirex noctilio --[targets]--> pine (extracted)
+- Leptocybe invasa --[targets]--> eucalyptus (extracted)
+- Ophelimus maskelli --[targets]--> eucalyptus (extracted)
+- DNDC model --[uses]--> process-based modeling (extracted)
+- DNDC model --[uses]--> crop simulation (extracted)
+- GreenReserve game --[uses]--> experimental gaming (extracted)
+- Climate Action Science Program --[part_of]--> CGIAR (extracted)
+- Foundation for Ecological Security --[collaborates_with]--> IFPRI (extracted)
+- tribal communities --[located_in]--> Banspal (extracted)
+- dairy producers --[located_in]--> Sub-Saharan Africa (extracted)
+- agri-food system workers --[located_in]--> low and middle income countries (extracted)
+- farmers handbook --[located_in]--> North Shewa zone (extracted)
+- SAAF --[uses]--> seed treatment protocols (extracted)
+- SAAF --[collaborates_with]--> RESTORE Project (extracted)
+- faba beans --[located_in]--> Egypt (extracted)
+- community animal health workers --[provides]--> livestock health extension (extracted)
+- Global Goal on Adaptation --[uses]--> indicator repository (inferred)
+- PAGASA --[produces]--> weather-informed agro-advisories (extracted)
+- Climate+ --[uses]--> application programming interface (extracted)
+- Bicol Region --[located_in]--> Philippines (extracted)
+- Hanzila Village --[located_in]--> Zambia (extracted)
+- Matara District --[located_in]--> Sri Lanka (extracted)
+- Godavari Basin --[located_in]--> India (extracted)
+- Nonghet District --[located_in]--> Lao PDR (extracted)
+- Madhesh Province --[located_in]--> Nepal (extracted)
+- RUSLE --[uses]--> soil erosion risk mapping (extracted)
+- G-FEAST --[addresses]--> small ruminants (extracted)
+- Megathyrsus maximus --[uses]--> silvopastoral systems (extracted)
+- Megathyrsus maximus --[is_a]--> organism (extracted)
+- no-till systems --[part_of]--> conservation agriculture (extracted)
+- Fusarium oxysporum --[targets]--> chickpea (extracted)
+- Ascochyta rabiei --[targets]--> chickpea (extracted)
+- Pseudomonas --[located_in]--> Song River (extracted)
+- broiler farms --[uses]--> erythromycin (extracted)
+- broiler farms --[uses]--> oxytetracycline (extracted)
+- DyTAEL --[promotes]--> agroecological transition (extracted)
+- Sentinel-2 --[uses]--> remote sensing (extracted)
+- Support Vector Machine --[uses]--> remote sensing pest detection (extracted)
+- AgroTutor Academy --[uses]--> WhatsApp (extracted)
+- elected representatives --[part_of]--> DyTAEL (extracted)
+- GEM system --[addresses]--> value chain upgrading (extracted)
+- Climate Data Tool --[targets]--> Central America (extracted)
+- Solutions Dashboard --[uses]--> agroecology (extracted)
+- Africa AgroClimate API --[produces]--> climate information services (extracted)
+- Zambia Crop Monitor --[uses]--> satellite-based monitoring (extracted)
+- Zambia Crop Monitor --[located_in]--> Zambia (extracted)
+- NASA Harvest --[collaborates_with]--> University of Maryland (extracted)
+- iShamba --[located_in]--> Kenya (extracted)
+- iShamba --[uses]--> gender-responsive approaches (extracted)
+- iShamba --[produces]--> ai-driven agricultural extension (extracted)
+- Amazon Biodiversity Fund --[located_in]--> Brazilian Amazon (extracted)
+- CLIC --[collaborates_with]--> impact measurement (extracted)
+- TerraBio --[uses]--> environmental dna monitoring (extracted)
+- TerraBio --[uses]--> satellite-based monitoring (extracted)
+- GAIA --[targets]--> smallholder farmers (extracted)
+- TerraSocio --[collaborates_with]--> Soros Economic Development Fund (extracted)
+- Tree Aid --[collaborates_with]--> Alliance of Bioversity International and CIAT (extracted)
+- WaterCopilot --[uses]--> artificial intelligence (extracted)
+- Open Data Cube --[uses]--> spatiotemporal asset catalog (extracted)
+- camu camu --[located_in]--> Ucayali (extracted)
+- CEDRO --[uses]--> financial literacy training (extracted)
+- Conservation International --[collaborates_with]--> CIAT (extracted)
+- ASOCAPIC --[uses]--> organic certification (extracted)
+- KAZNET --[targets]--> livestock keepers (extracted)
+- KAZNET --[located_in]--> Kenya (extracted)
+- Viazi Soko --[targets]--> potato (extracted)
+- M-Omulimisa --[located_in]--> Uganda (extracted)
+- M-Omulimisa --[provides]--> climate information services (extracted)
+- WENDOU --[located_in]--> Senegal (extracted)
+- CORAF --[located_in]--> West Africa (extracted)
+- IUCEA --[produces]--> food safety training (extracted)
+- CEPI --[addresses]--> Rift Valley fever (extracted)
+- COHESA --[uses]--> one health approach (extracted)
+- COHESA --[collaborates_with]--> FAO (extracted)
+- COHESA --[collaborates_with]--> WHO (extracted)
+- COHESA --[collaborates_with]--> WOAH (extracted)
+- EAFF --[located_in]--> East Africa (extracted)
+- Rift Valley fever --[targets]--> pastoral cattle (extracted)
+- eAMR CONNECT --[uses]--> antimicrobial resistance surveillance (extracted)
+- LIAM --[uses]--> decision support systems (extracted)
+- ATVET --[uses]--> curriculum integration (extracted)
+- Great Green Wall Initiative --[uses]--> landscape restoration (extracted)
+- Great Green Wall Initiative --[uses]--> nature-based solutions (extracted)
+- DSSAT-CERES-millet model --[uses]--> crop modeling (extracted)
+- rabies --[located_in]--> Zimbabwe (extracted)
+- Crimean-Congo haemorrhagic fever --[located_in]--> Burkina Faso (extracted)
+- Kenya Animal Bio-surveillance System --[uses]--> digital data collection (extracted)
+- Kenya Meteorological Department --[uses]--> ENACTS tools (extracted)
+- Water Resource Authority --[uses]--> environmental sampling (extracted)
+- National Environmental Management Authority --[uses]--> environmental sampling (extracted)
+- OHRECA --[produces]--> graduate fellows (extracted)
+- FarmVetCare app --[located_in]--> Vietnam (extracted)
+- WHO GLASS --[uses]--> antimicrobial resistance surveillance (extracted)
+- EDACaP --[located_in]--> Ethiopia (extracted)
+- Taenia solium --[located_in]--> Uganda (extracted)
+- environmental health technologists --[uses]--> biosafety protocols (extracted)
+- African Union --[uses]--> policy coherence (extracted)
+- alpaca --[located_in]--> Peru (extracted)
+- GHACOF --[collaborates_with]--> ICPAC (extracted)
+- WASCAL --[collaborates_with]--> Alliance of Bioversity International and CIAT (extracted)
+- WASCAL --[collaborates_with]--> Nazi Université BONI (extracted)
+- KilimoBora --[part_of]--> KALRO (extracted)
+- Jokalante app --[targets]--> smallholder farmers (extracted)
+- Jokalante app --[located_in]--> Senegal (extracted)
+- SmaRT packs --[targets]--> livestock keepers (extracted)
+- Crop Decision Trees --[located_in]--> Zambia (extracted)
+- Zambia National Crop Monitor --[located_in]--> Zambia (extracted)
+- Esoko --[located_in]--> Ghana (extracted)
+- Farmerline --[located_in]--> Ghana (extracted)
+- UFHB --[uses]--> curriculum integration (extracted)
+- ACMAD --[collaborates_with]--> Alliance of Bioversity International and CIAT (extracted)
+- EDACaP-V2 --[produces]--> digital advisory platforms (extracted)
+- IMTR --[collaborates_with]--> AICCRA (extracted)
+- ENACTS --[collaborates_with]--> IRI (extracted)
+- NextGen Decision Support Tool --[produces]--> site-specific fertilizer recommendations (extracted)
+- GPT-5 --[uses]--> bias mitigation in ai (extracted)
+- Smart Zambia Institute --[addresses]--> digital agriculture ecosystem (inferred)
+- durum wheat --[located_in]--> Senegal River Basin (extracted)
+- Puccinia hordei --[targets]--> barley (extracted)
+- Napier grass --[located_in]--> sub-Saharan Africa (extracted)
+- ISRA --[collaborates_with]--> ICARDA (extracted)
+- MARD --[uses]--> RiceMoRe (extracted)
+- RiceMoRe --[located_in]--> Vietnam (extracted)
+- VICR Toolkit --[produces]--> IWMI (extracted)
+- DIWASA project --[collaborates_with]--> IWMI (extracted)
+- TRACE platform --[uses]--> Sentinel-1 (extracted)
+- TRACE platform --[uses]--> machine learning (extracted)
+- Crop Observatories platform --[produces]--> market intelligence (extracted)
+- SELEVER --[located_in]--> Burkina Faso (extracted)
+- internally displaced person --[located_in]--> Nigeria (extracted)
+- refugee --[located_in]--> Uganda (extracted)
+- Climate Community of Practice --[part_of]--> CGIAR (extracted)
+- Climate Opportunities Weekly Bulletin --[targets]--> Climate Community of Practice (extracted)
+- Climate Opportunities Weekly Bulletin --[addresses]--> climate action (extracted)
+- Fragile and Conflict-Affected Food Systems Area of Work --[part_of]--> CGIAR Food Frontiers and Security Science Program (extracted)
+- CGIAR Food Frontiers and Security Science Program --[uses]--> humanitarian-development-peace nexus (extracted)
+- Tanzanian Short Horn Zebu --[located_in]--> Tanzania (extracted)
+- Boran cattle --[located_in]--> Tanzania (inferred)
+- Aflasafe --[uses]--> biocontrol (extracted)
+- ANACIM --[part_of]--> climate information services (extracted)
+- pulse crops --[produces]--> food security (extracted)
+- pulse crops --[part_of]--> rice-fallow intensification (extracted)
+- pulse crops --[located_in]--> Odisha (extracted)
+- Plant Treaty --[uses]--> multilateral system (extracted)
+- NERICA L19 --[is_a]--> rice (extracted)
+- downy mildew --[targets]--> pearl millet (extracted)
+- cocoa --[located_in]--> Côte d'Ivoire (extracted)
+- Karamoja Cluster --[located_in]--> Uganda (extracted)
+- CGIAR Climate Security Observatory --[produces]--> climate security (extracted)
+- Enabling Environment Digital Toolbox --[targets]--> policymakers (extracted)
+- County Climate Change Fund --[located_in]--> Kenya (extracted)
+- Menz sheep --[located_in]--> Ethiopia (inferred)
+- SADMS --[uses]--> NOAA-GEFS (extracted)
+- ClimBeR program --[located_in]--> Zambia (extracted)
+- AABS --[collaborates_with]--> WorldFish (extracted)
+- NutriHarvest --[targets]--> Kenya (extracted)
+- NutriHarvest --[targets]--> Tanzania (extracted)
+- Global Center on Adaptation --[collaborates_with]--> African Development Bank (extracted)
+- Global Center on Adaptation --[collaborates_with]--> World Bank (extracted)
+- Africa Agriculture Adaptation Atlas --[addresses]--> climate adaptation planning (extracted)
+- Africa Agriculture Adaptation Atlas --[produces]--> climate risk profiling (extracted)
+- poultry producers --[located_in]--> India (extracted)
+- schoolchildren --[located_in]--> Kenya (extracted)
+- University of the Philippines Los Baños --[uses]--> MyFarmTrees (extracted)
+- MyFarmTrees --[located_in]--> Malaysia (extracted)
+- MyFarmTrees --[uses]--> forest restoration (extracted)
+- MyFarmTrees --[located_in]--> ASEAN (extracted)
+- MyFarmTrees --[located_in]--> Caribbean (extracted)
+- MyFarmTrees --[targets]--> smallholder farmers (extracted)
+- Opuntia ficus-indica --[located_in]--> Kutch (extracted)
+- PABRA --[part_of]--> ECABREN (extracted)
+- Adaptation Atlas --[uses]--> climate impact projections (extracted)
+- CropSuiteLite --[uses]--> crop suitability modeling (extracted)
+- Green Legacy Initiative --[located_in]--> Ethiopia (extracted)
+- Pan African Bean Research Alliance --[collaborates_with]--> Alliance of Bioversity and CIAT (extracted)
+- Mali-Meteo --[part_of]--> climate services (extracted)
+- Center for Mechanized Agriculture --[uses]--> mechanized agriculture services (inferred)
+- Seed Development and Certification Agency --[located_in]--> Liberia (extracted)
+- AfricaRice Genebank --[uses]--> Videometer multispectral imaging system (extracted)
+- Oryza sativa --[is_a]--> rice (extracted)
+- Balochistan --[located_in]--> Pakistan (inferred)
+- service providers --[uses]--> RiceAdvice (extracted)
+- GEM parboiler --[targets]--> women farmers (extracted)
+- Inland Valley Suitability tool --[uses]--> site-specific recommendations (inferred)
+- Water Resilience Tracker --[located_in]--> Nepal (extracted)
+- Water Resilience Tracker --[uses]--> Brazil (extracted)
+- Water Resilience Tracker --[uses]--> Malawi (extracted)
+- AcceLER project --[addresses]--> methane mitigation (extracted)
+- Rice GAPfinder --[uses]--> monitoring reporting and verification (inferred)
+- drought-tolerant rice varieties --[addresses]--> climate change (extracted)
+- mechanical weeders --[targets]--> women farmers (extracted)
+- solar-powered irrigation system --[uses]--> pay-as-you-go system (extracted)
+- Pairwise --[collaborates_with]--> IRRI (extracted)
+- Bureau of Soils and Water Management --[collaborates_with]--> IRRI (extracted)
+- Kasetsart University --[located_in]--> Thailand (extracted)
+- Digital Twin --[uses]--> basin management (extracted)
+- MyFarmTrees platform --[addresses]--> forest landscape restoration (extracted)
+- MyFarmTrees platform --[uses]--> smallholder farmers (extracted)
+- CRISPR/Cas9 --[targets]--> stem rust (extracted)
+- CRISPR/Cas9 --[targets]--> leaf rust (extracted)
+- mechanical transplanters --[targets]--> smallholder farmers (extracted)
+- mechanical transplanters --[located_in]--> Mali (extracted)
+- INSAB --[located_in]--> Gabon (extracted)
+- Better Rice Initiative Cambodia --[collaborates_with]--> IRRI (extracted)
+- RD-3064 --[is_a]--> barley (extracted)
+- Business Investment Decision platform --[produces]--> CGIAR (extracted)
+- Alliance for a Green Revolution in Africa --[collaborates_with]--> International Institute of Tropical Agriculture (extracted)
+- HQCF --[produces]--> wheat (extracted)
+- Mozambique Institute of Agricultural Research --[located_in]--> Mozambique (extracted)
+- BRIN --[collaborates_with]--> International Institute of Tropical Agriculture (extracted)
+- community-based extension agents --[targets]--> smallholder farmers (inferred)
+- Healthy Food Connectors --[provides]--> gender-responsive extension services (extracted)
+- Agro-Processing GFCs --[produces]--> OFSP (extracted)
+- OFSP --[part_of]--> sweetpotato (inferred)
+- yacon --[produces]--> fructooligosaccharides (extracted)
+- value chain specialists --[uses]--> technical assistance (extracted)
+- institutional nurseries --[produces]--> apical rooted cuttings propagation (extracted)
+- FIFAMANOR --[collaborates_with]--> VKMMV (extracted)
+- FIFAMANOR --[located_in]--> Madagascar (extracted)
+- cryobank --[uses]--> cryopreservation (extracted)
+- Department of Agriculture --[uses]--> capacity building (extracted)
+- net houses --[uses]--> early generation seed production (extracted)
+- DWRB244 --[is_a]--> barley (extracted)
+- 3R-gene --[addresses]--> late blight (extracted)
+- 3R-gene --[produces]--> late blight resistance (extracted)
+- 3R-gene --[located_in]--> Rwanda (extracted)
+- RiceAdvice app --[targets]--> smallholder farmers (extracted)
+- LAMP assay --[uses]--> cassava (extracted)
+- LAMP assay --[uses]--> sweetpotato (extracted)
+- KEPHIS --[located_in]--> Kenya (extracted)
+- TOSCI --[located_in]--> Tanzania (extracted)
+- Société Malakass --[uses]--> OFSP (extracted)
+- Mali-Météo --[collaborates_with]--> AICCRA (inferred)
+- Alliance of Bioversity International-CIAT --[collaborates_with]--> OECD Climate Change Expert Group (extracted)
+- ICAR --[collaborates_with]--> IRRI (extracted)
+- Climate Resilience Platform --[addresses]--> climate change adaptation (extracted)
+- XAM XAM SUUF --[located_in]--> Senegal (extracted)
+- FarmLog --[uses]--> digital agriculture (extracted)
+- ISARC --[part_of]--> IRRI (inferred)
+- Pusa Basmati 1979 --[uses]--> imazethapyr (extracted)
+- IRRI-SARC --[located_in]--> India (extracted)
+- AVENIR project --[targets]--> smallholder farmers (extracted)
+- AVENIR project --[located_in]--> Senegal (extracted)
+- Tamil Nadu Agricultural University --[located_in]--> India (extracted)
+- EIAR --[located_in]--> Ethiopia (extracted)
+- Tongil rice --[targets]--> Africa (extracted)
+- spring wheat --[targets]--> drought tolerance (extracted)
+- National Climate Policy --[addresses]--> climate resilience assessment (extracted)
+- polyhouse --[located_in]--> North Bengal (extracted)
+- rust disease --[targets]--> soybean (extracted)
+- rosette disease --[targets]--> groundnut (extracted)
+- TRICOT --[uses]--> participatory evaluation (extracted)
+- AVISA --[produces]--> climate-resilient seed production (extracted)
+- ADCIN --[uses]--> heterotic group development (extracted)
+- Enterprise Breeding System --[addresses]--> data-driven breeding (extracted)
+- yam breeding --[uses]--> marker-assisted selection (extracted)
+- wheat varieties --[targets]--> smallholder farmer (extracted)
+- wheat breeding --[uses]--> speed breeding (extracted)
+- climate change --[addresses]--> climate adaptation (extracted)
+- climate change --[produces]--> climate vulnerability (extracted)
+- climate change --[produces]--> gender-based violence (extracted)
+- climate change --[produces]--> food insecurity (extracted)
+- climate change --[addresses]--> religious beliefs (extracted)
+- climate change --[produces]--> forced displacement (extracted)
+- maize breeding --[uses]--> genomic selection (extracted)
+- rice breeding --[located_in]--> Latin America (extracted)
+- sweetpotato breeding --[targets]--> women farmers (extracted)
+- potato breeding --[addresses]--> late blight (extracted)
+- banana breeding --[addresses]--> fusarium wilt (extracted)
+- public-private partnership --[accelerates]--> variety development (inferred)
+- public-private partnership --[produces]--> seed varieties (extracted)
+- public-private partnership --[uses]--> climate information services (extracted)
+- public-private partnership --[addresses]--> animal health (extracted)
+- public-private partnership --[addresses]--> climate adaptation (inferred)
+- decision-support systems --[addresses]--> livestock productivity (inferred)
+- climate-smart aquaculture --[targets]--> smallholder farmers (extracted)
+- multi-stakeholder platform --[located_in]--> Lower Kafue Basin (extracted)
+- multi-stakeholder platform --[addresses]--> scaling pathways (extracted)
+- decision support system --[targets]--> Myanmar (extracted)
+- direct seeded rice --[produces]--> water use efficiency (extracted)
+- direct seeded rice --[located_in]--> Haryana (extracted)
+- direct seeded rice --[addresses]--> climate-smart agriculture (extracted)
+- direct seeded rice --[produces]--> water-use efficiency (inferred)
+- direct seeded rice --[produces]--> reduced greenhouse gas emissions (extracted)
+- direct seeded rice --[uses]--> mechanized agriculture (extracted)
+- terrestrial ecosystems --[produces]--> carbon sequestration (extracted)
+- theater of the oppressed --[addresses]--> restrictive gender norms (extracted)
+- African swine fever --[located_in]--> Uganda (extracted)
+- African swine fever --[targets]--> pig (extracted)
+- peste des petits ruminants --[located_in]--> Mali (extracted)
+- peste des petits ruminants --[targets]--> sheep (extracted)
+- innovation platform --[located_in]--> Uzbekistan (extracted)
+- sustainable aquaculture --[uses]--> Small Reservoir Portal (extracted)
+- Son La Province --[located_in]--> Vietnam (inferred)
+- seed quality assessment --[targets]--> chickpea (extracted)
+- AgWise --[targets]--> smallholder farmers (extracted)
+- AgWise --[located_in]--> Ethiopia (extracted)
+- AgWise --[uses]--> Google Earth Engine (extracted)
+- AgWise --[produces]--> site-specific fertilizer recommendations (extracted)
+- agricultural diversification --[produces]--> enhanced sustainability (extracted)
+- Pro-WEAI --[uses]--> empowerment (extracted)
+- Kalanga --[related_to]--> San community (extracted)
+- reusable plastic crates --[addresses]--> postharvest loss reduction (extracted)
+- ribavirin --[uses]--> virus elimination protocols (extracted)
+- Striga --[targets]--> cowpea (extracted)
+- Peste des petits ruminants --[targets]--> smallholder farmers (extracted)
+- machine learning model --[addresses]--> flood prediction (extracted)
+- early warning system --[targets]--> smallholder farmer (extracted)
+- drought tolerant maize hybrids --[targets]--> smallholder farmers (inferred)
+- integrated farming system --[uses]--> Bangladesh (extracted)
+- site-specific fertilizer recommendation --[addresses]--> maize (extracted)
+- site-specific fertilizer recommendation --[uses]--> intercropping (extracted)
+- machine learning models --[uses]--> digital soil mapping (extracted)
+- gender-transformative approaches --[addresses]--> food security (extracted)
+- gender-transformative approaches --[targets]--> smallholder farmers (extracted)
+- gender-transformative approaches --[addresses]--> gender equality (extracted)
+- Fall Armyworm --[targets]--> maize (extracted)
+- living labs --[uses]--> participatory capacity building (extracted)
+- agro-climatic bulletins --[located_in]--> Vietnam (extracted)
+- agro-climatic bulletins --[located_in]--> Tay Ninh Province (extracted)
+- site-specific fertilizer advisories --[uses]--> digital datasets (extracted)
+- Phragmivirus --[part_of]--> Potyviridae (extracted)
+- Ethiopian universities --[uses]--> dairy innovation package (extracted)
+- school feeding program --[uses]--> micronutrient fortification (extracted)
+- mechanized direct seeded rice --[uses]--> alternate wetting and drying (extracted)
+- mechanized direct seeded rice --[uses]--> balanced nutrient management (extracted)
+- mechanized direct seeded rice --[targets]--> rice (extracted)
+- artificial intelligence hub --[located_in]--> Abu Dhabi (extracted)
+- nutrition-sensitive aquaculture --[located_in]--> Odisha (extracted)
+- locally led climate adaptation --[uses]--> participatory mapping (extracted)
+- locally led climate adaptation --[addresses]--> climate-smart agriculture (inferred)
+- integrated herd management --[targets]--> small ruminants (extracted)
+- Community Animal Health Workers --[uses]--> community-driven extension (extracted)
+- gender responsive budgeting --[located_in]--> Bangladesh (extracted)
+- Climate Change Sector Working Group --[located_in]--> Adamawa State (extracted)
+- participatory planning --[uses]--> Climate-Smart Mapping and Adaptation Planning (extracted)
+- sustainable agricultural mechanisation --[targets]--> smallholder farmers (extracted)
+- discrete choice experiment --[uses]--> willingness to pay (extracted)
+- digital twins --[uses]--> earth observation (extracted)
+- digital twins --[uses]--> machine learning (extracted)
+- Dry Corridor --[located_in]--> Guatemala (extracted)
+- participatory approaches --[targets]--> indigenous peoples (extracted)
+- target product profiling --[uses]--> plant breeder (extracted)
+- smart-valleys approach --[targets]--> smallholder farmers (extracted)
+- olive cultivars --[located_in]--> Balochistan (extracted)
+- integrated rice-fish system --[produces]--> climate resilience (extracted)
+- integrated rice-fish system --[targets]--> smallholder farmers (extracted)
+- drought tolerant varieties --[addresses]--> climate change mitigation (inferred)
+- technology packs --[targets]--> smallholder farmers (inferred)
+- technology packs --[located_in]--> DRC (extracted)
+- technology packs --[located_in]--> Burundi (extracted)
+- phytophthora infestans --[targets]--> potato (extracted)
+- Mianyu NO.2 --[part_of]--> variety registration (extracted)
+- Qianyu NO.24 --[produces]--> CIP (extracted)
+- Plant Breeding Methods and Strategies --[is_a]--> Crop Improvement and Genetics (taxonomy)
+- Participatory and Farmer-Centered Breeding --[is_a]--> Plant Breeding Methods and Strategies (taxonomy)
+- Advanced Breeding Techniques --[is_a]--> Plant Breeding Methods and Strategies (taxonomy)
+- Breeding Program Design and Management --[is_a]--> Plant Breeding Methods and Strategies (taxonomy)
+- Specific Breeding Targets --[is_a]--> Plant Breeding Methods and Strategies (taxonomy)
+- Crossing and Selection Methods --[is_a]--> Plant Breeding Methods and Strategies (taxonomy)
+- Genomics and Molecular Tools --[is_a]--> Crop Improvement and Genetics (taxonomy)
+- Genomic Selection and Prediction --[is_a]--> Genomics and Molecular Tools (taxonomy)
+- Genome Editing and Engineering --[is_a]--> Genomics and Molecular Tools (taxonomy)
+- Marker-Assisted Selection and QTL --[is_a]--> Genomics and Molecular Tools (taxonomy)
+- Sequencing and Genomic Analysis --[is_a]--> Genomics and Molecular Tools (taxonomy)
+- Molecular Markers and Fingerprinting --[is_a]--> Genomics and Molecular Tools (taxonomy)
+- Multi-Omics and Bioinformatics --[is_a]--> Genomics and Molecular Tools (taxonomy)
+- Phenotyping and Trait Evaluation --[is_a]--> Crop Improvement and Genetics (taxonomy)
+- Phenotyping Methods and Technologies --[is_a]--> Phenotyping and Trait Evaluation (taxonomy)
+- Multi-Environment and Multi-Location Testing --[is_a]--> Phenotyping and Trait Evaluation (taxonomy)
+- Stress Tolerance Screening --[is_a]--> Phenotyping and Trait Evaluation (taxonomy)
+- Trait Characterization and Analysis --[is_a]--> Phenotyping and Trait Evaluation (taxonomy)
+- Genetic Gain and Performance Assessment --[is_a]--> Phenotyping and Trait Evaluation (taxonomy)
+- Germplasm and Genetic Resources --[is_a]--> Crop Improvement and Genetics (taxonomy)
+- Germplasm Conservation and Management --[is_a]--> Germplasm and Genetic Resources (taxonomy)
+- Genetic Diversity Assessment --[is_a]--> Germplasm and Genetic Resources (taxonomy)
+- Vegetative Propagation and Tissue Culture --[is_a]--> Germplasm and Genetic Resources (taxonomy)
+- Variety Development and Release --[is_a]--> Crop Improvement and Genetics (taxonomy)
+- Variety Registration and Licensing --[is_a]--> Variety Development and Release (taxonomy)
+- Variety Adoption and Deployment --[is_a]--> Variety Development and Release (taxonomy)
+- Target Population and Market Segmentation --[is_a]--> Variety Development and Release (taxonomy)
+- Seed Systems and Seed Supply --[is_a]--> Crop Improvement and Genetics (taxonomy)
+- Seed Production --[is_a]--> Seed Systems and Seed Supply (taxonomy)
+- Seed Quality and Certification --[is_a]--> Seed Systems and Seed Supply (taxonomy)
+- Seed System Development and Strengthening --[is_a]--> Seed Systems and Seed Supply (taxonomy)
+- Seed Distribution and Delivery --[is_a]--> Seed Systems and Seed Supply (taxonomy)
+- Agroecology and Regenerative Practices --[is_a]--> Sustainable Farming Systems and Practices (taxonomy)
+- Core Agroecological Approaches --[is_a]--> Agroecology and Regenerative Practices (taxonomy)
+- Organic and Circular Farming --[is_a]--> Agroecology and Regenerative Practices (taxonomy)
+- Nature-Based and Ecosystem Approaches --[is_a]--> Agroecology and Regenerative Practices (taxonomy)
+- Climate-Smart Agriculture --[is_a]--> Agroecology and Regenerative Practices (taxonomy)
+- Integrated Crop and Soil Management --[is_a]--> Sustainable Farming Systems and Practices (taxonomy)
+- Conservation Agriculture and Tillage --[is_a]--> Integrated Crop and Soil Management (taxonomy)
+- Cropping Systems --[is_a]--> Integrated Crop and Soil Management (taxonomy)
+- Soil Health and Fertility Management --[is_a]--> Integrated Crop and Soil Management (taxonomy)
+- Precision and Digital Crop Management --[is_a]--> Integrated Crop and Soil Management (taxonomy)
+- Agricultural Mechanization --[is_a]--> Integrated Crop and Soil Management (taxonomy)
+- Carbon and Greenhouse Gas Management in Farming --[is_a]--> Integrated Crop and Soil Management (taxonomy)
+- Irrigation and Water Management --[is_a]--> Sustainable Farming Systems and Practices (taxonomy)
+- Irrigation Systems and Technologies --[is_a]--> Irrigation and Water Management (taxonomy)
+- Water Productivity and Efficiency --[is_a]--> Irrigation and Water Management (taxonomy)
+- Water Productivity and Efficiency --[is_a]--> Water Resources and Governance (taxonomy)
+- Agricultural Water Resources Management --[is_a]--> Irrigation and Water Management (taxonomy)
+- Pest, Disease, and Weed Management --[is_a]--> Sustainable Farming Systems and Practices (taxonomy)
+- Integrated Pest Management --[is_a]--> Pest, Disease, and Weed Management (taxonomy)
+- Biological Control --[is_a]--> Pest, Disease, and Weed Management (taxonomy)
+- Disease Management --[is_a]--> Pest, Disease, and Weed Management (taxonomy)
+- Livestock and Mixed Farming Systems --[is_a]--> Sustainable Farming Systems and Practices (taxonomy)
+- Livestock Production and Management --[is_a]--> Livestock and Mixed Farming Systems (taxonomy)
+- Herd Health Management --[is_a]--> Livestock and Mixed Farming Systems (taxonomy)
+- Feed and Forage Management --[is_a]--> Livestock and Mixed Farming Systems (taxonomy)
+- Pastoral and Rangeland Systems --[is_a]--> Livestock and Mixed Farming Systems (taxonomy)
+- Livestock Methane and Emissions --[is_a]--> Livestock and Mixed Farming Systems (taxonomy)
+- Livestock Value Chains and Services --[is_a]--> Livestock and Mixed Farming Systems (taxonomy)
+- Aquaculture and Aquatic Food Systems --[is_a]--> Sustainable Farming Systems and Practices (taxonomy)
+- Aquaculture Systems --[is_a]--> Aquaculture and Aquatic Food Systems (taxonomy)
+- Integrated Rice-Fish and Aquatic Farming --[is_a]--> Aquaculture and Aquatic Food Systems (taxonomy)
+- Fisheries and Aquatic Food Systems --[is_a]--> Aquaculture and Aquatic Food Systems (taxonomy)
+- Agroforestry and Landscape Farming --[is_a]--> Sustainable Farming Systems and Practices (taxonomy)
+- Agroforestry Systems --[is_a]--> Agroforestry and Landscape Farming (taxonomy)
+- Landscape and Land Management --[is_a]--> Agroforestry and Landscape Farming (taxonomy)
+- Farming Systems Innovation and Scaling --[is_a]--> Sustainable Farming Systems and Practices (taxonomy)
+- Technology Adoption and Diffusion --[is_a]--> Farming Systems Innovation and Scaling (taxonomy)
+- Technology Adoption and Diffusion --[is_a]--> Smallholder Farming and Technology Adoption (taxonomy)
+- Technology Adoption and Diffusion --[is_a]--> Innovation Systems and Scaling (taxonomy)
+- Technology Adoption and Diffusion --[is_a]--> Scaling and Innovation Diffusion (taxonomy)
+- Agricultural Extension and Advisory Services --[is_a]--> Farming Systems Innovation and Scaling (taxonomy)
+- Agricultural Extension and Advisory Services --[is_a]--> Capacity Development, Extension, and Knowledge Systems (taxonomy)
+- Participatory and Farmer-Centered Approaches --[is_a]--> Farming Systems Innovation and Scaling (taxonomy)
+- Smallholder and Community Farming --[is_a]--> Farming Systems Innovation and Scaling (taxonomy)
+- Seed Systems and Crop Improvement --[is_a]--> Sustainable Farming Systems and Practices (taxonomy)
+- Seed Systems Development --[is_a]--> Seed Systems and Crop Improvement (taxonomy)
+- Crop Genetic Improvement --[is_a]--> Seed Systems and Crop Improvement (taxonomy)
+- Post-Harvest and Food Loss Management --[is_a]--> Sustainable Farming Systems and Practices (taxonomy)
+- Climate Adaptation and Resilience --[is_a]--> Climate Change, Environment, and Natural Resources (taxonomy)
+- Climate-Smart Agriculture Approaches --[is_a]--> Climate Adaptation and Resilience (taxonomy)
+- Adaptation Planning and Implementation --[is_a]--> Climate Adaptation and Resilience (taxonomy)
+- Climate Resilience Building --[is_a]--> Climate Adaptation and Resilience (taxonomy)
+- Locally Led and Community-Based Adaptation --[is_a]--> Climate Adaptation and Resilience (taxonomy)
+- Climate-Conflict and Displacement Nexus --[is_a]--> Climate Adaptation and Resilience (taxonomy)
+- Agroecological Approaches to Adaptation --[is_a]--> Climate Adaptation and Resilience (taxonomy)
+- Climate Mitigation and Low-Carbon Agriculture --[is_a]--> Climate Change, Environment, and Natural Resources (taxonomy)
+- Greenhouse Gas Measurement and Monitoring --[is_a]--> Climate Mitigation and Low-Carbon Agriculture (taxonomy)
+- Carbon Sequestration and Carbon Markets --[is_a]--> Climate Mitigation and Low-Carbon Agriculture (taxonomy)
+- Methane and Emission Reduction Practices --[is_a]--> Climate Mitigation and Low-Carbon Agriculture (taxonomy)
+- Low-Carbon and Zero-Carbon Agriculture --[is_a]--> Climate Mitigation and Low-Carbon Agriculture (taxonomy)
+- Biogas and Circular Bioeconomy --[is_a]--> Climate Mitigation and Low-Carbon Agriculture (taxonomy)
+- Climate Information and Risk Management --[is_a]--> Climate Change, Environment, and Natural Resources (taxonomy)
+- Climate Information Services --[is_a]--> Climate Information and Risk Management (taxonomy)
+- Climate Forecasting and Early Warning --[is_a]--> Climate Information and Risk Management (taxonomy)
+- Climate Risk Assessment and Vulnerability --[is_a]--> Climate Information and Risk Management (taxonomy)
+- Climate Risk Finance and Insurance --[is_a]--> Climate Information and Risk Management (taxonomy)
+- Land, Soil, and Ecosystem Management --[is_a]--> Climate Change, Environment, and Natural Resources (taxonomy)
+- Sustainable Land Management --[is_a]--> Land, Soil, and Ecosystem Management (taxonomy)
+- Soil Health and Management --[is_a]--> Land, Soil, and Ecosystem Management (taxonomy)
+- Ecosystem Restoration and Services --[is_a]--> Land, Soil, and Ecosystem Management (taxonomy)
+- Agroforestry and Silvopastoral Systems --[is_a]--> Land, Soil, and Ecosystem Management (taxonomy)
+- Water Resources and Governance --[is_a]--> Climate Change, Environment, and Natural Resources (taxonomy)
+- Water Governance and Management --[is_a]--> Water Resources and Governance (taxonomy)
+- Irrigation and Water Infrastructure --[is_a]--> Water Resources and Governance (taxonomy)
+- Hydrological Modeling and Analysis --[is_a]--> Water Resources and Governance (taxonomy)
+- Biodiversity and Agrobiodiversity --[is_a]--> Climate Change, Environment, and Natural Resources (taxonomy)
+- Biodiversity Conservation --[is_a]--> Biodiversity and Agrobiodiversity (taxonomy)
+- Landscape and Ecosystem Approaches --[is_a]--> Biodiversity and Agrobiodiversity (taxonomy)
+- Climate Policy and Finance --[is_a]--> Climate Change, Environment, and Natural Resources (taxonomy)
+- Climate Policy and Governance --[is_a]--> Climate Policy and Finance (taxonomy)
+- Climate Finance --[is_a]--> Climate Policy and Finance (taxonomy)
+- Climate Finance --[is_a]--> Finance, Insurance, and Risk Management (taxonomy)
+- Climate Finance --[is_a]--> Finance and Investment for Development (taxonomy)
+- Remote Sensing and Earth Observation for Environment --[is_a]--> Climate Change, Environment, and Natural Resources (taxonomy)
+- Satellite and Remote Sensing Applications --[is_a]--> Remote Sensing and Earth Observation for Environment (taxonomy)
+- Sustainable Agricultural Practices for Environment --[is_a]--> Climate Change, Environment, and Natural Resources (taxonomy)
+- Sustainable Intensification and Diversification --[is_a]--> Sustainable Agricultural Practices for Environment (taxonomy)
+- Composting and Organic Inputs --[is_a]--> Sustainable Agricultural Practices for Environment (taxonomy)
+- Food Systems Transformation --[is_a]--> Food Systems, Nutrition, and Food Security (taxonomy)
+- Food Systems Transformation --[is_a]--> Systems Thinking and Nexus Approaches (taxonomy)
+- Food System Frameworks and Approaches --[is_a]--> Food Systems Transformation (taxonomy)
+- Value Chain Development --[is_a]--> Food Systems Transformation (taxonomy)
+- Food Market Systems --[is_a]--> Food Systems Transformation (taxonomy)
+- Nutrition Security and Dietary Quality --[is_a]--> Food Systems, Nutrition, and Food Security (taxonomy)
+- Nutrition-Sensitive Approaches --[is_a]--> Nutrition Security and Dietary Quality (taxonomy)
+- Dietary Assessment and Quality --[is_a]--> Nutrition Security and Dietary Quality (taxonomy)
+- Dietary Behavior and Interventions --[is_a]--> Nutrition Security and Dietary Quality (taxonomy)
+- Food Safety and Quality --[is_a]--> Food Systems, Nutrition, and Food Security (taxonomy)
+- Food Safety Monitoring and Management --[is_a]--> Food Safety and Quality (taxonomy)
+- Contaminant and Residue Management --[is_a]--> Food Safety and Quality (taxonomy)
+- Traceability and Quality Assessment --[is_a]--> Food Safety and Quality (taxonomy)
+- Post-Harvest Management and Loss Reduction --[is_a]--> Food Systems, Nutrition, and Food Security (taxonomy)
+- Post-Harvest Technology and Storage --[is_a]--> Post-Harvest Management and Loss Reduction (taxonomy)
+- Food Loss and Waste Reduction --[is_a]--> Post-Harvest Management and Loss Reduction (taxonomy)
+- Food Processing and Value Addition --[is_a]--> Post-Harvest Management and Loss Reduction (taxonomy)
+- Food Environment and Consumer Behavior --[is_a]--> Food Systems, Nutrition, and Food Security (taxonomy)
+- Food Environment Assessment --[is_a]--> Food Environment and Consumer Behavior (taxonomy)
+- Consumer Preferences and Behavior --[is_a]--> Food Environment and Consumer Behavior (taxonomy)
+- Food Access and Social Protection --[is_a]--> Food Environment and Consumer Behavior (taxonomy)
+- Food Security Monitoring and Early Warning --[is_a]--> Food Systems, Nutrition, and Food Security (taxonomy)
+- Food Security Measurement and Monitoring --[is_a]--> Food Security Monitoring and Early Warning (taxonomy)
+- Early Warning and Crisis Prediction --[is_a]--> Food Security Monitoring and Early Warning (taxonomy)
+- Food Security in Fragile Contexts --[is_a]--> Food Security Monitoring and Early Warning (taxonomy)
+- Miscellaneous Food Systems Concepts --[is_a]--> Food Systems, Nutrition, and Food Security (taxonomy)
+- Food System Analytics and Modeling --[is_a]--> Miscellaneous Food Systems Concepts (taxonomy)
+- Specific Food System Interventions --[is_a]--> Miscellaneous Food Systems Concepts (taxonomy)
+- Digital Advisory and Extension Platforms --[is_a]--> Digital Innovation and Data Science (taxonomy)
+- Digital Advisory and Extension Platforms --[is_a]--> Digital Agriculture and Advisory Services (taxonomy)
+- Core Digital Advisory Services --[is_a]--> Digital Advisory and Extension Platforms (taxonomy)
+- Mobile and Interactive Advisory Tools --[is_a]--> Digital Advisory and Extension Platforms (taxonomy)
+- Climate and Agro-Advisory Services --[is_a]--> Digital Advisory and Extension Platforms (taxonomy)
+- Digital Extension Integration and Literacy --[is_a]--> Digital Advisory and Extension Platforms (taxonomy)
+- Remote Sensing and Earth Observation --[is_a]--> Digital Innovation and Data Science (taxonomy)
+- Remote Sensing and Earth Observation --[is_a]--> Monitoring, Reporting, and Verification (taxonomy)
+- Satellite-Based Monitoring --[is_a]--> Remote Sensing and Earth Observation (taxonomy)
+- Drone and UAV Applications --[is_a]--> Remote Sensing and Earth Observation (taxonomy)
+- Spectral and Imaging Technologies --[is_a]--> Remote Sensing and Earth Observation (taxonomy)
+- Geospatial Analysis and Mapping --[is_a]--> Remote Sensing and Earth Observation (taxonomy)
+- Artificial Intelligence and Machine Learning --[is_a]--> Digital Innovation and Data Science (taxonomy)
+- Artificial Intelligence and Machine Learning --[is_a]--> Digital Technologies for Agriculture (taxonomy)
+- Core AI and ML Methods --[is_a]--> Artificial Intelligence and Machine Learning (taxonomy)
+- Computer Vision and Image Processing --[is_a]--> Artificial Intelligence and Machine Learning (taxonomy)
+- Natural Language Processing --[is_a]--> Artificial Intelligence and Machine Learning (taxonomy)
+- AI Applications and Ethics --[is_a]--> Artificial Intelligence and Machine Learning (taxonomy)
+- Predictive Modeling and Forecasting --[is_a]--> Artificial Intelligence and Machine Learning (taxonomy)
+- Decision Support and Modeling Tools --[is_a]--> Digital Innovation and Data Science (taxonomy)
+- Crop and Agricultural Modeling --[is_a]--> Decision Support and Modeling Tools (taxonomy)
+- Decision Support Systems --[is_a]--> Decision Support and Modeling Tools (taxonomy)
+- Decision Support Systems --[is_a]--> Digital Technologies for Agriculture (taxonomy)
+- Economic and Impact Modeling --[is_a]--> Decision Support and Modeling Tools (taxonomy)
+- Early Warning and Monitoring Systems --[is_a]--> Decision Support and Modeling Tools (taxonomy)
+- Data Management and Digital Infrastructure --[is_a]--> Digital Innovation and Data Science (taxonomy)
+- Data Standards and Interoperability --[is_a]--> Data Management and Digital Infrastructure (taxonomy)
+- Digital Platforms and Infrastructure --[is_a]--> Data Management and Digital Infrastructure (taxonomy)
+- Digital Platforms and Infrastructure --[is_a]--> Digital Technologies for Agriculture (taxonomy)
+- Monitoring Reporting and Verification --[is_a]--> Data Management and Digital Infrastructure (taxonomy)
+- Data-Driven Agriculture --[is_a]--> Data Management and Digital Infrastructure (taxonomy)
+- Precision Agriculture and Smart Farming --[is_a]--> Digital Innovation and Data Science (taxonomy)
+- Precision Farming Technologies --[is_a]--> Precision Agriculture and Smart Farming (taxonomy)
+- Digital Farming Tools and Systems --[is_a]--> Precision Agriculture and Smart Farming (taxonomy)
+- Sensor and IoT Applications --[is_a]--> Precision Agriculture and Smart Farming (taxonomy)
+- Crowdsourcing and Citizen Science --[is_a]--> Precision Agriculture and Smart Farming (taxonomy)
+- E-Learning and Virtual Training --[is_a]--> Digital Innovation and Data Science (taxonomy)
+- Value Chain Development and Analysis --[is_a]--> Markets, Value Chains, and Rural Livelihoods (taxonomy)
+- Core Value Chain Concepts --[is_a]--> Value Chain Development and Analysis (taxonomy)
+- Supply Chain and Post-Harvest --[is_a]--> Value Chain Development and Analysis (taxonomy)
+- Agricultural Commercialization --[is_a]--> Value Chain Development and Analysis (taxonomy)
+- Market Systems and Market Intelligence --[is_a]--> Markets, Value Chains, and Rural Livelihoods (taxonomy)
+- Market Analysis and Assessment --[is_a]--> Market Systems and Market Intelligence (taxonomy)
+- Price and Market Monitoring --[is_a]--> Market Systems and Market Intelligence (taxonomy)
+- Market-Oriented Seed Systems --[is_a]--> Market Systems and Market Intelligence (taxonomy)
+- Agricultural Mechanization and Services --[is_a]--> Markets, Value Chains, and Rural Livelihoods (taxonomy)
+- Mechanization Technologies --[is_a]--> Agricultural Mechanization and Services (taxonomy)
+- Mechanization Service Models --[is_a]--> Agricultural Mechanization and Services (taxonomy)
+- Business Development and Private Sector Engagement --[is_a]--> Markets, Value Chains, and Rural Livelihoods (taxonomy)
+- Business Models and Development --[is_a]--> Business Development and Private Sector Engagement (taxonomy)
+- Agribusiness Training and Capacity --[is_a]--> Business Development and Private Sector Engagement (taxonomy)
+- Private Sector and Partnerships --[is_a]--> Business Development and Private Sector Engagement (taxonomy)
+- Geographical Indications and Certification --[is_a]--> Business Development and Private Sector Engagement (taxonomy)
+- Finance, Insurance, and Risk Management --[is_a]--> Markets, Value Chains, and Rural Livelihoods (taxonomy)
+- Agricultural Insurance --[is_a]--> Finance, Insurance, and Risk Management (taxonomy)
+- Finance and Investment Mechanisms --[is_a]--> Finance, Insurance, and Risk Management (taxonomy)
+- Social Protection and Transfers --[is_a]--> Finance, Insurance, and Risk Management (taxonomy)
+- Livelihoods and Economic Inclusion --[is_a]--> Markets, Value Chains, and Rural Livelihoods (taxonomy)
+- Livelihood Approaches --[is_a]--> Livelihoods and Economic Inclusion (taxonomy)
+- Youth and Women's Economic Empowerment --[is_a]--> Livelihoods and Economic Inclusion (taxonomy)
+- Labor and Migration --[is_a]--> Livelihoods and Economic Inclusion (taxonomy)
+- Economic Analysis and Impact --[is_a]--> Livelihoods and Economic Inclusion (taxonomy)
+- Smallholder Farming and Technology Adoption --[is_a]--> Markets, Value Chains, and Rural Livelihoods (taxonomy)
+- Smallholder Farming Systems --[is_a]--> Smallholder Farming and Technology Adoption (taxonomy)
+- Scaling Approaches --[is_a]--> Smallholder Farming and Technology Adoption (taxonomy)
+- Digital Agriculture and Advisory Services --[is_a]--> Markets, Value Chains, and Rural Livelihoods (taxonomy)
+- Digital Agriculture Systems --[is_a]--> Digital Agriculture and Advisory Services (taxonomy)
+- Institutional and Governance Frameworks --[is_a]--> Markets, Value Chains, and Rural Livelihoods (taxonomy)
+- Multi-Stakeholder Engagement --[is_a]--> Institutional and Governance Frameworks (taxonomy)
+- Policy and Enabling Environment --[is_a]--> Institutional and Governance Frameworks (taxonomy)
+- Collective Action and Governance --[is_a]--> Institutional and Governance Frameworks (taxonomy)
+- Gender Equality and Women's Empowerment --[is_a]--> Gender, Social Inclusion, and Human Wellbeing (taxonomy)
+- Gender-Transformative Approaches --[is_a]--> Gender Equality and Women's Empowerment (taxonomy)
+- Gender-Transformative Approaches --[is_a]--> Gender, Social Inclusion, and Empowerment (taxonomy)
+- Women's Empowerment --[is_a]--> Gender Equality and Women's Empowerment (taxonomy)
+- Women's Empowerment --[is_a]--> Gender and Social Dimensions (taxonomy)
+- Gender Mainstreaming and Programming --[is_a]--> Gender Equality and Women's Empowerment (taxonomy)
+- Social Inclusion and Equity --[is_a]--> Gender, Social Inclusion, and Human Wellbeing (taxonomy)
+- Social Inclusion Frameworks --[is_a]--> Social Inclusion and Equity (taxonomy)
+- Youth and Marginalized Groups --[is_a]--> Social Inclusion and Equity (taxonomy)
+- Intra-household and Community Dynamics --[is_a]--> Social Inclusion and Equity (taxonomy)
+- intra-household decision-making --[is_a]--> Intra-household and Community Dynamics (taxonomy)
+- Justice and Rights --[is_a]--> Social Inclusion and Equity (taxonomy)
+- Social Norms and Behavior Change --[is_a]--> Gender, Social Inclusion, and Human Wellbeing (taxonomy)
+- Behavior Change Approaches --[is_a]--> Social Norms and Behavior Change (taxonomy)
+- Behavior Change Approaches --[is_a]--> Behavior Change and Communication (taxonomy)
+- Social Norms --[is_a]--> Social Norms and Behavior Change (taxonomy)
+- Community Engagement Methods --[is_a]--> Social Norms and Behavior Change (taxonomy)
+- Social Protection and Humanitarian Response --[is_a]--> Gender, Social Inclusion, and Human Wellbeing (taxonomy)
+- Social Protection Systems --[is_a]--> Social Protection and Humanitarian Response (taxonomy)
+- Cash and Financial Transfers --[is_a]--> Social Protection and Humanitarian Response (taxonomy)
+- Humanitarian Response --[is_a]--> Social Protection and Humanitarian Response (taxonomy)
+- Conflict, Fragility, and Displacement --[is_a]--> Gender, Social Inclusion, and Human Wellbeing (taxonomy)
+- Conflict-Sensitive Programming --[is_a]--> Conflict, Fragility, and Displacement (taxonomy)
+- Climate-Conflict Nexus --[is_a]--> Conflict, Fragility, and Displacement (taxonomy)
+- Climate-Conflict Nexus --[is_a]--> Climate Security and Conflict (taxonomy)
+- Displacement and Migration --[is_a]--> Conflict, Fragility, and Displacement (taxonomy)
+- Displacement and Migration --[is_a]--> Climate Security and Conflict (taxonomy)
+- Peacebuilding and Environmental Security --[is_a]--> Conflict, Fragility, and Displacement (taxonomy)
+- Human Wellbeing and Livelihoods --[is_a]--> Gender, Social Inclusion, and Human Wellbeing (taxonomy)
+- Violence and Safety --[is_a]--> Human Wellbeing and Livelihoods (taxonomy)
+- Livelihoods and Wellbeing --[is_a]--> Human Wellbeing and Livelihoods (taxonomy)
+- Miscellaneous Wellbeing Concepts --[is_a]--> Human Wellbeing and Livelihoods (taxonomy)
+- Extension Approaches and Methods --[is_a]--> Agricultural Extension and Advisory Services (taxonomy)
+- Digital Advisory and Extension Services --[is_a]--> Agricultural Extension and Advisory Services (taxonomy)
+- Agroclimatic Advisory Services --[is_a]--> Agricultural Extension and Advisory Services (taxonomy)
+- Training and Capacity Building --[is_a]--> Capacity Development, Extension, and Knowledge Systems (taxonomy)
+- Core Capacity Building --[is_a]--> Training and Capacity Building (taxonomy)
+- Curriculum and Skills Development --[is_a]--> Training and Capacity Building (taxonomy)
+- Virtual and Digital Learning --[is_a]--> Training and Capacity Building (taxonomy)
+- Mentorship and Accompaniment --[is_a]--> Training and Capacity Building (taxonomy)
+- Knowledge Management and Learning --[is_a]--> Capacity Development, Extension, and Knowledge Systems (taxonomy)
+- Knowledge Exchange and Sharing --[is_a]--> Knowledge Management and Learning (taxonomy)
+- Peer and Experiential Learning --[is_a]--> Knowledge Management and Learning (taxonomy)
+- Knowledge Platforms and Systems --[is_a]--> Knowledge Management and Learning (taxonomy)
+- Institutional Learning and Adaptive Management --[is_a]--> Knowledge Management and Learning (taxonomy)
+- Traditional and Indigenous Knowledge --[is_a]--> Knowledge Management and Learning (taxonomy)
+- Traditional and Indigenous Knowledge --[is_a]--> Ethics, Justice, and Responsible Innovation (taxonomy)
+- Participatory Research and Co-Design --[is_a]--> Capacity Development, Extension, and Knowledge Systems (taxonomy)
+- Participatory Research Methods --[is_a]--> Participatory Research and Co-Design (taxonomy)
+- Participatory Research Methods --[is_a]--> Qualitative and Mixed Methods (taxonomy)
+- Co-Design and Co-Production --[is_a]--> Participatory Research and Co-Design (taxonomy)
+- Citizen Science and Community-Based Research --[is_a]--> Participatory Research and Co-Design (taxonomy)
+- Participatory Breeding and Variety Selection --[is_a]--> Participatory Research and Co-Design (taxonomy)
+- Transdisciplinary and Systems Research --[is_a]--> Participatory Research and Co-Design (taxonomy)
+- Participatory Governance and Rangeland Management --[is_a]--> Participatory Research and Co-Design (taxonomy)
+- Innovation Systems and Scaling --[is_a]--> Capacity Development, Extension, and Knowledge Systems (taxonomy)
+- Innovation Platforms and Networks --[is_a]--> Innovation Systems and Scaling (taxonomy)
+- Scaling Strategies and Frameworks --[is_a]--> Innovation Systems and Scaling (taxonomy)
+- Business Development and Incubation --[is_a]--> Innovation Systems and Scaling (taxonomy)
+- Business Development and Incubation --[is_a]--> Public-Private Partnerships and Investment (taxonomy)
+- Foresight and Strategic Planning --[is_a]--> Innovation Systems and Scaling (taxonomy)
+- Foresight and Strategic Planning --[is_a]--> Evidence Generation and Policy Uptake (taxonomy)
+- Gender, Social Inclusion, and Empowerment --[is_a]--> Capacity Development, Extension, and Knowledge Systems (taxonomy)
+- Gender Inclusion and Equity --[is_a]--> Gender, Social Inclusion, and Empowerment (taxonomy)
+- Women's Empowerment and Leadership --[is_a]--> Gender, Social Inclusion, and Empowerment (taxonomy)
+- Social Inclusion and Intersectionality --[is_a]--> Gender, Social Inclusion, and Empowerment (taxonomy)
+- Social Inclusion and Intersectionality --[is_a]--> Ethics, Justice, and Responsible Innovation (taxonomy)
+- Behavior Change Communication --[is_a]--> Gender, Social Inclusion, and Empowerment (taxonomy)
+- Multi-Stakeholder Engagement and Policy Dialogue --[is_a]--> Capacity Development, Extension, and Knowledge Systems (taxonomy)
+- Policy Dialogue and Advocacy --[is_a]--> Multi-Stakeholder Engagement and Policy Dialogue (taxonomy)
+- Networking and Collaboration --[is_a]--> Multi-Stakeholder Engagement and Policy Dialogue (taxonomy)
+- Digital Literacy and Data Systems for Extension --[is_a]--> Capacity Development, Extension, and Knowledge Systems (taxonomy)
+- Digital Literacy and Inclusion --[is_a]--> Digital Literacy and Data Systems for Extension (taxonomy)
+- Data Collection and Management for Extension --[is_a]--> Digital Literacy and Data Systems for Extension (taxonomy)
+- Miscellaneous Capacity and Knowledge Concepts --[is_a]--> Capacity Development, Extension, and Knowledge Systems (taxonomy)
+- Participatory and Community Learning Methods --[is_a]--> Miscellaneous Capacity and Knowledge Concepts (taxonomy)
+- Institutional and Organizational Development --[is_a]--> Miscellaneous Capacity and Knowledge Concepts (taxonomy)
+- Scaling and Innovation Miscellaneous --[is_a]--> Miscellaneous Capacity and Knowledge Concepts (taxonomy)
+- Agricultural Policy and Reform --[is_a]--> Policy, Governance, and Institutional Systems (taxonomy)
+- Core Policy Instruments --[is_a]--> Agricultural Policy and Reform (taxonomy)
+- Subsidy and Finance Reform --[is_a]--> Agricultural Policy and Reform (taxonomy)
+- Policy Harmonization and Coordination --[is_a]--> Agricultural Policy and Reform (taxonomy)
+- Miscellaneous Agricultural Policy --[is_a]--> Agricultural Policy and Reform (taxonomy)
+- Governance and Institutional Coordination --[is_a]--> Policy, Governance, and Institutional Systems (taxonomy)
+- Multi-Stakeholder Platforms and Partnerships --[is_a]--> Governance and Institutional Coordination (taxonomy)
+- Multi-Stakeholder Platforms and Partnerships --[is_a]--> Multi-Stakeholder Engagement and Governance (taxonomy)
+- Institutional Coordination Mechanisms --[is_a]--> Governance and Institutional Coordination (taxonomy)
+- Participatory and Polycentric Governance --[is_a]--> Governance and Institutional Coordination (taxonomy)
+- Stakeholder Engagement and Consultation --[is_a]--> Governance and Institutional Coordination (taxonomy)
+- Conflict-Sensitive Governance --[is_a]--> Governance and Institutional Coordination (taxonomy)
+- Regulatory Frameworks and Standards --[is_a]--> Policy, Governance, and Institutional Systems (taxonomy)
+- Seed and Variety Regulation --[is_a]--> Regulatory Frameworks and Standards (taxonomy)
+- Phytosanitary and Biosafety Regulation --[is_a]--> Regulatory Frameworks and Standards (taxonomy)
+- Quality and Food Safety Standards --[is_a]--> Regulatory Frameworks and Standards (taxonomy)
+- Antimicrobial Resistance Governance --[is_a]--> Regulatory Frameworks and Standards (taxonomy)
+- Miscellaneous Regulatory Concepts --[is_a]--> Regulatory Frameworks and Standards (taxonomy)
+- Evidence Generation and Policy Uptake --[is_a]--> Policy, Governance, and Institutional Systems (taxonomy)
+- Evidence-Based Policy Processes --[is_a]--> Evidence Generation and Policy Uptake (taxonomy)
+- Impact Evaluation and Assessment --[is_a]--> Evidence Generation and Policy Uptake (taxonomy)
+- Monitoring, Reporting and Verification --[is_a]--> Evidence Generation and Policy Uptake (taxonomy)
+- Knowledge Exchange and Policy Learning --[is_a]--> Evidence Generation and Policy Uptake (taxonomy)
+- Public-Private Partnerships and Investment --[is_a]--> Policy, Governance, and Institutional Systems (taxonomy)
+- Partnership Models --[is_a]--> Public-Private Partnerships and Investment (taxonomy)
+- Investment and Finance Mechanisms --[is_a]--> Public-Private Partnerships and Investment (taxonomy)
+- Scaling and Innovation Systems --[is_a]--> Policy, Governance, and Institutional Systems (taxonomy)
+- Scaling Frameworks and Approaches --[is_a]--> Scaling and Innovation Systems (taxonomy)
+- Scaling Frameworks and Approaches --[is_a]--> Scaling and Innovation Methods (taxonomy)
+- Agricultural Innovation Systems --[is_a]--> Scaling and Innovation Systems (taxonomy)
+- Capacity Development and Institutional Learning --[is_a]--> Policy, Governance, and Institutional Systems (taxonomy)
+- Capacity Building Programs --[is_a]--> Capacity Development and Institutional Learning (taxonomy)
+- Knowledge Management and Dissemination --[is_a]--> Capacity Development and Institutional Learning (taxonomy)
+- Gender, Social Inclusion, and Equity in Governance --[is_a]--> Policy, Governance, and Institutional Systems (taxonomy)
+- Gender-Responsive Policy and Governance --[is_a]--> Gender, Social Inclusion, and Equity in Governance (taxonomy)
+- Social Protection and Safety Nets --[is_a]--> Gender, Social Inclusion, and Equity in Governance (taxonomy)
+- Justice and Equity Frameworks --[is_a]--> Gender, Social Inclusion, and Equity in Governance (taxonomy)
+- Justice and Equity Frameworks --[is_a]--> Ethics, Justice, and Responsible Innovation (taxonomy)
+- Climate Policy and Finance Governance --[is_a]--> Policy, Governance, and Institutional Systems (taxonomy)
+- Climate Action Governance --[is_a]--> Climate Policy and Finance Governance (taxonomy)
+- Disaster Risk and Humanitarian Governance --[is_a]--> Climate Policy and Finance Governance (taxonomy)
+- Experimental and Quasi-Experimental Methods --[is_a]--> Research Methods and Impact Assessment (taxonomy)
+- Randomized and Controlled Trials --[is_a]--> Experimental and Quasi-Experimental Methods (taxonomy)
+- Field and On-Farm Trials --[is_a]--> Experimental and Quasi-Experimental Methods (taxonomy)
+- Experimental Preference and Valuation Methods --[is_a]--> Experimental and Quasi-Experimental Methods (taxonomy)
+- Qualitative and Mixed Methods --[is_a]--> Research Methods and Impact Assessment (taxonomy)
+- Co-Design and Co-Creation Methods --[is_a]--> Qualitative and Mixed Methods (taxonomy)
+- Mixed Methods and Interdisciplinary Approaches --[is_a]--> Qualitative and Mixed Methods (taxonomy)
+- Qualitative and Social Research Techniques --[is_a]--> Qualitative and Mixed Methods (taxonomy)
+- focus group --[is_a]--> Qualitative and Social Research Techniques (taxonomy)
+- Economic and Systems Modeling --[is_a]--> Research Methods and Impact Assessment (taxonomy)
+- Economic Modeling and Analysis --[is_a]--> Economic and Systems Modeling (taxonomy)
+- Systems and Simulation Modeling --[is_a]--> Economic and Systems Modeling (taxonomy)
+- Life Cycle and Environmental Assessment --[is_a]--> Economic and Systems Modeling (taxonomy)
+- Statistical and Quantitative Methods --[is_a]--> Economic and Systems Modeling (taxonomy)
+- Monitoring, Evaluation, and Learning --[is_a]--> Research Methods and Impact Assessment (taxonomy)
+- Monitoring and Evaluation Frameworks --[is_a]--> Monitoring, Evaluation, and Learning (taxonomy)
+- Remote Sensing and Digital Monitoring --[is_a]--> Monitoring, Evaluation, and Learning (taxonomy)
+- Greenhouse Gas Measurement and Reporting --[is_a]--> Monitoring, Evaluation, and Learning (taxonomy)
+- Foresight and Strategic Planning Methods --[is_a]--> Monitoring, Evaluation, and Learning (taxonomy)
+- Systematic Reviews and Evidence Synthesis --[is_a]--> Research Methods and Impact Assessment (taxonomy)
+- Systematic Reviews and Evidence Synthesis --[is_a]--> Research Methods and Evidence Generation (taxonomy)
+- Machine Learning and Artificial Intelligence Methods --[is_a]--> Research Methods and Impact Assessment (taxonomy)
+- Core AI and ML Approaches --[is_a]--> Machine Learning and Artificial Intelligence Methods (taxonomy)
+- Digital Tools and Decision Support --[is_a]--> Machine Learning and Artificial Intelligence Methods (taxonomy)
+- Scaling and Innovation Methods --[is_a]--> Research Methods and Impact Assessment (taxonomy)
+- Innovation Assessment and Bundling --[is_a]--> Scaling and Innovation Methods (taxonomy)
+- Capacity Building and Learning Methods --[is_a]--> Research Methods and Impact Assessment (taxonomy)
+- Training and Capacity Development --[is_a]--> Capacity Building and Learning Methods (taxonomy)
+- Knowledge Exchange and Dissemination --[is_a]--> Capacity Building and Learning Methods (taxonomy)
+- Gender and Social Inclusion Methods --[is_a]--> Research Methods and Impact Assessment (taxonomy)
+- Gender Research Methods --[is_a]--> Gender and Social Inclusion Methods (taxonomy)
+- Social Assessment Methods --[is_a]--> Gender and Social Inclusion Methods (taxonomy)
+- Miscellaneous Research Methods --[is_a]--> Research Methods and Impact Assessment (taxonomy)
+- Specialized Analytical Techniques --[is_a]--> Miscellaneous Research Methods (taxonomy)
+- Systems Thinking and Nexus Approaches --[is_a]--> Other / Cross-cutting (taxonomy)
+- Nexus Frameworks --[is_a]--> Systems Thinking and Nexus Approaches (taxonomy)
+- Systems and Transdisciplinary Research --[is_a]--> Systems Thinking and Nexus Approaches (taxonomy)
+- Integrated and Adaptive Management --[is_a]--> Systems Thinking and Nexus Approaches (taxonomy)
+- One Health and Zoonotic Disease --[is_a]--> Other / Cross-cutting (taxonomy)
+- One Health Approach --[is_a]--> One Health and Zoonotic Disease (taxonomy)
+- Zoonotic Disease Surveillance and Management --[is_a]--> One Health and Zoonotic Disease (taxonomy)
+- Antimicrobial Resistance --[is_a]--> One Health and Zoonotic Disease (taxonomy)
+- Biosecurity and Disease Prevention --[is_a]--> One Health and Zoonotic Disease (taxonomy)
+- Circular Economy and Waste Management --[is_a]--> Other / Cross-cutting (taxonomy)
+- Circular Economy Principles --[is_a]--> Circular Economy and Waste Management (taxonomy)
+- Waste-to-Value and Resource Recovery --[is_a]--> Circular Economy and Waste Management (taxonomy)
+- Biogas and Bioenergy --[is_a]--> Circular Economy and Waste Management (taxonomy)
+- Payment for Ecosystem Services --[is_a]--> Circular Economy and Waste Management (taxonomy)
+- South-South Cooperation and Localization --[is_a]--> Other / Cross-cutting (taxonomy)
+- South-South and Knowledge Exchange --[is_a]--> South-South Cooperation and Localization (taxonomy)
+- Locally Led Approaches --[is_a]--> South-South Cooperation and Localization (taxonomy)
+- Ethics, Justice, and Responsible Innovation --[is_a]--> Other / Cross-cutting (taxonomy)
+- Responsible and Ethical Innovation --[is_a]--> Ethics, Justice, and Responsible Innovation (taxonomy)
+- Urban and Peri-Urban Agriculture --[is_a]--> Other / Cross-cutting (taxonomy)
+- Urban Farming Systems --[is_a]--> Urban and Peri-Urban Agriculture (taxonomy)
+- Capacity Building and Learning --[is_a]--> Other / Cross-cutting (taxonomy)
+- Capacity Building Approaches --[is_a]--> Capacity Building and Learning (taxonomy)
+- Participatory Learning Methods --[is_a]--> Capacity Building and Learning (taxonomy)
+- Training Modalities --[is_a]--> Capacity Building and Learning (taxonomy)
+- Communities of Practice and Networks --[is_a]--> Capacity Building and Learning (taxonomy)
+- Gender and Social Dimensions --[is_a]--> Other / Cross-cutting (taxonomy)
+- Gender Transformative Approaches --[is_a]--> Gender and Social Dimensions (taxonomy)
+- Gender-Responsive Programming --[is_a]--> Gender and Social Dimensions (taxonomy)
+- Gender Dynamics and Analysis --[is_a]--> Gender and Social Dimensions (taxonomy)
+- Multi-Stakeholder Engagement and Governance --[is_a]--> Other / Cross-cutting (taxonomy)
+- Stakeholder Engagement Methods --[is_a]--> Multi-Stakeholder Engagement and Governance (taxonomy)
+- Governance Frameworks --[is_a]--> Multi-Stakeholder Engagement and Governance (taxonomy)
+- Scaling and Innovation Diffusion --[is_a]--> Other / Cross-cutting (taxonomy)
+- Scaling Frameworks and Strategies --[is_a]--> Scaling and Innovation Diffusion (taxonomy)
+- Innovation Bundling and Packages --[is_a]--> Scaling and Innovation Diffusion (taxonomy)
+- Research Methods and Evidence Generation --[is_a]--> Other / Cross-cutting (taxonomy)
+- Experimental and Evaluation Methods --[is_a]--> Research Methods and Evidence Generation (taxonomy)
+- Mixed Methods and Qualitative Approaches --[is_a]--> Research Methods and Evidence Generation (taxonomy)
+- econometric analysis --[is_a]--> Mixed Methods and Qualitative Approaches (taxonomy)
+- Citizen Science and Crowdsourcing --[is_a]--> Research Methods and Evidence Generation (taxonomy)
+- Climate Security and Conflict --[is_a]--> Other / Cross-cutting (taxonomy)
+- Fragile and Conflict-Affected Settings --[is_a]--> Climate Security and Conflict (taxonomy)
+- Social Protection in Fragile Contexts --[is_a]--> Climate Security and Conflict (taxonomy)
+- Finance and Investment for Development --[is_a]--> Other / Cross-cutting (taxonomy)
+- Blended Finance and Investment --[is_a]--> Finance and Investment for Development (taxonomy)
+- Insurance and Risk Finance --[is_a]--> Finance and Investment for Development (taxonomy)
+- Resilience and Vulnerability --[is_a]--> Other / Cross-cutting (taxonomy)
+- Resilience Frameworks --[is_a]--> Resilience and Vulnerability (taxonomy)
+- Vulnerability Assessment --[is_a]--> Resilience and Vulnerability (taxonomy)
+- Transformative Change --[is_a]--> Resilience and Vulnerability (taxonomy)
+- Digital Technologies for Agriculture --[is_a]--> Other / Cross-cutting (taxonomy)
+- Digital Advisory and Extension --[is_a]--> Digital Technologies for Agriculture (taxonomy)
+- Monitoring, Reporting, and Verification --[is_a]--> Other / Cross-cutting (taxonomy)
+- MRV Frameworks --[is_a]--> Monitoring, Reporting, and Verification (taxonomy)
+- Behavior Change and Communication --[is_a]--> Other / Cross-cutting (taxonomy)
+- Communication and Outreach --[is_a]--> Behavior Change and Communication (taxonomy)
+- Miscellaneous Cross-Cutting Concepts --[is_a]--> Other / Cross-cutting (taxonomy)
+- Planetary and Environmental Sustainability --[is_a]--> Miscellaneous Cross-Cutting Concepts (taxonomy)
+- Livelihoods and Social Welfare --[is_a]--> Miscellaneous Cross-Cutting Concepts (taxonomy)
+- Miscellaneous Methods and Approaches --[is_a]--> Miscellaneous Cross-Cutting Concepts (taxonomy)
+- Uncategorized --[is_a]--> Other / Cross-cutting (taxonomy)

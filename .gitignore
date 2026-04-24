@@ -8,3 +8,5 @@ output/
 venv/
 .vscode/
 .idea/
+
+# Keep dist/ tracked (static site for deployment)

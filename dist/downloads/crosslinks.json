@@ -1,0 +1,454 @@
+{
+  "new_relationships": [
+    {
+      "source": "biofortification",
+      "type": "is_a",
+      "target": "nutrition-sensitive agriculture",
+      "confidence": "inferred",
+      "evidence": "Biofortification is a core strategy within nutrition-sensitive agriculture, directly enhancing nutritional content of crops through breeding to address hidden hunger and micronutrient deficiencies",
+      "cross_domain": true
+    },
+    {
+      "source": "drought tolerance",
+      "type": "related_to",
+      "target": "climate adaptation",
+      "confidence": "inferred",
+      "evidence": "Drought tolerance breeding is a primary mechanism for crop-level climate adaptation, bridging Crop Improvement and Climate Adaptation domains",
+      "cross_domain": true
+    },
+    {
+      "source": "CIMMYT",
+      "type": "uses",
+      "target": "genomic selection",
+      "confidence": "inferred",
+      "evidence": "CIMMYT's Global Wheat Program uses advanced molecular breeding tools including genomic selection as part of its breeding pipeline",
+      "cross_domain": false
+    },
+    {
+      "source": "IRRI",
+      "type": "uses",
+      "target": "alternate wetting and drying",
+      "confidence": "inferred",
+      "evidence": "IRRI is the primary developer and promoter of alternate wetting and drying as a water-saving and emission-reducing rice cultivation technique",
+      "cross_domain": true
+    },
+    {
+      "source": "alternate wetting and drying",
+      "type": "addresses",
+      "target": "greenhouse gas emissions",
+      "confidence": "inferred",
+      "evidence": "AWD reduces methane emissions from flooded rice paddies while also saving water, making it a key climate mitigation practice in rice systems",
+      "cross_domain": true
+    },
+    {
+      "source": "participatory variety selection",
+      "type": "produces",
+      "target": "farmer-preferred varieties",
+      "confidence": "inferred",
+      "evidence": "Participatory variety selection is explicitly designed to identify varieties that meet farmer preferences, directly producing farmer-preferred varieties for adoption",
+      "cross_domain": false
+    },
+    {
+      "source": "gender-responsive breeding",
+      "type": "related_to",
+      "target": "gender transformative approaches",
+      "confidence": "inferred",
+      "evidence": "Gender-responsive breeding is a specific application of gender transformative approaches within crop improvement, bridging Crop Improvement and Gender domains",
+      "cross_domain": true
+    },
+    {
+      "source": "AfricaRice",
+      "type": "uses",
+      "target": "marker-assisted selection",
+      "confidence": "inferred",
+      "evidence": "AfricaRice combines indigenous germplasm with modern breeding tools including marker-assisted selection for rice improvement in Africa",
+      "cross_domain": false
+    },
+    {
+      "source": "climate information services",
+      "type": "addresses",
+      "target": "food security",
+      "confidence": "inferred",
+      "evidence": "Climate information services enable farmers to make better planting and management decisions, directly contributing to food security outcomes",
+      "cross_domain": true
+    },
+    {
+      "source": "digital advisory services",
+      "type": "uses",
+      "target": "climate information services",
+      "confidence": "inferred",
+      "evidence": "Digital advisory platforms commonly integrate climate and weather information to provide actionable agro-advisories to farmers, bundling CIS with agricultural guidance",
+      "cross_domain": true
+    },
+    {
+      "source": "IWMI",
+      "type": "uses",
+      "target": "water accounting",
+      "confidence": "inferred",
+      "evidence": "IWMI is a leading institution in developing and applying water accounting frameworks for agricultural water management globally",
+      "cross_domain": false
+    },
+    {
+      "source": "community seed banks",
+      "type": "addresses",
+      "target": "food security",
+      "confidence": "inferred",
+      "evidence": "Community seed banks preserve local crop diversity and ensure farmer access to seeds during shocks, directly supporting food security and resilience",
+      "cross_domain": true
+    },
+    {
+      "source": "agroforestry",
+      "type": "addresses",
+      "target": "carbon sequestration",
+      "confidence": "inferred",
+      "evidence": "Agroforestry systems sequester carbon in tree biomass and soil, making them a key nature-based climate mitigation strategy bridging Farming Systems and Climate Mitigation domains",
+      "cross_domain": true
+    },
+    {
+      "source": "silvopastoral systems",
+      "type": "addresses",
+      "target": "methane mitigation",
+      "confidence": "inferred",
+      "evidence": "Silvopastoral systems can reduce enteric methane emissions per unit of livestock product through improved forage quality and reduced stocking density",
+      "cross_domain": true
+    },
+    {
+      "source": "integrated soil fertility management",
+      "type": "addresses",
+      "target": "greenhouse gas emissions",
+      "confidence": "inferred",
+      "evidence": "ISFM practices that combine organic and inorganic inputs can reduce nitrous oxide emissions compared to sole mineral fertilizer use, bridging soil management and climate mitigation",
+      "cross_domain": true
+    },
+    {
+      "source": "IITA",
+      "type": "uses",
+      "target": "biofortification",
+      "confidence": "inferred",
+      "evidence": "IITA conducts biofortification research for cassava, yam, and other crops to address micronutrient deficiencies in Sub-Saharan Africa",
+      "cross_domain": true
+    },
+    {
+      "source": "one health approach",
+      "type": "addresses",
+      "target": "antimicrobial resistance",
+      "confidence": "inferred",
+      "evidence": "The One Health approach explicitly integrates human, animal, and environmental health perspectives to address antimicrobial resistance as a cross-sectoral challenge",
+      "cross_domain": true
+    },
+    {
+      "source": "zoonotic disease surveillance",
+      "type": "part_of",
+      "target": "one health approach",
+      "confidence": "inferred",
+      "evidence": "Zoonotic disease surveillance is a core component of One Health implementation, monitoring disease transmission at the human-animal-environment interface",
+      "cross_domain": false
+    },
+    {
+      "source": "conservation agriculture",
+      "type": "addresses",
+      "target": "soil organic carbon sequestration",
+      "confidence": "inferred",
+      "evidence": "Conservation agriculture practices including no-till and crop residue retention build soil organic carbon over time, contributing to climate mitigation",
+      "cross_domain": true
+    },
+    {
+      "source": "participatory breeding",
+      "type": "uses",
+      "target": "triadic comparisons of technology options",
+      "confidence": "inferred",
+      "evidence": "The tricot/triadic comparison approach is widely used in participatory plant breeding to decentralize variety evaluation with large numbers of farmer participants",
+      "cross_domain": false
+    },
+    {
+      "source": "CIP",
+      "type": "uses",
+      "target": "biofortification",
+      "confidence": "inferred",
+      "evidence": "CIP leads biofortification of sweetpotato with orange-fleshed varieties rich in beta-carotene, targeting vitamin A deficiency in Sub-Saharan Africa and South Asia",
+      "cross_domain": true
+    },
+    {
+      "source": "solar irrigation",
+      "type": "addresses",
+      "target": "low-carbon agriculture",
+      "confidence": "inferred",
+      "evidence": "Solar-powered irrigation replaces diesel pumps, reducing carbon emissions from agricultural water pumping while maintaining productivity",
+      "cross_domain": true
+    },
+    {
+      "source": "digital extension",
+      "type": "uses",
+      "target": "machine learning",
+      "confidence": "inferred",
+      "evidence": "AI-driven agricultural extension platforms use machine learning algorithms to personalize recommendations and scale advisory services to large numbers of farmers",
+      "cross_domain": true
+    },
+    {
+      "source": "early warning systems",
+      "type": "uses",
+      "target": "satellite remote sensing",
+      "confidence": "inferred",
+      "evidence": "Agricultural and food security early warning systems rely heavily on satellite remote sensing for crop monitoring, drought detection, and yield forecasting",
+      "cross_domain": true
+    },
+    {
+      "source": "rangeland restoration",
+      "type": "addresses",
+      "target": "carbon sequestration",
+      "confidence": "inferred",
+      "evidence": "Restored rangelands sequester carbon in soil and vegetation biomass, making rangeland restoration a nature-based climate mitigation strategy",
+      "cross_domain": true
+    },
+    {
+      "source": "ILRI",
+      "type": "uses",
+      "target": "one health approach",
+      "confidence": "inferred",
+      "evidence": "ILRI is a leading institution implementing One Health research integrating livestock, human, and environmental health dimensions",
+      "cross_domain": true
+    },
+    {
+      "source": "nutrition-sensitive agriculture",
+      "type": "uses",
+      "target": "dietary diversity",
+      "confidence": "inferred",
+      "evidence": "Nutrition-sensitive agriculture interventions are designed to improve dietary diversity as a key outcome measure, bridging food production and nutrition domains",
+      "cross_domain": true
+    },
+    {
+      "source": "climate-smart villages",
+      "type": "uses",
+      "target": "participatory research",
+      "confidence": "inferred",
+      "evidence": "Climate-smart village approach is inherently participatory, involving communities in testing and demonstrating climate adaptation technologies",
+      "cross_domain": false
+    },
+    {
+      "source": "index insurance",
+      "type": "uses",
+      "target": "satellite remote sensing",
+      "confidence": "inferred",
+      "evidence": "Index-based agricultural insurance increasingly uses satellite data as objective indices to trigger payouts, replacing costly field assessments",
+      "cross_domain": true
+    },
+    {
+      "source": "food systems transformation",
+      "type": "addresses",
+      "target": "climate change mitigation",
+      "confidence": "inferred",
+      "evidence": "Food systems transformation is recognized as essential for achieving climate mitigation goals, as food systems account for approximately one-third of global greenhouse gas emissions",
+      "cross_domain": true
+    },
+    {
+      "source": "Alliance of Bioversity and CIAT",
+      "type": "uses",
+      "target": "germplasm utilization",
+      "confidence": "inferred",
+      "evidence": "Alliance of Bioversity and CIAT manages major gene bank collections and actively uses germplasm for crop improvement and conservation research",
+      "cross_domain": false
+    },
+    {
+      "source": "digital soil mapping",
+      "type": "uses",
+      "target": "machine learning",
+      "confidence": "inferred",
+      "evidence": "Modern digital soil mapping relies on machine learning algorithms to predict soil properties from remote sensing and environmental covariates",
+      "cross_domain": true
+    },
+    {
+      "source": "crop modeling",
+      "type": "uses",
+      "target": "climate impact projections",
+      "confidence": "inferred",
+      "evidence": "Crop simulation models are routinely coupled with climate projections to assess future impacts on agricultural productivity and guide adaptation planning",
+      "cross_domain": true
+    },
+    {
+      "source": "community-based breeding programs",
+      "type": "addresses",
+      "target": "food security",
+      "confidence": "inferred",
+      "evidence": "Community-based breeding programs for livestock improve productivity and income of smallholder farmers, directly contributing to household food security",
+      "cross_domain": true
+    },
+    {
+      "source": "blended finance",
+      "type": "addresses",
+      "target": "climate adaptation",
+      "confidence": "inferred",
+      "evidence": "Blended finance mechanisms are increasingly used to mobilize private investment for climate adaptation in agriculture, bridging finance and climate domains",
+      "cross_domain": true
+    },
+    {
+      "source": "gender-responsive breeding",
+      "type": "produces",
+      "target": "varietal adoption",
+      "confidence": "inferred",
+      "evidence": "Varieties developed through gender-responsive breeding that address women's specific trait preferences show higher adoption rates among women farmers",
+      "cross_domain": true
+    },
+    {
+      "source": "participatory rangeland management",
+      "type": "addresses",
+      "target": "herder-farmer conflict",
+      "confidence": "inferred",
+      "evidence": "Participatory rangeland management creates governance structures and negotiated agreements that help reduce resource-based conflicts between herders and farmers",
+      "cross_domain": true
+    },
+    {
+      "source": "CGIAR",
+      "type": "uses",
+      "target": "target product profiles",
+      "confidence": "inferred",
+      "evidence": "CGIAR breeding programs systematically use target product profiles to define market-oriented breeding objectives aligned with farmer and consumer needs",
+      "cross_domain": false
+    },
+    {
+      "source": "biogas production",
+      "type": "addresses",
+      "target": "circular economy",
+      "confidence": "inferred",
+      "evidence": "Biogas production from agricultural waste converts organic matter into energy and bioslurry fertilizer, exemplifying circular economy principles in farming systems",
+      "cross_domain": true
+    },
+    {
+      "source": "scaling for impact",
+      "type": "uses",
+      "target": "public-private partnerships",
+      "confidence": "inferred",
+      "evidence": "Scaling agricultural innovations to reach millions of farmers typically requires public-private partnerships to leverage private sector distribution networks and investment",
+      "cross_domain": false
+    },
+    {
+      "source": "locally led adaptation",
+      "type": "uses",
+      "target": "traditional knowledge systems",
+      "confidence": "inferred",
+      "evidence": "Locally led climate adaptation explicitly integrates traditional ecological knowledge with scientific data to develop contextually appropriate adaptation strategies",
+      "cross_domain": true
+    },
+    {
+      "source": "food environment assessment",
+      "type": "addresses",
+      "target": "dietary diversity",
+      "confidence": "inferred",
+      "evidence": "Food environment assessments measure availability, accessibility, and affordability of diverse foods, directly informing interventions to improve dietary diversity",
+      "cross_domain": true
+    },
+    {
+      "source": "WorldFish",
+      "type": "uses",
+      "target": "integrated rice-fish systems",
+      "confidence": "inferred",
+      "evidence": "WorldFish is a leading research institution developing and promoting integrated rice-fish farming systems as a nutrition-sensitive and climate-smart approach",
+      "cross_domain": true
+    },
+    {
+      "source": "anticipatory action",
+      "type": "uses",
+      "target": "early warning systems",
+      "confidence": "inferred",
+      "evidence": "Anticipatory action is triggered by early warning signals from monitoring systems, requiring integration of forecast data with pre-agreed action protocols",
+      "cross_domain": false
+    },
+    {
+      "source": "social protection",
+      "type": "addresses",
+      "target": "food security",
+      "confidence": "inferred",
+      "evidence": "Social protection programs including cash transfers directly improve household food security by increasing purchasing power and reducing vulnerability to shocks",
+      "cross_domain": true
+    },
+    {
+      "source": "genome editing",
+      "type": "addresses",
+      "target": "disease resistance",
+      "confidence": "inferred",
+      "evidence": "Genome editing tools like CRISPR are being applied to develop disease-resistant crop varieties by precisely modifying susceptibility genes",
+      "cross_domain": false
+    },
+    {
+      "source": "citizen science",
+      "type": "uses",
+      "target": "digital data collection",
+      "confidence": "inferred",
+      "evidence": "Citizen science programs in agriculture rely on digital data collection tools including mobile apps to gather large-scale observations from farmer participants",
+      "cross_domain": true
+    },
+    {
+      "source": "multifunctional landscapes",
+      "type": "addresses",
+      "target": "biodiversity conservation",
+      "confidence": "inferred",
+      "evidence": "Multifunctional landscape approaches integrate biodiversity conservation with agricultural production, explicitly targeting both food security and ecosystem health outcomes",
+      "cross_domain": true
+    },
+    {
+      "source": "nitrogen use efficiency",
+      "type": "addresses",
+      "target": "greenhouse gas emissions",
+      "confidence": "inferred",
+      "evidence": "Improving nitrogen use efficiency reduces nitrous oxide emissions from agricultural soils, a potent greenhouse gas, bridging soil management and climate mitigation",
+      "cross_domain": true
+    },
+    {
+      "source": "demand-driven breeding",
+      "type": "uses",
+      "target": "market intelligence",
+      "confidence": "inferred",
+      "evidence": "Demand-driven breeding programs rely on market intelligence to identify consumer and trader preferences that should guide variety development priorities",
+      "cross_domain": true
+    }
+  ],
+  "suggested_taxonomy_moves": [
+    {
+      "concept": "nutrition-sensitive agriculture",
+      "from_branch": "Nutrition Security and Dietary Quality > Nutrition-Sensitive Approaches",
+      "to_branch": "Food Systems, Nutrition, and Food Security > Nutrition Security and Dietary Quality",
+      "reason": "Nutrition-sensitive agriculture is a cross-domain bridge concept that should be elevated as a parent category bridging Crop Improvement and Food Security rather than nested only under nutrition approaches"
+    },
+    {
+      "concept": "biofortification",
+      "from_branch": "Crop Improvement and Genetics > Plant Breeding Methods and Strategies > Specific Breeding Targets",
+      "to_branch": "Food Systems, Nutrition, and Food Security > Nutrition Security and Dietary Quality > Nutrition-Sensitive Approaches",
+      "reason": "Biofortification appears in both Crop Improvement and Food Security domains; its primary impact is nutritional, making it more appropriately a child of nutrition-sensitive approaches with a cross-reference to breeding"
+    },
+    {
+      "concept": "alternate wetting and drying",
+      "from_branch": "Sustainable Farming Systems > Irrigation and Water Management > Irrigation Systems and Technologies",
+      "to_branch": "Climate Change, Environment, and Natural Resources > Climate Mitigation and Low-Carbon Agriculture > Methane and Emission Reduction Practices",
+      "reason": "AWD is primarily recognized as a greenhouse gas mitigation practice for rice, not just a water-saving technology; it should be prominently placed in climate mitigation with a cross-reference to irrigation"
+    },
+    {
+      "concept": "one health approach",
+      "from_branch": "Other / Cross-cutting > One Health and Zoonotic Disease",
+      "to_branch": "Sustainable Farming Systems > Livestock and Mixed Farming Systems > Herd Health Management",
+      "reason": "One Health approach is most directly applied in livestock health management contexts and should be anchored there rather than only in cross-cutting, while maintaining cross-domain links"
+    },
+    {
+      "concept": "digital twin",
+      "from_branch": "Digital Innovation and Data Science > Precision Agriculture and Smart Farming > Precision Farming Technologies",
+      "to_branch": "Digital Innovation and Data Science > Decision Support and Modeling Tools > Decision Support Systems",
+      "reason": "Digital twins function primarily as decision support and modeling tools for agricultural systems management, making them more conceptually aligned with decision support than precision farming hardware"
+    },
+    {
+      "concept": "food systems resilience",
+      "from_branch": "Food Systems, Nutrition, and Food Security > Food Systems Transformation > Food System Frameworks and Approaches",
+      "to_branch": "Climate Change, Environment, and Natural Resources > Climate Adaptation and Resilience > Climate Resilience Building",
+      "reason": "Food systems resilience is fundamentally a climate adaptation concept and should be co-located with climate resilience frameworks while maintaining links to food systems transformation"
+    },
+    {
+      "concept": "participatory climate services",
+      "from_branch": "Climate Change, Environment, and Natural Resources > Climate Adaptation and Resilience > Locally Led and Community-Based Adaptation",
+      "to_branch": "Climate Change, Environment, and Natural Resources > Climate Information and Risk Management > Climate Information Services",
+      "reason": "Participatory climate services is more specifically about co-designing climate information delivery than about locally led adaptation broadly; it fits better under climate information services"
+    },
+    {
+      "concept": "scaling readiness",
+      "from_branch": "Sustainable Farming Systems > Farming Systems Innovation and Scaling > Technology Adoption and Diffusion",
+      "to_branch": "Capacity Development, Extension, and Knowledge Systems > Innovation Systems and Scaling > Scaling Strategies and Frameworks",
+      "reason": "Scaling readiness is a methodological framework for assessing innovation scalability and belongs with other scaling frameworks rather than under technology adoption dynamics"
+    }
+  ]
+}
