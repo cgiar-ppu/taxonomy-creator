@@ -1,0 +1,54 @@
+name: "One-off: Update synaptic DNS record"
+
+on:
+  workflow_dispatch:
+    inputs:
+      new_ip:
+        description: "New IP address for synaptic.synapsis-analytics.com"
+        required: true
+        default: "144.178.130.58"
+
+permissions:
+  id-token: write
+  contents: read
+
+env:
+  AWS_REGION: eu-central-1
+
+jobs:
+  update-dns:
+    name: Update Route53 A record
+    runs-on: ubuntu-latest
+    steps:
+      - name: Configure AWS credentials (OIDC)
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          role-to-assume: ${{ secrets.AWS_DEPLOY_ROLE_ARN }}
+          aws-region: ${{ env.AWS_REGION }}
+
+      - name: Update DNS record
+        run: |
+          echo "Updating synaptic.synapsis-analytics.com -> ${{ github.event.inputs.new_ip }}"
+
+          aws route53 change-resource-record-sets \
+            --hosted-zone-id Z079841559W4HJ5A3Q2Y \
+            --change-batch '{
+              "Changes": [{
+                "Action": "UPSERT",
+                "ResourceRecordSet": {
+                  "Name": "synaptic.synapsis-analytics.com.",
+                  "Type": "A",
+                  "TTL": 60,
+                  "ResourceRecords": [{"Value": "${{ github.event.inputs.new_ip }}"}]
+                }
+              }]
+            }'
+
+          echo "## ✅ DNS Updated" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "| Field | Value |" >> $GITHUB_STEP_SUMMARY
+          echo "|-------|-------|" >> $GITHUB_STEP_SUMMARY
+          echo "| Domain | synaptic.synapsis-analytics.com |" >> $GITHUB_STEP_SUMMARY
+          echo "| New IP | ${{ github.event.inputs.new_ip }} |" >> $GITHUB_STEP_SUMMARY
+          echo "| Hosted Zone | Z079841559W4HJ5A3Q2Y |" >> $GITHUB_STEP_SUMMARY
+          echo "| TTL | 60s |" >> $GITHUB_STEP_SUMMARY
