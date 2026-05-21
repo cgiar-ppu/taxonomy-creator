@@ -2234,7 +2234,6 @@ function createTreeNode(item, isDomain) {
     li.className = 'tree-node' + (isDomain ? ' tree-domain' : '');
 
     var hasChildren = item.children && item.children.length > 0;
-    var isLeaf = !hasChildren && item.frequency;
 
     var content = document.createElement('div');
     content.className = 'tree-node-content';
@@ -2261,47 +2260,6 @@ function createTreeNode(item, isDomain) {
         desc.className = 'tree-desc';
         desc.textContent = '-- ' + item.description.substring(0, 60);
         content.appendChild(desc);
-    }
-
-    // Data points indicator for leaf nodes
-    if (isLeaf && window._conceptDataPoints) {
-        var conceptKey = (item.name || '').trim().toLowerCase();
-        var dataPoints = window._conceptDataPoints[conceptKey];
-        if (dataPoints && dataPoints.length > 0) {
-            var dpIndicator = document.createElement('span');
-            dpIndicator.className = 'tree-data-points';
-            dpIndicator.textContent = '📋 ' + dataPoints.length + ' data point' + (dataPoints.length !== 1 ? 's' : '');
-
-            // Build the expandable panel (hidden by default)
-            var panel = document.createElement('div');
-            panel.className = 'tree-data-panel';
-
-            var MAX_SHOW = 20;
-            var toShow = dataPoints.slice(0, MAX_SHOW);
-            toShow.forEach(function(rid) {
-                var badge = document.createElement('span');
-                badge.className = 'result-id-badge';
-                badge.textContent = '#' + rid;
-                panel.appendChild(badge);
-            });
-            if (dataPoints.length > MAX_SHOW) {
-                var more = document.createElement('span');
-                more.className = 'tree-data-more';
-                more.textContent = '... and ' + (dataPoints.length - MAX_SHOW) + ' more';
-                panel.appendChild(more);
-            }
-
-            dpIndicator.addEventListener('click', function(e) {
-                e.stopPropagation();
-                panel.classList.toggle('open');
-                dpIndicator.classList.toggle('active');
-            });
-
-            content.appendChild(dpIndicator);
-            li.appendChild(content);
-            li.appendChild(panel);
-            return li;
-        }
     }
 
     li.appendChild(content);
@@ -2560,6 +2518,59 @@ function buildSunburst() {
                 zoomTo(hierarchy);
             });
 
+        // Segment labels group — shows names on large enough segments after zoom
+        var labelGroup = svg.append('g').attr('class', 'sunburst-labels').style('pointer-events', 'none');
+
+        function updateSegmentLabels(target) {
+            labelGroup.selectAll('text').remove();
+
+            var targetX0 = target.x0;
+            var targetX1 = target.x1;
+            var targetSpan = targetX1 - targetX0;
+            var xScale = d3.scaleLinear().domain([targetX0, targetX1]).range([0, 2 * Math.PI]);
+            var yScale = d3.scaleLinear().domain([target.y0, radius]).range([0, radius]);
+
+            // Find visible segments that are large enough to label
+            var labellable = hierarchy.descendants().filter(function(d) {
+                if (!isDescendantOf(d, target)) return false;
+                var relDepth = d.depth - target.depth;
+                if (relDepth < 1) return false;
+                // Only label segments occupying >3% of the circle after zoom
+                var angularFraction = (d.x1 - d.x0) / targetSpan;
+                return angularFraction > 0.03;
+            });
+
+            labellable.forEach(function(d) {
+                var midAngle = xScale((d.x0 + d.x1) / 2);
+                var midRadius = (yScale(d.y0) + yScale(d.y1 - 1)) / 2;
+                var x = midRadius * Math.sin(midAngle);
+                var y = -midRadius * Math.cos(midAngle);
+
+                // Rotate text to follow the arc
+                var rotDeg = (midAngle * 180 / Math.PI) - 90;
+                // Flip text if in the bottom half so it reads left-to-right
+                var flip = midAngle > Math.PI;
+                if (flip) rotDeg += 180;
+
+                // Truncate label to fit
+                var arcLen = (d.x1 - d.x0) / targetSpan * 2 * Math.PI * midRadius;
+                var maxChars = Math.max(3, Math.floor(arcLen / 6));
+                var label = d.data.name || '';
+                if (label.length > maxChars) label = label.substring(0, maxChars - 1) + '..';
+
+                labelGroup.append('text')
+                    .attr('x', x)
+                    .attr('y', y)
+                    .attr('transform', 'rotate(' + rotDeg + ',' + x + ',' + y + ')')
+                    .attr('text-anchor', 'middle')
+                    .attr('dy', '0.35em')
+                    .attr('fill', 'rgba(255,255,255,0.85)')
+                    .attr('font-size', '10px')
+                    .attr('font-weight', '600')
+                    .text(label);
+            });
+        }
+
         // FIX 4: Reset button wiring
         var resetBtn = document.getElementById('sunburstResetBtn');
         resetBtn.addEventListener('click', function() {
@@ -2698,10 +2709,14 @@ function buildSunburst() {
 
             centerText.text(target.data.name || 'CGIAR Taxonomy')
                 .style('cursor', target === hierarchy ? 'default' : 'pointer');
+
+            // Update segment labels after zoom transition completes
+            setTimeout(function() { updateSegmentLabels(target); }, 780);
         }
 
-        // Initialize nav bar for root view
+        // Initialize nav bar and labels for root view
         updateNavBar(hierarchy);
+        updateSegmentLabels(hierarchy);
 
         // Store zoom function globally for breadcrumb clicks
         window._sunburstHierarchy = hierarchy;
