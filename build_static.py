@@ -149,9 +149,6 @@ def compute_graph_data(
                         "confidence": r.get("confidence", ""),
                     }
                 )
-            if len(links) >= 500:
-                break
-
     return {"nodes": list(node_map.values()), "links": links}
 
 
@@ -2134,8 +2131,9 @@ def build():
     if crosslinks:
         relationships = relationships + crosslinks.get("new_relationships", [])
 
-    # graph-data.json
-    graph_data = compute_graph_data(concepts, entities, relationships)
+    # graph-data.json — generate with all available nodes so the frontend
+    # slider can go up to the full dataset (client-side filtering)
+    graph_data = compute_graph_data(concepts, entities, relationships, node_limit=3000)
     save_json(graph_data, DATA_DIR / "graph-data.json")
 
     # relationship-types.json

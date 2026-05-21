@@ -1085,7 +1085,7 @@ def api_graph_data():
     Query params:
         limit (int): max total nodes to return (default 200, max 2000)
     """
-    node_limit = min(int(request.args.get("limit", 200)), 2000)
+    node_limit = int(request.args.get("limit", 200))
     concept_limit = max(node_limit // 2, 50)
     entity_limit = max(node_limit // 2, 50)
 
@@ -1212,8 +1212,6 @@ def api_graph_data():
                     "type": r.get("type", "related_to"),
                     "confidence": r.get("confidence", ""),
                 })
-            if len(links) >= 500:
-                break
 
     nodes = list(node_map.values())
     return jsonify({"nodes": nodes, "links": links})
