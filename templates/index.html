@@ -500,6 +500,73 @@
             color: var(--primary);
         }
 
+        /* ---- Tree Data Points (leaf node linked results) ---- */
+        .tree-data-points {
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+            margin-left: 8px;
+            padding: 1px 8px;
+            border-radius: 10px;
+            font-size: 11px;
+            font-weight: 500;
+            color: var(--info);
+            background: rgba(52, 152, 219, 0.12);
+            cursor: pointer;
+            transition: background 0.15s, color 0.15s;
+            user-select: none;
+            white-space: nowrap;
+        }
+        .tree-data-points:hover {
+            background: rgba(52, 152, 219, 0.25);
+            color: #5dade2;
+        }
+        .tree-data-points.active {
+            background: rgba(52, 152, 219, 0.22);
+            color: #5dade2;
+        }
+        .tree-data-panel {
+            margin: 4px 0 6px 48px;
+            padding: 10px 14px;
+            background: var(--bg-input);
+            border: 1px solid var(--border);
+            border-radius: 6px;
+            display: none;
+            flex-wrap: wrap;
+            gap: 6px;
+            align-items: center;
+            animation: panelFadeIn 0.15s ease;
+        }
+        .tree-data-panel.open {
+            display: flex;
+        }
+        @keyframes panelFadeIn {
+            from { opacity: 0; transform: translateY(-4px); }
+            to   { opacity: 1; transform: translateY(0); }
+        }
+        .result-id-badge {
+            display: inline-block;
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-size: 11px;
+            font-family: 'SF Mono', 'Fira Code', 'Cascadia Code', monospace;
+            font-weight: 500;
+            color: var(--text);
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            white-space: nowrap;
+        }
+        .result-id-badge:hover {
+            border-color: var(--info);
+            color: var(--text-bright);
+        }
+        .tree-data-more {
+            font-size: 11px;
+            color: var(--text-dim);
+            font-style: italic;
+            padding: 2px 4px;
+        }
+
         /* ---- Toast Notifications ---- */
         .toast-container {
             position: fixed;
@@ -745,6 +812,72 @@
         .viz-breadcrumb span:hover {
             text-decoration: underline;
         }
+
+        /* ---- Sunburst-specific styles ---- */
+        .sunburst-nav-bar {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            margin-bottom: 8px;
+            min-height: 28px;
+            flex-wrap: wrap;
+        }
+        .sunburst-breadcrumb {
+            font-size: 12px;
+            color: var(--text-dim);
+            flex: 1;
+        }
+        .sunburst-breadcrumb span {
+            cursor: pointer;
+            color: var(--primary);
+            text-decoration: underline;
+            text-decoration-style: dotted;
+            text-underline-offset: 2px;
+        }
+        .sunburst-breadcrumb span:hover {
+            color: var(--primary-light);
+            text-decoration-style: solid;
+        }
+        .sunburst-breadcrumb .sunburst-breadcrumb-sep {
+            color: var(--text-dim);
+            margin: 0 2px;
+            cursor: default;
+            text-decoration: none;
+        }
+        .sunburst-breadcrumb .sunburst-breadcrumb-current {
+            color: var(--text-bright);
+            cursor: default;
+            text-decoration: none;
+            font-weight: 600;
+        }
+        .sunburst-reset-btn {
+            display: none;
+            align-items: center;
+            gap: 4px;
+            padding: 4px 12px;
+            background: rgba(0,166,81,0.12);
+            border: 1px solid rgba(0,166,81,0.3);
+            border-radius: 14px;
+            color: var(--primary);
+            font-size: 11px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.15s;
+            white-space: nowrap;
+        }
+        .sunburst-reset-btn:hover {
+            background: rgba(0,166,81,0.25);
+            border-color: var(--primary);
+        }
+        .sunburst-reset-btn.sunburst-visible {
+            display: inline-flex;
+        }
+        .sunburst-segment-count {
+            font-size: 11px;
+            color: var(--text-dim);
+            white-space: nowrap;
+        }
+
         .viz-tooltip {
             position: absolute;
             padding: 8px 12px;
@@ -785,6 +918,207 @@
             .viz-grid {
                 grid-template-columns: 1fr;
             }
+        }
+
+        /* ---- Network Graph Enhancements ---- */
+        .graph-wrapper {
+            position: relative;
+            overflow: hidden;
+        }
+        .graph-toolbar {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-bottom: 10px;
+            flex-wrap: wrap;
+        }
+        .graph-toolbar .viz-search {
+            flex: 1;
+            min-width: 180px;
+            margin-bottom: 0;
+        }
+        .graph-toolbar-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 5px;
+            padding: 7px 14px;
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: 6px;
+            color: var(--text);
+            font-size: 12px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.15s;
+            white-space: nowrap;
+        }
+        .graph-toolbar-btn:hover {
+            border-color: var(--primary);
+            background: rgba(0,166,81,0.08);
+            color: var(--primary);
+        }
+        .graph-toolbar-btn.graph-btn-active {
+            border-color: var(--primary);
+            background: rgba(0,166,81,0.15);
+            color: var(--primary);
+        }
+        .graph-hops-control {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            padding: 4px 12px;
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: 6px;
+            font-size: 12px;
+            color: var(--text-dim);
+            white-space: nowrap;
+        }
+        .graph-hops-control label {
+            font-weight: 600;
+            color: var(--text);
+        }
+        .graph-hops-control input[type="range"] {
+            width: 60px;
+            accent-color: var(--primary);
+            cursor: pointer;
+        }
+        .graph-hops-value {
+            display: inline-block;
+            min-width: 14px;
+            text-align: center;
+            font-weight: 700;
+            color: var(--primary);
+        }
+        .graph-node-count {
+            font-size: 11px;
+            color: var(--text-dim);
+            margin-left: auto;
+            white-space: nowrap;
+        }
+
+        /* Detail panel */
+        .graph-detail-panel {
+            position: absolute;
+            top: 0;
+            right: -360px;
+            width: 350px;
+            height: 100%;
+            background: var(--bg-card);
+            border-left: 1px solid var(--border);
+            padding: 20px;
+            transition: right 0.3s ease;
+            overflow-y: auto;
+            z-index: 10;
+            box-shadow: -4px 0 16px rgba(0,0,0,0.3);
+        }
+        .graph-detail-panel.graph-panel-open {
+            right: 0;
+        }
+        .graph-detail-close {
+            position: absolute;
+            top: 12px;
+            right: 12px;
+            background: none;
+            border: none;
+            color: var(--text-dim);
+            font-size: 20px;
+            cursor: pointer;
+            padding: 4px 8px;
+            border-radius: 4px;
+            transition: all 0.15s;
+        }
+        .graph-detail-close:hover {
+            color: var(--text-bright);
+            background: rgba(255,255,255,0.05);
+        }
+        .graph-detail-name {
+            font-size: 18px;
+            font-weight: 700;
+            color: var(--text-bright);
+            margin-bottom: 4px;
+            padding-right: 30px;
+            word-wrap: break-word;
+        }
+        .graph-detail-type {
+            font-size: 12px;
+            color: var(--text-dim);
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin-bottom: 14px;
+        }
+        .graph-detail-type .graph-detail-type-badge {
+            display: inline-block;
+            padding: 2px 8px;
+            border-radius: 10px;
+            font-weight: 600;
+            margin-left: 4px;
+        }
+        .graph-detail-section {
+            margin-bottom: 16px;
+        }
+        .graph-detail-section-title {
+            font-size: 11px;
+            font-weight: 700;
+            color: var(--text-dim);
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin-bottom: 8px;
+            padding-bottom: 4px;
+            border-bottom: 1px solid var(--border);
+        }
+        .graph-detail-stat {
+            display: flex;
+            justify-content: space-between;
+            padding: 4px 0;
+            font-size: 13px;
+        }
+        .graph-detail-stat-label {
+            color: var(--text-dim);
+        }
+        .graph-detail-stat-value {
+            color: var(--text-bright);
+            font-weight: 600;
+        }
+        .graph-detail-desc {
+            font-size: 13px;
+            color: var(--text);
+            line-height: 1.5;
+            margin-bottom: 12px;
+        }
+        .graph-detail-connections {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+            max-height: 250px;
+            overflow-y: auto;
+        }
+        .graph-detail-conn-item {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            padding: 5px 8px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 13px;
+            color: var(--text);
+            transition: background 0.1s;
+        }
+        .graph-detail-conn-item:hover {
+            background: rgba(255,255,255,0.05);
+            color: var(--text-bright);
+        }
+        .graph-detail-conn-dot {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            flex-shrink: 0;
+        }
+        .graph-detail-conn-hop {
+            font-size: 10px;
+            color: var(--text-dim);
+            margin-left: auto;
+            white-space: nowrap;
         }
     </style>
 </head>
@@ -1105,7 +1439,12 @@
                     <!-- 1. Zoomable Sunburst (full width) -->
                     <div class="viz-card viz-full">
                         <div class="viz-card-title"><span class="viz-icon">&#x2600;</span> Taxonomy Sunburst</div>
-                        <div class="viz-breadcrumb" id="sunburstBreadcrumb"></div>
+                        <div class="viz-breadcrumb" id="sunburstBreadcrumb" style="display:none;"></div>
+                        <div class="sunburst-nav-bar">
+                            <div class="sunburst-breadcrumb" id="sunburstBreadcrumbNew"></div>
+                            <span class="sunburst-segment-count" id="sunburstSegmentCount"></span>
+                            <button class="sunburst-reset-btn" id="sunburstResetBtn" title="Return to root view">&#x21A9; Reset</button>
+                        </div>
                         <div class="viz-container" id="sunburstContainer">
                             <div class="viz-loading"><div class="spinner"></div> Loading taxonomy...</div>
                         </div>
@@ -1113,10 +1452,28 @@
 
                     <!-- 2. Force-Directed Network (full width) -->
                     <div class="viz-card viz-full">
-                        <div class="viz-card-title"><span class="viz-icon">&#x1F578;</span> Knowledge Graph Network</div>
-                        <input type="text" class="viz-search" id="graphSearch" placeholder="Search nodes... (type a concept or entity name)">
-                        <div class="viz-container" id="networkContainer" style="min-height:500px;">
-                            <div class="viz-loading"><div class="spinner"></div> Loading graph data...</div>
+                        <div class="viz-card-title">
+                            <span class="viz-icon">&#x1F578;</span> Knowledge Graph Network
+                            <span class="graph-node-count" id="graphNodeCount"></span>
+                        </div>
+                        <div class="graph-wrapper">
+                            <div class="graph-toolbar">
+                                <input type="text" class="viz-search" id="graphSearch" placeholder="Search nodes...">
+                                <button class="graph-toolbar-btn" id="graphPauseBtn" title="Pause / Resume simulation">&#x23F8; Pause</button>
+                                <div class="graph-hops-control">
+                                    <label>Hops</label>
+                                    <input type="range" id="graphHopsSlider" min="1" max="3" value="1" title="Exploration depth (1-3 hops)">
+                                    <span class="graph-hops-value" id="graphHopsValue">1</span>
+                                </div>
+                                <button class="graph-toolbar-btn" id="graphResetBtn" title="Reset view and selection">&#x21A9; Reset</button>
+                            </div>
+                            <div class="viz-container" id="networkContainer" style="min-height:550px;">
+                                <div class="viz-loading"><div class="spinner"></div> Loading graph data...</div>
+                            </div>
+                            <div class="graph-detail-panel" id="graphDetailPanel">
+                                <button class="graph-detail-close" id="graphDetailClose" title="Close panel">&times;</button>
+                                <div id="graphDetailContent"></div>
+                            </div>
                         </div>
                     </div>
 
@@ -1741,15 +2098,17 @@ function loadResults() {
     })
     .catch(function() {});
 
-    // Load taxonomy tree
-    fetch('/results/taxonomy')
-    .then(function(r) {
-        if (!r.ok) return null;
-        return r.json();
-    })
-    .then(function(data) {
-        if (data && data.taxonomy) {
-            renderTaxonomyTree(data.taxonomy);
+    // Load taxonomy tree and concept-data-points mapping in parallel
+    Promise.all([
+        fetch('/results/taxonomy').then(function(r) { return r.ok ? r.json() : null; }),
+        fetch('/api/concept-data-points').then(function(r) { return r.ok ? r.json() : null; })
+    ])
+    .then(function(results) {
+        var taxonomyData = results[0];
+        var dataPointsMap = results[1];
+        window._conceptDataPoints = dataPointsMap || {};
+        if (taxonomyData && taxonomyData.taxonomy) {
+            renderTaxonomyTree(taxonomyData.taxonomy);
         }
     })
     .catch(function() {});
@@ -1870,6 +2229,7 @@ function createTreeNode(item, isDomain) {
     li.className = 'tree-node' + (isDomain ? ' tree-domain' : '');
 
     var hasChildren = item.children && item.children.length > 0;
+    var isLeaf = !hasChildren && item.frequency;
 
     var content = document.createElement('div');
     content.className = 'tree-node-content';
@@ -1896,6 +2256,47 @@ function createTreeNode(item, isDomain) {
         desc.className = 'tree-desc';
         desc.textContent = '-- ' + item.description.substring(0, 60);
         content.appendChild(desc);
+    }
+
+    // Data points indicator for leaf nodes
+    if (isLeaf && window._conceptDataPoints) {
+        var conceptKey = (item.name || '').trim().toLowerCase();
+        var dataPoints = window._conceptDataPoints[conceptKey];
+        if (dataPoints && dataPoints.length > 0) {
+            var dpIndicator = document.createElement('span');
+            dpIndicator.className = 'tree-data-points';
+            dpIndicator.textContent = '📋 ' + dataPoints.length + ' data point' + (dataPoints.length !== 1 ? 's' : '');
+
+            // Build the expandable panel (hidden by default)
+            var panel = document.createElement('div');
+            panel.className = 'tree-data-panel';
+
+            var MAX_SHOW = 20;
+            var toShow = dataPoints.slice(0, MAX_SHOW);
+            toShow.forEach(function(rid) {
+                var badge = document.createElement('span');
+                badge.className = 'result-id-badge';
+                badge.textContent = '#' + rid;
+                panel.appendChild(badge);
+            });
+            if (dataPoints.length > MAX_SHOW) {
+                var more = document.createElement('span');
+                more.className = 'tree-data-more';
+                more.textContent = '... and ' + (dataPoints.length - MAX_SHOW) + ' more';
+                panel.appendChild(more);
+            }
+
+            dpIndicator.addEventListener('click', function(e) {
+                e.stopPropagation();
+                panel.classList.toggle('open');
+                dpIndicator.classList.toggle('active');
+            });
+
+            content.appendChild(dpIndicator);
+            li.appendChild(content);
+            li.appendChild(panel);
+            return li;
+        }
     }
 
     li.appendChild(content);
@@ -1997,13 +2398,6 @@ function buildSunburst() {
         // Build hierarchy
         var root = { name: 'CGIAR Taxonomy', children: taxonomy };
 
-        function countLeaves(node) {
-            if (!node.children || node.children.length === 0) return node.frequency || 1;
-            var sum = 0;
-            node.children.forEach(function(c) { sum += countLeaves(c); });
-            return sum;
-        }
-
         var hierarchy = d3.hierarchy(root)
             .sum(function(d) { return (!d.children || d.children.length === 0) ? (d.frequency || 1) : 0; })
             .sort(function(a, b) { return b.value - a.value; });
@@ -2015,15 +2409,44 @@ function buildSunburst() {
         var domainNames = taxonomy.map(function(d) { return d.name; });
         var colorScale = d3.scaleOrdinal().domain(domainNames).range(CGIAR_COLORS);
 
+        // FIX 1: getColor — vary hue within each domain so siblings are distinguishable.
+        // The old version only varied brightness by depth, making all same-depth siblings
+        // under a domain look identical. Now we rotate hue based on sibling index and a
+        // simple name hash, while still tying the base color to the domain ancestor.
         function getColor(d) {
-            // Walk up to find the top-level domain
+            // Walk up to find the top-level domain (depth=1)
             var node = d;
             while (node.depth > 1) node = node.parent;
             if (node.depth === 0) return '#333';
-            var base = d3.color(colorScale(node.data.name));
-            // Lighten deeper levels
-            var lightness = 1 + (d.depth - 1) * 0.12;
-            return base ? base.brighter(lightness * 0.5).toString() : '#555';
+            var base = d3.hsl(colorScale(node.data.name));
+            if (!base || isNaN(base.h)) return '#555';
+
+            // Compute sibling index for spreading
+            var siblingIndex = 0;
+            if (d.parent && d.parent.children) {
+                siblingIndex = d.parent.children.indexOf(d);
+            }
+
+            // Simple name hash for extra variation at deeper levels
+            var nameHash = 0;
+            var name = d.data.name || '';
+            for (var ci = 0; ci < name.length; ci++) {
+                nameHash = ((nameHash << 5) - nameHash + name.charCodeAt(ci)) | 0;
+            }
+            nameHash = Math.abs(nameHash) % 360;
+
+            // Hue: rotate by sibling position (golden-angle-ish spread) + subtle name hash
+            var hueShift = (siblingIndex * 23 + nameHash * 0.08) % 360;
+            base.h = (base.h + hueShift * 0.18) % 360;
+
+            // Saturation: decrease slightly with depth, but keep vivid
+            var depthFactor = Math.max(0, d.depth - 1);
+            base.s = Math.max(0.35, Math.min(0.95, base.s - depthFactor * 0.06));
+
+            // Lightness: increase slightly with depth for a fading-into-light effect
+            base.l = Math.min(0.80, Math.max(0.30, base.l + depthFactor * 0.05));
+
+            return base.toString();
         }
 
         var svg = d3.select(container).append('svg')
@@ -2041,20 +2464,64 @@ function buildSunburst() {
 
         var tip = createTooltip();
 
-        // Current root for zooming
+        // Current root for zooming — used by hover handlers for relative depth
         var currentRoot = hierarchy;
+
+        // Helper: check if d is a descendant of root (or is root itself)
+        function isDescendantOf(d, root) {
+            var n = d;
+            while (n) {
+                if (n === root) return true;
+                n = n.parent;
+            }
+            return false;
+        }
+
+        // Helper: compute the correct fill-opacity for a segment given the current zoom root.
+        // FIX 2/3: This uses relative depth from currentRoot so mouseover/mouseout and
+        // zoomTo all share the same logic consistently.
+        function segmentOpacity(d) {
+            var relDepth = d.depth - currentRoot.depth;
+            // Hide segments not inside the current zoom target
+            if (!isDescendantOf(d, currentRoot)) return 0;
+            if (relDepth <= 0) return 0;
+            return relDepth <= 3 ? (1 - relDepth * 0.10) : 0.35;
+        }
+
+        // Helper: compute stroke visibility.  Tiny leaf segments get no
+        // visible stroke — the borders overwhelm the fill when there are
+        // thousands of them packed into the outer ring.
+        function segmentStroke(d) {
+            // Hide strokes on segments not visible in the current zoom
+            if (!isDescendantOf(d, currentRoot)) return 'none';
+            // For the initial (root) view, hide strokes on very thin segments
+            var angularSize = d.x1 - d.x0;
+            if (angularSize < 0.015) return 'none';  // ~0.86 degrees
+            return 'rgba(26,26,46,0.6)';
+        }
+        function segmentStrokeWidth(d) {
+            if (!isDescendantOf(d, currentRoot)) return 0;
+            var angularSize = d.x1 - d.x0;
+            if (angularSize < 0.015) return 0;
+            return 0.5;
+        }
 
         var paths = svg.selectAll('path')
             .data(hierarchy.descendants().filter(function(d) { return d.depth > 0; }))
             .join('path')
             .attr('d', arc)
             .attr('fill', getColor)
-            .attr('fill-opacity', function(d) { return d.depth <= 3 ? (1 - d.depth * 0.12) : 0.4; })
-            .attr('stroke', 'rgba(26,26,46,0.6)')
-            .attr('stroke-width', 0.5)
+            .attr('fill-opacity', function(d) { return segmentOpacity(d); })
+            .attr('stroke', function(d) { return segmentStroke(d); })
+            .attr('stroke-width', function(d) { return segmentStrokeWidth(d); })
             .style('cursor', function(d) { return d.children ? 'pointer' : 'default'; })
+            // FIX 2: mouseover — only highlight visible segments; no jarring color shift
             .on('mouseover', function(event, d) {
-                d3.select(this).attr('fill-opacity', 1).attr('stroke', '#fff').attr('stroke-width', 1.5);
+                if (segmentOpacity(d) === 0) return;
+                d3.select(this)
+                    .attr('fill-opacity', 1)
+                    .attr('stroke', '#fff')
+                    .attr('stroke-width', 1.5);
                 var freq = d.data.frequency ? ' (freq: ' + d.data.frequency + ')' : '';
                 var val = ' | size: ' + d.value;
                 tip.style('display', 'block')
@@ -2064,9 +2531,12 @@ function buildSunburst() {
             .on('mousemove', function(event) {
                 tip.style('left', (event.pageX + 14) + 'px').style('top', (event.pageY - 14) + 'px');
             })
+            // FIX 2: mouseout — use relative depth from currentRoot, not absolute depth
             .on('mouseout', function(event, d) {
-                d3.select(this).attr('fill-opacity', d.depth <= 3 ? (1 - d.depth * 0.12) : 0.4)
-                    .attr('stroke', 'rgba(26,26,46,0.6)').attr('stroke-width', 0.5);
+                d3.select(this)
+                    .attr('fill-opacity', segmentOpacity(d))
+                    .attr('stroke', segmentStroke(d))
+                    .attr('stroke-width', segmentStrokeWidth(d));
                 tip.style('display', 'none');
             })
             .on('click', function(event, d) {
@@ -2086,27 +2556,81 @@ function buildSunburst() {
                 zoomTo(hierarchy);
             });
 
-        function zoomTo(target) {
-            currentRoot = target;
+        // FIX 4: Reset button wiring
+        var resetBtn = document.getElementById('sunburstResetBtn');
+        resetBtn.addEventListener('click', function() {
+            zoomTo(hierarchy);
+        });
 
-            // Update breadcrumb
+        // Count descendants for the segment counter display
+        function countDescendants(node) {
+            var count = 0;
+            if (node.children) {
+                node.children.forEach(function(c) {
+                    count += 1;
+                    count += countDescendants(c);
+                });
+            }
+            return count;
+        }
+
+        // Update the navigation bar: breadcrumb, reset button, segment counter
+        function updateNavBar(target) {
             var breadcrumb = [];
             var node = target;
             while (node) {
                 breadcrumb.unshift(node);
                 node = node.parent;
             }
-            var bc = document.getElementById('sunburstBreadcrumb');
-            bc.innerHTML = '';
+
+            var bcEl = document.getElementById('sunburstBreadcrumbNew');
+            bcEl.innerHTML = '';
             breadcrumb.forEach(function(b, i) {
-                if (i > 0) bc.innerHTML += ' / ';
+                if (i > 0) {
+                    var sep = document.createElement('span');
+                    sep.className = 'sunburst-breadcrumb-sep';
+                    sep.textContent = ' / ';
+                    bcEl.appendChild(sep);
+                }
                 var label = b.data.name || 'Root';
                 if (i < breadcrumb.length - 1) {
-                    bc.innerHTML += '<span onclick="vizSunburstZoom(' + b.depth + ')">' + escapeHtml(label) + '</span>';
+                    var link = document.createElement('span');
+                    link.textContent = label;
+                    link.setAttribute('data-depth', b.depth);
+                    link.addEventListener('click', function() {
+                        vizSunburstZoom(parseInt(this.getAttribute('data-depth'), 10));
+                    });
+                    bcEl.appendChild(link);
                 } else {
-                    bc.innerHTML += escapeHtml(label);
+                    var current = document.createElement('span');
+                    current.className = 'sunburst-breadcrumb-current';
+                    current.textContent = label;
+                    bcEl.appendChild(current);
                 }
             });
+
+            // Show/hide reset button
+            if (target === hierarchy) {
+                resetBtn.classList.remove('sunburst-visible');
+            } else {
+                resetBtn.classList.add('sunburst-visible');
+            }
+
+            // Segment counter
+            var segCount = target.children ? countDescendants(target) : 0;
+            var countEl = document.getElementById('sunburstSegmentCount');
+            countEl.textContent = segCount > 0 ? segCount + ' segment' + (segCount !== 1 ? 's' : '') : '';
+        }
+
+        function zoomTo(target) {
+            currentRoot = target;
+
+            // Update the navigation bar (breadcrumb + reset + counter)
+            updateNavBar(target);
+
+            // Also clear the legacy breadcrumb element
+            var bc = document.getElementById('sunburstBreadcrumb');
+            bc.innerHTML = '';
 
             // Transition
             var targetX0 = target.x0;
@@ -2134,18 +2658,50 @@ function buildSunburst() {
                             .padRadius(radius / 2)();
                     };
                 })
+                // FIX 3 & 5: After zoom, re-apply fill-opacity using relative depth
+                // from the zoom target, and fully hide segments outside the zoomed area
                 .attr('fill-opacity', function(d) {
+                    if (!isDescendantOf(d, target)) return 0;
                     var relDepth = d.depth - target.depth;
-                    if (d.x0 < targetX0 || d.x1 > targetX1) return 0;
-                    return relDepth >= 0 && relDepth <= 3 ? (1 - relDepth * 0.12) : 0.4;
+                    if (relDepth <= 0) return 0;
+                    return relDepth <= 3 ? (1 - relDepth * 0.10) : 0.35;
+                })
+                // FIX: Hide strokes on segments outside the zoomed domain — this was
+                // the "ghost strokes" bug where dark lines appeared over visible content
+                .attr('stroke', function(d) {
+                    if (!isDescendantOf(d, target)) return 'none';
+                    var relDepth = d.depth - target.depth;
+                    if (relDepth <= 0) return 'none';
+                    // After zoom, segments are larger so use a tighter threshold
+                    var angularSize = d.x1 - d.x0;
+                    var scaledSize = angularSize / (target.x1 - target.x0) * 2 * Math.PI;
+                    if (scaledSize < 0.015) return 'none';
+                    return 'rgba(26,26,46,0.6)';
+                })
+                .attr('stroke-width', function(d) {
+                    if (!isDescendantOf(d, target)) return 0;
+                    var relDepth = d.depth - target.depth;
+                    if (relDepth <= 0) return 0;
+                    var angularSize = d.x1 - d.x0;
+                    var scaledSize = angularSize / (target.x1 - target.x0) * 2 * Math.PI;
+                    if (scaledSize < 0.015) return 0;
+                    return 0.5;
+                })
+                // Disable pointer events on hidden segments so they cannot be hovered
+                .style('pointer-events', function(d) {
+                    return isDescendantOf(d, target) && d.depth > target.depth ? 'all' : 'none';
                 });
 
-            centerText.text(target.data.name || 'CGIAR Taxonomy');
+            centerText.text(target.data.name || 'CGIAR Taxonomy')
+                .style('cursor', target === hierarchy ? 'default' : 'pointer');
         }
+
+        // Initialize nav bar for root view
+        updateNavBar(hierarchy);
 
         // Store zoom function globally for breadcrumb clicks
         window._sunburstHierarchy = hierarchy;
-        window.vizSunburstZoom = function(depth) {
+        var vizSunburstZoom = function(depth) {
             // Find ancestor at given depth in current path
             var node = currentRoot;
             var path = [];
@@ -2153,6 +2709,7 @@ function buildSunburst() {
             while (n) { path.unshift(n); n = n.parent; }
             if (depth < path.length) zoomTo(path[depth]);
         };
+        window.vizSunburstZoom = vizSunburstZoom;
     })
     .catch(function() {
         document.getElementById('sunburstContainer').innerHTML = '<div class="viz-empty">Could not load taxonomy data.</div>';
@@ -2177,13 +2734,18 @@ function buildNetworkGraph() {
         var width = container.clientWidth;
         var height = 550;
 
-        // Color scale by category
+        // ---- State ----
+        var pinnedNodeId = null;
+        var isPaused = false;
+        var currentHops = 1;
+
+        // ---- Color scale by category ----
         var categorySet = new Set();
         nodes.forEach(function(n) { categorySet.add(n.category || n.type); });
         var categories = Array.from(categorySet);
         var catColor = d3.scaleOrdinal().domain(categories).range(CGIAR_COLORS);
 
-        // Node size by frequency/degree
+        // ---- Node size by degree ----
         var degreeMap = {};
         links.forEach(function(l) {
             var s = typeof l.source === 'object' ? l.source.id : l.source;
@@ -2191,16 +2753,25 @@ function buildNetworkGraph() {
             degreeMap[s] = (degreeMap[s] || 0) + 1;
             degreeMap[t] = (degreeMap[t] || 0) + 1;
         });
-
         var maxDegree = d3.max(Object.values(degreeMap)) || 1;
         var rScale = d3.scaleSqrt().domain([0, maxDegree]).range([3, 18]);
 
+        // ---- Node count badge ----
+        var countEl = document.getElementById('graphNodeCount');
+        if (countEl) {
+            countEl.textContent = nodes.length + ' nodes, ' + links.length + ' connections';
+        }
+
+        // ---- Build a node lookup map ----
+        var nodeMap = {};
+        nodes.forEach(function(n) { nodeMap[n.id] = n; });
+
+        // ---- SVG ----
         var svg = d3.select(container).append('svg')
             .attr('width', width)
             .attr('height', height)
             .attr('viewBox', [0, 0, width, height].join(' '));
 
-        // Zoom
         var g = svg.append('g');
         var zoom = d3.zoom().scaleExtent([0.2, 5]).on('zoom', function(event) {
             g.attr('transform', event.transform);
@@ -2209,12 +2780,14 @@ function buildNetworkGraph() {
 
         var tip = createTooltip();
 
+        // ---- Simulation ----
         var simulation = d3.forceSimulation(nodes)
             .force('link', d3.forceLink(links).id(function(d) { return d.id; }).distance(80).strength(0.3))
             .force('charge', d3.forceManyBody().strength(-120))
             .force('center', d3.forceCenter(width / 2, height / 2))
             .force('collision', d3.forceCollide().radius(function(d) { return rScale(degreeMap[d.id] || 0) + 2; }));
 
+        // ---- Links ----
         var link = g.append('g')
             .selectAll('line')
             .data(links)
@@ -2222,6 +2795,7 @@ function buildNetworkGraph() {
             .attr('stroke', 'rgba(255,255,255,0.08)')
             .attr('stroke-width', 1);
 
+        // ---- Nodes ----
         var node = g.append('g')
             .selectAll('circle')
             .data(nodes)
@@ -2234,59 +2808,24 @@ function buildNetworkGraph() {
             .style('cursor', 'pointer')
             .call(d3.drag()
                 .on('start', function(event, d) {
+                    if (isPaused) return;
                     if (!event.active) simulation.alphaTarget(0.3).restart();
                     d.fx = d.x; d.fy = d.y;
                 })
                 .on('drag', function(event, d) {
+                    if (isPaused) return;
                     d.fx = event.x; d.fy = event.y;
                 })
                 .on('end', function(event, d) {
+                    if (isPaused) return;
                     if (!event.active) simulation.alphaTarget(0);
                     d.fx = null; d.fy = null;
-                }))
-            .on('mouseover', function(event, d) {
-                // Highlight connected nodes
-                var connected = new Set();
-                links.forEach(function(l) {
-                    var s = typeof l.source === 'object' ? l.source.id : l.source;
-                    var t = typeof l.target === 'object' ? l.target.id : l.target;
-                    if (s === d.id) connected.add(t);
-                    if (t === d.id) connected.add(s);
-                });
-                connected.add(d.id);
+                }));
 
-                node.attr('fill-opacity', function(n) { return connected.has(n.id) ? 1 : 0.1; });
-                link.attr('stroke', function(l) {
-                    var s = typeof l.source === 'object' ? l.source.id : l.source;
-                    var t = typeof l.target === 'object' ? l.target.id : l.target;
-                    return (s === d.id || t === d.id) ? 'rgba(0,166,81,0.6)' : 'rgba(255,255,255,0.03)';
-                }).attr('stroke-width', function(l) {
-                    var s = typeof l.source === 'object' ? l.source.id : l.source;
-                    var t = typeof l.target === 'object' ? l.target.id : l.target;
-                    return (s === d.id || t === d.id) ? 2 : 0.5;
-                });
-
-                var deg = degreeMap[d.id] || 0;
-                tip.style('display', 'block')
-                    .html('<strong>' + escapeHtml(d.label) + '</strong>'
-                        + '<br>Type: ' + escapeHtml(d.type) + (d.category ? ' / ' + escapeHtml(d.category) : '')
-                        + '<br>Connections: ' + deg
-                        + (d.frequency > 1 ? '<br>Frequency: ' + d.frequency : '')
-                        + (d.description ? '<br><span style="color:#8892a4">' + escapeHtml(d.description) + '</span>' : ''));
-            })
-            .on('mousemove', function(event) {
-                tip.style('left', (event.pageX + 14) + 'px').style('top', (event.pageY - 14) + 'px');
-            })
-            .on('mouseout', function() {
-                node.attr('fill-opacity', 0.85);
-                link.attr('stroke', 'rgba(255,255,255,0.08)').attr('stroke-width', 1);
-                tip.style('display', 'none');
-            });
-
-        // Labels for large nodes
+        // ---- Labels (show for degree >= 2) ----
         var labels = g.append('g')
             .selectAll('text')
-            .data(nodes.filter(function(d) { return (degreeMap[d.id] || 0) >= 3; }))
+            .data(nodes.filter(function(d) { return (degreeMap[d.id] || 0) >= 2; }))
             .join('text')
             .attr('font-size', '9px')
             .attr('fill', 'rgba(255,255,255,0.7)')
@@ -2295,6 +2834,302 @@ function buildNetworkGraph() {
             .text(function(d) { return d.label.length > 20 ? d.label.substring(0, 18) + '..' : d.label; })
             .style('pointer-events', 'none');
 
+        // ================================================================
+        // Multi-hop exploration helper
+        // ================================================================
+        function getNodesAtHops(nodeId, maxHops) {
+            var hopMap = {};
+            hopMap[nodeId] = 0;
+            var frontier = [nodeId];
+
+            for (var hop = 1; hop <= maxHops; hop++) {
+                var nextFrontier = [];
+                frontier.forEach(function(nid) {
+                    links.forEach(function(l) {
+                        var s = typeof l.source === 'object' ? l.source.id : l.source;
+                        var t = typeof l.target === 'object' ? l.target.id : l.target;
+                        if (s === nid && !(t in hopMap)) {
+                            hopMap[t] = hop;
+                            nextFrontier.push(t);
+                        }
+                        if (t === nid && !(s in hopMap)) {
+                            hopMap[s] = hop;
+                            nextFrontier.push(s);
+                        }
+                    });
+                });
+                frontier = nextFrontier;
+            }
+            return hopMap;
+        }
+
+        // Get the hop distance for a link given a hopMap
+        function getLinkHop(l, hopMap) {
+            var s = typeof l.source === 'object' ? l.source.id : l.source;
+            var t = typeof l.target === 'object' ? l.target.id : l.target;
+            var sHop = hopMap[s];
+            var tHop = hopMap[t];
+            if (sHop === undefined || tHop === undefined) return -1;
+            return Math.max(sHop, tHop);
+        }
+
+        // ================================================================
+        // Highlight / clear functions
+        // ================================================================
+        function applyHighlight(d) {
+            pinnedNodeId = d.id;
+            var hopMap = getNodesAtHops(d.id, currentHops);
+            var nodeColor = catColor(d.category || d.type);
+
+            // Nodes
+            node.attr('fill-opacity', function(n) {
+                    var hop = hopMap[n.id];
+                    if (hop === undefined) return 0.06;
+                    if (hop === 0) return 1;
+                    if (hop === 1) return 1;
+                    if (hop === 2) return 0.6;
+                    return 0.35;
+                })
+                .attr('stroke', function(n) {
+                    if (n.id === d.id) return '#ffffff';
+                    return 'rgba(255,255,255,0.2)';
+                })
+                .attr('stroke-width', function(n) {
+                    if (n.id === d.id) return 4;
+                    return 0.5;
+                })
+                .attr('r', function(n) {
+                    var base = rScale(degreeMap[n.id] || 0);
+                    var hop = hopMap[n.id];
+                    if (hop === undefined) return base;
+                    if (hop === 0) return base * 1.2;
+                    if (hop >= 3) return base * 0.85;
+                    return base;
+                });
+
+            // Labels
+            labels.attr('opacity', function(n) {
+                var hop = hopMap[n.id];
+                if (hop === undefined) return 0.08;
+                if (hop <= 1) return 1;
+                if (hop === 2) return 0.6;
+                return 0.35;
+            });
+
+            // Links
+            link.attr('stroke', function(l) {
+                    var lh = getLinkHop(l, hopMap);
+                    if (lh < 0) return 'rgba(255,255,255,0.02)';
+                    // Direct connection (hop 1)
+                    if (lh <= 1) return nodeColor;
+                    // 2nd hop — internal network links (both endpoints at same hop) get orange
+                    var s = typeof l.source === 'object' ? l.source.id : l.source;
+                    var t = typeof l.target === 'object' ? l.target.id : l.target;
+                    if (hopMap[s] === hopMap[t] && hopMap[s] >= 1) return '#F77F00';
+                    if (lh === 2) return 'rgba(0,166,81,0.35)';
+                    return 'rgba(0,166,81,0.2)';
+                })
+                .attr('stroke-width', function(l) {
+                    var lh = getLinkHop(l, hopMap);
+                    if (lh < 0) return 0.3;
+                    if (lh <= 1) return 2.5;
+                    if (lh === 2) return 1.5;
+                    return 1;
+                })
+                .attr('stroke-opacity', function(l) {
+                    var lh = getLinkHop(l, hopMap);
+                    if (lh < 0) return 0.08;
+                    if (lh <= 1) return 1;
+                    if (lh === 2) return 0.7;
+                    return 0.4;
+                })
+                .attr('stroke-dasharray', function(l) {
+                    var lh = getLinkHop(l, hopMap);
+                    if (lh <= 1) return null;
+                    if (lh === 2) return '6,3';
+                    return '3,3';
+                });
+
+            // Show detail panel
+            showDetailPanel(d, hopMap);
+        }
+
+        function clearHighlight() {
+            pinnedNodeId = null;
+
+            node.attr('fill-opacity', 0.85)
+                .attr('stroke', 'rgba(255,255,255,0.2)')
+                .attr('stroke-width', 0.5)
+                .attr('r', function(d) { return rScale(degreeMap[d.id] || 0); });
+
+            labels.attr('opacity', 1);
+
+            link.attr('stroke', 'rgba(255,255,255,0.08)')
+                .attr('stroke-width', 1)
+                .attr('stroke-opacity', 0.6)
+                .attr('stroke-dasharray', null);
+
+            hideDetailPanel();
+        }
+
+        // ================================================================
+        // Detail panel
+        // ================================================================
+        function showDetailPanel(d, hopMap) {
+            var panel = document.getElementById('graphDetailPanel');
+            var content = document.getElementById('graphDetailContent');
+            var deg = degreeMap[d.id] || 0;
+            var color = catColor(d.category || d.type);
+
+            // Build connected entities list grouped by hop
+            var connectionsByHop = {};
+            Object.keys(hopMap).forEach(function(nid) {
+                if (nid === d.id) return;
+                var hop = hopMap[nid];
+                if (!connectionsByHop[hop]) connectionsByHop[hop] = [];
+                var n = nodeMap[nid];
+                if (n) connectionsByHop[hop].push(n);
+            });
+
+            var html = '';
+            html += '<div class="graph-detail-name">' + escapeHtml(d.label) + '</div>';
+            html += '<div class="graph-detail-type">';
+            html += escapeHtml(d.type || 'Unknown');
+            if (d.category && d.category !== d.type) {
+                html += ' <span class="graph-detail-type-badge" style="background:' + color + '22; color:' + color + '">' + escapeHtml(d.category) + '</span>';
+            }
+            html += '</div>';
+
+            if (d.description) {
+                html += '<div class="graph-detail-desc">' + escapeHtml(d.description) + '</div>';
+            }
+
+            html += '<div class="graph-detail-section">';
+            html += '<div class="graph-detail-section-title">Properties</div>';
+            html += '<div class="graph-detail-stat"><span class="graph-detail-stat-label">Connections</span><span class="graph-detail-stat-value">' + deg + '</span></div>';
+            if (d.frequency && d.frequency > 1) {
+                html += '<div class="graph-detail-stat"><span class="graph-detail-stat-label">Frequency</span><span class="graph-detail-stat-value">' + d.frequency + '</span></div>';
+            }
+            html += '</div>';
+
+            // Connected entities sections by hop
+            var hopLabels = {1: 'Direct connections', 2: '2nd-hop connections', 3: '3rd-hop connections'};
+            for (var hop = 1; hop <= currentHops; hop++) {
+                var conns = connectionsByHop[hop];
+                if (!conns || conns.length === 0) continue;
+                // Sort by degree descending
+                conns.sort(function(a, b) { return (degreeMap[b.id] || 0) - (degreeMap[a.id] || 0); });
+
+                html += '<div class="graph-detail-section">';
+                html += '<div class="graph-detail-section-title">' + hopLabels[hop] + ' (' + conns.length + ')</div>';
+                html += '<ul class="graph-detail-connections">';
+                conns.forEach(function(n) {
+                    var nColor = catColor(n.category || n.type);
+                    html += '<li class="graph-detail-conn-item" data-node-id="' + escapeHtml(n.id) + '">';
+                    html += '<span class="graph-detail-conn-dot" style="background:' + nColor + '"></span>';
+                    html += '<span>' + escapeHtml(n.label) + '</span>';
+                    html += '<span class="graph-detail-conn-hop">' + (degreeMap[n.id] || 0) + ' conn.</span>';
+                    html += '</li>';
+                });
+                html += '</ul>';
+                html += '</div>';
+            }
+
+            content.innerHTML = html;
+            panel.classList.add('graph-panel-open');
+
+            // Make connection items clickable
+            content.querySelectorAll('.graph-detail-conn-item').forEach(function(item) {
+                item.addEventListener('click', function() {
+                    var targetId = this.getAttribute('data-node-id');
+                    var targetNode = nodeMap[targetId];
+                    if (targetNode) {
+                        applyHighlight(targetNode);
+                        // Pan to the node
+                        if (targetNode.x && targetNode.y) {
+                            svg.transition().duration(400).call(
+                                zoom.transform,
+                                d3.zoomIdentity.translate(width / 2, height / 2).scale(1.5).translate(-targetNode.x, -targetNode.y)
+                            );
+                        }
+                    }
+                });
+            });
+        }
+
+        function hideDetailPanel() {
+            var panel = document.getElementById('graphDetailPanel');
+            panel.classList.remove('graph-panel-open');
+        }
+
+        // ================================================================
+        // Mouse events on nodes
+        // ================================================================
+
+        // Hover (only when no node is pinned)
+        node.on('mouseover', function(event, d) {
+            if (pinnedNodeId) return;
+            // Highlight connected temporarily
+            var connected = new Set();
+            links.forEach(function(l) {
+                var s = typeof l.source === 'object' ? l.source.id : l.source;
+                var t = typeof l.target === 'object' ? l.target.id : l.target;
+                if (s === d.id) connected.add(t);
+                if (t === d.id) connected.add(s);
+            });
+            connected.add(d.id);
+
+            node.attr('fill-opacity', function(n) { return connected.has(n.id) ? 1 : 0.1; });
+            link.attr('stroke', function(l) {
+                var s = typeof l.source === 'object' ? l.source.id : l.source;
+                var t = typeof l.target === 'object' ? l.target.id : l.target;
+                return (s === d.id || t === d.id) ? 'rgba(0,166,81,0.6)' : 'rgba(255,255,255,0.03)';
+            }).attr('stroke-width', function(l) {
+                var s = typeof l.source === 'object' ? l.source.id : l.source;
+                var t = typeof l.target === 'object' ? l.target.id : l.target;
+                return (s === d.id || t === d.id) ? 2 : 0.5;
+            });
+
+            var deg = degreeMap[d.id] || 0;
+            tip.style('display', 'block')
+                .html('<strong>' + escapeHtml(d.label) + '</strong>'
+                    + '<br>Type: ' + escapeHtml(d.type) + (d.category ? ' / ' + escapeHtml(d.category) : '')
+                    + '<br>Connections: ' + deg
+                    + (d.frequency > 1 ? '<br>Frequency: ' + d.frequency : '')
+                    + (d.description ? '<br><span style="color:#8892a4">' + escapeHtml(d.description) + '</span>' : ''));
+        });
+
+        node.on('mousemove', function(event) {
+            if (pinnedNodeId) return;
+            tip.style('left', (event.pageX + 14) + 'px').style('top', (event.pageY - 14) + 'px');
+        });
+
+        node.on('mouseout', function() {
+            if (pinnedNodeId) return;
+            node.attr('fill-opacity', 0.85);
+            link.attr('stroke', 'rgba(255,255,255,0.08)').attr('stroke-width', 1);
+            tip.style('display', 'none');
+        });
+
+        // Click to stick
+        node.on('click', function(event, d) {
+            event.stopPropagation();
+            tip.style('display', 'none');
+            applyHighlight(d);
+        });
+
+        // Click SVG background to clear pin
+        svg.on('click', function(event) {
+            // Only clear if the click was directly on the svg element (not on a node/link child)
+            var target = event.target;
+            if (target === svg.node() || target.tagName.toLowerCase() === 'svg') {
+                clearHighlight();
+            }
+        });
+
+        // ================================================================
+        // Tick
+        // ================================================================
         simulation.on('tick', function() {
             link.attr('x1', function(d) { return d.source.x; })
                 .attr('y1', function(d) { return d.source.y; })
@@ -2306,10 +3141,17 @@ function buildNetworkGraph() {
                 .attr('y', function(d) { return d.y; });
         });
 
+        // ================================================================
         // Search functionality
+        // ================================================================
         document.getElementById('graphSearch').addEventListener('input', function(e) {
             var query = e.target.value.toLowerCase().trim();
             if (!query) {
+                // If a node is pinned, re-apply that highlight instead of full reset
+                if (pinnedNodeId) {
+                    var pNode = nodeMap[pinnedNodeId];
+                    if (pNode) { applyHighlight(pNode); return; }
+                }
                 node.attr('fill-opacity', 0.85).attr('r', function(d) { return rScale(degreeMap[d.id] || 0); });
                 link.attr('stroke', 'rgba(255,255,255,0.08)').attr('stroke-width', 1);
                 return;
@@ -2359,7 +3201,111 @@ function buildNetworkGraph() {
             }
         });
 
+        // ================================================================
+        // Pause / Resume button
+        // ================================================================
+        var pauseBtn = document.getElementById('graphPauseBtn');
+        if (pauseBtn) {
+            pauseBtn.addEventListener('click', function() {
+                if (isPaused) {
+                    isPaused = false;
+                    simulation.alpha(0.3).restart();
+                    pauseBtn.innerHTML = '&#x23F8; Pause';
+                    pauseBtn.classList.remove('graph-btn-active');
+                } else {
+                    isPaused = true;
+                    simulation.stop();
+                    pauseBtn.innerHTML = '&#x25B6; Play';
+                    pauseBtn.classList.add('graph-btn-active');
+                }
+            });
+        }
+
+        // ================================================================
+        // Hops slider
+        // ================================================================
+        var hopsSlider = document.getElementById('graphHopsSlider');
+        var hopsValue = document.getElementById('graphHopsValue');
+        if (hopsSlider) {
+            hopsSlider.addEventListener('input', function() {
+                currentHops = parseInt(this.value, 10);
+                if (hopsValue) hopsValue.textContent = currentHops;
+                // If a node is pinned, reapply the highlight with new hop count
+                if (pinnedNodeId) {
+                    var pNode = nodeMap[pinnedNodeId];
+                    if (pNode) applyHighlight(pNode);
+                }
+            });
+        }
+
+        // ================================================================
+        // Reset button
+        // ================================================================
+        var resetBtn = document.getElementById('graphResetBtn');
+        if (resetBtn) {
+            resetBtn.addEventListener('click', function() {
+                clearHighlight();
+                // Reset zoom to initial
+                svg.transition().duration(400).call(
+                    zoom.transform,
+                    d3.zoomIdentity
+                );
+                // Reset search
+                var searchInput = document.getElementById('graphSearch');
+                if (searchInput) {
+                    searchInput.value = '';
+                    // Trigger reset of search highlighting
+                    node.attr('fill-opacity', 0.85).attr('r', function(d) { return rScale(degreeMap[d.id] || 0); });
+                    link.attr('stroke', 'rgba(255,255,255,0.08)').attr('stroke-width', 1).attr('stroke-dasharray', null);
+                }
+                // Reset hops
+                currentHops = 1;
+                if (hopsSlider) hopsSlider.value = '1';
+                if (hopsValue) hopsValue.textContent = '1';
+            });
+        }
+
+        // ================================================================
+        // Detail panel close button
+        // ================================================================
+        var detailClose = document.getElementById('graphDetailClose');
+        if (detailClose) {
+            detailClose.addEventListener('click', function() {
+                clearHighlight();
+            });
+        }
+
+        // ================================================================
+        // Keyboard: Escape unpins and closes panel
+        // ================================================================
+        document.addEventListener('keydown', function(e) {
+            if (e.key === 'Escape' && pinnedNodeId) {
+                clearHighlight();
+            }
+        });
+
+        // ================================================================
+        // Link tooltip on hover
+        // ================================================================
+        link.on('mouseover', function(event, d) {
+            var s = typeof d.source === 'object' ? d.source : nodeMap[d.source];
+            var t = typeof d.target === 'object' ? d.target : nodeMap[d.target];
+            var relType = d.type || d.relationship || 'related_to';
+            if (s && t) {
+                tip.style('display', 'block')
+                    .html('<strong>' + escapeHtml(s.label || s.id) + '</strong>'
+                        + ' <span style="color:var(--primary)">&rarr; ' + escapeHtml(relType) + ' &rarr;</span> '
+                        + '<strong>' + escapeHtml(t.label || t.id) + '</strong>');
+            }
+        }).on('mousemove', function(event) {
+            tip.style('left', (event.pageX + 14) + 'px').style('top', (event.pageY - 14) + 'px');
+        }).on('mouseout', function() {
+            tip.style('display', 'none');
+        });
+
+        // ================================================================
         // Legend
+        // ================================================================
         var legend = svg.append('g').attr('transform', 'translate(12, 12)');
         var displayCats = categories.slice(0, 8);
         displayCats.forEach(function(cat, i) {

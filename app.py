@@ -1044,6 +1044,40 @@ def results_taxonomy():
     return jsonify(data)
 
 
+@app.route("/api/concept-data-points")
+def api_concept_data_points():
+    """Return a reverse mapping of concept_name (lowercased) -> [result_ids].
+
+    Built from the result_tags array in extractions.json. Each entry in
+    result_tags has {"result_id": int, "tags": [str, ...]}.  We invert
+    this so the frontend can look up which data-points are linked to any
+    given taxonomy concept.
+    """
+    extractions_path = OUTPUT_DIR / "extractions.json"
+    if not extractions_path.exists():
+        return jsonify({"error": "Extractions not generated yet."}), 404
+
+    with open(extractions_path, "r", encoding="utf-8") as f:
+        ext = json.load(f)
+
+    result_tags = ext.get("result_tags", [])
+    concept_map = {}  # concept_name_lower -> sorted list of result_ids
+    for entry in result_tags:
+        rid = entry.get("result_id")
+        if rid is None:
+            continue
+        for tag in entry.get("tags", []):
+            key = tag.strip().lower()
+            if key:
+                concept_map.setdefault(key, []).append(rid)
+
+    # De-duplicate and sort the result_id lists
+    for key in concept_map:
+        concept_map[key] = sorted(set(concept_map[key]))
+
+    return jsonify(concept_map)
+
+
 @app.route("/api/graph-data")
 def api_graph_data():
     """Return nodes and edges for D3 force graph (limited for performance)."""
