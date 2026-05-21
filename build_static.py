@@ -872,7 +872,7 @@ function buildSunburst() {
             var labellable = hierarchy.descendants().filter(function(d) {
                 if (!isDescendantOf(d, target)) return false;
                 var relDepth = d.depth - target.depth;
-                if (relDepth !== 1) return false;
+                if (relDepth < 1 || relDepth > 2) return false;
                 var angularFraction = (d.x1 - d.x0) / targetSpan;
                 return angularFraction > 0.03;
             });
