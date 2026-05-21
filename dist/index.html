@@ -1244,6 +1244,11 @@
                                     <input type="range" id="graphHopsSlider" min="1" max="3" value="1" title="Exploration depth (1-3 hops)">
                                     <span class="graph-hops-value" id="graphHopsValue">1</span>
                                 </div>
+                                <div class="graph-hops-control">
+                                    <label>Nodes</label>
+                                    <input type="range" id="graphNodeSlider" min="50" max="500" value="200" step="50" title="Number of nodes to display">
+                                    <span class="graph-hops-value" id="graphNodeSliderValue">200</span>
+                                </div>
                                 <button class="graph-toolbar-btn" id="graphResetBtn" title="Reset view and selection">&#x21A9; Reset</button>
                             </div>
                             <div class="viz-container" id="networkContainer" style="min-height:550px;">
@@ -1500,7 +1505,7 @@ function createTreeNode(item, isDomain) {
     content.className = 'tree-node-content';
 
     var toggle = document.createElement('span');
-    toggle.className = 'tree-toggle' + (hasChildren ? ' expanded' : ' leaf');
+    toggle.className = 'tree-toggle' + (hasChildren ? '' : ' leaf');
     toggle.innerHTML = '&#x25B6;';
     content.appendChild(toggle);
 
@@ -1568,7 +1573,7 @@ function createTreeNode(item, isDomain) {
 
     if (hasChildren) {
         var childContainer = document.createElement('div');
-        childContainer.className = 'tree-children';
+        childContainer.className = 'tree-children collapsed';
 
         item.children.forEach(function(child) {
             childContainer.appendChild(createTreeNode(child, false));
@@ -1951,12 +1956,36 @@ function buildSunburst() {
 }
 
 // ---- 2. Force-Directed Network Graph (improved) ----
+var _graphNodeLimit = 200;
+var _graphFullData = null;
 function buildNetworkGraph() {
-    fetch('data/graph-data.json')
-    .then(function(r) { if (!r.ok) throw new Error('No graph data'); return r.json(); })
+    var dataPromise = _graphFullData
+        ? Promise.resolve(_graphFullData)
+        : fetch('data/graph-data.json').then(function(r) { if (!r.ok) throw new Error('No graph data'); return r.json(); });
+
+    dataPromise
     .then(function(data) {
-        var nodes = data.nodes;
-        var links = data.links;
+        // Cache full data for slider rebuilds
+        if (!_graphFullData) _graphFullData = data;
+
+        // Client-side node limiting: take top N nodes by frequency/degree
+        var allNodes = data.nodes;
+        var allLinks = data.links;
+        var nodes, links;
+        if (_graphNodeLimit >= allNodes.length) {
+            nodes = allNodes.slice();
+            links = allLinks.slice();
+        } else {
+            // Sort by frequency descending, take top N
+            var sorted = allNodes.slice().sort(function(a, b) { return (b.frequency || 0) - (a.frequency || 0); });
+            nodes = sorted.slice(0, _graphNodeLimit);
+            var nodeIds = new Set(nodes.map(function(n) { return n.id; }));
+            links = allLinks.filter(function(l) {
+                var s = typeof l.source === 'object' ? l.source.id : l.source;
+                var t = typeof l.target === 'object' ? l.target.id : l.target;
+                return nodeIds.has(s) && nodeIds.has(t);
+            });
+        }
 
         if (!nodes || nodes.length === 0) {
             document.getElementById('networkContainer').innerHTML = '<div class="viz-empty">No graph data available.</div>';
@@ -2505,6 +2534,24 @@ function buildNetworkGraph() {
                 clearHighlight();
             }
         });
+
+        // ================================================================
+        // Node limit slider — rebuilds the graph with more/fewer nodes
+        // ================================================================
+        var nodeSlider = document.getElementById('graphNodeSlider');
+        var nodeSliderValue = document.getElementById('graphNodeSliderValue');
+        if (nodeSlider) {
+            nodeSlider.addEventListener('change', function() {
+                var newLimit = parseInt(this.value, 10);
+                if (nodeSliderValue) nodeSliderValue.textContent = newLimit;
+                _graphNodeLimit = newLimit;
+                if (simulation) simulation.stop();
+                buildNetworkGraph();
+            });
+            nodeSlider.addEventListener('input', function() {
+                if (nodeSliderValue) nodeSliderValue.textContent = this.value;
+            });
+        }
 
         // ================================================================
         // Link tooltip on hover

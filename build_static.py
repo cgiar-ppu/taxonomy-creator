@@ -58,15 +58,18 @@ def save_json(data, path: Path):
 
 
 def compute_graph_data(
-    concepts: list, entities: list, relationships: list
+    concepts: list, entities: list, relationships: list, node_limit: int = 500
 ) -> dict:
-    """Replicate the /api/graph-data endpoint logic."""
+    """Replicate the /api/graph-data endpoint logic with configurable limit."""
     node_map = {}
 
-    # Top 100 concepts by frequency
+    concept_limit = max(node_limit // 2, 50)
+    entity_limit = max(node_limit // 2, 50)
+
+    # Top concepts by frequency
     top_concepts = sorted(
         concepts, key=lambda x: x.get("frequency", 0), reverse=True
-    )[:100]
+    )[:concept_limit]
     for c in top_concepts:
         name = c.get("name", "")
         if name and name not in node_map:
@@ -80,7 +83,7 @@ def compute_graph_data(
             }
 
     entity_names = {e.get("name", "") for e in entities}
-    for e in entities[:100]:
+    for e in entities[:entity_limit]:
         name = e.get("name", "")
         if name and name not in node_map:
             node_map[name] = {
@@ -105,7 +108,7 @@ def compute_graph_data(
             connection_count[tgt] = connection_count.get(tgt, 0) + 1
             valid_rels.append(r)
 
-    remaining_slots = 200 - len(node_map)
+    remaining_slots = node_limit - len(node_map)
     if remaining_slots > 0:
         mentioned = set()
         for r in valid_rels:
@@ -612,7 +615,7 @@ function createTreeNode(item, isDomain) {
     content.className = 'tree-node-content';
 
     var toggle = document.createElement('span');
-    toggle.className = 'tree-toggle' + (hasChildren ? ' expanded' : ' leaf');
+    toggle.className = 'tree-toggle' + (hasChildren ? '' : ' leaf');
     toggle.innerHTML = '&#x25B6;';
     content.appendChild(toggle);
 
@@ -680,7 +683,7 @@ function createTreeNode(item, isDomain) {
 
     if (hasChildren) {
         var childContainer = document.createElement('div');
-        childContainer.className = 'tree-children';
+        childContainer.className = 'tree-children collapsed';
 
         item.children.forEach(function(child) {
             childContainer.appendChild(createTreeNode(child, false));
@@ -1063,12 +1066,36 @@ function buildSunburst() {
 }
 
 // ---- 2. Force-Directed Network Graph (improved) ----
+var _graphNodeLimit = 200;
+var _graphFullData = null;
 function buildNetworkGraph() {
-    fetch('data/graph-data.json')
-    .then(function(r) { if (!r.ok) throw new Error('No graph data'); return r.json(); })
+    var dataPromise = _graphFullData
+        ? Promise.resolve(_graphFullData)
+        : fetch('data/graph-data.json').then(function(r) { if (!r.ok) throw new Error('No graph data'); return r.json(); });
+
+    dataPromise
     .then(function(data) {
-        var nodes = data.nodes;
-        var links = data.links;
+        // Cache full data for slider rebuilds
+        if (!_graphFullData) _graphFullData = data;
+
+        // Client-side node limiting: take top N nodes by frequency/degree
+        var allNodes = data.nodes;
+        var allLinks = data.links;
+        var nodes, links;
+        if (_graphNodeLimit >= allNodes.length) {
+            nodes = allNodes.slice();
+            links = allLinks.slice();
+        } else {
+            // Sort by frequency descending, take top N
+            var sorted = allNodes.slice().sort(function(a, b) { return (b.frequency || 0) - (a.frequency || 0); });
+            nodes = sorted.slice(0, _graphNodeLimit);
+            var nodeIds = new Set(nodes.map(function(n) { return n.id; }));
+            links = allLinks.filter(function(l) {
+                var s = typeof l.source === 'object' ? l.source.id : l.source;
+                var t = typeof l.target === 'object' ? l.target.id : l.target;
+                return nodeIds.has(s) && nodeIds.has(t);
+            });
+        }
 
         if (!nodes || nodes.length === 0) {
             document.getElementById('networkContainer').innerHTML = '<div class="viz-empty">No graph data available.</div>';
@@ -1617,6 +1644,24 @@ function buildNetworkGraph() {
                 clearHighlight();
             }
         });
+
+        // ================================================================
+        // Node limit slider — rebuilds the graph with more/fewer nodes
+        // ================================================================
+        var nodeSlider = document.getElementById('graphNodeSlider');
+        var nodeSliderValue = document.getElementById('graphNodeSliderValue');
+        if (nodeSlider) {
+            nodeSlider.addEventListener('change', function() {
+                var newLimit = parseInt(this.value, 10);
+                if (nodeSliderValue) nodeSliderValue.textContent = newLimit;
+                _graphNodeLimit = newLimit;
+                if (simulation) simulation.stop();
+                buildNetworkGraph();
+            });
+            nodeSlider.addEventListener('input', function() {
+                if (nodeSliderValue) nodeSliderValue.textContent = this.value;
+            });
+        }
 
         // ================================================================
         // Link tooltip on hover

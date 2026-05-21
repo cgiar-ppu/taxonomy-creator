@@ -1080,7 +1080,15 @@ def api_concept_data_points():
 
 @app.route("/api/graph-data")
 def api_graph_data():
-    """Return nodes and edges for D3 force graph (limited for performance)."""
+    """Return nodes and edges for D3 force graph (limited for performance).
+
+    Query params:
+        limit (int): max total nodes to return (default 200, max 2000)
+    """
+    node_limit = min(int(request.args.get("limit", 200)), 2000)
+    concept_limit = max(node_limit // 2, 50)
+    entity_limit = max(node_limit // 2, 50)
+
     dedup_path = OUTPUT_DIR / "deduplicated.json"
     extractions_path = OUTPUT_DIR / "extractions.json"
     crosslinks_path = OUTPUT_DIR / "crosslinks.json"
@@ -1118,8 +1126,8 @@ def api_graph_data():
     # Build a name-based lookup for all nodes
     node_map = {}
 
-    # Top concepts by frequency (limit to top 100)
-    top_concepts = sorted(concepts, key=lambda x: x.get("frequency", 0), reverse=True)[:100]
+    # Top concepts by frequency
+    top_concepts = sorted(concepts, key=lambda x: x.get("frequency", 0), reverse=True)[:concept_limit]
     for c in top_concepts:
         name = c.get("name", "")
         if name and name not in node_map:
@@ -1136,7 +1144,7 @@ def api_graph_data():
     entity_names = set()
     for e in entities:
         entity_names.add(e.get("name", ""))
-    for e in entities[:100]:
+    for e in entities[:entity_limit]:
         name = e.get("name", "")
         if name and name not in node_map:
             node_map[name] = {
@@ -1164,8 +1172,8 @@ def api_graph_data():
             valid_rels.append(r)
 
     # Add nodes that appear in relationships but are not yet in node_map
-    # (only the most connected ones, up to ~200 total)
-    remaining_slots = 200 - len(node_map)
+    # (only the most connected ones, up to the node limit)
+    remaining_slots = node_limit - len(node_map)
     if remaining_slots > 0:
         mentioned = set()
         for r in valid_rels:

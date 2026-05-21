@@ -801,6 +801,1206 @@
       "description": "science-backed farming techniques including timely planting, optimal fertilizer rates, and improved varieties"
     },
     {
+      "id": "quantitative trait loci mapping",
+      "label": "quantitative trait loci mapping",
+      "type": "concept",
+      "category": "methodology",
+      "frequency": 9,
+      "description": "identification of genomic regions controlling quantitative traits"
+    },
+    {
+      "id": "water accounting",
+      "label": "water accounting",
+      "type": "concept",
+      "category": "methodology",
+      "frequency": 9,
+      "description": "systematic assessment and monitoring of water resources and their utilization"
+    },
+    {
+      "id": "seed system strengthening",
+      "label": "seed system strengthening",
+      "type": "concept",
+      "category": "approach",
+      "frequency": 9,
+      "description": "interventions to improve production, distribution, and access to quality planting materials"
+    },
+    {
+      "id": "multi-stakeholder engagement",
+      "label": "multi-stakeholder engagement",
+      "type": "concept",
+      "category": "approach",
+      "frequency": 9,
+      "description": "collaborative processes involving diverse actors including farmers, government, researchers, and private sector"
+    },
+    {
+      "id": "breeding pipeline",
+      "label": "breeding pipeline",
+      "type": "concept",
+      "category": "system",
+      "frequency": 8,
+      "description": "structured sequence of breeding activities and selection stages"
+    },
+    {
+      "id": "water-energy-food nexus",
+      "label": "water-energy-food nexus",
+      "type": "concept",
+      "category": "approach",
+      "frequency": 8,
+      "description": "integrated management of water, energy and food systems"
+    },
+    {
+      "id": "business model development",
+      "label": "business model development",
+      "type": "concept",
+      "category": "approach",
+      "frequency": 8,
+      "description": "creation of sustainable commercial frameworks for technology adoption"
+    },
+    {
+      "id": "digital twin",
+      "label": "digital twin",
+      "type": "concept",
+      "category": "methodology",
+      "frequency": 8,
+      "description": "real-time digital replica of physical systems for management"
+    },
+    {
+      "id": "satellite remote sensing",
+      "label": "satellite remote sensing",
+      "type": "concept",
+      "category": "methodology",
+      "frequency": 8,
+      "description": "use of satellite imagery and radar data to monitor agricultural systems"
+    },
+    {
+      "id": "water management",
+      "label": "water management",
+      "type": "concept",
+      "category": "approach",
+      "frequency": 8,
+      "description": "strategies for efficient use and conservation of water resources in agriculture"
+    },
+    {
+      "id": "gender mainstreaming",
+      "label": "gender mainstreaming",
+      "type": "concept",
+      "category": "approach",
+      "frequency": 8,
+      "description": "systematic integration of gender perspectives into policies and programs"
+    },
+    {
+      "id": "varietal adoption",
+      "label": "varietal adoption",
+      "type": "concept",
+      "category": "phenomenon",
+      "frequency": 8,
+      "description": "process by which farmers select and use new crop varieties"
+    },
+    {
+      "id": "digital transformation",
+      "label": "digital transformation",
+      "type": "concept",
+      "category": "approach",
+      "frequency": 8,
+      "description": "integration of digital technologies to reshape agricultural and food systems"
+    },
+    {
+      "id": "policy coherence",
+      "label": "policy coherence",
+      "type": "concept",
+      "category": "approach",
+      "frequency": 8,
+      "description": "alignment and coordination of policies across different levels and sectors of governance"
+    },
+    {
+      "id": "landscape restoration",
+      "label": "landscape restoration",
+      "type": "concept",
+      "category": "approach",
+      "frequency": 8,
+      "description": "ecosystem-based interventions to restore degraded land and seascape functions"
+    },
+    {
+      "id": "blended finance",
+      "label": "blended finance",
+      "type": "concept",
+      "category": "methodology",
+      "frequency": 8,
+      "description": "combination of public and private funding to reduce investment risks"
+    },
+    {
+      "id": "stress tolerance",
+      "label": "stress tolerance",
+      "type": "concept",
+      "category": "phenomenon",
+      "frequency": 8,
+      "description": "ability of crops to maintain productivity under abiotic or biotic stress conditions"
+    },
+    {
+      "id": "machine learning",
+      "label": "machine learning",
+      "type": "concept",
+      "category": "methodology",
+      "frequency": 8,
+      "description": "computational methods that learn patterns from data for prediction"
+    },
+    {
+      "id": "participatory learning",
+      "label": "participatory learning",
+      "type": "concept",
+      "category": "approach",
+      "frequency": 8,
+      "description": "educational methodology where stakeholders actively engage in knowledge creation and sharing through collaborative activities"
+    },
+    {
+      "id": "solar irrigation",
+      "label": "solar irrigation",
+      "type": "concept",
+      "category": "approach",
+      "frequency": 8,
+      "description": "irrigation systems powered by solar energy for sustainable water management"
+    },
+    {
+      "id": "locally-led climate adaptation",
+      "label": "locally-led climate adaptation",
+      "type": "concept",
+      "category": "approach",
+      "frequency": 8,
+      "description": "community-driven adaptation strategies that integrate local knowledge with scientific data"
+    },
+    {
+      "id": "participatory climate services",
+      "label": "participatory climate services",
+      "type": "concept",
+      "category": "approach",
+      "frequency": 8,
+      "description": "collaborative approach to developing and delivering climate information that involves end-users in the design and implementation process"
+    },
+    {
+      "id": "climate variability",
+      "label": "climate variability",
+      "type": "concept",
+      "category": "phenomenon",
+      "frequency": 8,
+      "description": "variations in climate parameters over time scales from months to decades"
+    },
+    {
+      "id": "pioneer positive deviance",
+      "label": "pioneer positive deviance",
+      "type": "concept",
+      "category": "methodology",
+      "frequency": 8,
+      "description": "approach that identifies and supports farmers already developing innovative local solutions"
+    },
+    {
+      "id": "capacity strengthening",
+      "label": "capacity strengthening",
+      "type": "concept",
+      "category": "approach",
+      "frequency": 8,
+      "description": "systematic development of technical and organizational abilities to implement and scale innovations"
+    },
+    {
+      "id": "monitoring and evaluation",
+      "label": "monitoring and evaluation",
+      "type": "concept",
+      "category": "methodology",
+      "frequency": 8,
+      "description": "systematic assessment of intervention implementation and outcomes"
+    },
+    {
+      "id": "digital data collection",
+      "label": "digital data collection",
+      "type": "concept",
+      "category": "methodology",
+      "frequency": 7,
+      "description": "electronic systems for gathering and analyzing information"
+    },
+    {
+      "id": "circular economy",
+      "label": "circular economy",
+      "type": "concept",
+      "category": "system",
+      "frequency": 7,
+      "description": "economic model emphasizing resource reuse and waste reduction"
+    },
+    {
+      "id": "monitoring reporting verification",
+      "label": "monitoring reporting verification",
+      "type": "concept",
+      "category": "methodology",
+      "frequency": 7,
+      "description": "framework for tracking and validating environmental compliance"
+    },
+    {
+      "id": "sustainable agriculture",
+      "label": "sustainable agriculture",
+      "type": "concept",
+      "category": "system",
+      "frequency": 7,
+      "description": "farming practices that maintain productivity while preserving environmental resources"
+    },
+    {
+      "id": "machine learning modeling",
+      "label": "machine learning modeling",
+      "type": "concept",
+      "category": "methodology",
+      "frequency": 7,
+      "description": "use of algorithms that learn from data to make predictions or classifications"
+    },
+    {
+      "id": "dietary assessment",
+      "label": "dietary assessment",
+      "type": "concept",
+      "category": "methodology",
+      "frequency": 7,
+      "description": "measurement and evaluation of food and nutrient intake patterns"
+    },
+    {
+      "id": "biosecurity",
+      "label": "biosecurity",
+      "type": "concept",
+      "category": "approach",
+      "frequency": 7,
+      "description": "measures to prevent introduction and spread of diseases in livestock"
+    },
+    {
+      "id": "intercropping",
+      "label": "intercropping",
+      "type": "concept",
+      "category": "methodology",
+      "frequency": 7,
+      "description": "growing multiple crop species simultaneously in the same field"
+    },
+    {
+      "id": "heat stress tolerance",
+      "label": "heat stress tolerance",
+      "type": "concept",
+      "category": "phenomenon",
+      "frequency": 7,
+      "description": "plant ability to maintain performance under high temperature conditions"
+    },
+    {
+      "id": "soil health assessment",
+      "label": "soil health assessment",
+      "type": "concept",
+      "category": "methodology",
+      "frequency": 7,
+      "description": "evaluation of soil physical, chemical, and biological properties for agricultural sustainability"
+    },
+    {
+      "id": "gender transformative research",
+      "label": "gender transformative research",
+      "type": "concept",
+      "category": "methodology",
+      "frequency": 7,
+      "description": "research approaches that challenge and transform underlying causes of gender inequalities"
+    },
+    {
+      "id": "gender-responsive approaches",
+      "label": "gender-responsive approaches",
+      "type": "concept",
+      "category": "approach",
+      "frequency": 7,
+      "description": "interventions that acknowledge and address different needs and constraints of men and women"
+    },
+    {
+      "id": "gender and social inclusion",
+      "label": "gender and social inclusion",
+      "type": "concept",
+      "category": "approach",
+      "frequency": 7,
+      "description": "ensuring equitable participation and benefits across social groups"
+    },
+    {
+      "id": "policy integration",
+      "label": "policy integration",
+      "type": "concept",
+      "category": "approach",
+      "frequency": 7,
+      "description": "incorporating innovations into official government frameworks"
+    },
+    {
+      "id": "participatory mapping",
+      "label": "participatory mapping",
+      "type": "concept",
+      "category": "methodology",
+      "frequency": 7,
+      "description": "collaborative approach involving farmers in adaptation planning and field-level solutions"
+    },
+    {
+      "id": "aquatic food systems",
+      "label": "aquatic food systems",
+      "type": "concept",
+      "category": "system",
+      "frequency": 7,
+      "description": "integrated networks of fisheries and aquaculture production, processing, and distribution"
+    },
+    {
+      "id": "scaling framework",
+      "label": "scaling framework",
+      "type": "concept",
+      "category": "methodology",
+      "frequency": 7,
+      "description": "systematic approach for expanding successful interventions to broader contexts"
+    },
+    {
+      "id": "innovation networks",
+      "label": "innovation networks",
+      "type": "concept",
+      "category": "system",
+      "frequency": 7,
+      "description": "collaborative platforms connecting multiple actors to facilitate knowledge exchange and scaling"
+    },
+    {
+      "id": "crop modeling",
+      "label": "crop modeling",
+      "type": "concept",
+      "category": "methodology",
+      "frequency": 7,
+      "description": "mathematical simulation of crop growth and yield under different environmental and management conditions"
+    },
+    {
+      "id": "agroclimatic information services",
+      "label": "agroclimatic information services",
+      "type": "concept",
+      "category": "system",
+      "frequency": 7,
+      "description": "platforms providing weather and climate data for agricultural decision-making"
+    },
+    {
+      "id": "systematic review",
+      "label": "systematic review",
+      "type": "concept",
+      "category": "methodology",
+      "frequency": 7,
+      "description": "comprehensive review methodology using systematic search and analysis protocols"
+    },
+    {
+      "id": "technical assistance",
+      "label": "technical assistance",
+      "type": "concept",
+      "category": "approach",
+      "frequency": 7,
+      "description": "expert support to strengthen implementation capacity"
+    },
+    {
+      "id": "stakeholder training",
+      "label": "stakeholder training",
+      "type": "concept",
+      "category": "methodology",
+      "frequency": 7,
+      "description": "educational activities designed to improve stakeholder knowledge and skills"
+    },
+    {
+      "id": "speed breeding",
+      "label": "speed breeding",
+      "type": "concept",
+      "category": "methodology",
+      "frequency": 6,
+      "description": "accelerated breeding technique to reduce generation time"
+    },
+    {
+      "id": "school feeding programs",
+      "label": "school feeding programs",
+      "type": "concept",
+      "category": "system",
+      "frequency": 6,
+      "description": "institutional programs providing nutritious meals to school children"
+    },
+    {
+      "id": "diet quality assessment",
+      "label": "diet quality assessment",
+      "type": "concept",
+      "category": "methodology",
+      "frequency": 6,
+      "description": "systematic evaluation of nutritional adequacy in food consumption"
+    },
+    {
+      "id": "yield improvement",
+      "label": "yield improvement",
+      "type": "concept",
+      "category": "outcome",
+      "frequency": 6,
+      "description": "increase in crop productivity per unit area through improved practices"
+    },
+    {
+      "id": "market-responsive breeding",
+      "label": "market-responsive breeding",
+      "type": "concept",
+      "category": "approach",
+      "frequency": 6,
+      "description": "crop breeding aligned with specific market demands and consumer preferences"
+    },
+    {
+      "id": "fruit and vegetable promotion",
+      "label": "fruit and vegetable promotion",
+      "type": "concept",
+      "category": "approach",
+      "frequency": 6,
+      "description": "interventions designed to increase consumption of fruits and vegetables"
+    },
+    {
+      "id": "genetic improvement program",
+      "label": "genetic improvement program",
+      "type": "concept",
+      "category": "approach",
+      "frequency": 6,
+      "description": "systematic breeding to enhance genetic performance of crops or livestock"
+    },
+    {
+      "id": "breeding program costing",
+      "label": "breeding program costing",
+      "type": "concept",
+      "category": "methodology",
+      "frequency": 6,
+      "description": "systematic analysis of resource allocation and costs in breeding operations"
+    },
+    {
+      "id": "zoonotic disease surveillance",
+      "label": "zoonotic disease surveillance",
+      "type": "concept",
+      "category": "approach",
+      "frequency": 6,
+      "description": "monitoring and detection of diseases transmissible between animals and humans"
+    },
+    {
+      "id": "food safety",
+      "label": "food safety",
+      "type": "concept",
+      "category": "outcome",
+      "frequency": 6,
+      "description": "assurance that food will not cause harm when prepared or consumed"
+    },
+    {
+      "id": "gender-based violence",
+      "label": "gender-based violence",
+      "type": "concept",
+      "category": "phenomenon",
+      "frequency": 6,
+      "description": "violence directed against individuals based on their gender"
+    },
+    {
+      "id": "evidence-based policy",
+      "label": "evidence-based policy",
+      "type": "concept",
+      "category": "approach",
+      "frequency": 6,
+      "description": "policy development informed by systematic research evidence"
+    },
+    {
+      "id": "biodiversity conservation",
+      "label": "biodiversity conservation",
+      "type": "concept",
+      "category": "outcome",
+      "frequency": 6,
+      "description": "protection and sustainable management of biological diversity"
+    },
+    {
+      "id": "vulnerability assessment",
+      "label": "vulnerability assessment",
+      "type": "concept",
+      "category": "methodology",
+      "frequency": 6,
+      "description": "systematic evaluation of exposure and susceptibility to risks"
+    },
+    {
+      "id": "one health",
+      "label": "one health",
+      "type": "concept",
+      "category": "approach",
+      "frequency": 6,
+      "description": "integrated approach addressing interconnected human, animal, and environmental health"
+    },
+    {
+      "id": "gender-responsive programming",
+      "label": "gender-responsive programming",
+      "type": "concept",
+      "category": "approach",
+      "frequency": 6,
+      "description": "development interventions addressing gender inequalities and promoting inclusion"
+    },
+    {
+      "id": "antimicrobial stewardship",
+      "label": "antimicrobial stewardship",
+      "type": "concept",
+      "category": "approach",
+      "frequency": 6,
+      "description": "coordinated interventions to optimize antimicrobial use and minimize resistance development"
+    },
+    {
+      "id": "earth observation",
+      "label": "earth observation",
+      "type": "concept",
+      "category": "methodology",
+      "frequency": 6,
+      "description": "use of satellite and remote sensing technologies to monitor environmental and agricultural parameters"
+    },
+    {
+      "id": "living lab",
+      "label": "living lab",
+      "type": "concept",
+      "category": "approach",
+      "frequency": 6,
+      "description": "collaborative innovation platform where stakeholders co-create and test solutions in real-world settings"
+    },
+    {
+      "id": "innovation scaling",
+      "label": "innovation scaling",
+      "type": "concept",
+      "category": "approach",
+      "frequency": 6,
+      "description": "process of expanding successful agricultural innovations to broader adoption"
+    },
+    {
+      "id": "cost-benefit analysis",
+      "label": "cost-benefit analysis",
+      "type": "concept",
+      "category": "methodology",
+      "frequency": 6,
+      "description": "economic evaluation method using financial indicators like NPV and IRR"
+    },
+    {
+      "id": "technology transfer",
+      "label": "technology transfer",
+      "type": "concept",
+      "category": "approach",
+      "frequency": 6,
+      "description": "process of moving innovations from research to practical application"
+    },
+    {
+      "id": "biological control",
+      "label": "biological control",
+      "type": "concept",
+      "category": "approach",
+      "frequency": 6,
+      "description": "pest management using natural enemies and beneficial organisms"
+    },
+    {
+      "id": "machine learning forecasting",
+      "label": "machine learning forecasting",
+      "type": "concept",
+      "category": "methodology",
+      "frequency": 6,
+      "description": "artificial intelligence techniques applied to predict agricultural outcomes and resource needs"
+    },
+    {
+      "id": "irrigation demand forecasting",
+      "label": "irrigation demand forecasting",
+      "type": "concept",
+      "category": "methodology",
+      "frequency": 6,
+      "description": "prediction of crop water requirements to optimize irrigation scheduling and water allocation"
+    },
+    {
+      "id": "sustainable agricultural practices",
+      "label": "sustainable agricultural practices",
+      "type": "concept",
+      "category": "system",
+      "frequency": 6,
+      "description": "farming methods that maintain productivity while conserving resources and enhancing resilience"
+    },
+    {
+      "id": "conflict-sensitive programming",
+      "label": "conflict-sensitive programming",
+      "type": "concept",
+      "category": "approach",
+      "frequency": 6,
+      "description": "development approach that considers potential conflict risks and promotes peace-building"
+    },
+    {
+      "id": "fragile and conflict-affected settings",
+      "label": "fragile and conflict-affected settings",
+      "type": "concept",
+      "category": "phenomenon",
+      "frequency": 6,
+      "description": "contexts characterized by violence, weak institutions and humanitarian crises"
+    },
+    {
+      "id": "climate finance tracking",
+      "label": "climate finance tracking",
+      "type": "concept",
+      "category": "methodology",
+      "frequency": 6,
+      "description": "systems for monitoring flow and use of climate-related funding"
+    },
+    {
+      "id": "digital platforms",
+      "label": "digital platforms",
+      "type": "concept",
+      "category": "system",
+      "frequency": 6,
+      "description": "technology-based systems for information sharing and service delivery"
+    },
+    {
+      "id": "curriculum integration",
+      "label": "curriculum integration",
+      "type": "concept",
+      "category": "approach",
+      "frequency": 6,
+      "description": "incorporation of new knowledge and practices into educational programs"
+    },
+    {
+      "id": "community-based management",
+      "label": "community-based management",
+      "type": "concept",
+      "category": "approach",
+      "frequency": 6,
+      "description": "natural resource management approach led by local communities"
+    },
+    {
+      "id": "seed production",
+      "label": "seed production",
+      "type": "concept",
+      "category": "system",
+      "frequency": 6,
+      "description": "organized process of producing quality seeds for agricultural use"
+    },
+    {
+      "id": "methane mitigation",
+      "label": "methane mitigation",
+      "type": "concept",
+      "category": "outcome",
+      "frequency": 6,
+      "description": "reduction of methane emissions from livestock systems"
+    },
+    {
+      "id": "computable general equilibrium modeling",
+      "label": "computable general equilibrium modeling",
+      "type": "concept",
+      "category": "methodology",
+      "frequency": 5,
+      "description": "economic modeling approach for policy impact analysis"
+    },
+    {
+      "id": "mechanized agriculture",
+      "label": "mechanized agriculture",
+      "type": "concept",
+      "category": "system",
+      "frequency": 5,
+      "description": "use of machinery to perform agricultural operations"
+    },
+    {
+      "id": "multistakeholder platforms",
+      "label": "multistakeholder platforms",
+      "type": "concept",
+      "category": "approach",
+      "frequency": 5,
+      "description": "collaborative mechanisms bringing together diverse actors to address common challenges"
+    },
+    {
+      "id": "participatory evaluation",
+      "label": "participatory evaluation",
+      "type": "concept",
+      "category": "methodology",
+      "frequency": 5,
+      "description": "research approach involving farmers and stakeholders in assessment of technologies"
+    },
+    {
+      "id": "digital soil mapping",
+      "label": "digital soil mapping",
+      "type": "concept",
+      "category": "methodology",
+      "frequency": 5,
+      "description": "use of digital tools and algorithms to map soil properties spatially"
+    },
+    {
+      "id": "organic farming",
+      "label": "organic farming",
+      "type": "concept",
+      "category": "system",
+      "frequency": 5,
+      "description": "agricultural production system avoiding synthetic inputs and emphasizing natural processes"
+    },
+    {
+      "id": "scaling readiness",
+      "label": "scaling readiness",
+      "type": "concept",
+      "category": "approach",
+      "frequency": 5,
+      "description": "systematic preparation of innovations for widespread adoption and implementation"
+    },
+    {
+      "id": "climate-resilient agriculture",
+      "label": "climate-resilient agriculture",
+      "type": "concept",
+      "category": "approach",
+      "frequency": 5,
+      "description": "farming practices adapted to withstand climate variability and extreme weather"
+    },
+    {
+      "id": "antimicrobial resistance",
+      "label": "antimicrobial resistance",
+      "type": "concept",
+      "category": "phenomenon",
+      "frequency": 5,
+      "description": "ability of microorganisms to survive exposure to antimicrobial drugs"
+    },
+    {
+      "id": "sustainable land management",
+      "label": "sustainable land management",
+      "type": "concept",
+      "category": "approach",
+      "frequency": 5,
+      "description": "land use practices that maintain ecosystem services while meeting human needs"
+    },
+    {
+      "id": "nutritional enhancement",
+      "label": "nutritional enhancement",
+      "type": "concept",
+      "category": "approach",
+      "frequency": 5,
+      "description": "improving the nutritional content of foods through ingredient modification or fortification"
+    },
+    {
+      "id": "value chain upgrading",
+      "label": "value chain upgrading",
+      "type": "concept",
+      "category": "approach",
+      "frequency": 5,
+      "description": "improving quality, coordination, and market linkages across agricultural supply chains"
+    },
+    {
+      "id": "groundwater management",
+      "label": "groundwater management",
+      "type": "concept",
+      "category": "system",
+      "frequency": 5,
+      "description": "sustainable use and conservation of underground water resources"
+    },
+    {
+      "id": "food systems",
+      "label": "food systems",
+      "type": "concept",
+      "category": "system",
+      "frequency": 5,
+      "description": "interconnected processes from food production through consumption and disposal"
+    },
+    {
+      "id": "labor migration",
+      "label": "labor migration",
+      "type": "concept",
+      "category": "phenomenon",
+      "frequency": 5,
+      "description": "movement of people for employment opportunities, often from rural to urban areas or abroad"
+    },
+    {
+      "id": "nitrogen use efficiency",
+      "label": "nitrogen use efficiency",
+      "type": "concept",
+      "category": "phenomenon",
+      "frequency": 5,
+      "description": "crop's ability to convert applied nitrogen into grain yield"
+    },
+    {
+      "id": "genomic prediction",
+      "label": "genomic prediction",
+      "type": "concept",
+      "category": "methodology",
+      "frequency": 5,
+      "description": "use of genome-wide markers to predict breeding values or phenotypes"
+    },
+    {
+      "id": "solar-powered irrigation",
+      "label": "solar-powered irrigation",
+      "type": "concept",
+      "category": "system",
+      "frequency": 5,
+      "description": "irrigation systems powered by solar energy for sustainable water management"
+    },
+    {
+      "id": "genotype by environment interaction",
+      "label": "genotype by environment interaction",
+      "type": "concept",
+      "category": "phenomenon",
+      "frequency": 5,
+      "description": "differential performance of genotypes across different environments"
+    },
+    {
+      "id": "genetic gain",
+      "label": "genetic gain",
+      "type": "concept",
+      "category": "outcome",
+      "frequency": 5,
+      "description": "rate of improvement in crop performance through breeding"
+    },
+    {
+      "id": "post-harvest losses",
+      "label": "post-harvest losses",
+      "type": "concept",
+      "category": "phenomenon",
+      "frequency": 5,
+      "description": "reduction in crop quantity or quality after harvest"
+    },
+    {
+      "id": "climate-peace-security nexus",
+      "label": "climate-peace-security nexus",
+      "type": "concept",
+      "category": "approach",
+      "frequency": 5,
+      "description": "integrated framework addressing interconnected climate, peace and security challenges"
+    },
+    {
+      "id": "remote sensing",
+      "label": "remote sensing",
+      "type": "concept",
+      "category": "methodology",
+      "frequency": 5,
+      "description": "use of satellite or aerial imagery for agricultural monitoring"
+    },
+    {
+      "id": "participatory methods",
+      "label": "participatory methods",
+      "type": "concept",
+      "category": "methodology",
+      "frequency": 5,
+      "description": "research approaches involving active participation of study subjects"
+    },
+    {
+      "id": "experiential learning",
+      "label": "experiential learning",
+      "type": "concept",
+      "category": "methodology",
+      "frequency": 5,
+      "description": "educational approach using hands-on interactive experiences to build understanding"
+    },
+    {
+      "id": "innovation bundling",
+      "label": "innovation bundling",
+      "type": "concept",
+      "category": "methodology",
+      "frequency": 5,
+      "description": "integrating technical, digital and institutional solutions to address interconnected challenges"
+    },
+    {
+      "id": "conflict sensitivity",
+      "label": "conflict sensitivity",
+      "type": "concept",
+      "category": "approach",
+      "frequency": 5,
+      "description": "considering peace and conflict dynamics in development interventions"
+    },
+    {
+      "id": "sustainable intensification",
+      "label": "sustainable intensification",
+      "type": "concept",
+      "category": "approach",
+      "frequency": 5,
+      "description": "increasing agricultural productivity while maintaining environmental sustainability"
+    },
+    {
+      "id": "clean seed systems",
+      "label": "clean seed systems",
+      "type": "concept",
+      "category": "system",
+      "frequency": 5,
+      "description": "formal networks for producing and distributing disease-free planting materials"
+    },
+    {
+      "id": "market price monitoring",
+      "label": "market price monitoring",
+      "type": "concept",
+      "category": "methodology",
+      "frequency": 5,
+      "description": "systematic tracking of commodity prices and market conditions"
+    },
+    {
+      "id": "gender-responsive agriculture",
+      "label": "gender-responsive agriculture",
+      "type": "concept",
+      "category": "approach",
+      "frequency": 5,
+      "description": "farming interventions designed to address differential impacts on men and women"
+    },
+    {
+      "id": "digital extension platforms",
+      "label": "digital extension platforms",
+      "type": "concept",
+      "category": "methodology",
+      "frequency": 5,
+      "description": "technology-enabled systems for delivering agricultural advisory services to farmers"
+    },
+    {
+      "id": "agro-climatic bulletin",
+      "label": "agro-climatic bulletin",
+      "type": "concept",
+      "category": "system",
+      "frequency": 5,
+      "description": "weather-based agricultural advisory system providing farmers with climate information for decision-making"
+    },
+    {
+      "id": "multi-stakeholder collaboration",
+      "label": "multi-stakeholder collaboration",
+      "type": "concept",
+      "category": "approach",
+      "frequency": 5,
+      "description": "coordinated engagement among diverse organizations and sectors toward common goals"
+    },
+    {
+      "id": "seed conservation",
+      "label": "seed conservation",
+      "type": "concept",
+      "category": "approach",
+      "frequency": 5,
+      "description": "preservation and maintenance of crop genetic diversity through seed storage and management"
+    },
+    {
+      "id": "scaling strategies",
+      "label": "scaling strategies",
+      "type": "concept",
+      "category": "approach",
+      "frequency": 5,
+      "description": "systematic methods for expanding successful interventions to broader populations"
+    },
+    {
+      "id": "rice-field pond systems",
+      "label": "rice-field pond systems",
+      "type": "concept",
+      "category": "system",
+      "frequency": 5,
+      "description": "integrated farming combining rice cultivation with aquaculture in field ponds"
+    },
+    {
+      "id": "participatory diagnosis",
+      "label": "participatory diagnosis",
+      "type": "concept",
+      "category": "methodology",
+      "frequency": 5,
+      "description": "collaborative assessment of needs and priorities involving stakeholders"
+    },
+    {
+      "id": "digital literacy",
+      "label": "digital literacy",
+      "type": "concept",
+      "category": "phenomenon",
+      "frequency": 5,
+      "description": "capacity to effectively use digital technologies for information and communication"
+    },
+    {
+      "id": "gender inclusion",
+      "label": "gender inclusion",
+      "type": "concept",
+      "category": "approach",
+      "frequency": 5,
+      "description": "ensuring equitable participation and benefits for all genders in development processes"
+    },
+    {
+      "id": "innovation platforms",
+      "label": "innovation platforms",
+      "type": "concept",
+      "category": "approach",
+      "frequency": 5,
+      "description": "multi-stakeholder forums for collaborative problem-solving and knowledge sharing"
+    },
+    {
+      "id": "agricultural intensification",
+      "label": "agricultural intensification",
+      "type": "concept",
+      "category": "approach",
+      "frequency": 5,
+      "description": "increasing production per unit area through enhanced inputs and practices"
+    },
+    {
+      "id": "site-specific recommendations",
+      "label": "site-specific recommendations",
+      "type": "concept",
+      "category": "methodology",
+      "frequency": 5,
+      "description": "tailored agricultural advice based on local conditions and farmer circumstances"
+    },
+    {
+      "id": "agricultural extension",
+      "label": "agricultural extension",
+      "type": "concept",
+      "category": "system",
+      "frequency": 5,
+      "description": "knowledge transfer system connecting research to farmers through advisory services"
+    },
+    {
+      "id": "national adaptation plans",
+      "label": "national adaptation plans",
+      "type": "concept",
+      "category": "system",
+      "frequency": 5,
+      "description": "medium to long-term national planning processes for climate adaptation"
+    },
+    {
+      "id": "financial literacy training",
+      "label": "financial literacy training",
+      "type": "concept",
+      "category": "methodology",
+      "frequency": 5,
+      "description": "educational programs teaching budgeting, savings, credit management, and investment decision-making skills"
+    },
+    {
+      "id": "livestock value chains",
+      "label": "livestock value chains",
+      "type": "concept",
+      "category": "system",
+      "frequency": 5,
+      "description": "sequence of activities from livestock production to final consumption"
+    },
+    {
+      "id": "bundled cis and csa",
+      "label": "bundled cis and csa",
+      "type": "concept",
+      "category": "approach",
+      "frequency": 5,
+      "description": "integrated packages combining climate information with smart agriculture practices"
+    },
+    {
+      "id": "digital advisory platforms",
+      "label": "digital advisory platforms",
+      "type": "concept",
+      "category": "system",
+      "frequency": 5,
+      "description": "technology-based systems for delivering agricultural and climate advisories"
+    },
+    {
+      "id": "smart valleys approach",
+      "label": "smart valleys approach",
+      "type": "concept",
+      "category": "approach",
+      "frequency": 5,
+      "description": "integrated water control system for inland valley rice production"
+    },
+    {
+      "id": "early generation seed production",
+      "label": "early generation seed production",
+      "type": "concept",
+      "category": "system",
+      "frequency": 5,
+      "description": "multiplication of breeder and foundation seed by private sector"
+    },
+    {
+      "id": "multi-environment testing",
+      "label": "multi-environment testing",
+      "type": "concept",
+      "category": "methodology",
+      "frequency": 4,
+      "description": "evaluating varieties across multiple locations and conditions"
+    },
+    {
+      "id": "mechanized direct seeding",
+      "label": "mechanized direct seeding",
+      "type": "concept",
+      "category": "approach",
+      "frequency": 4,
+      "description": "agricultural practice using machinery to plant seeds directly into soil"
+    },
+    {
+      "id": "social behavior change communication",
+      "label": "social behavior change communication",
+      "type": "concept",
+      "category": "methodology",
+      "frequency": 4,
+      "description": "strategic communication approach to influence behaviors and social norms"
+    },
+    {
+      "id": "herd health management",
+      "label": "herd health management",
+      "type": "concept",
+      "category": "system",
+      "frequency": 4,
+      "description": "comprehensive approach to maintaining animal health at population level"
+    },
+    {
+      "id": "forage improvement",
+      "label": "forage improvement",
+      "type": "concept",
+      "category": "approach",
+      "frequency": 4,
+      "description": "development and promotion of improved feed crops for livestock"
+    },
+    {
+      "id": "disease resistance screening",
+      "label": "disease resistance screening",
+      "type": "concept",
+      "category": "methodology",
+      "frequency": 4,
+      "description": "systematic evaluation of genetic materials for pathogen tolerance"
+    },
+    {
+      "id": "business incubation",
+      "label": "business incubation",
+      "type": "concept",
+      "category": "approach",
+      "frequency": 4,
+      "description": "support system for developing and accelerating new enterprises"
+    },
+    {
+      "id": "prime editing",
+      "label": "prime editing",
+      "type": "concept",
+      "category": "methodology",
+      "frequency": 4,
+      "description": "precise genome modification technique that enables targeted genetic changes"
+    },
+    {
+      "id": "quantitative trait locus mapping",
+      "label": "quantitative trait locus mapping",
+      "type": "concept",
+      "category": "methodology",
+      "frequency": 4,
+      "description": "genetic technique to identify chromosomal regions controlling quantitative traits"
+    },
+    {
+      "id": "extension training",
+      "label": "extension training",
+      "type": "concept",
+      "category": "methodology",
+      "frequency": 4,
+      "description": "capacity building programs for agricultural extension workers to improve farmer outreach"
+    },
+    {
+      "id": "soil health management",
+      "label": "soil health management",
+      "type": "concept",
+      "category": "approach",
+      "frequency": 4,
+      "description": "practices to maintain and improve soil biological, chemical, and physical properties"
+    },
+    {
+      "id": "sustainable livestock practices",
+      "label": "sustainable livestock practices",
+      "type": "concept",
+      "category": "approach",
+      "frequency": 4,
+      "description": "animal husbandry methods that balance productivity with environmental and social sustainability"
+    },
+    {
+      "id": "seed certification",
+      "label": "seed certification",
+      "type": "concept",
+      "category": "system",
+      "frequency": 4,
+      "description": "formal quality assurance system for verifying seed quality and genetic purity"
+    },
+    {
+      "id": "food environment analysis",
+      "label": "food environment analysis",
+      "type": "concept",
+      "category": "methodology",
+      "frequency": 4,
+      "description": "study of factors affecting food accessibility, availability, and affordability"
+    },
+    {
+      "id": "policy assessment",
+      "label": "policy assessment",
+      "type": "concept",
+      "category": "methodology",
+      "frequency": 4,
+      "description": "evaluation of regulatory frameworks and their effectiveness"
+    },
+    {
+      "id": "gender empowerment",
+      "label": "gender empowerment",
+      "type": "concept",
+      "category": "outcome",
+      "frequency": 4,
+      "description": "process of increasing women's capacity to make strategic life choices"
+    },
+    {
       "id": "IITA",
       "label": "IITA",
       "type": "entity",
@@ -1599,6 +2799,1206 @@
       "category": "tool",
       "frequency": 1,
       "description": "mobile application for tracking pig enterprise profitability"
+    },
+    {
+      "id": "PigSmart platform",
+      "label": "PigSmart platform",
+      "type": "entity",
+      "category": "tool",
+      "frequency": 1,
+      "description": "digital extension platform for pig farming best practices"
+    },
+    {
+      "id": "Tropical Poultry Platform",
+      "label": "Tropical Poultry Platform",
+      "type": "entity",
+      "category": "organization",
+      "frequency": 1,
+      "description": "membership-based organization for poultry value chain development"
+    },
+    {
+      "id": "Tropical Forages Selection Tool",
+      "label": "Tropical Forages Selection Tool",
+      "type": "entity",
+      "category": "tool",
+      "frequency": 1,
+      "description": "online tool for selecting appropriate forage cultivars"
+    },
+    {
+      "id": "TAFSSA",
+      "label": "TAFSSA",
+      "type": "entity",
+      "category": "organization",
+      "frequency": 1,
+      "description": "Transforming Agrifood Systems in South Asia program"
+    },
+    {
+      "id": "CSISA",
+      "label": "CSISA",
+      "type": "entity",
+      "category": "organization",
+      "frequency": 1,
+      "description": "Cereal Systems Initiative for South Asia"
+    },
+    {
+      "id": "Department of Agricultural Extension",
+      "label": "Department of Agricultural Extension",
+      "type": "entity",
+      "category": "organization",
+      "frequency": 1,
+      "description": "government extension service in Bangladesh"
+    },
+    {
+      "id": "BARI",
+      "label": "BARI",
+      "type": "entity",
+      "category": "organization",
+      "frequency": 1,
+      "description": "Bangladesh Agricultural Research Institute"
+    },
+    {
+      "id": "Northern Laos",
+      "label": "Northern Laos",
+      "type": "entity",
+      "category": "place",
+      "frequency": 1,
+      "description": "geographic region in Southeast Asia"
+    },
+    {
+      "id": "Kef-Siliana",
+      "label": "Kef-Siliana",
+      "type": "entity",
+      "category": "place",
+      "frequency": 1,
+      "description": "transect region in Tunisia"
+    },
+    {
+      "id": "Ukama Ustawi",
+      "label": "Ukama Ustawi",
+      "type": "entity",
+      "category": "organization",
+      "frequency": 1,
+      "description": "CGIAR initiative focused on scaling agricultural innovations"
+    },
+    {
+      "id": "ASARECA",
+      "label": "ASARECA",
+      "type": "entity",
+      "category": "organization",
+      "frequency": 1,
+      "description": "Association for Strengthening Agricultural Research in Eastern and Central Africa"
+    },
+    {
+      "id": "EncontrAR Platform",
+      "label": "EncontrAR Platform",
+      "type": "entity",
+      "category": "tool",
+      "frequency": 1,
+      "description": "web-based knowledge management system for Andean agriculture"
+    },
+    {
+      "id": "okra",
+      "label": "okra",
+      "type": "entity",
+      "category": "organism",
+      "frequency": 1,
+      "description": "vegetable crop of genus Abelmoschus"
+    },
+    {
+      "id": "begomovirus",
+      "label": "begomovirus",
+      "type": "entity",
+      "category": "organism",
+      "frequency": 1,
+      "description": "genus of plant viruses transmitted by whiteflies"
+    },
+    {
+      "id": "World Vegetable Center",
+      "label": "World Vegetable Center",
+      "type": "entity",
+      "category": "organization",
+      "frequency": 1,
+      "description": "international research institute for vegetable crops"
+    },
+    {
+      "id": "LCAS-APT",
+      "label": "LCAS-APT",
+      "type": "entity",
+      "category": "tool",
+      "frequency": 1,
+      "description": "landscape crop assessment and agronomy prioritization tool"
+    },
+    {
+      "id": "AADGG-Dairy app",
+      "label": "AADGG-Dairy app",
+      "type": "entity",
+      "category": "tool",
+      "frequency": 1,
+      "description": "mobile application for dairy data collection"
+    },
+    {
+      "id": "APEARD tool",
+      "label": "APEARD tool",
+      "type": "entity",
+      "category": "tool",
+      "frequency": 1,
+      "description": "economics assessment tool for agricultural resource degradation"
+    },
+    {
+      "id": "yellow jacaranda",
+      "label": "yellow jacaranda",
+      "type": "entity",
+      "category": "organism",
+      "frequency": 1,
+      "description": "fast-growing nitrogen-fixing tree species Schizolobium parahybum"
+    },
+    {
+      "id": "CIAT",
+      "label": "CIAT",
+      "type": "entity",
+      "category": "organization",
+      "frequency": 1,
+      "description": "International Center for Tropical Agriculture"
+    },
+    {
+      "id": "Limpopo River Basin",
+      "label": "Limpopo River Basin",
+      "type": "entity",
+      "category": "place",
+      "frequency": 1,
+      "description": "water catchment area in southern Africa"
+    },
+    {
+      "id": "Tumaini app",
+      "label": "Tumaini app",
+      "type": "entity",
+      "category": "tool",
+      "frequency": 1,
+      "description": "digital tool for banana pest and disease detection"
+    },
+    {
+      "id": "SENA",
+      "label": "SENA",
+      "type": "entity",
+      "category": "organization",
+      "frequency": 1,
+      "description": "Colombian national learning service"
+    },
+    {
+      "id": "banana xanthomonas wilt",
+      "label": "banana xanthomonas wilt",
+      "type": "entity",
+      "category": "organism",
+      "frequency": 1,
+      "description": "bacterial disease affecting banana plants"
+    },
+    {
+      "id": "CSHEP",
+      "label": "CSHEP",
+      "type": "entity",
+      "category": "organization",
+      "frequency": 1,
+      "description": "Community Sustainable Agriculture and Healthy Environmental Program"
+    },
+    {
+      "id": "ReDD index",
+      "label": "ReDD index",
+      "type": "entity",
+      "category": "tool",
+      "frequency": 1,
+      "description": "reference diet deprivation measurement tool"
+    },
+    {
+      "id": "african swine fever",
+      "label": "african swine fever",
+      "type": "entity",
+      "category": "organism",
+      "frequency": 1,
+      "description": "viral disease affecting pigs"
+    },
+    {
+      "id": "RIICE",
+      "label": "RIICE",
+      "type": "entity",
+      "category": "tool",
+      "frequency": 1,
+      "description": "satellite-based digital platform for rice monitoring"
+    },
+    {
+      "id": "Senegal",
+      "label": "Senegal",
+      "type": "entity",
+      "category": "place",
+      "frequency": 1,
+      "description": "West African country"
+    },
+    {
+      "id": "milk collection centers",
+      "label": "milk collection centers",
+      "type": "entity",
+      "category": "role",
+      "frequency": 1,
+      "description": "facilities that aggregate milk from farmers"
+    },
+    {
+      "id": "cacao",
+      "label": "cacao",
+      "type": "entity",
+      "category": "organism",
+      "frequency": 1,
+      "description": "tropical tree crop used for chocolate production"
+    },
+    {
+      "id": "Philippines",
+      "label": "Philippines",
+      "type": "entity",
+      "category": "place",
+      "frequency": 1,
+      "description": "Southeast Asian archipelago nation"
+    },
+    {
+      "id": "PRISM",
+      "label": "PRISM",
+      "type": "entity",
+      "category": "tool",
+      "frequency": 1,
+      "description": "Philippine Rice Information System for satellite-based monitoring"
+    },
+    {
+      "id": "Lower Kafue Basin",
+      "label": "Lower Kafue Basin",
+      "type": "entity",
+      "category": "place",
+      "frequency": 1,
+      "description": "watershed region in Zambia"
+    },
+    {
+      "id": "India",
+      "label": "India",
+      "type": "entity",
+      "category": "place",
+      "frequency": 1,
+      "description": "South Asian country"
+    },
+    {
+      "id": "UNDP",
+      "label": "UNDP",
+      "type": "entity",
+      "category": "organization",
+      "frequency": 1,
+      "description": "United Nations Development Programme"
+    },
+    {
+      "id": "Myanmar",
+      "label": "Myanmar",
+      "type": "entity",
+      "category": "place",
+      "frequency": 1,
+      "description": "Southeast Asian country"
+    },
+    {
+      "id": "Rwanda",
+      "label": "Rwanda",
+      "type": "entity",
+      "category": "place",
+      "frequency": 1,
+      "description": "East African country"
+    },
+    {
+      "id": "MINAGRI",
+      "label": "MINAGRI",
+      "type": "entity",
+      "category": "organization",
+      "frequency": 1,
+      "description": "Rwanda Ministry of Agriculture"
+    },
+    {
+      "id": "tomato",
+      "label": "tomato",
+      "type": "entity",
+      "category": "organism",
+      "frequency": 1,
+      "description": "vegetable crop"
+    },
+    {
+      "id": "sweet pepper",
+      "label": "sweet pepper",
+      "type": "entity",
+      "category": "organism",
+      "frequency": 1,
+      "description": "vegetable crop"
+    },
+    {
+      "id": "China",
+      "label": "China",
+      "type": "entity",
+      "category": "place",
+      "frequency": 1,
+      "description": "East Asian country"
+    },
+    {
+      "id": "Mekong River Delta",
+      "label": "Mekong River Delta",
+      "type": "entity",
+      "category": "place",
+      "frequency": 1,
+      "description": "river delta region in Vietnam"
+    },
+    {
+      "id": "IFPRI",
+      "label": "IFPRI",
+      "type": "entity",
+      "category": "organization",
+      "frequency": 1,
+      "description": "International Food Policy Research Institute"
+    },
+    {
+      "id": "SPAM",
+      "label": "SPAM",
+      "type": "entity",
+      "category": "tool",
+      "frequency": 1,
+      "description": "Spatial Production Allocation Model for crop mapping"
+    },
+    {
+      "id": "Ministry of Agriculture and Rural Development",
+      "label": "Ministry of Agriculture and Rural Development",
+      "type": "entity",
+      "category": "organization",
+      "frequency": 1,
+      "description": "Vietnamese government agency overseeing agricultural policy and development"
+    },
+    {
+      "id": "Digital Earth Africa",
+      "label": "Digital Earth Africa",
+      "type": "entity",
+      "category": "tool",
+      "frequency": 1,
+      "description": "satellite data platform providing earth observation services for Africa"
+    },
+    {
+      "id": "APFORGEN",
+      "label": "APFORGEN",
+      "type": "entity",
+      "category": "organization",
+      "frequency": 1,
+      "description": "Asia-Pacific Forest Genetic Resources Programme"
+    },
+    {
+      "id": "Ganges Basin",
+      "label": "Ganges Basin",
+      "type": "entity",
+      "category": "place",
+      "frequency": 1,
+      "description": "major river basin in northern India"
+    },
+    {
+      "id": "International Potato Center",
+      "label": "International Potato Center",
+      "type": "entity",
+      "category": "organization",
+      "frequency": 1,
+      "description": "research center focused on potato and sweetpotato improvement"
+    },
+    {
+      "id": "potato virus Y",
+      "label": "potato virus Y",
+      "type": "entity",
+      "category": "organism",
+      "frequency": 1,
+      "description": "viral pathogen causing significant yield losses in potato crops"
+    },
+    {
+      "id": "rice yellow mottle virus",
+      "label": "rice yellow mottle virus",
+      "type": "entity",
+      "category": "organism",
+      "frequency": 1,
+      "description": "viral disease limiting rice productivity in Africa"
+    },
+    {
+      "id": "ISAT Climate Information Services",
+      "label": "ISAT Climate Information Services",
+      "type": "entity",
+      "category": "tool",
+      "frequency": 1,
+      "description": "weather information platform serving farmers in Odisha"
+    },
+    {
+      "id": "ICRISAT",
+      "label": "ICRISAT",
+      "type": "entity",
+      "category": "organization",
+      "frequency": 1,
+      "description": "International Crops Research Institute for the Semi-Arid Tropics"
+    },
+    {
+      "id": "MSOIL",
+      "label": "MSOIL",
+      "type": "entity",
+      "category": "tool",
+      "frequency": 1,
+      "description": "digital platform for soil health monitoring and management"
+    },
+    {
+      "id": "Simcast",
+      "label": "Simcast",
+      "type": "entity",
+      "category": "tool",
+      "frequency": 1,
+      "description": "decision support system for late blight management"
+    },
+    {
+      "id": "SWEET",
+      "label": "SWEET",
+      "type": "entity",
+      "category": "tool",
+      "frequency": 1,
+      "description": "Stakeholder WEFE Efficiency Evaluation Tool for policy decisions"
+    },
+    {
+      "id": "water managers",
+      "label": "water managers",
+      "type": "entity",
+      "category": "role",
+      "frequency": 1,
+      "description": "professionals responsible for water resource management"
+    },
+    {
+      "id": "EcoFarm App",
+      "label": "EcoFarm App",
+      "type": "entity",
+      "category": "tool",
+      "frequency": 1,
+      "description": "AI-powered digital platform for sustainable agriculture advisory services"
+    },
+    {
+      "id": "Rice Crop Manager Advisory Service",
+      "label": "Rice Crop Manager Advisory Service",
+      "type": "entity",
+      "category": "tool",
+      "frequency": 1,
+      "description": "digital platform providing rice cultivation recommendations"
+    },
+    {
+      "id": "Layanan Konsultasi Padi",
+      "label": "Layanan Konsultasi Padi",
+      "type": "entity",
+      "category": "tool",
+      "frequency": 1,
+      "description": "Indonesian digital advisory service for rice fertilizer recommendations"
+    },
+    {
+      "id": "pro-WEAI",
+      "label": "pro-WEAI",
+      "type": "entity",
+      "category": "tool",
+      "frequency": 1,
+      "description": "project-level Women's Empowerment in Agriculture Index measurement tool"
+    },
+    {
+      "id": "AgWISE",
+      "label": "AgWISE",
+      "type": "entity",
+      "category": "tool",
+      "frequency": 1,
+      "description": "Agricultural Water Insecurity Experiences measurement modules"
+    },
+    {
+      "id": "Mekong Farm App",
+      "label": "Mekong Farm App",
+      "type": "entity",
+      "category": "tool",
+      "frequency": 1,
+      "description": "digital platform for climate advisory services in Cambodia"
+    },
+    {
+      "id": "PigSmart",
+      "label": "PigSmart",
+      "type": "entity",
+      "category": "tool",
+      "frequency": 1,
+      "description": "extension platform delivering pig farming best practices"
+    },
+    {
+      "id": "AADGG platform",
+      "label": "AADGG platform",
+      "type": "entity",
+      "category": "tool",
+      "frequency": 1,
+      "description": "Africa Asia Dairy Genetic Gains technology platform for livestock breeding"
+    },
+    {
+      "id": "International Rice Research Institute",
+      "label": "International Rice Research Institute",
+      "type": "entity",
+      "category": "organization",
+      "frequency": 1,
+      "description": "global research institute focused on rice improvement and production"
+    },
+    {
+      "id": "Philippine Rice Research Institute",
+      "label": "Philippine Rice Research Institute",
+      "type": "entity",
+      "category": "organization",
+      "frequency": 1,
+      "description": "national research institute for rice in the Philippines"
+    },
+    {
+      "id": "Ministry of Agriculture",
+      "label": "Ministry of Agriculture",
+      "type": "entity",
+      "category": "organization",
+      "frequency": 1,
+      "description": "government department responsible for agricultural policy and programs"
+    },
+    {
+      "id": "Farm Radio International",
+      "label": "Farm Radio International",
+      "type": "entity",
+      "category": "organization",
+      "frequency": 1,
+      "description": "organization using radio and digital technology for agricultural extension"
+    },
+    {
+      "id": "Ingredion Mexico",
+      "label": "Ingredion Mexico",
+      "type": "entity",
+      "category": "organization",
+      "frequency": 1,
+      "description": "private company engaged in sustainable corn sourcing"
+    },
+    {
+      "id": "Indonesia",
+      "label": "Indonesia",
+      "type": "entity",
+      "category": "place",
+      "frequency": 1,
+      "description": "Southeast Asian archipelago nation with extensive rice cultivation"
+    },
+    {
+      "id": "Guatemala",
+      "label": "Guatemala",
+      "type": "entity",
+      "category": "place",
+      "frequency": 1,
+      "description": "Central American country with diverse agricultural systems"
+    },
+    {
+      "id": "Peru",
+      "label": "Peru",
+      "type": "entity",
+      "category": "place",
+      "frequency": 1,
+      "description": "South American country with diverse agroecological zones"
+    },
+    {
+      "id": "Makueni",
+      "label": "Makueni",
+      "type": "entity",
+      "category": "place",
+      "frequency": 1,
+      "description": "semi-arid county in Kenya"
+    },
+    {
+      "id": "beans",
+      "label": "beans",
+      "type": "entity",
+      "category": "organism",
+      "frequency": 1,
+      "description": "legume crop providing protein and nitrogen fixation"
+    },
+    {
+      "id": "moniliasis",
+      "label": "moniliasis",
+      "type": "entity",
+      "category": "organism",
+      "frequency": 1,
+      "description": "fungal disease affecting cacao pods and productivity"
+    },
+    {
+      "id": "extension workers",
+      "label": "extension workers",
+      "type": "entity",
+      "category": "role",
+      "frequency": 1,
+      "description": "agricultural professionals providing technical support to farmers"
+    },
+    {
+      "id": "agripreneurs",
+      "label": "agripreneurs",
+      "type": "entity",
+      "category": "role",
+      "frequency": 1,
+      "description": "agricultural entrepreneurs providing services or products to farmers"
+    },
+    {
+      "id": "youth",
+      "label": "youth",
+      "type": "entity",
+      "category": "role",
+      "frequency": 1,
+      "description": "young people engaged in or entering agricultural activities"
+    },
+    {
+      "id": "women farmers",
+      "label": "women farmers",
+      "type": "entity",
+      "category": "role",
+      "frequency": 1,
+      "description": "female agricultural producers and decision-makers"
+    },
+    {
+      "id": "Baringo County",
+      "label": "Baringo County",
+      "type": "entity",
+      "category": "place",
+      "frequency": 1,
+      "description": "county in Kenya where rangeland management interventions were implemented"
+    },
+    {
+      "id": "Wajir County",
+      "label": "Wajir County",
+      "type": "entity",
+      "category": "place",
+      "frequency": 1,
+      "description": "county in Kenya where participatory rangeland management was established"
+    },
+    {
+      "id": "National Seed Research and Training Centre",
+      "label": "National Seed Research and Training Centre",
+      "type": "entity",
+      "category": "organization",
+      "frequency": 1,
+      "description": "India's national institution for seed research and training"
+    },
+    {
+      "id": "Tana-Beles Sub-basin",
+      "label": "Tana-Beles Sub-basin",
+      "type": "entity",
+      "category": "place",
+      "frequency": 1,
+      "description": "river basin in Ethiopia studied for water storage assessment"
+    },
+    {
+      "id": "Indus Basin",
+      "label": "Indus Basin",
+      "type": "entity",
+      "category": "place",
+      "frequency": 1,
+      "description": "major river basin in Pakistan"
+    },
+    {
+      "id": "Chirchik River Basin",
+      "label": "Chirchik River Basin",
+      "type": "entity",
+      "category": "place",
+      "frequency": 1,
+      "description": "river basin in Uzbekistan used for hydrological modeling training"
+    },
+    {
+      "id": "Uttar Pradesh",
+      "label": "Uttar Pradesh",
+      "type": "entity",
+      "category": "place",
+      "frequency": 1,
+      "description": "state in India where water use policy was enacted"
+    },
+    {
+      "id": "mechanization service providers",
+      "label": "mechanization service providers",
+      "type": "entity",
+      "category": "role",
+      "frequency": 1,
+      "description": "farmers who provide mechanization services to other farmers"
+    },
+    {
+      "id": "two-wheel tractor",
+      "label": "two-wheel tractor",
+      "type": "entity",
+      "category": "tool",
+      "frequency": 1,
+      "description": "versatile farm power equipment for smallholder farming operations"
+    },
+    {
+      "id": "maize sheller",
+      "label": "maize sheller",
+      "type": "entity",
+      "category": "tool",
+      "frequency": 1,
+      "description": "machine for removing maize kernels from cobs"
+    },
+    {
+      "id": "multi-crop thresher",
+      "label": "multi-crop thresher",
+      "type": "entity",
+      "category": "tool",
+      "frequency": 1,
+      "description": "machine for separating grains from various crop plants"
+    },
+    {
+      "id": "Dolo Ado",
+      "label": "Dolo Ado",
+      "type": "entity",
+      "category": "place",
+      "frequency": 1,
+      "description": "district in Somali Region, Ethiopia"
+    },
+    {
+      "id": "Bokolmayo",
+      "label": "Bokolmayo",
+      "type": "entity",
+      "category": "place",
+      "frequency": 1,
+      "description": "district in Somali Region, Ethiopia"
+    },
+    {
+      "id": "Western Ghats",
+      "label": "Western Ghats",
+      "type": "entity",
+      "category": "place",
+      "frequency": 1,
+      "description": "mountain range in India"
+    },
+    {
+      "id": "coffee",
+      "label": "coffee",
+      "type": "entity",
+      "category": "organism",
+      "frequency": 1,
+      "description": "crop species studied for pollination"
+    },
+    {
+      "id": "Eastern India",
+      "label": "Eastern India",
+      "type": "entity",
+      "category": "place",
+      "frequency": 1,
+      "description": "eastern region of India"
+    },
+    {
+      "id": "fish",
+      "label": "fish",
+      "type": "entity",
+      "category": "organism",
+      "frequency": 1,
+      "description": "aquatic animals integrated with rice cultivation"
+    },
+    {
+      "id": "Lima",
+      "label": "Lima",
+      "type": "entity",
+      "category": "place",
+      "frequency": 1,
+      "description": "capital city of Peru where community kitchens operate food rescue programs"
+    },
+    {
+      "id": "Quezon City",
+      "label": "Quezon City",
+      "type": "entity",
+      "category": "place",
+      "frequency": 1,
+      "description": "densely populated urban area in Philippines with space-limited farming"
+    },
+    {
+      "id": "Burundi",
+      "label": "Burundi",
+      "type": "entity",
+      "category": "place",
+      "frequency": 1,
+      "description": "East African country where banana is essential for food security"
+    },
+    {
+      "id": "International Institute of Tropical Agriculture",
+      "label": "International Institute of Tropical Agriculture",
+      "type": "entity",
+      "category": "organization",
+      "frequency": 1,
+      "description": "CGIAR center specializing in tropical agriculture research"
+    },
+    {
+      "id": "KALRO",
+      "label": "KALRO",
+      "type": "entity",
+      "category": "organization",
+      "frequency": 1,
+      "description": "Kenya Agricultural and Livestock Research Organization"
+    },
+    {
+      "id": "ISABU",
+      "label": "ISABU",
+      "type": "entity",
+      "category": "organization",
+      "frequency": 1,
+      "description": "Institut des Sciences Agronomiques du Burundi"
+    },
+    {
+      "id": "Bundelkhand",
+      "label": "Bundelkhand",
+      "type": "entity",
+      "category": "place",
+      "frequency": 1,
+      "description": "dryland region in Central India prone to water scarcity"
+    },
+    {
+      "id": "Olancho",
+      "label": "Olancho",
+      "type": "entity",
+      "category": "place",
+      "frequency": 1,
+      "description": "region in Honduras where livestock sustains rural livelihoods"
+    },
+    {
+      "id": "Laos",
+      "label": "Laos",
+      "type": "entity",
+      "category": "place",
+      "frequency": 1,
+      "description": "Southeast Asian country where women play crucial roles in agriculture"
+    },
+    {
+      "id": "Sudan",
+      "label": "Sudan",
+      "type": "entity",
+      "category": "place",
+      "frequency": 1,
+      "description": "conflict-affected country requiring humanitarian water and food interventions"
+    },
+    {
+      "id": "PRRS virus",
+      "label": "PRRS virus",
+      "type": "entity",
+      "category": "organism",
+      "frequency": 1,
+      "description": "porcine reproductive and respiratory syndrome virus affecting pig productivity"
+    },
+    {
+      "id": "Enterococcus",
+      "label": "Enterococcus",
+      "type": "entity",
+      "category": "organism",
+      "frequency": 1,
+      "description": "bacterial genus with increasing clinical relevance due to antimicrobial resistance"
+    },
+    {
+      "id": "Carob",
+      "label": "Carob",
+      "type": "entity",
+      "category": "tool",
+      "frequency": 1,
+      "description": "open-source software for standardizing agricultural research data"
+    },
+    {
+      "id": "haveli system",
+      "label": "haveli system",
+      "type": "entity",
+      "category": "tool",
+      "frequency": 1,
+      "description": "traditional rainwater harvesting system in Central India"
+    },
+    {
+      "id": "power probe method",
+      "label": "power probe method",
+      "type": "entity",
+      "category": "tool",
+      "frequency": 1,
+      "description": "cost-effective technique for measuring soil bulk density"
+    },
+    {
+      "id": "Metrics Library",
+      "label": "Metrics Library",
+      "type": "entity",
+      "category": "tool",
+      "frequency": 1,
+      "description": "online database of metrics for evaluating agrifood systems performance"
+    },
+    {
+      "id": "Zimbabwe",
+      "label": "Zimbabwe",
+      "type": "entity",
+      "category": "place",
+      "frequency": 1,
+      "description": "Southern African country"
+    },
+    {
+      "id": "Uzbekistan",
+      "label": "Uzbekistan",
+      "type": "entity",
+      "category": "place",
+      "frequency": 1,
+      "description": "Central Asian country"
+    },
+    {
+      "id": "sweet potato",
+      "label": "sweet potato",
+      "type": "entity",
+      "category": "organism",
+      "frequency": 1,
+      "description": "root vegetable crop"
+    },
+    {
+      "id": "Aegilops tauschii",
+      "label": "Aegilops tauschii",
+      "type": "entity",
+      "category": "organism",
+      "frequency": 1,
+      "description": "wild wheat relative species"
+    },
+    {
+      "id": "wheat blast",
+      "label": "wheat blast",
+      "type": "entity",
+      "category": "organism",
+      "frequency": 1,
+      "description": "fungal disease affecting wheat crops"
+    },
+    {
+      "id": "Cassava Brown Streak Disease",
+      "label": "Cassava Brown Streak Disease",
+      "type": "entity",
+      "category": "organism",
+      "frequency": 1,
+      "description": "viral disease affecting cassava plants"
+    },
+    {
+      "id": "RoBERTa",
+      "label": "RoBERTa",
+      "type": "entity",
+      "category": "tool",
+      "frequency": 1,
+      "description": "transformer-based language model for natural language processing"
+    },
+    {
+      "id": "DArTseq",
+      "label": "DArTseq",
+      "type": "entity",
+      "category": "tool",
+      "frequency": 1,
+      "description": "genotyping technology for molecular marker analysis"
+    },
+    {
+      "id": "KASP markers",
+      "label": "KASP markers",
+      "type": "entity",
+      "category": "tool",
+      "frequency": 1,
+      "description": "competitive allele-specific PCR markers for genotyping"
+    },
+    {
+      "id": "value chain stakeholders",
+      "label": "value chain stakeholders",
+      "type": "entity",
+      "category": "role",
+      "frequency": 1,
+      "description": "actors involved in agricultural product value chains"
+    },
+    {
+      "id": "Mbire District",
+      "label": "Mbire District",
+      "type": "entity",
+      "category": "place",
+      "frequency": 1,
+      "description": "administrative district in Zimbabwe"
+    },
+    {
+      "id": "Dong Thap Province",
+      "label": "Dong Thap Province",
+      "type": "entity",
+      "category": "place",
+      "frequency": 1,
+      "description": "province in Vietnam's Mekong Delta"
+    },
+    {
+      "id": "Gedeo Zone",
+      "label": "Gedeo Zone",
+      "type": "entity",
+      "category": "place",
+      "frequency": 1,
+      "description": "administrative zone in southern Ethiopia"
+    },
+    {
+      "id": "North-East Region",
+      "label": "North-East Region",
+      "type": "entity",
+      "category": "place",
+      "frequency": 1,
+      "description": "administrative region in northern Ghana"
+    },
+    {
+      "id": "Bolivia",
+      "label": "Bolivia",
+      "type": "entity",
+      "category": "place",
+      "frequency": 1,
+      "description": "South American country"
+    },
+    {
+      "id": "Jordan",
+      "label": "Jordan",
+      "type": "entity",
+      "category": "place",
+      "frequency": 1,
+      "description": "Middle Eastern country studied for gender programming"
+    },
+    {
+      "id": "MENA region",
+      "label": "MENA region",
+      "type": "entity",
+      "category": "place",
+      "frequency": 1,
+      "description": "Middle East and North Africa geographic region"
+    },
+    {
+      "id": "Morocco",
+      "label": "Morocco",
+      "type": "entity",
+      "category": "place",
+      "frequency": 1,
+      "description": "North African country where theatre interventions were conducted"
+    },
+    {
+      "id": "Sudanese Armed Forces",
+      "label": "Sudanese Armed Forces",
+      "type": "entity",
+      "category": "organization",
+      "frequency": 1,
+      "description": "Government military forces in Sudan conflict"
+    },
+    {
+      "id": "Rapid Support Forces",
+      "label": "Rapid Support Forces",
+      "type": "entity",
+      "category": "organization",
+      "frequency": 1,
+      "description": "Paramilitary group in Sudan conflict"
+    },
+    {
+      "id": "World Vision Somalia",
+      "label": "World Vision Somalia",
+      "type": "entity",
+      "category": "organization",
+      "frequency": 1,
+      "description": "Humanitarian organization implementing graduation program"
+    },
+    {
+      "id": "Baidoa",
+      "label": "Baidoa",
+      "type": "entity",
+      "category": "place",
+      "frequency": 1,
+      "description": "Somali city with IDP camps"
+    },
+    {
+      "id": "cowpea",
+      "label": "cowpea",
+      "type": "entity",
+      "category": "organism",
+      "frequency": 1,
+      "description": "legume crop studied in Nigeria adoption trials"
+    },
+    {
+      "id": "internally displaced persons",
+      "label": "internally displaced persons",
+      "type": "entity",
+      "category": "role",
+      "frequency": 1,
+      "description": "people forced to move within their country due to conflict"
+    },
+    {
+      "id": "USAID",
+      "label": "USAID",
+      "type": "entity",
+      "category": "organization",
+      "frequency": 1,
+      "description": "United States Agency for International Development"
+    },
+    {
+      "id": "chickpea",
+      "label": "chickpea",
+      "type": "entity",
+      "category": "organism",
+      "frequency": 1,
+      "description": "pulse crop grown in marginal lands with nitrogen fixation capability"
+    },
+    {
+      "id": "soybean",
+      "label": "soybean",
+      "type": "entity",
+      "category": "organism",
+      "frequency": 1,
+      "description": "legume crop valued for protein content and oil production"
+    },
+    {
+      "id": "AgriLLM",
+      "label": "AgriLLM",
+      "type": "entity",
+      "category": "tool",
+      "frequency": 1,
+      "description": "AI-powered agricultural advisory system based on large language models"
+    },
+    {
+      "id": "CLEANED",
+      "label": "CLEANED",
+      "type": "entity",
+      "category": "tool",
+      "frequency": 1,
+      "description": "environmental impact assessment tool for livestock development projects"
+    },
+    {
+      "id": "TerminAg",
+      "label": "TerminAg",
+      "type": "entity",
+      "category": "tool",
+      "frequency": 1,
+      "description": "controlled vocabulary for standardizing agricultural research data"
+    },
+    {
+      "id": "Open Data Kit",
+      "label": "Open Data Kit",
+      "type": "entity",
+      "category": "tool",
+      "frequency": 1,
+      "description": "mobile data collection platform for field research"
+    },
+    {
+      "id": "Global Diet Quality Score",
+      "label": "Global Diet Quality Score",
+      "type": "entity",
+      "category": "tool",
+      "frequency": 1,
+      "description": "standardized metric for assessing dietary quality across populations"
+    },
+    {
+      "id": "Urochloa",
+      "label": "Urochloa",
+      "type": "entity",
+      "category": "organism",
+      "frequency": 1,
+      "description": "tropical forage grass genus"
+    },
+    {
+      "id": "Honduras",
+      "label": "Honduras",
+      "type": "entity",
+      "category": "place",
+      "frequency": 1,
+      "description": "Central American country"
+    },
+    {
+      "id": "Heifer International",
+      "label": "Heifer International",
+      "type": "entity",
+      "category": "organization",
+      "frequency": 1,
+      "description": "international development organization focused on livestock"
+    },
+    {
+      "id": "Thailand",
+      "label": "Thailand",
+      "type": "entity",
+      "category": "place",
+      "frequency": 1,
+      "description": "Southeast Asian country"
     }
   ],
   "links": [
@@ -1639,10 +4039,22 @@
       "confidence": "extracted"
     },
     {
+      "source": "water-energy-food nexus",
+      "target": "computable general equilibrium modeling",
+      "type": "uses",
+      "confidence": "extracted"
+    },
+    {
       "source": "circular bioeconomy",
       "target": "Ghana",
       "type": "located_in",
       "confidence": "extracted"
+    },
+    {
+      "source": "multi-environment testing",
+      "target": "breeding pipeline",
+      "type": "part_of",
+      "confidence": "inferred"
     },
     {
       "source": "climate resilience",
@@ -1723,6 +4135,12 @@
       "confidence": "extracted"
     },
     {
+      "source": "mechanized direct seeding",
+      "target": "rice",
+      "type": "targets",
+      "confidence": "extracted"
+    },
+    {
       "source": "CSISA-MEA",
       "target": "ABLE firms",
       "type": "collaborates_with",
@@ -1732,6 +4150,18 @@
       "source": "ABLE firms",
       "target": "Bangladesh",
       "type": "located_in",
+      "confidence": "extracted"
+    },
+    {
+      "source": "digital data collection",
+      "target": "smallholder farmers",
+      "type": "targets",
+      "confidence": "inferred"
+    },
+    {
+      "source": "social behavior change communication",
+      "target": "smallholder farmers",
+      "type": "targets",
       "confidence": "extracted"
     },
     {
@@ -1747,9 +4177,21 @@
       "confidence": "extracted"
     },
     {
+      "source": "Pig Profit app",
+      "target": "business model development",
+      "type": "addresses",
+      "confidence": "inferred"
+    },
+    {
       "source": "Brachiaria",
       "target": "buffalo",
       "type": "targets",
+      "confidence": "extracted"
+    },
+    {
+      "source": "multistakeholder platforms",
+      "target": "value chain development",
+      "type": "addresses",
       "confidence": "extracted"
     },
     {
@@ -1765,15 +4207,45 @@
       "confidence": "extracted"
     },
     {
+      "source": "PigSmart platform",
+      "target": "digital extension",
+      "type": "uses",
+      "confidence": "extracted"
+    },
+    {
       "source": "village livestock promoters",
       "target": "smallholder farmers",
       "type": "targets",
       "confidence": "extracted"
     },
     {
+      "source": "social behavior change communication",
+      "target": "Son La province",
+      "type": "located_in",
+      "confidence": "extracted"
+    },
+    {
+      "source": "school feeding programs",
+      "target": "chickens",
+      "type": "uses",
+      "confidence": "extracted"
+    },
+    {
       "source": "crop diversification",
       "target": "Bangladesh",
       "type": "located_in",
+      "confidence": "extracted"
+    },
+    {
+      "source": "TAFSSA",
+      "target": "CSISA",
+      "type": "collaborates_with",
+      "confidence": "extracted"
+    },
+    {
+      "source": "Tropical Forages Selection Tool",
+      "target": "participatory evaluation",
+      "type": "uses",
       "confidence": "extracted"
     },
     {
@@ -1789,8 +4261,98 @@
       "confidence": "extracted"
     },
     {
+      "source": "silvopastoral systems",
+      "target": "Northern Laos",
+      "type": "located_in",
+      "confidence": "extracted"
+    },
+    {
+      "source": "agroecological practices",
+      "target": "Kef-Siliana",
+      "type": "located_in",
+      "confidence": "extracted"
+    },
+    {
       "source": "agroecological practices",
       "target": "ICARDA",
+      "type": "collaborates_with",
+      "confidence": "extracted"
+    },
+    {
+      "source": "EncontrAR Platform",
+      "target": "smallholder farmers",
+      "type": "targets",
+      "confidence": "inferred"
+    },
+    {
+      "source": "disease resistance screening",
+      "target": "okra",
+      "type": "uses",
+      "confidence": "extracted"
+    },
+    {
+      "source": "begomovirus",
+      "target": "okra",
+      "type": "targets",
+      "confidence": "extracted"
+    },
+    {
+      "source": "World Vegetable Center",
+      "target": "disease resistance screening",
+      "type": "uses",
+      "confidence": "extracted"
+    },
+    {
+      "source": "LCAS-APT",
+      "target": "smallholder farmers",
+      "type": "targets",
+      "confidence": "extracted"
+    },
+    {
+      "source": "AADGG-Dairy app",
+      "target": "smallholder farmers",
+      "type": "targets",
+      "confidence": "extracted"
+    },
+    {
+      "source": "yellow jacaranda",
+      "target": "banana",
+      "type": "targets",
+      "confidence": "extracted"
+    },
+    {
+      "source": "business incubation",
+      "target": "agroecological practices",
+      "type": "uses",
+      "confidence": "extracted"
+    },
+    {
+      "source": "digital twin",
+      "target": "Limpopo River Basin",
+      "type": "located_in",
+      "confidence": "extracted"
+    },
+    {
+      "source": "Tumaini app",
+      "target": "banana",
+      "type": "targets",
+      "confidence": "extracted"
+    },
+    {
+      "source": "circular economy",
+      "target": "SENA",
+      "type": "collaborates_with",
+      "confidence": "extracted"
+    },
+    {
+      "source": "banana xanthomonas wilt",
+      "target": "banana",
+      "type": "targets",
+      "confidence": "extracted"
+    },
+    {
+      "source": "agroecological practices",
+      "target": "CSHEP",
       "type": "collaborates_with",
       "confidence": "extracted"
     },
@@ -1801,9 +4363,39 @@
       "confidence": "extracted"
     },
     {
+      "source": "diet quality assessment",
+      "target": "ReDD index",
+      "type": "part_of",
+      "confidence": "extracted"
+    },
+    {
+      "source": "extension agents",
+      "target": "AADGG-Dairy app",
+      "type": "uses",
+      "confidence": "extracted"
+    },
+    {
+      "source": "RIICE",
+      "target": "satellite remote sensing",
+      "type": "uses",
+      "confidence": "extracted"
+    },
+    {
+      "source": "RIICE",
+      "target": "rice",
+      "type": "produces",
+      "confidence": "extracted"
+    },
+    {
       "source": "IRRI",
       "target": "Kenya",
       "type": "collaborates_with",
+      "confidence": "extracted"
+    },
+    {
+      "source": "milk collection centers",
+      "target": "Uganda",
+      "type": "located_in",
       "confidence": "extracted"
     },
     {
@@ -1813,8 +4405,44 @@
       "confidence": "extracted"
     },
     {
+      "source": "agroforestry",
+      "target": "cacao",
+      "type": "uses",
+      "confidence": "extracted"
+    },
+    {
+      "source": "PRISM",
+      "target": "satellite remote sensing",
+      "type": "uses",
+      "confidence": "extracted"
+    },
+    {
+      "source": "circular bioeconomy",
+      "target": "India",
+      "type": "located_in",
+      "confidence": "extracted"
+    },
+    {
+      "source": "monitoring reporting verification",
+      "target": "Colombia",
+      "type": "addresses",
+      "confidence": "extracted"
+    },
+    {
       "source": "agroecological practices",
       "target": "Kenya",
+      "type": "located_in",
+      "confidence": "extracted"
+    },
+    {
+      "source": "World Vegetable Center",
+      "target": "Tanzania",
+      "type": "located_in",
+      "confidence": "extracted"
+    },
+    {
+      "source": "rice",
+      "target": "Mekong River Delta",
       "type": "located_in",
       "confidence": "extracted"
     },
@@ -1825,9 +4453,69 @@
       "confidence": "inferred"
     },
     {
+      "source": "mechanized direct seeding",
+      "target": "greenhouse gas emissions",
+      "type": "addresses",
+      "confidence": "extracted"
+    },
+    {
+      "source": "Ministry of Agriculture and Rural Development",
+      "target": "IRRI",
+      "type": "collaborates_with",
+      "confidence": "extracted"
+    },
+    {
+      "source": "APFORGEN",
+      "target": "CGIAR",
+      "type": "collaborates_with",
+      "confidence": "inferred"
+    },
+    {
+      "source": "prime editing",
+      "target": "potato virus Y",
+      "type": "targets",
+      "confidence": "extracted"
+    },
+    {
+      "source": "International Potato Center",
+      "target": "prime editing",
+      "type": "uses",
+      "confidence": "extracted"
+    },
+    {
+      "source": "ISAT Climate Information Services",
+      "target": "smallholder farmers",
+      "type": "targets",
+      "confidence": "extracted"
+    },
+    {
+      "source": "ICRISAT",
+      "target": "MSOIL",
+      "type": "produces",
+      "confidence": "extracted"
+    },
+    {
+      "source": "digital soil mapping",
+      "target": "MSOIL",
+      "type": "part_of",
+      "confidence": "extracted"
+    },
+    {
+      "source": "Simcast",
+      "target": "late blight",
+      "type": "addresses",
+      "confidence": "extracted"
+    },
+    {
       "source": "integrated pest management",
       "target": "fall armyworm",
       "type": "targets",
+      "confidence": "extracted"
+    },
+    {
+      "source": "EcoFarm App",
+      "target": "artificial intelligence",
+      "type": "uses",
       "confidence": "extracted"
     },
     {
@@ -1837,9 +4525,75 @@
       "confidence": "inferred"
     },
     {
+      "source": "Rice Crop Manager Advisory Service",
+      "target": "human-centered design",
+      "type": "uses",
+      "confidence": "extracted"
+    },
+    {
+      "source": "Philippine Rice Research Institute",
+      "target": "International Rice Research Institute",
+      "type": "collaborates_with",
+      "confidence": "extracted"
+    },
+    {
+      "source": "extension workers",
+      "target": "Layanan Konsultasi Padi",
+      "type": "uses",
+      "confidence": "extracted"
+    },
+    {
+      "source": "Ministry of Agriculture",
+      "target": "Indonesia",
+      "type": "located_in",
+      "confidence": "extracted"
+    },
+    {
+      "source": "pro-WEAI",
+      "target": "women's empowerment",
+      "type": "addresses",
+      "confidence": "extracted"
+    },
+    {
+      "source": "AgWISE",
+      "target": "water management",
+      "type": "addresses",
+      "confidence": "extracted"
+    },
+    {
+      "source": "agroecological transition",
+      "target": "youth",
+      "type": "targets",
+      "confidence": "extracted"
+    },
+    {
+      "source": "rice",
+      "target": "Indonesia",
+      "type": "located_in",
+      "confidence": "extracted"
+    },
+    {
       "source": "climate services",
       "target": "participatory research",
       "type": "uses",
+      "confidence": "extracted"
+    },
+    {
+      "source": "climate services",
+      "target": "Guatemala",
+      "type": "located_in",
+      "confidence": "extracted"
+    },
+    {
+      "source": "organic farming",
+      "target": "moniliasis",
+      "type": "addresses",
+      "confidence": "extracted"
+    },
+    {
+      "source": "cacao",
+      "target": "Peru",
+      "type": "located_in",
       "confidence": "extracted"
     },
     {
@@ -1849,9 +4603,81 @@
       "confidence": "inferred"
     },
     {
+      "source": "maize",
+      "target": "Guatemala",
+      "type": "located_in",
+      "confidence": "extracted"
+    },
+    {
+      "source": "integrated pest management",
+      "target": "yield improvement",
+      "type": "produces",
+      "confidence": "extracted"
+    },
+    {
+      "source": "Makueni",
+      "target": "Kenya",
+      "type": "located_in",
+      "confidence": "extracted"
+    },
+    {
+      "source": "Mekong Farm App",
+      "target": "Cambodia",
+      "type": "located_in",
+      "confidence": "extracted"
+    },
+    {
+      "source": "CIMMYT",
+      "target": "Ingredion Mexico",
+      "type": "collaborates_with",
+      "confidence": "extracted"
+    },
+    {
+      "source": "artificial intelligence",
+      "target": "Farm Radio International",
+      "type": "uses",
+      "confidence": "extracted"
+    },
+    {
+      "source": "PigSmart",
+      "target": "smallholder farmers",
+      "type": "targets",
+      "confidence": "extracted"
+    },
+    {
+      "source": "PigSmart",
+      "target": "Uganda",
+      "type": "located_in",
+      "confidence": "extracted"
+    },
+    {
+      "source": "business incubation",
+      "target": "agripreneurs",
+      "type": "targets",
+      "confidence": "extracted"
+    },
+    {
       "source": "participatory rangeland management",
       "target": "rangeland restoration",
       "type": "produces",
+      "confidence": "extracted"
+    },
+    {
+      "source": "IRRI",
+      "target": "National Seed Research and Training Centre",
+      "type": "collaborates_with",
+      "confidence": "extracted"
+    },
+    {
+      "source": "mechanization service providers",
+      "target": "two-wheel tractor",
+      "type": "uses",
+      "confidence": "extracted"
+    },
+    {
+      "source": "two-wheel tractor",
+      "target": "maize sheller",
+      "type": "uses",
       "confidence": "extracted"
     },
     {
@@ -1861,9 +4687,39 @@
       "confidence": "extracted"
     },
     {
+      "source": "IFPRI",
+      "target": "computable general equilibrium modeling",
+      "type": "uses",
+      "confidence": "extracted"
+    },
+    {
+      "source": "participatory rangeland management",
+      "target": "Baringo County",
+      "type": "located_in",
+      "confidence": "extracted"
+    },
+    {
+      "source": "participatory rangeland management",
+      "target": "Wajir County",
+      "type": "located_in",
+      "confidence": "extracted"
+    },
+    {
+      "source": "co-design",
+      "target": "Dolo Ado",
+      "type": "located_in",
+      "confidence": "extracted"
+    },
+    {
       "source": "climate-smart agriculture",
       "target": "Sub-Saharan Africa",
       "type": "located_in",
+      "confidence": "extracted"
+    },
+    {
+      "source": "International Potato Center",
+      "target": "International Rice Research Institute",
+      "type": "collaborates_with",
       "confidence": "extracted"
     },
     {
@@ -1873,9 +4729,99 @@
       "confidence": "extracted"
     },
     {
+      "source": "market-responsive breeding",
+      "target": "banana",
+      "type": "targets",
+      "confidence": "extracted"
+    },
+    {
       "source": "banana",
       "target": "food security",
       "type": "addresses",
+      "confidence": "extracted"
+    },
+    {
+      "source": "ISABU",
+      "target": "Burundi",
+      "type": "located_in",
+      "confidence": "extracted"
+    },
+    {
+      "source": "Alliance of Bioversity and CIAT",
+      "target": "KALRO",
+      "type": "collaborates_with",
+      "confidence": "extracted"
+    },
+    {
+      "source": "beans",
+      "target": "food security",
+      "type": "addresses",
+      "confidence": "extracted"
+    },
+    {
+      "source": "ecosystem restoration",
+      "target": "Bundelkhand",
+      "type": "located_in",
+      "confidence": "extracted"
+    },
+    {
+      "source": "sustainable livestock practices",
+      "target": "Olancho",
+      "type": "located_in",
+      "confidence": "extracted"
+    },
+    {
+      "source": "Colombia",
+      "target": "power probe method",
+      "type": "uses",
+      "confidence": "extracted"
+    },
+    {
+      "source": "maize",
+      "target": "Laos",
+      "type": "located_in",
+      "confidence": "extracted"
+    },
+    {
+      "source": "PRRS virus",
+      "target": "smallholder farmers",
+      "type": "targets",
+      "confidence": "extracted"
+    },
+    {
+      "source": "Enterococcus",
+      "target": "antimicrobial resistance",
+      "type": "related_to",
+      "confidence": "extracted"
+    },
+    {
+      "source": "sustainable livestock practices",
+      "target": "Vietnam",
+      "type": "located_in",
+      "confidence": "extracted"
+    },
+    {
+      "source": "digital twin",
+      "target": "Ethiopia",
+      "type": "located_in",
+      "confidence": "extracted"
+    },
+    {
+      "source": "International Potato Center",
+      "target": "machine learning modeling",
+      "type": "uses",
+      "confidence": "extracted"
+    },
+    {
+      "source": "machine learning modeling",
+      "target": "ecosystem restoration",
+      "type": "addresses",
+      "confidence": "extracted"
+    },
+    {
+      "source": "multifunctional landscapes",
+      "target": "Mbire District",
+      "type": "located_in",
       "confidence": "extracted"
     },
     {
@@ -1885,10 +4831,88 @@
       "confidence": "extracted"
     },
     {
+      "source": "smallholder farmers",
+      "target": "Rwanda",
+      "type": "located_in",
+      "confidence": "extracted"
+    },
+    {
+      "source": "quantitative trait locus mapping",
+      "target": "wheat blast",
+      "type": "targets",
+      "confidence": "extracted"
+    },
+    {
+      "source": "Aegilops tauschii",
+      "target": "disease resistance breeding",
+      "type": "produces",
+      "confidence": "extracted"
+    },
+    {
+      "source": "wheat blast",
+      "target": "Bolivia",
+      "type": "located_in",
+      "confidence": "extracted"
+    },
+    {
+      "source": "wheat blast",
+      "target": "Bangladesh",
+      "type": "located_in",
+      "confidence": "extracted"
+    },
+    {
+      "source": "machine learning modeling",
+      "target": "early warning systems",
+      "type": "uses",
+      "confidence": "extracted"
+    },
+    {
+      "source": "sustainable land management",
+      "target": "Ethiopia",
+      "type": "located_in",
+      "confidence": "extracted"
+    },
+    {
+      "source": "randomized controlled trial",
+      "target": "sustainable land management",
+      "type": "uses",
+      "confidence": "extracted"
+    },
+    {
       "source": "capacity building",
       "target": "smallholder farmers",
       "type": "targets",
       "confidence": "inferred"
+    },
+    {
+      "source": "Morocco",
+      "target": "MENA region",
+      "type": "located_in",
+      "confidence": "extracted"
+    },
+    {
+      "source": "Sudanese Armed Forces",
+      "target": "Sudan",
+      "type": "located_in",
+      "confidence": "extracted"
+    },
+    {
+      "source": "World Vision Somalia",
+      "target": "Baidoa",
+      "type": "located_in",
+      "confidence": "extracted"
+    },
+    {
+      "source": "IFPRI",
+      "target": "USAID",
+      "type": "collaborates_with",
+      "confidence": "extracted"
+    },
+    {
+      "source": "varietal adoption",
+      "target": "smallholder farmers",
+      "type": "targets",
+      "confidence": "extracted"
     },
     {
       "source": "maize",
@@ -1900,6 +4924,12 @@
       "source": "Kenya",
       "target": "drought tolerance",
       "type": "uses",
+      "confidence": "extracted"
+    },
+    {
+      "source": "CIMMYT",
+      "target": "IFPRI",
+      "type": "collaborates_with",
       "confidence": "extracted"
     },
     {
@@ -1933,9 +4963,51 @@
       "confidence": "extracted"
     },
     {
+      "source": "AgriLLM",
+      "target": "smallholder farmer",
+      "type": "targets",
+      "confidence": "extracted"
+    },
+    {
+      "source": "AgriLLM",
+      "target": "extension agent",
+      "type": "targets",
+      "confidence": "extracted"
+    },
+    {
+      "source": "CGIAR",
+      "target": "AgriLLM",
+      "type": "produces",
+      "confidence": "extracted"
+    },
+    {
+      "source": "Open Data Kit",
+      "target": "TerminAg",
+      "type": "uses",
+      "confidence": "extracted"
+    },
+    {
       "source": "IWMI",
       "target": "WorldFish",
       "type": "collaborates_with",
+      "confidence": "extracted"
+    },
+    {
+      "source": "diet quality assessment",
+      "target": "Global Diet Quality Score",
+      "type": "uses",
+      "confidence": "extracted"
+    },
+    {
+      "source": "IFPRI",
+      "target": "CGIAR",
+      "type": "collaborates_with",
+      "confidence": "extracted"
+    },
+    {
+      "source": "CIAT",
+      "target": "Urochloa",
+      "type": "produces",
       "confidence": "extracted"
     },
     {
@@ -1945,9 +5017,45 @@
       "confidence": "extracted"
     },
     {
+      "source": "sustainable livestock practices",
+      "target": "Honduras",
+      "type": "located_in",
+      "confidence": "extracted"
+    },
+    {
+      "source": "Heifer International",
+      "target": "sustainable livestock practices",
+      "type": "uses",
+      "confidence": "extracted"
+    },
+    {
       "source": "WorldFish",
       "target": "IWMI",
       "type": "collaborates_with",
+      "confidence": "extracted"
+    },
+    {
+      "source": "multistakeholder platforms",
+      "target": "Cambodia",
+      "type": "located_in",
+      "confidence": "extracted"
+    },
+    {
+      "source": "food environment analysis",
+      "target": "Tanzania",
+      "type": "located_in",
+      "confidence": "extracted"
+    },
+    {
+      "source": "CIMMYT",
+      "target": "Zimbabwe",
+      "type": "located_in",
+      "confidence": "extracted"
+    },
+    {
+      "source": "agroecological transition",
+      "target": "Zimbabwe",
+      "type": "located_in",
       "confidence": "extracted"
     },
     {
@@ -1957,9 +5065,45 @@
       "confidence": "inferred"
     },
     {
+      "source": "policy assessment",
+      "target": "Vietnam",
+      "type": "located_in",
+      "confidence": "extracted"
+    },
+    {
+      "source": "digital transformation",
+      "target": "Colombia",
+      "type": "located_in",
+      "confidence": "extracted"
+    },
+    {
+      "source": "policy coherence",
+      "target": "food security",
+      "type": "addresses",
+      "confidence": "extracted"
+    },
+    {
+      "source": "IFPRI",
+      "target": "market monitoring",
+      "type": "uses",
+      "confidence": "extracted"
+    },
+    {
       "source": "market monitoring",
       "target": "maize",
       "type": "targets",
+      "confidence": "extracted"
+    },
+    {
+      "source": "Peru",
+      "target": "agroecological practices",
+      "type": "uses",
+      "confidence": "extracted"
+    },
+    {
+      "source": "cacao",
+      "target": "agroecological practices",
+      "type": "uses",
       "confidence": "extracted"
     },
     {
@@ -1981,8 +5125,26 @@
       "confidence": "inferred"
     },
     {
+      "source": "landscape restoration",
+      "target": "policy coherence",
+      "type": "addresses",
+      "confidence": "extracted"
+    },
+    {
+      "source": "ecosystem restoration",
+      "target": "Uzbekistan",
+      "type": "located_in",
+      "confidence": "extracted"
+    },
+    {
       "source": "rice",
       "target": "water productivity",
+      "type": "uses",
+      "confidence": "extracted"
+    },
+    {
+      "source": "CGIAR",
+      "target": "scaling readiness",
       "type": "uses",
       "confidence": "extracted"
     },
@@ -1993,9 +5155,21 @@
       "confidence": "extracted"
     },
     {
+      "source": "digital agriculture",
+      "target": "gender empowerment",
+      "type": "targets",
+      "confidence": "extracted"
+    },
+    {
       "source": "social protection",
       "target": "climate adaptation",
       "type": "addresses",
+      "confidence": "extracted"
+    },
+    {
+      "source": "pro-WEAI",
+      "target": "women's empowerment",
+      "type": "uses",
       "confidence": "extracted"
     },
     {
@@ -2011,6 +5185,12 @@
       "confidence": "extracted"
     },
     {
+      "source": "varietal adoption",
+      "target": "food security",
+      "type": "addresses",
+      "confidence": "extracted"
+    },
+    {
       "source": "climate-smart agriculture",
       "target": "crop diversification",
       "type": "uses",
@@ -2020,6 +5200,18 @@
       "source": "biofortification",
       "target": "rice",
       "type": "targets",
+      "confidence": "extracted"
+    },
+    {
+      "source": "seed systems",
+      "target": "varietal adoption",
+      "type": "related_to",
+      "confidence": "extracted"
+    },
+    {
+      "source": "nitrogen use efficiency",
+      "target": "wheat",
+      "type": "related_to",
       "confidence": "extracted"
     },
     {
@@ -2038,6 +5230,12 @@
       "source": "genome-wide association study",
       "target": "maize",
       "type": "uses",
+      "confidence": "extracted"
+    },
+    {
+      "source": "solar-powered irrigation",
+      "target": "smallholder farmer",
+      "type": "targets",
       "confidence": "extracted"
     },
     {
@@ -2065,9 +5263,27 @@
       "confidence": "extracted"
     },
     {
+      "source": "climate-smart agriculture",
+      "target": "solar-powered irrigation",
+      "type": "uses",
+      "confidence": "inferred"
+    },
+    {
       "source": "genomic selection",
       "target": "genome-wide association study",
       "type": "uses",
+      "confidence": "extracted"
+    },
+    {
+      "source": "quantitative trait loci mapping",
+      "target": "marker-assisted selection",
+      "type": "produces",
+      "confidence": "inferred"
+    },
+    {
+      "source": "heat stress tolerance",
+      "target": "wheat",
+      "type": "targets",
       "confidence": "extracted"
     },
     {
@@ -2083,6 +5299,12 @@
       "confidence": "extracted"
     },
     {
+      "source": "Aegilops tauschii",
+      "target": "wheat",
+      "type": "related_to",
+      "confidence": "extracted"
+    },
+    {
       "source": "drought tolerance",
       "target": "smallholder farmer",
       "type": "targets",
@@ -2095,9 +5317,33 @@
       "confidence": "extracted"
     },
     {
+      "source": "stress tolerance",
+      "target": "climate adaptation",
+      "type": "related_to",
+      "confidence": "inferred"
+    },
+    {
+      "source": "breeding program costing",
+      "target": "climate resilience",
+      "type": "targets",
+      "confidence": "extracted"
+    },
+    {
+      "source": "business model development",
+      "target": "smallholder farmers",
+      "type": "targets",
+      "confidence": "inferred"
+    },
+    {
       "source": "conservation agriculture",
       "target": "water productivity",
       "type": "produces",
+      "confidence": "extracted"
+    },
+    {
+      "source": "wheat",
+      "target": "Morocco",
+      "type": "located_in",
       "confidence": "extracted"
     },
     {
@@ -2110,6 +5356,36 @@
       "source": "circular bioeconomy",
       "target": "climate resilience",
       "type": "targets",
+      "confidence": "extracted"
+    },
+    {
+      "source": "soybean",
+      "target": "value chain development",
+      "type": "part_of",
+      "confidence": "extracted"
+    },
+    {
+      "source": "participatory approach",
+      "target": "value chain stakeholders",
+      "type": "uses",
+      "confidence": "extracted"
+    },
+    {
+      "source": "genetic gain",
+      "target": "marker-assisted selection",
+      "type": "uses",
+      "confidence": "inferred"
+    },
+    {
+      "source": "zoonotic disease surveillance",
+      "target": "one health approach",
+      "type": "uses",
+      "confidence": "extracted"
+    },
+    {
+      "source": "soil health assessment",
+      "target": "climate resilience",
+      "type": "addresses",
       "confidence": "extracted"
     },
     {
@@ -2209,6 +5485,18 @@
       "confidence": "extracted"
     },
     {
+      "source": "maize",
+      "target": "Rwanda",
+      "type": "located_in",
+      "confidence": "extracted"
+    },
+    {
+      "source": "one health approach",
+      "target": "antimicrobial resistance",
+      "type": "addresses",
+      "confidence": "extracted"
+    },
+    {
       "source": "ILRI",
       "target": "one health approach",
       "type": "uses",
@@ -2221,9 +5509,39 @@
       "confidence": "extracted"
     },
     {
+      "source": "participatory methods",
+      "target": "gender-based violence",
+      "type": "uses",
+      "confidence": "extracted"
+    },
+    {
+      "source": "biosecurity",
+      "target": "antimicrobial resistance",
+      "type": "addresses",
+      "confidence": "inferred"
+    },
+    {
+      "source": "IWMI",
+      "target": "IFPRI",
+      "type": "collaborates_with",
+      "confidence": "extracted"
+    },
+    {
       "source": "climate-smart agriculture",
       "target": "smallholder farmers",
       "type": "targets",
+      "confidence": "extracted"
+    },
+    {
+      "source": "ILRI",
+      "target": "Baringo County",
+      "type": "collaborates_with",
+      "confidence": "extracted"
+    },
+    {
+      "source": "ICRISAT",
+      "target": "smallholder farmers",
+      "type": "produces",
       "confidence": "extracted"
     },
     {
@@ -2269,6 +5587,12 @@
       "confidence": "extracted"
     },
     {
+      "source": "experiential learning",
+      "target": "groundwater management",
+      "type": "addresses",
+      "confidence": "extracted"
+    },
+    {
       "source": "agroecology",
       "target": "climate resilience",
       "type": "addresses",
@@ -2281,9 +5605,51 @@
       "confidence": "extracted"
     },
     {
+      "source": "water productivity",
+      "target": "water accounting",
+      "type": "part_of",
+      "confidence": "extracted"
+    },
+    {
+      "source": "food security",
+      "target": "biodiversity conservation",
+      "type": "related_to",
+      "confidence": "extracted"
+    },
+    {
+      "source": "CGIAR",
+      "target": "Zimbabwe",
+      "type": "located_in",
+      "confidence": "extracted"
+    },
+    {
       "source": "IRRI",
       "target": "smallholder farmers",
       "type": "collaborates_with",
+      "confidence": "extracted"
+    },
+    {
+      "source": "ILRI",
+      "target": "IFPRI",
+      "type": "collaborates_with",
+      "confidence": "extracted"
+    },
+    {
+      "source": "capacity building",
+      "target": "evidence-based policy",
+      "type": "addresses",
+      "confidence": "inferred"
+    },
+    {
+      "source": "gender-responsive approaches",
+      "target": "women farmers",
+      "type": "targets",
+      "confidence": "extracted"
+    },
+    {
+      "source": "ILRI",
+      "target": "gender-responsive approaches",
+      "type": "produces",
       "confidence": "extracted"
     },
     {
@@ -2296,6 +5662,12 @@
       "source": "CGIAR",
       "target": "capacity building",
       "type": "produces",
+      "confidence": "extracted"
+    },
+    {
+      "source": "Rwanda",
+      "target": "site-specific fertilizer recommendations",
+      "type": "targets",
       "confidence": "extracted"
     },
     {
@@ -2317,6 +5689,12 @@
       "confidence": "extracted"
     },
     {
+      "source": "early warning systems",
+      "target": "Rwanda",
+      "type": "located_in",
+      "confidence": "extracted"
+    },
+    {
       "source": "climate resilience",
       "target": "Ethiopia",
       "type": "targets",
@@ -2326,6 +5704,12 @@
       "source": "plant breeders",
       "target": "market intelligence",
       "type": "uses",
+      "confidence": "extracted"
+    },
+    {
+      "source": "CGIAR",
+      "target": "International Institute of Tropical Agriculture",
+      "type": "collaborates_with",
       "confidence": "extracted"
     },
     {
@@ -2341,6 +5725,18 @@
       "confidence": "extracted"
     },
     {
+      "source": "policy coherence",
+      "target": "multifunctional landscapes",
+      "type": "addresses",
+      "confidence": "extracted"
+    },
+    {
+      "source": "rice",
+      "target": "mechanized direct seeding",
+      "type": "part_of",
+      "confidence": "extracted"
+    },
+    {
       "source": "circular bioeconomy",
       "target": "agroecological transition",
       "type": "addresses",
@@ -2353,15 +5749,33 @@
       "confidence": "extracted"
     },
     {
+      "source": "Wajir County",
+      "target": "Kenya",
+      "type": "located_in",
+      "confidence": "extracted"
+    },
+    {
       "source": "capacity building",
       "target": "agroecology",
       "type": "uses",
       "confidence": "extracted"
     },
     {
+      "source": "International Potato Center",
+      "target": "Peru",
+      "type": "located_in",
+      "confidence": "extracted"
+    },
+    {
       "source": "AfricaRice",
       "target": "West Africa",
       "type": "located_in",
+      "confidence": "extracted"
+    },
+    {
+      "source": "IFPRI",
+      "target": "capacity building",
+      "type": "uses",
       "confidence": "extracted"
     },
     {
@@ -2395,6 +5809,30 @@
       "confidence": "extracted"
     },
     {
+      "source": "India",
+      "target": "circular economy",
+      "type": "uses",
+      "confidence": "extracted"
+    },
+    {
+      "source": "circular economy",
+      "target": "regenerative agriculture",
+      "type": "uses",
+      "confidence": "extracted"
+    },
+    {
+      "source": "CGIAR",
+      "target": "Peru",
+      "type": "collaborates_with",
+      "confidence": "extracted"
+    },
+    {
+      "source": "Kenya",
+      "target": "gender-responsive programming",
+      "type": "uses",
+      "confidence": "extracted"
+    },
+    {
       "source": "rice",
       "target": "smallholder farmers",
       "type": "supports",
@@ -2407,15 +5845,39 @@
       "confidence": "extracted"
     },
     {
+      "source": "participatory learning",
+      "target": "antimicrobial stewardship",
+      "type": "addresses",
+      "confidence": "extracted"
+    },
+    {
       "source": "tilapia",
       "target": "Bangladesh",
       "type": "located_in",
       "confidence": "extracted"
     },
     {
+      "source": "climate services",
+      "target": "earth observation",
+      "type": "uses",
+      "confidence": "extracted"
+    },
+    {
       "source": "Kenya",
       "target": "participatory rangeland management",
       "type": "implements",
+      "confidence": "extracted"
+    },
+    {
+      "source": "gender mainstreaming",
+      "target": "climate adaptation",
+      "type": "addresses",
+      "confidence": "extracted"
+    },
+    {
+      "source": "living lab",
+      "target": "climate-smart agriculture",
+      "type": "promotes",
       "confidence": "extracted"
     },
     {
@@ -2434,6 +5896,42 @@
       "source": "rice",
       "target": "alternate wetting and drying",
       "type": "uses",
+      "confidence": "extracted"
+    },
+    {
+      "source": "rice",
+      "target": "Philippines",
+      "type": "located_in",
+      "confidence": "extracted"
+    },
+    {
+      "source": "AgWISE",
+      "target": "Ethiopia",
+      "type": "located_in",
+      "confidence": "extracted"
+    },
+    {
+      "source": "AgWISE",
+      "target": "Kenya",
+      "type": "located_in",
+      "confidence": "extracted"
+    },
+    {
+      "source": "digital transformation",
+      "target": "CGIAR",
+      "type": "part_of",
+      "confidence": "extracted"
+    },
+    {
+      "source": "circular economy",
+      "target": "rice",
+      "type": "targets",
+      "confidence": "extracted"
+    },
+    {
+      "source": "International Rice Research Institute",
+      "target": "Vietnam",
+      "type": "collaborates_with",
       "confidence": "extracted"
     },
     {
@@ -2485,6 +5983,18 @@
       "confidence": "extracted"
     },
     {
+      "source": "policy integration",
+      "target": "scaling pathways",
+      "type": "produces",
+      "confidence": "inferred"
+    },
+    {
+      "source": "participatory methods",
+      "target": "smallholder farmers",
+      "type": "targets",
+      "confidence": "extracted"
+    },
+    {
       "source": "IRRI",
       "target": "scaling pathways",
       "type": "uses",
@@ -2515,9 +6025,39 @@
       "confidence": "extracted"
     },
     {
+      "source": "innovation scaling",
+      "target": "CGIAR",
+      "type": "targets",
+      "confidence": "extracted"
+    },
+    {
+      "source": "conservation agriculture",
+      "target": "soil health assessment",
+      "type": "addresses",
+      "confidence": "inferred"
+    },
+    {
+      "source": "CIAT",
+      "target": "CGIAR",
+      "type": "part_of",
+      "confidence": "extracted"
+    },
+    {
       "source": "alternate wetting and drying",
       "target": "rice",
       "type": "targets",
+      "confidence": "extracted"
+    },
+    {
+      "source": "International Potato Center",
+      "target": "CGIAR",
+      "type": "part_of",
+      "confidence": "inferred"
+    },
+    {
+      "source": "climate risk assessment",
+      "target": "Guatemala",
+      "type": "located_in",
       "confidence": "extracted"
     },
     {
@@ -2527,9 +6067,21 @@
       "confidence": "extracted"
     },
     {
+      "source": "solar irrigation",
+      "target": "food security",
+      "type": "addresses",
+      "confidence": "extracted"
+    },
+    {
       "source": "yam",
       "target": "Nigeria",
       "type": "located_in",
+      "confidence": "extracted"
+    },
+    {
+      "source": "cost-benefit analysis",
+      "target": "agroecology",
+      "type": "uses",
       "confidence": "extracted"
     },
     {
@@ -2551,6 +6103,72 @@
       "confidence": "extracted"
     },
     {
+      "source": "IFPRI",
+      "target": "Ethiopia",
+      "type": "collaborates_with",
+      "confidence": "extracted"
+    },
+    {
+      "source": "ICRISAT",
+      "target": "AfricaRice",
+      "type": "collaborates_with",
+      "confidence": "extracted"
+    },
+    {
+      "source": "climate-smart agriculture",
+      "target": "sustainable land management",
+      "type": "part_of",
+      "confidence": "extracted"
+    },
+    {
+      "source": "participatory research",
+      "target": "women farmers",
+      "type": "targets",
+      "confidence": "extracted"
+    },
+    {
+      "source": "integrated pest management",
+      "target": "biological control",
+      "type": "uses",
+      "confidence": "inferred"
+    },
+    {
+      "source": "agroecology",
+      "target": "youth",
+      "type": "targets",
+      "confidence": "extracted"
+    },
+    {
+      "source": "genetic improvement program",
+      "target": "Bangladesh",
+      "type": "located_in",
+      "confidence": "extracted"
+    },
+    {
+      "source": "climate information services",
+      "target": "women farmers",
+      "type": "targets",
+      "confidence": "extracted"
+    },
+    {
+      "source": "IFPRI",
+      "target": "IRRI",
+      "type": "collaborates_with",
+      "confidence": "extracted"
+    },
+    {
+      "source": "agroecology",
+      "target": "Peru",
+      "type": "located_in",
+      "confidence": "extracted"
+    },
+    {
+      "source": "Alliance of Bioversity and CIAT",
+      "target": "International Institute of Tropical Agriculture",
+      "type": "collaborates_with",
+      "confidence": "extracted"
+    },
+    {
       "source": "IRRI",
       "target": "smallholder farmers",
       "type": "targets",
@@ -2563,7 +6181,43 @@
       "confidence": "extracted"
     },
     {
+      "source": "IRRI",
+      "target": "monitoring reporting verification",
+      "type": "produces",
+      "confidence": "extracted"
+    },
+    {
+      "source": "PigSmart",
+      "target": "extension agents",
+      "type": "targets",
+      "confidence": "extracted"
+    },
+    {
+      "source": "IWMI",
+      "target": "Sudan",
+      "type": "located_in",
+      "confidence": "extracted"
+    },
+    {
+      "source": "machine learning forecasting",
+      "target": "satellite remote sensing",
+      "type": "uses",
+      "confidence": "extracted"
+    },
+    {
+      "source": "irrigation demand forecasting",
+      "target": "water managers",
+      "type": "targets",
+      "confidence": "extracted"
+    },
+    {
       "source": "food systems transformation",
+      "target": "Nigeria",
+      "type": "located_in",
+      "confidence": "extracted"
+    },
+    {
+      "source": "International Institute of Tropical Agriculture",
       "target": "Nigeria",
       "type": "located_in",
       "confidence": "extracted"
@@ -2611,9 +6265,33 @@
       "confidence": "inferred"
     },
     {
+      "source": "market price monitoring",
+      "target": "Sudan",
+      "type": "located_in",
+      "confidence": "extracted"
+    },
+    {
+      "source": "ASARECA",
+      "target": "IFPRI",
+      "type": "collaborates_with",
+      "confidence": "extracted"
+    },
+    {
+      "source": "ICRISAT",
+      "target": "Zimbabwe",
+      "type": "collaborates_with",
+      "confidence": "extracted"
+    },
+    {
       "source": "climate-smart agriculture",
       "target": "food security",
       "type": "addresses",
+      "confidence": "inferred"
+    },
+    {
+      "source": "IRRI",
+      "target": "Philippines",
+      "type": "located_in",
       "confidence": "inferred"
     },
     {
@@ -2623,9 +6301,27 @@
       "confidence": "extracted"
     },
     {
+      "source": "gender-responsive agriculture",
+      "target": "women farmers",
+      "type": "targets",
+      "confidence": "extracted"
+    },
+    {
+      "source": "nitrogen use efficiency",
+      "target": "precision agriculture",
+      "type": "related_to",
+      "confidence": "extracted"
+    },
+    {
       "source": "IRRI",
       "target": "Vietnam",
       "type": "collaborates_with",
+      "confidence": "extracted"
+    },
+    {
+      "source": "CS-MAP",
+      "target": "participatory mapping",
+      "type": "uses",
       "confidence": "extracted"
     },
     {
@@ -2641,9 +6337,27 @@
       "confidence": "extracted"
     },
     {
+      "source": "locally-led climate adaptation",
+      "target": "multi-stakeholder engagement",
+      "type": "uses",
+      "confidence": "extracted"
+    },
+    {
+      "source": "Philippines",
+      "target": "CS-MAP",
+      "type": "uses",
+      "confidence": "extracted"
+    },
+    {
       "source": "WorldFish",
       "target": "Cambodia",
       "type": "collaborates_with",
+      "confidence": "extracted"
+    },
+    {
+      "source": "tomato",
+      "target": "water-use efficiency",
+      "type": "uses",
       "confidence": "extracted"
     },
     {
@@ -2659,9 +6373,63 @@
       "confidence": "extracted"
     },
     {
+      "source": "aquatic food systems",
+      "target": "nationally determined contributions",
+      "type": "part_of",
+      "confidence": "extracted"
+    },
+    {
+      "source": "IRRI",
+      "target": "digital extension platforms",
+      "type": "produces",
+      "confidence": "extracted"
+    },
+    {
+      "source": "digital extension platforms",
+      "target": "smallholder farmers",
+      "type": "targets",
+      "confidence": "extracted"
+    },
+    {
+      "source": "CIAT",
+      "target": "blended finance",
+      "type": "uses",
+      "confidence": "extracted"
+    },
+    {
+      "source": "multi-stakeholder platforms",
+      "target": "innovation bundling",
+      "type": "uses",
+      "confidence": "extracted"
+    },
+    {
+      "source": "aquatic food systems",
+      "target": "food security",
+      "type": "addresses",
+      "confidence": "inferred"
+    },
+    {
+      "source": "rice",
+      "target": "digital extension platforms",
+      "type": "part_of",
+      "confidence": "extracted"
+    },
+    {
+      "source": "cacao",
+      "target": "blended finance",
+      "type": "related_to",
+      "confidence": "extracted"
+    },
+    {
       "source": "conservation agriculture",
       "target": "climate resilience",
       "type": "addresses",
+      "confidence": "inferred"
+    },
+    {
+      "source": "climate information services",
+      "target": "remote sensing",
+      "type": "uses",
       "confidence": "inferred"
     },
     {
@@ -2695,6 +6463,18 @@
       "confidence": "extracted"
     },
     {
+      "source": "climate-smart agriculture",
+      "target": "Rwanda",
+      "type": "located_in",
+      "confidence": "extracted"
+    },
+    {
+      "source": "human-centered design",
+      "target": "digital transformation",
+      "type": "targets",
+      "confidence": "extracted"
+    },
+    {
       "source": "WorldFish",
       "target": "Kenya",
       "type": "located_in",
@@ -2713,14 +6493,32 @@
       "confidence": "extracted"
     },
     {
+      "source": "conflict-sensitive programming",
+      "target": "climate security",
+      "type": "addresses",
+      "confidence": "extracted"
+    },
+    {
       "source": "Bangladesh",
       "target": "stakeholder engagement",
       "type": "uses",
       "confidence": "extracted"
     },
     {
+      "source": "WorldFish",
+      "target": "genetic improvement program",
+      "type": "produces",
+      "confidence": "extracted"
+    },
+    {
       "source": "IWMI",
       "target": "multi-stakeholder platforms",
+      "type": "uses",
+      "confidence": "extracted"
+    },
+    {
+      "source": "beans",
+      "target": "biofortification",
       "type": "uses",
       "confidence": "extracted"
     },
@@ -2731,15 +6529,69 @@
       "confidence": "extracted"
     },
     {
+      "source": "Morocco",
+      "target": "digital soil mapping",
+      "type": "uses",
+      "confidence": "extracted"
+    },
+    {
       "source": "Cambodia",
       "target": "multi-stakeholder platforms",
       "type": "uses",
       "confidence": "inferred"
     },
     {
+      "source": "ICRISAT",
+      "target": "participatory research",
+      "type": "uses",
+      "confidence": "inferred"
+    },
+    {
+      "source": "intercropping",
+      "target": "maize",
+      "type": "uses",
+      "confidence": "extracted"
+    },
+    {
+      "source": "intercropping",
+      "target": "cowpea",
+      "type": "uses",
+      "confidence": "extracted"
+    },
+    {
+      "source": "intercropping",
+      "target": "Ghana",
+      "type": "located_in",
+      "confidence": "extracted"
+    },
+    {
+      "source": "intercropping",
+      "target": "smallholder farmer",
+      "type": "targets",
+      "confidence": "extracted"
+    },
+    {
       "source": "artificial intelligence",
       "target": "IWMI",
       "type": "located_in",
+      "confidence": "extracted"
+    },
+    {
+      "source": "biofortification",
+      "target": "sweet potato",
+      "type": "uses",
+      "confidence": "extracted"
+    },
+    {
+      "source": "smallholder farmer",
+      "target": "sustainable intensification",
+      "type": "uses",
+      "confidence": "extracted"
+    },
+    {
+      "source": "CIAT",
+      "target": "cryopreservation",
+      "type": "uses",
       "confidence": "extracted"
     },
     {
@@ -2755,6 +6607,12 @@
       "confidence": "inferred"
     },
     {
+      "source": "IFPRI",
+      "target": "CGIAR",
+      "type": "part_of",
+      "confidence": "inferred"
+    },
+    {
       "source": "scaling for impact",
       "target": "CGIAR",
       "type": "uses",
@@ -2764,6 +6622,12 @@
       "source": "ILRI",
       "target": "gender transformative approaches",
       "type": "uses",
+      "confidence": "extracted"
+    },
+    {
+      "source": "IFPRI",
+      "target": "CIMMYT",
+      "type": "collaborates_with",
       "confidence": "extracted"
     },
     {
@@ -2803,6 +6667,12 @@
       "confidence": "extracted"
     },
     {
+      "source": "multi-stakeholder collaboration",
+      "target": "Ghana",
+      "type": "located_in",
+      "confidence": "extracted"
+    },
+    {
       "source": "IRRI",
       "target": "Vietnam",
       "type": "located_in",
@@ -2815,14 +6685,38 @@
       "confidence": "extracted"
     },
     {
+      "source": "innovation networks",
+      "target": "capacity building",
+      "type": "produces",
+      "confidence": "extracted"
+    },
+    {
       "source": "crop diversification",
       "target": "food security",
       "type": "addresses",
       "confidence": "extracted"
     },
     {
+      "source": "climate adaptation",
+      "target": "innovation networks",
+      "type": "uses",
+      "confidence": "extracted"
+    },
+    {
+      "source": "conservation agriculture",
+      "target": "Guatemala",
+      "type": "located_in",
+      "confidence": "extracted"
+    },
+    {
       "source": "climate-smart agriculture",
       "target": "climate change adaptation",
+      "type": "addresses",
+      "confidence": "inferred"
+    },
+    {
+      "source": "school feeding programs",
+      "target": "food security",
       "type": "addresses",
       "confidence": "inferred"
     },
@@ -2833,16 +6727,58 @@
       "confidence": "extracted"
     },
     {
+      "source": "climate-smart agriculture",
+      "target": "climate variability",
+      "type": "addresses",
+      "confidence": "inferred"
+    },
+    {
+      "source": "IFPRI",
+      "target": "stakeholder engagement",
+      "type": "uses",
+      "confidence": "extracted"
+    },
+    {
       "source": "biofortification",
       "target": "wheat",
       "type": "uses",
       "confidence": "extracted"
     },
     {
+      "source": "ILRI",
+      "target": "soil health assessment",
+      "type": "uses",
+      "confidence": "extracted"
+    },
+    {
+      "source": "soil health assessment",
+      "target": "Kenya",
+      "type": "located_in",
+      "confidence": "extracted"
+    },
+    {
+      "source": "solar irrigation",
+      "target": "precision agriculture",
+      "type": "addresses",
+      "confidence": "inferred"
+    },
+    {
       "source": "nutrition-sensitive agriculture",
       "target": "smallholder farmers",
       "type": "targets",
       "confidence": "inferred"
+    },
+    {
+      "source": "solar irrigation",
+      "target": "smallholder farmers",
+      "type": "targets",
+      "confidence": "extracted"
+    },
+    {
+      "source": "extension agents",
+      "target": "solar irrigation",
+      "type": "addresses",
+      "confidence": "extracted"
     },
     {
       "source": "participatory breeding",
@@ -2863,6 +6799,24 @@
       "confidence": "extracted"
     },
     {
+      "source": "Cassava Brown Streak Disease",
+      "target": "cassava",
+      "type": "targets",
+      "confidence": "extracted"
+    },
+    {
+      "source": "International Rice Research Institute",
+      "target": "capacity building",
+      "type": "uses",
+      "confidence": "extracted"
+    },
+    {
+      "source": "genetic improvement program",
+      "target": "smallholder farmer",
+      "type": "targets",
+      "confidence": "extracted"
+    },
+    {
       "source": "integrated farming systems",
       "target": "food security",
       "type": "addresses",
@@ -2875,9 +6829,51 @@
       "confidence": "extracted"
     },
     {
+      "source": "IITA",
+      "target": "ISABU",
+      "type": "collaborates_with",
+      "confidence": "extracted"
+    },
+    {
+      "source": "technology transfer",
+      "target": "smallholder farmer",
+      "type": "targets",
+      "confidence": "extracted"
+    },
+    {
+      "source": "rice-field pond systems",
+      "target": "Cambodia",
+      "type": "located_in",
+      "confidence": "extracted"
+    },
+    {
+      "source": "integrated farming systems",
+      "target": "rice-field pond systems",
+      "type": "uses",
+      "confidence": "extracted"
+    },
+    {
       "source": "multifunctional landscapes",
       "target": "integrated farming systems",
       "type": "uses",
+      "confidence": "extracted"
+    },
+    {
+      "source": "WorldFish",
+      "target": "genetic improvement program",
+      "type": "uses",
+      "confidence": "extracted"
+    },
+    {
+      "source": "gender-responsive programming",
+      "target": "smallholder farmers",
+      "type": "targets",
+      "confidence": "inferred"
+    },
+    {
+      "source": "gender transformative research",
+      "target": "plant breeders",
+      "type": "targets",
       "confidence": "extracted"
     },
     {
@@ -2899,6 +6895,30 @@
       "confidence": "extracted"
     },
     {
+      "source": "climate-resilient agriculture",
+      "target": "Tanzania",
+      "type": "located_in",
+      "confidence": "extracted"
+    },
+    {
+      "source": "USAID",
+      "target": "Tanzania",
+      "type": "collaborates_with",
+      "confidence": "extracted"
+    },
+    {
+      "source": "multi-stakeholder engagement",
+      "target": "capacity building",
+      "type": "uses",
+      "confidence": "inferred"
+    },
+    {
+      "source": "multifunctional landscapes",
+      "target": "Zimbabwe",
+      "type": "located_in",
+      "confidence": "extracted"
+    },
+    {
       "source": "capacity development",
       "target": "CGIAR",
       "type": "targets",
@@ -2911,9 +6931,21 @@
       "confidence": "inferred"
     },
     {
+      "source": "ILRI",
+      "target": "pioneer positive deviance",
+      "type": "uses",
+      "confidence": "extracted"
+    },
+    {
       "source": "climate adaptation",
       "target": "smallholder farmers",
       "type": "targets",
+      "confidence": "extracted"
+    },
+    {
+      "source": "digital data collection",
+      "target": "Open Data Kit",
+      "type": "uses",
       "confidence": "extracted"
     },
     {
@@ -2947,6 +6979,12 @@
       "confidence": "extracted"
     },
     {
+      "source": "soybean",
+      "target": "triadic comparisons of technology options",
+      "type": "uses",
+      "confidence": "extracted"
+    },
+    {
       "source": "human-centered design",
       "target": "participatory variety selection",
       "type": "produces",
@@ -2963,834 +7001,6 @@
       "target": "scaling for impact",
       "type": "uses",
       "confidence": "extracted"
-    },
-    {
-      "source": "maize",
-      "target": "smallholder farmers",
-      "type": "targets",
-      "confidence": "extracted"
-    },
-    {
-      "source": "late blight",
-      "target": "potato",
-      "type": "targets",
-      "confidence": "extracted"
-    },
-    {
-      "source": "climate resilience",
-      "target": "climate-smart agriculture",
-      "type": "related_to",
-      "confidence": "extracted"
-    },
-    {
-      "source": "cassava",
-      "target": "Southeast Asia",
-      "type": "located_in",
-      "confidence": "extracted"
-    },
-    {
-      "source": "rice",
-      "target": "Latin America",
-      "type": "located_in",
-      "confidence": "extracted"
-    },
-    {
-      "source": "climate risk management",
-      "target": "extension agents",
-      "type": "targets",
-      "confidence": "extracted"
-    },
-    {
-      "source": "climate policy integration",
-      "target": "food security",
-      "type": "addresses",
-      "confidence": "extracted"
-    },
-    {
-      "source": "climate information services",
-      "target": "smallholder farmers",
-      "type": "targets",
-      "confidence": "extracted"
-    },
-    {
-      "source": "drought tolerance",
-      "target": "climate adaptation",
-      "type": "addresses",
-      "confidence": "inferred"
-    },
-    {
-      "source": "pig weigh band",
-      "target": "pigs",
-      "type": "targets",
-      "confidence": "extracted"
-    },
-    {
-      "source": "pigs",
-      "target": "Uganda",
-      "type": "located_in",
-      "confidence": "extracted"
-    },
-    {
-      "source": "Mali",
-      "target": "small ruminants",
-      "type": "produces",
-      "confidence": "extracted"
-    },
-    {
-      "source": "Mali",
-      "target": "West Africa",
-      "type": "located_in",
-      "confidence": "inferred"
-    },
-    {
-      "source": "agroecological transition",
-      "target": "participatory approach",
-      "type": "uses",
-      "confidence": "extracted"
-    },
-    {
-      "source": "participatory variety selection",
-      "target": "smallholder farmers",
-      "type": "targets",
-      "confidence": "extracted"
-    },
-    {
-      "source": "one health approach",
-      "target": "Vietnam",
-      "type": "located_in",
-      "confidence": "extracted"
-    },
-    {
-      "source": "climate adaptation",
-      "target": "Sub-Saharan Africa",
-      "type": "located_in",
-      "confidence": "extracted"
-    },
-    {
-      "source": "climate services",
-      "target": "Bangladesh",
-      "type": "located_in",
-      "confidence": "extracted"
-    },
-    {
-      "source": "climate services",
-      "target": "Zambia",
-      "type": "located_in",
-      "confidence": "extracted"
-    },
-    {
-      "source": "smallholder farmers",
-      "target": "pigs",
-      "type": "uses",
-      "confidence": "extracted"
-    },
-    {
-      "source": "CIMMYT",
-      "target": "IWMI",
-      "type": "collaborates_with",
-      "confidence": "extracted"
-    },
-    {
-      "source": "climate adaptation",
-      "target": "Kenya",
-      "type": "located_in",
-      "confidence": "extracted"
-    },
-    {
-      "source": "climate services",
-      "target": "smallholder farmers",
-      "type": "targets",
-      "confidence": "extracted"
-    },
-    {
-      "source": "IRRI",
-      "target": "public-private partnerships",
-      "type": "uses",
-      "confidence": "extracted"
-    },
-    {
-      "source": "alternate wetting and drying",
-      "target": "Cambodia",
-      "type": "located_in",
-      "confidence": "extracted"
-    },
-    {
-      "source": "IITA",
-      "target": "climate-smart agriculture",
-      "type": "uses",
-      "confidence": "extracted"
-    },
-    {
-      "source": "climate information services",
-      "target": "climate risk management",
-      "type": "addresses",
-      "confidence": "inferred"
-    },
-    {
-      "source": "smallholder farmers",
-      "target": "South Asia",
-      "type": "located_in",
-      "confidence": "extracted"
-    },
-    {
-      "source": "climate information services",
-      "target": "Ethiopia",
-      "type": "located_in",
-      "confidence": "extracted"
-    },
-    {
-      "source": "climate-smart agriculture",
-      "target": "smallholder farmer",
-      "type": "targets",
-      "confidence": "extracted"
-    },
-    {
-      "source": "capacity building",
-      "target": "extension agent",
-      "type": "targets",
-      "confidence": "inferred"
-    },
-    {
-      "source": "food system transformation",
-      "target": "Ethiopia",
-      "type": "located_in",
-      "confidence": "extracted"
-    },
-    {
-      "source": "rice",
-      "target": "Cambodia",
-      "type": "located_in",
-      "confidence": "extracted"
-    },
-    {
-      "source": "extension agents",
-      "target": "agroecological practices",
-      "type": "uses",
-      "confidence": "inferred"
-    },
-    {
-      "source": "wheat",
-      "target": "Ethiopia",
-      "type": "located_in",
-      "confidence": "extracted"
-    },
-    {
-      "source": "one health approach",
-      "target": "FAO",
-      "type": "uses",
-      "confidence": "extracted"
-    },
-    {
-      "source": "value chain development",
-      "target": "smallholder farmer",
-      "type": "targets",
-      "confidence": "inferred"
-    },
-    {
-      "source": "climate-smart agriculture",
-      "target": "climate adaptation",
-      "type": "addresses",
-      "confidence": "inferred"
-    },
-    {
-      "source": "one health approach",
-      "target": "Zambia",
-      "type": "located_in",
-      "confidence": "extracted"
-    },
-    {
-      "source": "climate finance",
-      "target": "smallholder farmers",
-      "type": "targets",
-      "confidence": "extracted"
-    },
-    {
-      "source": "public-private partnerships",
-      "target": "climate-smart agriculture",
-      "type": "part_of",
-      "confidence": "extracted"
-    },
-    {
-      "source": "cattle",
-      "target": "Kenya",
-      "type": "located_in",
-      "confidence": "extracted"
-    },
-    {
-      "source": "goats",
-      "target": "Uganda",
-      "type": "located_in",
-      "confidence": "extracted"
-    },
-    {
-      "source": "value chain development",
-      "target": "goats",
-      "type": "targets",
-      "confidence": "extracted"
-    },
-    {
-      "source": "anticipatory action",
-      "target": "climate information services",
-      "type": "uses",
-      "confidence": "extracted"
-    },
-    {
-      "source": "climate adaptation",
-      "target": "food security",
-      "type": "addresses",
-      "confidence": "inferred"
-    },
-    {
-      "source": "nationally determined contributions",
-      "target": "West Africa",
-      "type": "located_in",
-      "confidence": "extracted"
-    },
-    {
-      "source": "climate information services",
-      "target": "early warning systems",
-      "type": "uses",
-      "confidence": "extracted"
-    },
-    {
-      "source": "early warning systems",
-      "target": "West Africa",
-      "type": "located_in",
-      "confidence": "extracted"
-    },
-    {
-      "source": "integrated pest management",
-      "target": "climate-smart agriculture",
-      "type": "part_of",
-      "confidence": "extracted"
-    },
-    {
-      "source": "integrated pest management",
-      "target": "Sub-Saharan Africa",
-      "type": "located_in",
-      "confidence": "extracted"
-    },
-    {
-      "source": "multi-stakeholder platforms",
-      "target": "climate-smart agriculture",
-      "type": "addresses",
-      "confidence": "extracted"
-    },
-    {
-      "source": "training of trainers",
-      "target": "capacity building",
-      "type": "targets",
-      "confidence": "extracted"
-    },
-    {
-      "source": "smallholder farmers",
-      "target": "climate information services",
-      "type": "uses",
-      "confidence": "extracted"
-    },
-    {
-      "source": "scaling pathways",
-      "target": "multi-stakeholder platforms",
-      "type": "uses",
-      "confidence": "extracted"
-    },
-    {
-      "source": "early warning systems",
-      "target": "climate information services",
-      "type": "uses",
-      "confidence": "inferred"
-    },
-    {
-      "source": "alternate wetting and drying",
-      "target": "climate-smart agriculture",
-      "type": "addresses",
-      "confidence": "extracted"
-    },
-    {
-      "source": "plant breeders",
-      "target": "disease resistance breeding",
-      "type": "uses",
-      "confidence": "extracted"
-    },
-    {
-      "source": "climate information services",
-      "target": "smallholder farmer",
-      "type": "targets",
-      "confidence": "extracted"
-    },
-    {
-      "source": "rangeland restoration",
-      "target": "carbon sequestration",
-      "type": "produces",
-      "confidence": "inferred"
-    },
-    {
-      "source": "randomized controlled trial",
-      "target": "women's empowerment",
-      "type": "uses",
-      "confidence": "extracted"
-    },
-    {
-      "source": "maize",
-      "target": "biofortification",
-      "type": "uses",
-      "confidence": "extracted"
-    },
-    {
-      "source": "social protection",
-      "target": "food security",
-      "type": "addresses",
-      "confidence": "inferred"
-    },
-    {
-      "source": "climate information services",
-      "target": "climate adaptation",
-      "type": "supports",
-      "confidence": "extracted"
-    },
-    {
-      "source": "smallholder farmers",
-      "target": "climate-smart agriculture",
-      "type": "targets",
-      "confidence": "extracted"
-    },
-    {
-      "source": "early warning systems",
-      "target": "climate information services",
-      "type": "part_of",
-      "confidence": "extracted"
-    },
-    {
-      "source": "CGIAR",
-      "target": "capacity building",
-      "type": "uses",
-      "confidence": "extracted"
-    },
-    {
-      "source": "FAO",
-      "target": "cryopreservation",
-      "type": "produces",
-      "confidence": "extracted"
-    },
-    {
-      "source": "common bean",
-      "target": "Ethiopia",
-      "type": "located_in",
-      "confidence": "extracted"
-    },
-    {
-      "source": "common bean",
-      "target": "Tanzania",
-      "type": "located_in",
-      "confidence": "extracted"
-    },
-    {
-      "source": "common bean",
-      "target": "Uganda",
-      "type": "located_in",
-      "confidence": "extracted"
-    },
-    {
-      "source": "extension agent",
-      "target": "capacity building",
-      "type": "uses",
-      "confidence": "extracted"
-    },
-    {
-      "source": "value chain development",
-      "target": "food security",
-      "type": "addresses",
-      "confidence": "inferred"
-    },
-    {
-      "source": "smallholder farmers",
-      "target": "climate-smart agriculture",
-      "type": "uses",
-      "confidence": "inferred"
-    },
-    {
-      "source": "capacity development",
-      "target": "CGIAR",
-      "type": "uses",
-      "confidence": "extracted"
-    },
-    {
-      "source": "food security",
-      "target": "climate resilience",
-      "type": "related_to",
-      "confidence": "inferred"
-    },
-    {
-      "source": "early warning systems",
-      "target": "climate-conflict nexus",
-      "type": "addresses",
-      "confidence": "extracted"
-    },
-    {
-      "source": "FAO",
-      "target": "IWMI",
-      "type": "collaborates_with",
-      "confidence": "extracted"
-    },
-    {
-      "source": "value chain analysis",
-      "target": "fish farmers",
-      "type": "targets",
-      "confidence": "extracted"
-    },
-    {
-      "source": "integrated multitrophic aquaculture",
-      "target": "Nigeria",
-      "type": "located_in",
-      "confidence": "extracted"
-    },
-    {
-      "source": "integrated multitrophic aquaculture",
-      "target": "Kenya",
-      "type": "located_in",
-      "confidence": "extracted"
-    },
-    {
-      "source": "capacity building",
-      "target": "Colombia",
-      "type": "located_in",
-      "confidence": "extracted"
-    },
-    {
-      "source": "CIMMYT",
-      "target": "IITA",
-      "type": "collaborates_with",
-      "confidence": "extracted"
-    },
-    {
-      "source": "climate adaptation planning",
-      "target": "climate risk assessment",
-      "type": "addresses",
-      "confidence": "inferred"
-    },
-    {
-      "source": "carbon sequestration",
-      "target": "Kenya",
-      "type": "related_to",
-      "confidence": "extracted"
-    },
-    {
-      "source": "Alliance of Bioversity and CIAT",
-      "target": "Uganda",
-      "type": "located_in",
-      "confidence": "extracted"
-    },
-    {
-      "source": "capacity building",
-      "target": "plant breeders",
-      "type": "targets",
-      "confidence": "inferred"
-    },
-    {
-      "source": "multi-stakeholder platforms",
-      "target": "climate-smart agriculture",
-      "type": "part_of",
-      "confidence": "extracted"
-    },
-    {
-      "source": "IRRI",
-      "target": "Southeast Asia",
-      "type": "located_in",
-      "confidence": "extracted"
-    },
-    {
-      "source": "direct-seeded rice",
-      "target": "climate-smart agriculture",
-      "type": "part_of",
-      "confidence": "extracted"
-    },
-    {
-      "source": "extension agents",
-      "target": "integrated pest management",
-      "type": "uses",
-      "confidence": "inferred"
-    },
-    {
-      "source": "capacity building",
-      "target": "Kenya",
-      "type": "located_in",
-      "confidence": "extracted"
-    },
-    {
-      "source": "agroforestry",
-      "target": "climate-smart agriculture",
-      "type": "part_of",
-      "confidence": "extracted"
-    },
-    {
-      "source": "genome editing",
-      "target": "CGIAR",
-      "type": "uses",
-      "confidence": "extracted"
-    },
-    {
-      "source": "training of trainers",
-      "target": "extension agents",
-      "type": "uses",
-      "confidence": "extracted"
-    },
-    {
-      "source": "ICARDA",
-      "target": "CGIAR",
-      "type": "collaborates_with",
-      "confidence": "inferred"
-    },
-    {
-      "source": "good agricultural practices",
-      "target": "maize",
-      "type": "targets",
-      "confidence": "extracted"
-    },
-    {
-      "source": "stakeholder engagement",
-      "target": "CGIAR",
-      "type": "uses",
-      "confidence": "extracted"
-    },
-    {
-      "source": "disease resistance breeding",
-      "target": "Ethiopia",
-      "type": "targets",
-      "confidence": "extracted"
-    },
-    {
-      "source": "ICARDA",
-      "target": "disease resistance breeding",
-      "type": "uses",
-      "confidence": "extracted"
-    },
-    {
-      "source": "smallholder farmers",
-      "target": "Cambodia",
-      "type": "located_in",
-      "confidence": "extracted"
-    },
-    {
-      "source": "cryopreservation",
-      "target": "potato",
-      "type": "uses",
-      "confidence": "extracted"
-    },
-    {
-      "source": "climate information services",
-      "target": "Mali",
-      "type": "located_in",
-      "confidence": "extracted"
-    },
-    {
-      "source": "randomized controlled trial",
-      "target": "climate-smart agriculture",
-      "type": "uses",
-      "confidence": "extracted"
-    },
-    {
-      "source": "rice",
-      "target": "Mali",
-      "type": "located_in",
-      "confidence": "extracted"
-    },
-    {
-      "source": "conservation agriculture",
-      "target": "direct-seeded rice",
-      "type": "uses",
-      "confidence": "extracted"
-    },
-    {
-      "source": "training of trainers",
-      "target": "capacity development",
-      "type": "part_of",
-      "confidence": "extracted"
-    },
-    {
-      "source": "direct-seeded rice",
-      "target": "water-use efficiency",
-      "type": "produces",
-      "confidence": "extracted"
-    },
-    {
-      "source": "crop diversification",
-      "target": "sorghum",
-      "type": "uses",
-      "confidence": "extracted"
-    },
-    {
-      "source": "training of trainers",
-      "target": "Colombia",
-      "type": "located_in",
-      "confidence": "extracted"
-    },
-    {
-      "source": "precision agriculture",
-      "target": "digital agriculture",
-      "type": "uses",
-      "confidence": "inferred"
-    },
-    {
-      "source": "cassava",
-      "target": "Nigeria",
-      "type": "located_in",
-      "confidence": "extracted"
-    },
-    {
-      "source": "CIP",
-      "target": "potato",
-      "type": "produces",
-      "confidence": "extracted"
-    },
-    {
-      "source": "variety registration",
-      "target": "CIP",
-      "type": "uses",
-      "confidence": "extracted"
-    },
-    {
-      "source": "potato",
-      "target": "variety registration",
-      "type": "related_to",
-      "confidence": "extracted"
-    },
-    {
-      "source": "variety registration",
-      "target": "germplasm utilization",
-      "type": "uses",
-      "confidence": "inferred"
-    },
-    {
-      "source": "CGIAR",
-      "target": "maize",
-      "type": "produces",
-      "confidence": "extracted"
-    },
-    {
-      "source": "on-farm testing",
-      "target": "East Africa",
-      "type": "located_in",
-      "confidence": "extracted"
-    },
-    {
-      "source": "genome-wide association study",
-      "target": "disease resistance breeding",
-      "type": "addresses",
-      "confidence": "extracted"
-    },
-    {
-      "source": "biofortification",
-      "target": "nutrition-sensitive agriculture",
-      "type": "is_a",
-      "confidence": "inferred"
-    },
-    {
-      "source": "drought tolerance",
-      "target": "climate adaptation",
-      "type": "related_to",
-      "confidence": "inferred"
-    },
-    {
-      "source": "CIMMYT",
-      "target": "genomic selection",
-      "type": "uses",
-      "confidence": "inferred"
-    },
-    {
-      "source": "IRRI",
-      "target": "alternate wetting and drying",
-      "type": "uses",
-      "confidence": "inferred"
-    },
-    {
-      "source": "alternate wetting and drying",
-      "target": "greenhouse gas emissions",
-      "type": "addresses",
-      "confidence": "inferred"
-    },
-    {
-      "source": "AfricaRice",
-      "target": "marker-assisted selection",
-      "type": "uses",
-      "confidence": "inferred"
-    },
-    {
-      "source": "climate information services",
-      "target": "food security",
-      "type": "addresses",
-      "confidence": "inferred"
-    },
-    {
-      "source": "digital advisory services",
-      "target": "climate information services",
-      "type": "uses",
-      "confidence": "inferred"
-    },
-    {
-      "source": "agroforestry",
-      "target": "carbon sequestration",
-      "type": "addresses",
-      "confidence": "inferred"
-    },
-    {
-      "source": "IITA",
-      "target": "biofortification",
-      "type": "uses",
-      "confidence": "inferred"
-    },
-    {
-      "source": "participatory breeding",
-      "target": "triadic comparisons of technology options",
-      "type": "uses",
-      "confidence": "inferred"
-    },
-    {
-      "source": "CIP",
-      "target": "biofortification",
-      "type": "uses",
-      "confidence": "inferred"
-    },
-    {
-      "source": "rangeland restoration",
-      "target": "carbon sequestration",
-      "type": "addresses",
-      "confidence": "inferred"
-    },
-    {
-      "source": "food systems transformation",
-      "target": "climate change mitigation",
-      "type": "addresses",
-      "confidence": "inferred"
-    },
-    {
-      "source": "Alliance of Bioversity and CIAT",
-      "target": "germplasm utilization",
-      "type": "uses",
-      "confidence": "inferred"
-    },
-    {
-      "source": "CGIAR",
-      "target": "target product profiles",
-      "type": "uses",
-      "confidence": "inferred"
-    },
-    {
-      "source": "scaling for impact",
-      "target": "public-private partnerships",
-      "type": "uses",
-      "confidence": "inferred"
-    },
-    {
-      "source": "anticipatory action",
-      "target": "early warning systems",
-      "type": "uses",
-      "confidence": "inferred"
-    },
-    {
-      "source": "genome editing",
-      "target": "disease resistance",
-      "type": "addresses",
-      "confidence": "inferred"
     }
   ]
 }
